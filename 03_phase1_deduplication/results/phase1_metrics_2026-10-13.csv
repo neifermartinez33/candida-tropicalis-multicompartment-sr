@@ -1,0 +1,6 @@
+procedure,analysis,TP,FP,FN,TN,sensitivity,sensitivity_lo,sensitivity_hi,especificidad,especificidad_li,especificidad_ls,VPP,VPP_li,VPP_ls
+algorithm,main analysis (abstention = not positive),50946,855,1299,24052,0.975136,0.973765,0.976455,0.965672,0.963336,0.967899,0.983495,0.982360,0.984574
+model,main analysis (abstention = not positive),52047,241,198,24666,0.996210,0.995645,0.996719,0.990324,0.989029,0.991502,0.995391,0.994772,0.995953
+algorithm,sensitivity analysis (abstentions excluded),50946,855,436,22915,0.991515,0.990683,0.992290,0.964030,0.961585,0.966362,0.983495,0.982360,0.984574
+model,sensitivity analysis (abstentions excluded),52047,241,104,24491,0.998006,0.997584,0.998370,0.990256,0.988952,0.991442,0.995391,0.994772,0.995953
+Rayyan,record level,24409,211,1083,21941,,,,,,,,,

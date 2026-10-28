@@ -21,6 +21,32 @@
 !/12_documents/tables/**
 !/12_documents/figures/**
 !/12_documents/supplementary/**
+# inputs of the analysis chain and decision records (team decision 2026-10-28): screening and verification
+# decisions, verification and risk-of-bias workbooks, applicability matrix, pre-specified rules and decisions,
+# search strategies, licence and citation files
+!/LICENSE
+!/CITATION.cff
+!/01_search/strategies/**
+!/01_search/prisma_s_log.csv
+!/02_phase0_raw_corpus/checksums.txt
+!/02_phase0_raw_corpus/reconciliation/**
+!/02_phase0_raw_corpus/not_incorporated/**
+!/03_phase1_deduplication/adjudication/**
+!/03_phase1_deduplication/results/**
+!/04_phase2_calibration/**
+!/06_phase4_title_abstract_screening/**
+!/07_phase5_full_text_screening/**
+!/08_phase6_data_extraction/**
+!/09_phase7_risk_of_bias/**
+!/10_phase8_analysis/applicability/**
+!/10_phase8_analysis/analysis_rules_v4_2026-10-24.md
+!/10_phase8_analysis/runbook_v4_2026-10-24.md
+!/10_phase8_analysis/team_decisions_2026-10-*.md
+# third-party records and abstracts, and a working log not read by any script, stay out
+*.ris
+/04_phase2_calibration/results/calibration_CAL1_discrepancies.csv
+/04_phase2_calibration/results/calibration_CAL1_consensus.xlsx
+/08_phase6_data_extraction/verification/round2_2026-10-24/make_verification_books_v1_2026-10-24T180801.json
 # never
 __pycache__/
 *.pyc

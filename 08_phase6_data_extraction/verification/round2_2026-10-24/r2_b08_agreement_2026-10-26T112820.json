@@ -1,0 +1,17 @@
+{
+ "script": "analyze_blind_sample_v1.py",
+ "run_time": "2026-10-26T11:28:20-05:00",
+ "kappa": 0.8402585521319789,
+ "kappa_ci": [
+  0.8030900520052155,
+  0.8774270522587422
+ ],
+ "contingency_prior_by_blind": {
+  "INCLUIR|INCLUIR": 335,
+  "INCLUIR|EXCLUIR": 18,
+  "EXCLUIR|INCLUIR": 47,
+  "EXCLUIR|EXCLUIR": 422
+ },
+ "observed_agreement": 0.9209245742092458,
+ "n": 822
+}

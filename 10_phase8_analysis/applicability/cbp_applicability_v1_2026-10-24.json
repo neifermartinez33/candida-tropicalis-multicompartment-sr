@@ -1,0 +1,18 @@
+{
+ "script": "build_cbp_applicability_v1.py",
+ "run_time": "2026-10-24T18:07:49-05:00",
+ "inputs": {
+  "10_phase8_analysis/applicability/breakpoint_history_2026-10-24.csv": "bea191c7613fc4f7b791b2c72d4daaea"
+ },
+ "outputs": {
+  "cbp_applicability_v1_2026-10-24.csv": "748a7bdc2e9d43a80ac5470c35c7b2b2"
+ },
+ "cells": 870,
+ "by_applicable": {
+  "NO": 724,
+  "YES": 110,
+  "UNVERIFIED": 15,
+  "IE": 13,
+  "NS_only": 8
+ }
+}

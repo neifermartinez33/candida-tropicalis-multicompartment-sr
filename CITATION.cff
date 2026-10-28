@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the article and this repository."
+title: "Multicompartment distribution and phenotypic antifungal resistance of Candida tropicalis: systematic review and meta-analysis, data and code"
+abstract: "Analysis matrices, scripts, model results with run logs, tables, figures and supplementary material of the systematic review and meta-analysis registered in PROSPERO (CRD420261486387)."
+type: dataset
+version: "1.0.0"
+date-released: "2026-10-28"
+license:
+  - MIT
+  - CC-BY-4.0
+authors:
+  - family-names: "Contreras-Martínez"
+    given-names: "Orfa Inés"
+    orcid: "https://orcid.org/0000-0001-5056-4355"
+    affiliation: "Department of Biology, Faculty of Basic Sciences, University of Cordoba, Monteria, Colombia"
+  - family-names: "Martínez-Durango"
+    given-names: "Neifer Miguel"
+    orcid: "https://orcid.org/0009-0005-7578-6110"
+    affiliation: "Department of Biology, Faculty of Basic Sciences, University of Cordoba, Monteria, Colombia"
+  - family-names: "Vega-Vargas"
+    given-names: "Vanessa Alexandra"
+    affiliation: "Department of Biology, Faculty of Basic Sciences, University of Cordoba, Monteria, Colombia"
+  - family-names: "Angulo-Ortíz"
+    given-names: "Alberto Antonio"
+    affiliation: "Department of Chemistry, Faculty of Basic Sciences, University of Cordoba, Monteria, Colombia"
+keywords:
+  - Candida tropicalis
+  - antifungal resistance
+  - systematic review
+  - meta-analysis
+  - One Health
+identifiers:
+  - type: other
+    value: "PROSPERO CRD420261486387"
+    description: "Registration of the systematic review"

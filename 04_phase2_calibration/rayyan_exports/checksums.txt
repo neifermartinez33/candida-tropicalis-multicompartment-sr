@@ -1,0 +1,21 @@
+# Provenance of the Rayyan exports of the calibration, round CAL1. Updated on 2026-10-16.
+# 01_post_import.ris and 01_post_import.csv: export by the owner after import (2026-10-14), without decisions: articles (RIS) and change log (CSV, header only). Renamed when saved; the original zip is not in this folder.
+# 2026-10-15_21-19-58.zip: export by reviewer_2 with blind mode on, as delivered by Rayyan. It contains articles.ris and customizations_log.csv. It was copied here from Downloads and then removed from both folders.
+# 02_decisions_reviewer_2_blind_on.ris and .csv: articles.ris and customizations_log.csv of that zip, renamed (same hash). Only decisions of reviewer_2.
+# Correction of 2026-10-16: an export from the account of reviewer_1 (received as articles_reviewer_1.ris and customizations_log_reviewer_1.csv, renamed by mistake as 02_decisions_reviewer_1_blind_on) corresponds, according to reviewer_2, to a marking test done when Rayyan did not show the decisions, without careful reading. It is not the independent reading of reviewer_1 and is not used for kappa. It is no longer in this folder; its hashes were:
+#   5fa66ef48cda5d4df90965e1b1167e909eebd0dc3145e7153e417db1d78f9b8a  articles (RIS)
+#   79123493375c2d5e341d9fe635c8ca351e8000c909fa411de9bc7dabbef83964  change log (CSV)
+# In each pair, the .ris is the articles with the decision in the RAYYAN-INCLUSION note and the .csv is the Rayyan change log with the date and time (UTC) of each event.
+c28ea44b662e2b9137ab1be4852c6a67ca68cf0715e2b246ed9eb80fcbf947ed  01_post_import.ris
+234051558e0bc9044042d8836b8fbe3996f9516e6008de88169b51b6b5e75cad  01_post_import.csv
+#   c691216720f8dafff32b7529f83efaa5b098f4ae962f8bc8ea91cbc7df3257ce  2026-10-15_21-19-58.zip (the zip is no longer in this folder or in Downloads; its content is the two files 02_decisions_reviewer_2_blind_on)
+95fc6cd5923066f62d3124bdc81f97cfc3ac43e2ad25f792424e6e01bcfba851  02_decisions_reviewer_2_blind_on.ris
+194d2f5a53d48a698f0930f4404d3c1cd523df10b8eefe655fccbc40b267805c  02_decisions_reviewer_2_blind_on.csv
+# 02_decisions_reviewer_1_blind_on.ris and .csv (added on 2026-10-16): export from the account of reviewer_1 with blind mode on; it contains only their decisions. Its change log includes the same 216 events of 2026-10-14 and 2026-10-15 of the earlier export plus 30 events of 2026-10-16, from 12:11 to 12:55 Colombia time, all from exclude to include.
+55111eaae381afdb7f4fc3b2466586d053a90318edb9a753c698026786e0b04f  02_decisions_reviewer_1_blind_on.ris
+80984b6c4055735626a4efd173b455e2df06112c2bec0413dc9e790f1c5bf093  02_decisions_reviewer_1_blind_on.csv
+# Anonymisation of 2026-10-26: reviewer names in the content and names of the four 02_decisions files were replaced by reviewer_N codes before deposit. The hashes above are those of the files as exported; the deposited, anonymised files have these hashes:
+102d06eb2957d650f4fa16534cbef7a3bc60785205e78808e9d77550af2bf81a  02_decisions_reviewer_2_blind_on.ris
+79a801fa742d24a60d8aa6949b5ee5f920566d295ee24e265974ff39521396f4  02_decisions_reviewer_2_blind_on.csv
+1b9ec621ecadc88954227fac88432bc98d1af17b41c2a5df353e30180ccae42e  02_decisions_reviewer_1_blind_on.ris
+829c97066e6b3c842ba41fc12791585b86e5c19876087e5e4a8352fcd68081c0  02_decisions_reviewer_1_blind_on.csv

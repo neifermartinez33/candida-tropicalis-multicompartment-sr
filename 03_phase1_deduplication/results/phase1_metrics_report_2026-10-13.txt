@@ -1,0 +1,72 @@
+Phase 1 metrics. Plan: adjudication/metrics_plan_phase1_2026-10-13.md
+
+POPULATION AND REFERENCE STANDARD
+  pairs of the main flow without the development set: 77303
+  L1:  51066 pairs | with human judgement or rule:   711 (same work 459, different works 148, unresolved 104) | imputed: 50355
+  L2:  22795 pairs | with human judgement or rule:  2106 (same work 3, different works 2102, unresolved 1) | imputed: 20689
+  L3:   1219 pairs | with human judgement or rule:  1219 (same work 496, different works 698, unresolved 25) | imputed: 0
+  L4:   2223 pairs | with human judgement or rule:  2223 (same work 932, different works 1270, unresolved 21) | imputed: 0
+  known false merges in L1 (RC-1 and partition, not random): 148 of 51066 (0.29 %)
+  known duplicates in L2 (partition, not random): 3
+
+SENSITIVITY, SPECIFICITY AND PPV (determined reference: 77152 pairs; unresolved: 151)
+  main analysis (abstention = not positive)
+    algorithm TP  50946  FP   855  FN  1299  TN  24052 | sens 0.9751 [0.9738, 0.9765]  spec 0.9657 [0.9633, 0.9679]  PPV 0.9835 [0.9824, 0.9846]
+    model     TP  52047  FP   241  FN   198  TN  24666 | sens 0.9962 [0.9956, 0.9967]  spec 0.9903 [0.9890, 0.9915]  PPV 0.9954 [0.9948, 0.9960]
+  sensitivity analysis (abstentions excluded)
+    algorithm TP  50946  FP   855  FN   436  TN  22915 | sens 0.9915 [0.9907, 0.9923]  spec 0.9640 [0.9616, 0.9664]  PPV 0.9835 [0.9824, 0.9846]
+    model     TP  52047  FP   241  FN   104  TN  24491 | sens 0.9980 [0.9976, 0.9984]  spec 0.9903 [0.9890, 0.9914]  PPV 0.9954 [0.9948, 0.9960]
+    abstentions of the algorithm: 2000 (2.59 % of the pairs with a determined reference)
+    abstentions of the model: 269 (0.35 % of the pairs with a determined reference)
+
+WORST CASE WITHIN THE INTERVALS OF THE SAMPLES (main analysis)
+  rest of L1 not read: 50355 pairs (shared DOI 31754, no shared DOI 18601); false merges at the upper limit: 1823.7
+  rest of L2 not read: 20689 pairs; duplicates at the upper limit: 76.2
+    algorithm sens 0.9728  spec 0.8995  PPV 0.9483
+    model     sens 0.9946  spec 0.9225  PPV 0.9605
+
+PAIRED COMPARISON (exact McNemar, main analysis)
+  algorithm right and model wrong: 225   model right and algorithm wrong: 1940   p < 0.0001
+  Cohen's kappa between algorithm and model (77303 pairs, positive versus not positive): 0.9351 (raw agreement 0.9715)
+
+RANDOM SAMPLES
+  L1 audit, with shared DOI: 0 false merges in 100 pairs, 95 % CI [0.0000, 0.0362]
+  L1 audit, without shared DOI: 0 false merges in 100 pairs, 95 % CI [0.0000, 0.0362]
+  L2 sample: 0 duplicates in 1000 pairs, 95 % CI [0.0000, 0.0037]; projection to 22795 L2 pairs: 0 [0, 84]
+
+DUPLICATE RATE OF THE CANDIDATE SPACE (development set, strata by number of keys)
+  1 key(s):  37828 candidate pairs | sample: 10 duplicates, 50 different, 15 undecidable
+  2 key(s):  22901 candidate pairs | sample: 64 duplicates, 0 different, 11 undecidable
+  3 key(s):  13664 candidate pairs | sample: 75 duplicates, 0 different, 0 undecidable
+  4 key(s):   3210 candidate pairs | sample: 75 duplicates, 0 different, 0 undecidable
+  weighted rate over decidable pairs: 0.5938 (approximate 95 % CI 0.5478 to 0.6398); with the undecidable ones as different or as duplicates: 0.5343 to 0.6750
+
+RAYYAN, HISTORICAL RUN (record level, 47644 records, 22152 works)
+  kept 23024, removed 24620
+  sensitivity  0.9575 [0.9550, 0.9600]   (24409 of 25492)
+  specificity  0.9905 [0.9891, 0.9917]   (21941 of 22152)
+  PPV          0.9914 [0.9902, 0.9925]   (24409 of 24620)
+  works removed entirely (studies withdrawn without reason): 211, with 278 records
+  duplicates not detected: 1083 surplus records kept; 1327 pairs of kept records that are the same work
+  check not prespecified of the 211 works removed entirely (normalised title, 80 characters):
+    no surviving document with the same title            75 works
+    component or deposit separated by RC-1               64 works
+    separated by human judgement of the pair             45 works
+    separated by the partition of groups                 12 works
+    separated only by automatic L2                        9 works
+    human undecidable                                     6 works
+    with a surviving document of the same title, the study can remain in the corpus through that document;
+    those separated only by L2 are possible duplicates that phase 1 did not join
+
+NOT-INCORPORATED STRETCH (descriptive, without model; 260 pairs without the VIP ones)
+  algorithm DUPLICATE  same work  83   different works   4
+  algorithm DOUBTFUL   same work   2   different works   0
+  algorithm DIFFERENT  same work   4   different works 167
+
+AGREEMENT BETWEEN REVIEWERS (from the closure results)
+  L1 audit, with DOI                 raw agreement 1.0000   kappa not defined (a single category)
+  L1 audit, without DOI              raw agreement 1.0000   kappa not defined (a single category)
+  L2 sample                          raw agreement 1.0000   kappa not defined (a single category)
+  L3/L4 queue                        raw agreement 0.8611   kappa 0.7320
+  not incorporated                   raw agreement 0.9966   kappa 0.9930
+  partition of chained groups        raw agreement 0.9461   kappa 0.8912

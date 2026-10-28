@@ -1,0 +1,75 @@
+Definition of the screening corpus, phase 1
+
+L1 audits: criterion met in both strata
+
+final judgement per queue (checked against <queue>_result.txt):
+  audit_L1_with_doi          100 pairs  SW   100  DW     0  UND   0  matches
+  audit_L1_without_doi       100 pairs  SW   100  DW     0  UND   0  matches
+  sample_L2_1000            1000 pairs  SW     0  DW  1000  UND   0  matches
+  human_queue_L3_L4         3442 pairs  SW  1458  DW  1945  UND  39  matches
+  not_incorporated_queue     294 pairs  SW   123  DW   171  UND   0  matches
+
+records: 47644 of the raw corpus + 316 recovered by R4 = 47960
+  outside the corpus by reconciliation v2: 19 (VIP 19)
+  pairs of not_incorporated_queue excluded with them: 34 (new-corpus SAME_WORK 29, new-new SAME_WORK 5)
+
+decision per pair, by origin:
+  UNDECIDABLE      human_queue_L3_L4            39
+  UNDECIDABLE      development                   3
+  SAME_WORK        L1                        51197
+  SAME_WORK        human_queue_L3_L4          1458
+  SAME_WORK        not_incorporated_queue       89
+  SAME_WORK        development                   2
+  DIFFERENT_WORKS  L2                        20714
+  DIFFERENT_WORKS  human_queue_L3_L4          1632
+  DIFFERENT_WORKS  RC-1                       1560
+  DIFFERENT_WORKS  sample_L2_1000              955
+  DIFFERENT_WORKS  not_incorporated_queue      167
+  DIFFERENT_WORKS  development                  47
+  total pairs                                77863
+  pairs of the development set with a human label: 300
+  L1 pairs with human judgement UNDECIDABLE that keep the L1 merge: 23
+
+groups (works): 22365   duplicates removed: 25595   largest group: 18 records
+
+CONFLICTS BY CHAINING: 117 non-merged pairs remain inside 34 groups (212 records)
+  UNDECIDABLE      development                 1
+  UNDECIDABLE      human_queue_L3_L4           5
+  DIFFERENT_WORKS  L2                         25
+  DIFFERENT_WORKS  human_queue_L3_L4          86
+  chain_conflicts.csv already exists with the same content; not overwritten
+  chain_conflict_groups.csv already exists with the same content; not overwritten
+
+partition applied from chain_partition_final.csv: 212 records in 72 works; 18 records with doubt (EC12)
+  previous decisions inside those groups, against the partition:
+    UNDECIDABLE      human   together      3
+    UNDECIDABLE      human   separate      3
+    SAME_WORK        L1      together    265
+    SAME_WORK        L1      separate    134
+    SAME_WORK        human   together     25
+    SAME_WORK        human   separate     35
+    DIFFERENT_WORKS  L2      together      3
+    DIFFERENT_WORKS  L2      separate     22
+    DIFFERENT_WORKS  human   together      4
+    DIFFERENT_WORKS  human   separate     82
+
+works: 22403   duplicates removed: 25557   representatives with abstract: 20467
+
+PRISMA CHAIN
+  records identified (R1, R2)                         51030
+  identical copies consolidated (R3)                   3132
+  not incorporated at import (R4)                       316
+  corpus records without a counterpart (residual)        62
+  imported corpus                                     47644
+  not incorporated, recovered (R4)                      316
+  records entering deduplication                      47960
+  duplicates removed in phase 1                       25557
+  records for screening                               22403
+
+for full text (EC12): 57 entries
+outputs:
+  work/pair_decisions.csv
+  work/corpus_clusters.csv
+  work/undecidable_EC12.csv
+  results/screening_corpus_phase1_n22403_2026-10-13.ris
+  results/corpus_definition_report_2026-10-13.txt

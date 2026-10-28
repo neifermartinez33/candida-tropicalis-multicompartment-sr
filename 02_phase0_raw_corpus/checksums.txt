@@ -1,0 +1,39 @@
+# SHA-256 checksums - phase 0 raw corpus
+# review: Candida tropicalis multicompartment distribution and antifungal resistome
+# PROSPERO CRD420261486387 | generated 2026-09-28
+#
+# provenance:
+#   rayyan_export_deleted_duplicates_2026-09-28.zip  <- Rayyan original name 2026-09-28_17-29-14.zip
+#   rayyan_export_screening_corpus_2026-09-28.zip    <- Rayyan original name 2026-09-28_18-07-45.zip
+#   raw_corpus_n47644_2026-09-28.ris                 <- screening corpus + deleted duplicates, concatenated
+#
+92c151c4c22643b64f955b0cba01bd4efde8589c1d352333ae4f9f264c8bf46e  rayyan_exports/rayyan_export_deleted_duplicates_2026-09-28.zip
+29ea283533f07daf12616d1180f27846e55e06692540db4f087cb86efe9ff265  rayyan_exports/rayyan_export_screening_corpus_2026-09-28.zip
+58b8ac66705392dcacf177dd7b13d8757dd58722f645a523ed2aceae7ac84586  deleted_duplicates_n24620_2026-09-28.ris
+b3b4f2e45a1634453e895604ed36fe2cb4524b2eb1f50ebe03e0d59241b93f42  raw_corpus_n47644_2026-09-28.ris
+b9ccd8b699a6906b83bd26736c34a17148746c5bf7e8eaa5904eb029f363fdba  screening_corpus_n23024_2026-09-28.ris
+#
+# The entries below were added during phase 1 (deduplication). They refer to phase 1 work files
+# (blind audit sheets, keys, layer tables, model decisions and reviewer workbooks) that are kept in
+# the project archive under their original Spanish-language names and are not part of this deposit.
+# The five phase 0 entries above match the deposited files.
+#
+db3fd9fa998752d783dc2d2931cd325dfc6ceec1ddae497999bb825ffc1d7717  audit_L1_con_doi_ciego.csv
+85cb2a177d604adf7e01b93cb0cada423e08690ff0064a75bbf7cdac5084c3e2  audit_L1_sin_doi_ciego.csv
+46a33ce68493893b8c3e89845f59727db4a6be1e83e12178980e57d248544b8d  human_queue_L3_L4_ciego.csv
+b728501126b4c6e30a3838649d688915220bf592eaa7db2dbcb3931f0132bca7  sample_L2_1000_ciego.csv
+cdda8d181e7e5ffe0f8f3e28e766171cc69ea425d9384697f11096b730a9297f  audit_L1_con_doi_clave.csv
+0c91478fc1db31423866edbc83df0627ffc6cc48ff244eaff1d881c349c832b3  audit_L1_sin_doi_clave.csv
+06940314089d185d6b0caf06973401447e572335bc40c4366726af81802ea222  human_queue_L3_L4_clave.csv
+53b9858338c14b594981344fa4ac6a264128d0ba38e1e1fa8c713de07c23c70b  sample_L2_1000_clave.csv
+866d0ae6ba0a6d6f4c0df60bf395753418fe3d0135597d3236e3241f24ed90f2  layers.csv
+94ceb7377ab5707c9eed6e8fc425bbdd6b31e3422c86517a7101ef9a1db9fdf0  layers_report.txt
+aaa1fa3d80f1dd18489f5cd81534d4b8e2d224c3af252aeb8269fbd94c5fc6b5  ../model/output/decisions_corpus.csv
+3d6ab7362e6ae7eba81f1da26e240f000bc60ba3d2cd5fef3910dafa20089be1  audit_L1_con_doi_resultado.txt
+f0435dc424bbdf8a2e894b6a02422eed261e5000c510fe5940efab916c9ab0c6  audit_L1_sin_doi_resultado.txt
+d5d04abbb5e5d8f69447dbf66ac2f528aa763ebe0b5976d23930c7d4c97312cb  audit_L1_con_doi_reviewer_2.xlsx
+4e050d9d32cce9b93cbc8a94d5d8c31d6d21055d4ec24a1962cbecc54a1bbf5d  audit_L1_con_doi_reviewer_1.xlsx
+e77609c621d43fc864a0e12a3dd8dcb5acd7aa96cece3d463bfa0e867ba5f3cf  audit_L1_sin_doi_reviewer_2.xlsx
+1ddb88856498f10a031e9d39c581f1e2e5126a9464cffc10261cb0a454f15dfb  audit_L1_sin_doi_reviewer_1.xlsx
+cdda8d181e7e5ffe0f8f3e28e766171cc69ea425d9384697f11096b730a9297f  audit_L1_con_doi_clave.csv
+0c91478fc1db31423866edbc83df0627ffc6cc48ff244eaff1d881c349c832b3  audit_L1_sin_doi_clave.csv

@@ -1,0 +1,10 @@
+Reconciliation v2 (2026-10-13). Year of the RIS key: PY, Y1 or DA.
+
+exported 51030 - absent 316 - consolidated copies 3132 + residual 62 = corpus 47644
+files in the chain: 56 of 57 (R2 excludes VIP_VIP-1_chino_159_2026-09-11.txt)
+
+absent by file:
+  matrices_no_clinicas.ris                           316
+
+changes from v1 (file: absent v1 -> v2):
+  VIP_VIP-1_chino_159_2026-09-11.ris                 19 -> 0

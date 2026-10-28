@@ -1,0 +1,43 @@
+﻿level,report_id,study_label,year,compartments,rows,n_tropicalis,eligible_ma,has_ast,doi,pdf_status,pdf_file
+0_close_without_reading,O08945,Dougue 2022,2022,C1;C5,2,103,NO,NO,10.1111/myc.13483,tables_or_text_not_captured_per_notes,5611_O08945_Multilocus_sequence_typing_MLST_analysis_reveals_many_novel.pdf
+0_close_without_reading,O03910,Scordino 2018b,2018,C1;C4,2,28,NO,NO,10.26226/morressier.5ac39994d462b8028d899b91,tables_or_text_not_captured_per_notes,9235_O03910_Molecular_surveillance_of_healthcare_associated_Candida_infe.pdf
+0_close_without_reading,O14603,Medeiros AO 2008,2008,C5;C6,2,5,YES,YES,10.1016/j.watres.2008.05.026,tables_or_text_not_captured_per_notes,6540_O14603_Diversity_and_antifungal_susceptibility_of_yeasts_from_tropi.pdf
+1_priority_moves_tables_3_and_4,R08736,Jain 2026a,2026,C1;C3;C4,3,1032,YES,YES,10.1128/mbio.00235-26,no_flag,8737_R08736_Genomic_insights_into_a_clade_specific_Candida_tropicalis_li.pdf
+1_priority_moves_tables_3_and_4,O21682,Zhang 2026b,2026,C1;C5;C6,3,701,YES,YES,10.1016/j.jes.2026.105572,no_flag,7591_O21682_Population_genomics_reveals_environmental_reservoirs_and_ant.pdf
+1_priority_moves_tables_3_and_4,O10594,Hu T 2023,2023,C1;C5,2,239,YES,YES,10.1016/j.ijantimicag.2023.107010,no_flag,8035_O10594_Hotspot_mutations_and_genomic_expansion_of_ERG11_are_major_m.pdf
+1_priority_moves_tables_3_and_4,O07062,Spruijtenburg 2023b,2023,C1;C6,2,230,YES,YES,10.3390/jof9020207,no_flag,3318_O07062_Short_Tandem_Repeat_Genotyping_and_Antifungal_Susceptibility.pdf
+1_priority_moves_tables_3_and_4,O21660,Chen 2025d,2025,C1;C3,2,101,YES,YES,10.1093/mmy/myaf098,no_flag,6063_O21660_Expansion_of_a_predominant_azole_resistant_Candida_tropicali.pdf
+1_priority_moves_tables_3_and_4,O03442,Tseng 2024b,2024,C1;C3,2,66,YES,YES,10.3201/eid3011.240545,no_flag,1232_O03442_Detection_in_Orchards_of_Predominant_Azole_Resistant_Candida.pdf
+1_priority_moves_tables_3_and_4,O04906,Yang 2012,2012,C1;C3;C5;C6,4,63,YES,YES,10.1371/journal.pone.0034609,no_flag,7144_O04906_Comparison_of_human_and_soil_Candida_tropicalis_isolates_wit.pdf
+1_priority_moves_tables_3_and_4,O00593,Scordino 2018a,2018,C1;C4,2,28,YES,YES,10.3389/fmicb.2018.00679,no_flag,4704_O00593_Multilocus_Sequence_Typing_Reveals_a_New_Cluster_of_Closely.pdf
+1_priority_moves_tables_3_and_4,O03337,Takahashi 2010,2010,C1;C2;C6,3,28,YES,YES,10.4061/2010/349364,no_flag,4154_O03337_Candida_albicans_and_C_tropicalis_Isolates_from_the_Expired.pdf
+1_priority_moves_tables_3_and_4,O07101,Megri 2020,2020,C1;C4,2,19,YES,YES,10.1186/s13756-020-00710-z,no_flag,9134_O07101_Candida_tropicalis_is_the_most_prevalent_yeast_species_causi.pdf
+1_priority_moves_tables_3_and_4,O13944,Brandão 2009,2009,C5;C6,2,18,YES,YES,10.2166/wh.2009.170,no_flag,1240_O13944_Diversity_and_antifungal_susceptibility_of_yeasts_isolated_b.pdf
+1_priority_moves_tables_3_and_4,O17960,Ambock 2025,2025,C1;C4,2,8,YES,YES,10.1155/cjid/5583130,no_flag,7086_O17960_Antifungal_Susceptibility_Profile_of_Candida_Species_Isolate.pdf
+1_priority_moves_tables_3_and_4,R04442,Sakita 2017,2017,C1;C4,2,6,YES,YES,10.1016/j.micpath.2017.10.044,no_flag,4443_R04442_Healthcare_workers_hands_as_a_vehicle_for_the_transmission_o.pdf
+2_only_table_2_and_figure_2,O02156,Liu 2022,2022,C3;C5,2,207,NO,NO,10.3390/genes13030444,no_flag,2634_O02156_Extensive_Diversity_and_Prevalent_Fluconazole_Resistance_amo.pdf
+2_only_table_2_and_figure_2,O01631,Jang 2005,2005,C1;C4,2,153,NO,NO,10.7883/yoken.jjid.2005.263,no_flag,7279_O01631_PFGE_Based_Epidemiological_Study_of_an_Outbreak_of_i_Candida.pdf
+2_only_table_2_and_figure_2,R05324,Kaur 2020b,2020,C1;C4,2,99,NO,NO,10.1007/s11046-020-00427-y,no_flag,5325_R05324_Prolonged_Outbreak_of_Candida_krusei_Candidemia_in_Paediatri.pdf
+2_only_table_2_and_figure_2,O04276,Gupta 2004,2004,C1;C4,2,79,NO,NO,10.1007/s11046-004-1820-x,no_flag,4967_O04276_Epidemiology_and_molecular_typing_of_Candida_isolates_from_b.pdf
+2_only_table_2_and_figure_2,O02974,O’Brien 2021,2021,C1;C3;C5,3,77,NO,NO,10.1371/journal.ppat.1009138,no_flag,7439_O02974_Population_genomics_of_the_pathogenic_yeast_Candida_tropical.pdf
+2_only_table_2_and_figure_2,O09282,Yan 2010,2010,C2;C5,2,44,NO,NO,10.1007/s11802-010-0139-0,no_flag,9455_O09282_Distribution_and_diversity_of_Candida_tropicalis_strains_in.pdf
+2_only_table_2_and_figure_2,O08520,Hallur 2018,2018,C1;C4,2,30,NO,NO,10.26226/morressier.5ac39997d462b8028d89a27e,no_flag,2460_O08520_Comparison_of_virulence_profile_of_C_albicans_and_C_tropical.pdf
+2_only_table_2_and_figure_2,O10645,Shankarnarayan 2018,2018,C1;C4,2,29,NO,NO,10.26226/morressier.5ac39994d462b8028d899ba0,no_flag,9257_O10645_Multimodal_acquisition_of_Candida_tropicalis_responsible_for.pdf
+2_only_table_2_and_figure_2,O10523,Boyce JM 2021,2021,C1;C4,2,19,NO,NO,10.1016/j.ajic.2021.02.014,no_flag,5212_O10523_A_multi_center_outbreak_of_Candida_tropicalis_bloodstream_in.pdf
+2_only_table_2_and_figure_2,O07571,Mulet Bayona 2022,2022,C1;C4,2,19,NO,NO,10.3390/jof8030281,no_flag,0382_O07571_Novel_Chromogenic_Medium_CHROMagarTM_Candida_Plus_for_Detect.pdf
+2_only_table_2_and_figure_2,O17036,Savastano 2016,2016,C1;C4,2,17,NO,NO,10.1016/j.bjm.2015.05.001,no_flag,3132_O17036_Candida_glabrata_among_Candida_spp_from_environmental_health.pdf
+2_only_table_2_and_figure_2,O06755,Storti 2012,2012,C1;C4,2,17,NO,YES,10.1590/s0037-86822012000200017,no_flag,4300_O06755_Candida_spp_isolated_from_inpatients_the_environment_and_hea.pdf
+2_only_table_2_and_figure_2,R09444,Taghipour 2018,2018,C1;C4,2,12,NO,NO,10.5812/jjm.78851,no_flag,9445_R09444_Antifungal_susceptibility_profiles_of_candida_species_isolat.pdf
+2_only_table_2_and_figure_2,O14783,Alhussaini 2016a,2016,C1;C4,2,10,NO,YES,10.13181/mji.v25i3.1444,no_flag,3107_O14783_Incidence_of_Candida_species_colonization_in_neonatal_intens.pdf
+2_only_table_2_and_figure_2,O00962,Isenberg 1989,1989,C1;C4,2,9,NO,NO,10.1128/jcm.27.11.2426-2428.1989,no_flag,7335_O00962_Single_source_outbreak_of_Candida_tropicalis_complicating_co.pdf
+2_only_table_2_and_figure_2,R01097,Biedunkiewicz 2023,2023,C2;C5,2,6,NO,NO,10.1016/j.ijppaw.2023.08.007,no_flag,1098_R01097_Theromyzon_maculosum_Rathke_1862_as_a_vector_of_potentially.pdf
+2_only_table_2_and_figure_2,R02995,Al-Darraji 2023,2023,C1;C4,2,4,NO,NO,10.13057/biodiv/d240761,no_flag,2996_R02995_Phenotypic_and_genotypic_diversity_of_yeast_isolated_from_ca.pdf
+2_only_table_2_and_figure_2,O07417,Pedrosa 2022,2022,C4;C6,2,4,NO,NO,10.31686/ijier.vol10.iss2.3629,no_flag,4660_O07417_Airborne_Fungi_in_a_Neonatal_Intensive_Care_Unit_and_Operati.pdf
+2_only_table_2_and_figure_2,O21442,Saúl García 2014,2014,C1;C4,2,4,NO,NO,,no_flag,7294_O21442_Aislamiento_de_Candida_spp_en_ambiente_y_personal_que_labora.pdf
+2_only_table_2_and_figure_2,R09445,DiazGranados 2008,2008,C1;C4,2,2,NO,NO,10.1590/s1413-86702008000500009,no_flag,9446_R09445_An_outbreak_of_Candida_spp_bloodstream_infection_in_a_tertia.pdf
+2_only_table_2_and_figure_2,R08561,KERI 2021,2021,C1;C4,2,1,NO,NO,10.15167/2421-4248/jpmh2021.62.1.1645,no_flag,8562_R08561_Fungal_carriage_on_healthcare_workers_hands_clothing_stethos.pdf
+3_at_the_end_does_not_change_figures,O08363,Khalifa 2021,2021,C1;C2,2,80,NO,NO,10.1016/j.cmi.2021.10.004,no_flag,7063_O08363_Azole_and_echinocandin_resistance_mechanisms_and_genotyping.pdf
+3_at_the_end_does_not_change_figures,O10453,Brilhante RSN 2016,2016,C1;C2,2,40,NO,NO,10.1016/j.vetmic.2016.07.022,no_flag,9281_O10453_Candida_tropicalis_from_veterinary_and_human_sources_shows_s.pdf
+3_at_the_end_does_not_change_figures,O03633,Hayati 2025,2025,C1;C2,2,33,NO,NO,10.71840/jvm.2025.1213223,no_flag,5246_O03633_Antifungal_Resistance_Patterns_and_Genetic_Diversity_of_Cand.pdf
+3_at_the_end_does_not_change_figures,O05476,Namvar 2020,2020,C1;C2,2,16,YES,YES,10.18502/ijm.v11i6.2224,no_flag,8703_O05476_Antifungal_susceptibility_of_non_albicans_Candida_spp_isolat.pdf
+3_at_the_end_does_not_change_figures,O05176,Odiba 2022,2022,C1;C2,2,2,YES,YES,10.2147/idr.s360973,no_flag,1165_O05176_A_New_Variant_of_Mutational_and_Polymorphic_Signatures_in_th.pdf

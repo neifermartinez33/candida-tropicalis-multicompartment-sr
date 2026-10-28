@@ -1,0 +1,18 @@
+{
+ "script": "make_rob_books_round2_v1.py",
+ "run_time": "2026-10-24T18:08:16-05:00",
+ "dataset": "10_phase8_analysis/data/analysis_dataset_v3_2026-10-24T180810_PROVISIONAL",
+ "inputs": {
+  "09_phase7_risk_of_bias/rob_consensus_2026-10-22.xlsx": "8d5bbc0bba3d32944cc5170a179d04ee",
+  "10_phase8_analysis/data/analysis_dataset_v3_2026-10-24T180810_PROVISIONAL/studies.csv": "71490828f21d1eb1fd3d95d85e51b6fd"
+ },
+ "output": {
+  "r2_b12_rob_new_reports_2026-10-24T180816.xlsx": "3482e1290d8c19bd64c2b3d86c966036"
+ },
+ "reports": 150,
+ "by_entry_route": {
+  "analysis_v2": 110,
+  "doubtful_2026_10_20": 40
+ },
+ "site_applies": 1
+}

@@ -1,0 +1,7 @@
+Manifest of the preparation of screening with two readers (phase 4). 2026-10-14 10:11, Colombia time.
+87920e46541bdfe2b3a67968e71d935065bb1c71675b95caa48d1893e792436e  06_phase4_title_abstract_screening/import/screening_reviewer_1_reviewer_2_n22203_seed1310202643.ris
+eb23db26861b999faf5469d14e3c48e689c11ab300e5c38b2e5bee9685ef3430  06_phase4_title_abstract_screening/allocation/two_reader_order_and_arbiters_seed1310202643.csv
+7681e94b6e82caa8dd1ab91bc35e0192438eca99c8a533efd082751fb1375238  06_phase4_title_abstract_screening/allocation/two_reader_report_2026-10-14.txt
+879c79a7c80d76a3f48d66599a2058f9afdfe4e3bc81a7d228be4290a16e8512  06_phase4_title_abstract_screening/model/model_input_n22203_seed1310202642.jsonl
+
+(Translated into English on 2026-10-26. The SHA-256 values above refer to the original Spanish-language files, which are kept in the project archive.)

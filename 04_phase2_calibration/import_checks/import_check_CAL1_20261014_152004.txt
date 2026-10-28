@@ -1,0 +1,6 @@
+Import check. Review CAL1. 2026-10-14 15:20, Colombia time.
+Export: 04_phase2_calibration/rayyan_exports/01_post_import.ris
+Expected works: 200. Exported records: 200.
+Identified: 200 (by SCREEN_ID: 200; by AN: 0).
+Without identifier: 0. Ambiguous: 0. Repeated: 0. Missing: 0. Surplus: 0.
+Verdict: CLOSES

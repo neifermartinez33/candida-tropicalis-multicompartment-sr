@@ -1,0 +1,4 @@
+file,pair_id,excel_row,antes,after,reason
+not_incorporated_queue_reviewer_2.xlsx,N0093,508,Different titles.,Different titles,full stop; in the rest of the sheet the notes do not carry it
+not_incorporated_queue_reviewer_1.xlsx,N0251,252,Same data (SciELO),Same data (SciELO).,the full stop that the other notes on the sheet carry is missing
+not_incorporated_queue_reviewer_1.xlsx,N0064,254,Different titles (PubMed),Different titles (PubMed).,the full stop that the other notes on the sheet carry is missing

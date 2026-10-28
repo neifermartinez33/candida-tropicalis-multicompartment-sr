@@ -1,0 +1,16 @@
+Final title and abstract decision, calibration round CAL1. 2026-10-16 15:51, Colombia time.
+
+Inputs (sha256):
+  3d94824a153e82105af19df3dd2c6254afd668b3d7224f8e50653f7515ecd4da  04_phase2_calibration/results/calibration_CAL1_decisions.csv
+  0d4711bb50fee9dc6e9bbc703258e2ae958ee4f9d35f7f28d9354d29fecbf74a  04_phase2_calibration/results/calibration_CAL1_consensus_adjusted.xlsx
+
+Works: 200. Go to full text: 90. Excluded: 110.
+  Exclude by agreement: 107
+  Exclude by consensus: 3
+  Include by agreement: 81
+  Include by consensus: 9
+Consensus rows with a documented adjustment: 4.
+
+Output: 04_phase2_calibration/results/calibration_CAL1_final_decisions.csv
+
+(Translated into English on 2026-10-26. The SHA-256 values above refer to the original Spanish-language files, which are kept in the project archive.)

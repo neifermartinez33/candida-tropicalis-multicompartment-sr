@@ -1,0 +1,24 @@
+Cohen's kappa of the calibration, round CAL1. 2026-10-16 15:02, Colombia time.
+
+Inputs (sha256):
+  4785903623246d1096e64ff255aaba14e531603b177fb59fee88ade9d3650c86  04_phase2_calibration/calibration_sample_200_seed13102026.csv
+  95fc6cd5923066f62d3124bdc81f97cfc3ac43e2ad25f792424e6e01bcfba851  04_phase2_calibration/rayyan_exports/02_decisions_reviewer_2_blind_on.ris  (reader reviewer_2, name in Rayyan: reviewer_2)
+  55111eaae381afdb7f4fc3b2466586d053a90318edb9a753c698026786e0b04f  04_phase2_calibration/rayyan_exports/02_decisions_reviewer_1_blind_on.ris  (reader reviewer_1, name in Rayyan: reviewer_1)
+
+Works: 200. "Maybe" counts as inclusion.
+
+                    reviewer_1 includes  reviewer_1 excludes  total reviewer_2
+  reviewer_2 includes            81            9           90
+  reviewer_2 excludes             3          107          110
+  total reviewer_1               84          116          200
+
+Observed agreement: 0.940 (188 of 200). Agreement expected by chance: 0.508.
+Cohen's kappa: 0.878. 95 % CI: 0.811 to 0.945 (asymptotic standard error of Fleiss, Cohen and Everitt, 1969).
+Rule of the plan: second round if kappa falls below 0.60.
+Discrepancies: 12 (reviewer_2 includes and reviewer_1 excludes: 9; reviewer_2 excludes and reviewer_1 includes: 3).
+
+Outputs:
+  04_phase2_calibration/results/calibration_CAL1_decisions.csv
+  04_phase2_calibration/results/calibration_CAL1_discrepancies.csv
+
+(Translated into English on 2026-10-26. The SHA-256 values above refer to the original Spanish-language files, which are kept in the project archive.)

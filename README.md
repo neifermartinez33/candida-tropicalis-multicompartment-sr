@@ -32,21 +32,33 @@ FINAL run of the analysis chain with the reference-list check (round 3) complete
 
 ## What this repository contains
 
-By decision of the review team (2026-10-28) the repository holds only:
+By decision of the review team (2026-10-28) the repository holds:
 
 | Content | Where |
 |---|---|
-| Scripts of every phase (Python, R, shell) | in the folder of each phase; the analysis chain in `10_phase8_analysis/scripts/` |
-| Computing environment | `10_phase8_analysis/env/` |
-| Analysis matrices | `08_phase6_data_extraction/` (extraction matrix), `10_phase8_analysis/data/` (tidy tables and analysis datasets), `09_phase7_risk_of_bias/results/` (risk-of-bias assessment) |
+| Scripts of every phase (Python, R, shell) and the computing environment | folder of each phase; analysis chain in `10_phase8_analysis/scripts/`; `10_phase8_analysis/env/` |
+| Search strategies (PRISMA-S document with the literal strings, yields and dates of every source) and the PRISMA-S log | `01_search/strategies/`, `01_search/prisma_s_log.csv` |
+| Screening decisions (identifiers and decisions only) and calibration | `02_phase0_raw_corpus/`, `03_phase1_deduplication/`, `04_phase2_calibration/`, `06_phase4_title_abstract_screening/`, `07_phase5_full_text_screening/` |
+| Analysis matrices: extraction matrix, verification workbooks, tidy tables, analysis datasets, applicability of breakpoints | `08_phase6_data_extraction/`, `10_phase8_analysis/data/`, `10_phase8_analysis/applicability/` |
+| Risk of bias: manual, rules, workbooks and assessment | `09_phase7_risk_of_bias/` |
+| Pre-specified analysis rules, team decisions and the runbook of the analysis chain | `10_phase8_analysis/analysis_rules_v4_2026-10-24.md`, `team_decisions_2026-10-*.md`, `runbook_v4_2026-10-24.md` |
 | Model results and run logs (MD5 of every input and output) | `10_phase8_analysis/results/`, `09_phase7_risk_of_bias/logs/` |
-| Tables and figures of the article | `12_documents/tables/`, `12_documents/figures/` |
-| Supplementary material | `12_documents/supplementary/` (Tables S1-S14, Figure S1, File S1, PRISMA 2020 checklist) |
+| Tables, figures and supplementary material of the first article | `12_documents/tables/`, `12_documents/figures/`, `12_documents/supplementary/` |
 
-Everything else (protocol and search documents, bibliographic exports of the searched databases, screening and
-verification workbooks, rules and decision records, manuscript drafts) is kept by the review team outside the
-repository. Reviewers are identified only as `reviewer_1`, `reviewer_2` and `reviewer_3`. The status notes below
-describe the whole project and may cite files that are not in the repository.
+Not included: the record exports of the searched databases and the corpora derived from them (RIS files with
+third-party records and abstracts; the search strategy document anticipated depositing them, but their terms of use
+do not allow redistribution), two calibration files that quote abstracts, the full texts of the reports and the
+manuscript drafts. Reviewers are identified only as `reviewer_1`, `reviewer_2` and `reviewer_3`.
+
+Reproducibility: the analysis chain (runbook steps 4 to 6) runs from the files in the repository. The screening RIS
+file is not included; the three scripts that read it (`build_analysis_dataset_v3.py`, `01_prisma_counts_v3.py`,
+`13_tabS_lists_v1.py`) use instead `06_phase4_title_abstract_screening/import/screening_record_fields_n22203_2026-10-28.csv`
+(screening identifier, first author, record type, year and language of each record), which gives identical results.
+The seed-set check (`33_seed_set_check_v1.py`) searches the titles of the raw corpus and needs the RIS exports, which
+are available from the authors on request within the terms of use of the databases.
+
+Licences: code under the MIT License; data, tables, figures and documents under CC BY 4.0 (see `LICENSE`). Cite as in
+`CITATION.cff`. The status notes below describe the whole project and may cite files that are not in the repository.
 
 ## Status, 2026-10-26
 

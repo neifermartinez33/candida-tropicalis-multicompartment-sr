@@ -1,0 +1,15 @@
+Independent verification of screening with two readers (phase 4). Failures: 0.
+OK    table: 22203 rows, 22203 unique works (expected 22203)
+OK    table without calibration; table plus calibration = the 22403 works of the corpus
+OK    order 1 to n without gaps
+OK    each work with its representative record
+OK    readers reviewer_1 and reviewer_2 on every work
+OK    import file: 22203 records, in the order of the table
+OK    content identical to the corpus except the SCREEN_ID note: 22203 of 22203
+OK    works with team authorship: 9, all without arbiter
+OK    arbiters: reviewer_3 11097, reviewer_4 11097
+OK    no reader is an author of a team work
+OK    model input unchanged with respect to the earlier manifest (sha256 879c79a7c80d76a3f48d66599a2058f9afdfe4e3bc81a7d228be4290a16e8512)
+OK    model input with the same 22203 works of the frame
+
+(Translated into English on 2026-10-26. The SHA-256 values above refer to the original Spanish-language files, which are kept in the project archive.)

@@ -1,0 +1,26 @@
+Preparation of screening with two readers (phase 4). Run: 2026-10-14 10:11, Colombia time.
+Plan applied: 06_phase4_title_abstract_screening/screening_plan_2026-10-13.md (sha256 when run: 3fdbaa74769bc39abdbe5e443cf8be8f56f094df583eac1ad506137fb434aba1)
+Seed of the reading order and of the arbiters: 1310202643. Seed of the model order: 1310202642.
+
+Works in the corpus: 22403. Calibration removed: 200. Frame: 22203.
+Readers: reviewer_1 and reviewer_2, the 22203 works each, in the same order.
+Arbiter reviewer_3: 11097 works (91.6 % with abstract). Arbiter reviewer_4: 11097 works (91.1 % with abstract). Without arbiter (team authorship): 9.
+Model input reproduced byte for byte: True (sha256 879c79a7c80d76a3f48d66599a2058f9afdfe4e3bc81a7d228be4290a16e8512).
+
+Team authorship: O00252 (rayyan-690145012; authors reviewer_4;reviewer_3), position 4434; without arbiter: tie or network go to full text.
+Team authorship: O00845 (rayyan-690443259; authors reviewer_4;reviewer_3), position 1407; without arbiter: tie or network go to full text.
+Team authorship: O01027 (rayyan-690443523; authors reviewer_4;reviewer_3), position 18027; without arbiter: tie or network go to full text.
+Team authorship: O01754 (rayyan-690444459; authors reviewer_4;reviewer_3), position 15328; without arbiter: tie or network go to full text.
+Team authorship: O05468 (rayyan-690449848; authors reviewer_4;reviewer_3), position 1002; without arbiter: tie or network go to full text.
+Team authorship: O11309 (rayyan-690460187; authors reviewer_4;reviewer_3), position 418; without arbiter: tie or network go to full text.
+Team authorship: O14051 (rayyan-690465524; authors reviewer_4;reviewer_3), position 11508; without arbiter: tie or network go to full text.
+Team authorship: O21737 (rayyan-690495795; authors reviewer_4;reviewer_3), position 19143; without arbiter: tie or network go to full text.
+Team authorship: O21738 (rayyan-690495796; authors reviewer_4;reviewer_3), position 3144; without arbiter: tie or network go to full text.
+
+Inputs (sha256):
+  63c2334e755ece3efcaddcb697cf5b133de3e1cacf05788f5194ec2961fcf9be  03_phase1_deduplication/results/screening_corpus_phase1_n22403_2026-10-13.ris
+  09158ded222ec8c4ea893ce1f874d79d3adfd2d0d854ec47340bf65f3365e397  03_phase1_deduplication/work/corpus_clusters.csv
+  877441fb1d9ffd16feb87c22ace924198e33b35b42de669dd90228e841c8dec5  06_phase4_title_abstract_screening/allocation/team_authored_records.csv
+  4785903623246d1096e64ff255aaba14e531603b177fb59fee88ade9d3650c86  04_phase2_calibration/calibration_sample_200_seed13102026.csv
+
+(Translated into English on 2026-10-26. The SHA-256 values above refer to the original Spanish-language files, which are kept in the project archive.)

@@ -307,7 +307,13 @@ def s10(mr, prov):
 
 # -------------------------------------------------------------------------------------------- S11
 
+RIS_FIELDS = "06_phase4_title_abstract_screening/import/screening_record_fields_n22203_2026-10-28.csv"
+
+
 def ris_fields(path):
+    if not os.path.exists(path):  # (2026-10-28) the RIS is not in the public repository: same fields from its extract
+        f = pd.read_csv(RIS_FIELDS, dtype=str, keep_default_na=False)
+        return {r["screen_id"]: {t: r[t] for t in ("TY", "Y1", "LA") if r[t]} for r in f.to_dict("records")}
     out, cur, sid = {}, {}, None
     with open(path, encoding="utf-8", errors="replace") as fh:
         for ln in fh:

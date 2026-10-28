@@ -1,0 +1,5 @@
+study_id,country,source,quote
+O08797,United Kingdom,arbiter_comment (B08b),"GDH 1362 and GDH 0462 are oral isolates from the routine microbiology services of the Glasgow Dental Hospital and School (C1, United Kingdom) ... (p. 3)"
+O00852,United States,arbiter_comment (B08b),"Table 1 (p. 401, note c) attributes the clinical ... Strains to the Mycology Laboratory, New York Department of Health, Albany, N.Y. (United States)"
+R06366,China,comment (B08 blinded reading),The country (China) does not come only from the affiliation: the isolates ... (p. 2)
+O17938,multinational (20 centers in 13 European countries),arbiter_comment (B08b),"the text names the 20 centers in 13 countries (p. 20; Table 2, p. 22) ... the team includes multinational collections without breakdown by country (SA11)"

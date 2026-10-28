@@ -134,7 +134,7 @@ def doubtful(out_dir, review_dir, batches_dir):
             "N": c.get("N"), "ID": r["ID"], "title": c.get("title"), "year": c.get("year"), "pdf": os.path.basename(c.get("pdf") or ""),
             "original_doubt": " | ".join(x for x in [ex.get("change_reason"), ex.get("comments")] if x),
             "proposed_verdict": r.get("verdict"), "exclusion_code": r.get("exclusion_code"),
-            "pdf_corresponde": r.get("pdf_corresponde"), "pdf_is_of": r.get("pdf_is_of"),
+            "pdf_matches": r.get("pdf_matches"), "pdf_is_of": r.get("pdf_is_of"),
             **{k: crit.get(k) for k in ["IC1", "IC2", "IC3", "IC4", "IC5", "IC6", "IC7", "IC8"]},
             "compartment": r.get("compartment"), "source": r.get("source"), "country": r.get("country"), "period": r.get("period"),
             "n_tropicalis": r.get("n_tropicalis"), "identification_method": r.get("identification_method"),

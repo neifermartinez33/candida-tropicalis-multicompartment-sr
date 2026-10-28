@@ -38,6 +38,7 @@ import pandas as pd
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import dataset_v3_core as C  # noqa: E402
 
+RIS_FIELDS = "06_phase4_title_abstract_screening/import/screening_record_fields_n22203_2026-10-28.csv"  # extract of the screening RIS used when the RIS is absent (2026-10-28)
 IN = {
     "by_file": "02_phase0_raw_corpus/reconciliation/reconciliation_by_file_v2_2026-10-13.csv",
     "chain": "03_phase1_deduplication/results/corpus_definition_report_2026-10-13.txt",
@@ -155,8 +156,11 @@ def main():
     f_ray = os.path.join(RAYYAN_DIR, exports[0])
     ray = pd.read_csv(f_ray, encoding="utf-8-sig")
     ray = ray[ray["key"] == "included"].sort_values("article_id")
-    screen_ids = [ln[16:].strip() for ln in open(IN["ris"], encoding="utf-8", errors="replace")
-                  if ln.startswith("N1  - SCREEN_ID ")]
+    if os.path.exists(IN["ris"]):
+        screen_ids = [ln[16:].strip() for ln in open(IN["ris"], encoding="utf-8", errors="replace")
+                      if ln.startswith("N1  - SCREEN_ID ")]
+    else:  # (2026-10-28) the RIS is not in the public repository; same identifiers, same order
+        screen_ids = pd.read_csv(RIS_FIELDS, dtype=str, keep_default_na=False).screen_id.tolist()
     if len(screen_ids) != len(ray) or not ray["article_id"].is_unique:
         sys.exit("The RIS and the Rayyan export do not match one to one")
     decision = dict(zip(screen_ids, ray["value"].astype(int)))

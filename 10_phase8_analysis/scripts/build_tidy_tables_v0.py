@@ -131,9 +131,10 @@ def main():
         dv = pd.read_csv(a.doubtful_review)
         if "proposed_verdict" in dv.columns and "verdict" not in dv.columns:
             dv = dv.rename(columns={"proposed_verdict": "verdict"})
-        keep = [c for c in ["ID", "verdict", "exclusion_code", "pdf_corresponde", "pdf_is_of", "confidence"] if c in dv.columns]
+        keep = [c for c in ["ID", "verdict", "exclusion_code", "pdf_matches", "pdf_corresponde", "pdf_is_of", "confidence"] if c in dv.columns]
         rep = rep.merge(dv[keep].rename(columns={"verdict": "doubtful_review_verdict", "exclusion_code": "doubtful_review_ec",
-                                                  "pdf_corresponde": "doubtful_review_pdf_matches", "pdf_is_of": "doubtful_review_pdf_is",
+                                                  "pdf_matches": "doubtful_review_pdf_matches", "pdf_corresponde": "doubtful_review_pdf_matches",  # column renamed on 2026-10-28
+                                                  "pdf_is_of": "doubtful_review_pdf_is",
                                                   "confidence": "doubtful_review_confidence"}), on="ID", how="left")
 
     reports = pd.DataFrame({

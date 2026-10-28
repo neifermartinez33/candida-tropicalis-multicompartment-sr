@@ -56,6 +56,8 @@ ALLOC_BOOKS = "08_phase6_data_extraction/verification/isolate_groups_multicompar
 B10_MIC = {"mic50": "mic50_mg_l", "mic90": "mic90_mg_l", "mic_min": "mic_min_mg_l", "mic_max": "mic_max_mg_l"}
 FT_SHEET = "07_phase5_full_text_screening/full_text_screening.xlsx"
 RIS = "06_phase4_title_abstract_screening/import/screening_reviewer_1_reviewer_2_n22203_seed1310202643.ris"
+# (2026-10-28) the RIS is not in the public repository: its first authors are read from this extract when it is absent
+RIS_FIELDS = "06_phase4_title_abstract_screening/import/screening_record_fields_n22203_2026-10-28.csv"
 R_MAP = "07_phase5_full_text_screening/r_stream_screen_id_map_2026-10-24.csv"
 DUB = "07_phase5_full_text_screening/doubtful_review_2026-10-20/full_text_doubtful_review_2026-10-20.xlsx"
 DECISIONS = "10_phase8_analysis/team_decisions_2026-10-24.md"
@@ -212,6 +214,10 @@ def first_authors(ids):
     r2s = dict(zip(rmap.R_id, rmap.screen_id))
     sid = {i: (i if i.startswith("O") else r2s.get(i, "")) for i in ids}
     want, out, au, cur = set(sid.values()), {}, [], None
+    if not os.path.exists(RIS):
+        f = pd.read_csv(RIS_FIELDS, dtype=str, keep_default_na=False)
+        out = {s: a for s, a in zip(f.screen_id, f.first_author) if s in want and a}
+        return {i: out.get(s, "") for i, s in sid.items()}
     with open(RIS, encoding="utf-8", errors="replace") as fh:
         for ln in fh:
             if ln.startswith("ER  -"):

@@ -1,0 +1,4 @@
+﻿article_id,values_in_export,resolved_value,value_reviewer_1,matches_reviewer_1,reason,date
+735045317,-1|deleted|-1,-1,-1,yes,Two rows agree on -1; the third is a record 'deleted' from Rayyan. reviewer_1 also -1.,2026-10-22
+735045618,1|-1,1,1,yes,"Contradictory rows 1 and -1 from the same reviewer. Included by team consensus, 22-10-2026. reviewer_1 also 1.",2026-10-22
+735053410,-1|-1,-1,-1,yes,Two identical rows at -1; export duplicate. reviewer_1 also -1.,2026-10-22
