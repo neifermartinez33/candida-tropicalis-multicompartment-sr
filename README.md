@@ -45,10 +45,7 @@ By decision of the review team (2026-10-28) the repository holds:
 | Model results and run logs (MD5 of every input and output) | `10_phase8_analysis/results/`, `09_phase7_risk_of_bias/logs/` |
 | Tables, figures and supplementary material of the first article | `12_documents/tables/`, `12_documents/figures/`, `12_documents/supplementary/` |
 
-Not included: the record exports of the searched databases and the corpora derived from them (RIS files with
-third-party records and abstracts; the search strategy document anticipated depositing them, but their terms of use
-do not allow redistribution), two calibration files that quote abstracts, the full texts of the reports and the
-manuscript drafts. Reviewers are identified only as `reviewer_1`, `reviewer_2` and `reviewer_3`.
+Not included: the record exports of the searched databases (RIS and similar files), because they contain third-party records and abstracts whose terms of use do not allow redistribution; also two calibration files that quote abstracts, the full texts of the reports and the manuscript drafts. Reviewers are identified only as `reviewer_1`, `reviewer_2` and `reviewer_3`.
 
 Reproducibility: the analysis chain (runbook steps 4 to 6) runs from the files in the repository. The screening RIS
 file is not included; the three scripts that read it (`build_analysis_dataset_v3.py`, `01_prisma_counts_v3.py`,
