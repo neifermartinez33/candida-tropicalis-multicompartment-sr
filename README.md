@@ -1,7 +1,7 @@
 # Candida tropicalis — multicompartment distribution and antifungal resistome
 
 Systematic review and meta-analysis of proportions.
-PROSPERO **CRD420261486387**, registered 2026-09-13. Searches executed 2026-09-07 to 2026-09-12.
+PROSPERO **CRD420261486387**, registered 2026-09-13. Data and code deposit: https://doi.org/10.5281/zenodo.23748223. Searches executed 2026-09-07 to 2026-09-12.
 GIIM, Universidad de Córdoba (Montería, Colombia). First review of the series;
 *Acinetobacter baumannii* follows with the same skeleton as a sibling folder.
 

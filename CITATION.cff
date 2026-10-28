@@ -5,6 +5,7 @@ abstract: "Analysis matrices, scripts, model results with run logs, tables, figu
 type: dataset
 version: "1.0.0"
 date-released: "2026-10-28"
+doi: "10.5281/zenodo.23748223"
 license:
   - MIT
   - CC-BY-4.0
@@ -30,6 +31,9 @@ keywords:
   - meta-analysis
   - One Health
 identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23748223"
+    description: "Zenodo deposit of this repository"
   - type: other
     value: "PROSPERO CRD420261486387"
     description: "Registration of the systematic review"
