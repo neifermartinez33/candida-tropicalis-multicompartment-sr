@@ -1,0 +1,21 @@
+{
+  "script": "37_reference_check_workbooks_v1.py",
+  "mode": "FINAL",
+  "run_time": "2026-10-27T19:26:06-05:00",
+  "python": "3.12.15",
+  "inputs": {
+    "/home/neifer/EXTENCIONES/ARTICULO_COMPLETO/ronda3_referencias/out/r3_00.json": "8ec45470b8d6c3f68212afcbe72b23e2",
+    "/home/neifer/EXTENCIONES/ARTICULO_COMPLETO/ronda3_referencias/out/r3_e00.json": "c5d603b6ae715a6ecba6c10da251268d",
+    "08_phase6_data_extraction/reference_check_2026-10-27/translations_r3_v1_2026-10-27.json": "23c2cddb383aadf8d45e7b5ab2ce97ea",
+    "07_phase5_full_text_screening/reference_check_2026-10-27/reference_check_candidates_v1_2026-10-27T190334.csv": "faf824e3a395acc44c56ab1698c8e164",
+    "07_phase5_full_text_screening/full_text_screening.xlsx": "fe04f445b3e5a2a6046771499204010f"
+  },
+  "outputs": {
+    "07_phase5_full_text_screening/reference_check_2026-10-27/full_text_screening_r3_v1_2026-10-27T192604.xlsx": "7ec16e101d7ca7fe15ab8b64313aa0ee",
+    "08_phase6_data_extraction/reference_check_2026-10-27/data_extraction_r3_v1_2026-10-27T192604.xlsx": "3af3c97928b4d61162d7653484a367f1"
+  },
+  "screened": 16,
+  "extracted": 12,
+  "resistance_rows": 42,
+  "ec12_rows": 0
+}

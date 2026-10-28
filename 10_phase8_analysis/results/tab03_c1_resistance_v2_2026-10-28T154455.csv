@@ -1,0 +1,25 @@
+block,Antifungal agent,Interpretive criterion,"Collections, k (groups)",Events/isolates tested,"Crude, %","Pooled mean, % (95% CI)","Median, % (95% CI)","95% prediction interval, %",τ² (95% CI),"Largest collection, %"
+Non-wild-type by epidemiological cut-off value,Amphotericin B,CLSI ECV,96 (95),"34/10,505",0.3 (0.2–0.5),1.1 (0.3–2.3),0.0 (0.0–0.3),0.0–13.7,7.87 (3.00–21.17),20.9
+Non-wild-type by epidemiological cut-off value,Amphotericin B,EUCAST ECV,5 (5),0/168,0.0 (0.0–2.2),—,—,—,—,43.5
+Non-wild-type by epidemiological cut-off value,Fluconazole,CLSI ECV,11 (11),"1,090/3,746",29.1 (27.6–30.6),20.7 (7.1–36.9),10.0 (2.1–36.8),0.1–94.1,4.26 (1.30–18.25),53.8
+Non-wild-type by epidemiological cut-off value,Fluconazole,EUCAST ECV,5 (5),38/281,13.5 (9.8–18.1),14.9 (3.9–31.1),9.7 (1.7–40.3),0.1–91.3,1.63 (0.35–12.03),33.1
+Non-wild-type by epidemiological cut-off value,Flucytosine,CLSI ECV,22 (22),"42/2,004",2.1 (1.5–2.8),4.2 (1.5–8.3),1.7 (0.7–4.1),0.1–31.9,2.34 (0.84–7.08),25.3
+Non-wild-type by epidemiological cut-off value,Itraconazole,CLSI ECV,65 (65),"1,412/9,247",15.3 (14.5–16.0),18.2 (13.1–23.5),11.1 (7.4–16.3),0.6–73.1,2.34 (1.39–4.07),23.7
+Non-wild-type by epidemiological cut-off value,Micafungin,CLSI ECV,6 (6),"14/1,395",1.0 (0.5–1.7),0.9 (0.4–1.9),0.8 (0.2–3.6),0.1–6.1,0.20 (0.00–14.79),37.5
+Non-wild-type by epidemiological cut-off value,Micafungin,EUCAST ECV,8 (8),6/394,1.5 (0.6–3.3),1.5 (0.5–2.9),1.5 (0.6–3.9),0.6–4.1,0.00 (0.00–1.75),38.6
+Non-wild-type by epidemiological cut-off value,Posaconazole,CLSI ECV,44 (44),"2,616/5,220",50.1 (48.7–51.5),36.0 (26.6–45.8),26.8 (15.0–43.1),0.4–97.2,4.93 (2.93–8.83),42.0
+Non-wild-type by epidemiological cut-off value,Voriconazole,CLSI ECV,13 (13),"1,170/3,578",32.7 (31.2–34.3),27.0 (13.3–42.9),17.4 (5.5–43.4),0.3–94.2,3.54 (1.23–12.81),56.3
+Resistant by clinical breakpoint,Amphotericin B,EUCAST,57 (56),"33/1,412",2.3 (1.6–3.3),2.7 (0.8–5.1),0.2 (0.0–1.6),0.0–38.2,7.08 (2.53–22.49),17.7
+Resistant by clinical breakpoint,Anidulafungin,"CLSI, species-specific",122 (121),"83/9,214",0.9 (0.7–1.1),2.4 (1.2–3.8),0.3 (0.1–0.7),0.0–24.3,5.70 (2.93–10.90),23.8
+Resistant by clinical breakpoint,Anidulafungin,EUCAST,35 (34),49/946,5.2 (3.9–6.8),11.3 (5.9–18.1),4.5 (2.0–9.8),0.1–67.8,3.33 (1.51–7.74),26.0
+Resistant by clinical breakpoint,Caspofungin,"CLSI, species-specific",188 (185),"161/10,164",1.6 (1.4–1.8),2.2 (1.5–3.1),0.8 (0.5–1.3),0.0–14.8,2.42 (1.36–4.33),21.6
+Resistant by clinical breakpoint,Fluconazole,CLSI species-specific or EUCAST,408 (399),"4,241/27,155",15.6 (15.2–16.1),17.5 (15.5–19.8),9.1 (7.5–11.0),0.3–75.8,3.06 (2.45–3.86),13.6
+Resistant by clinical breakpoint,Fluconazole,"CLSI, pre-2012",406 (396),"1,469/11,117",13.2 (12.6–13.9),18.0 (15.4–20.5),6.3 (4.8–8.3),0.1–87.6,5.56 (4.40–7.07),5.9
+Resistant by clinical breakpoint,Flucytosine,"CLSI, pre-2012",93 (93),"204/2,868",7.1 (6.2–8.1),7.0 (4.4–9.8),1.6 (0.8–3.3),0.0–54.6,4.52 (2.59–8.12),8.5
+Resistant by clinical breakpoint,Itraconazole,"CLSI, pre-2012",156 (154),"661/4,362",15.2 (14.1–16.3),18.7 (14.8–22.5),8.5 (5.9–12.1),0.2–83.7,4.08 (2.84–5.97),5.6
+Resistant by clinical breakpoint,Itraconazole,EUCAST,16 (16),125/298,41.9 (36.3–47.8),34.0 (21.1–48.1),28.5 (13.5–50.5),1.5–91.2,2.12 (0.66–7.51),26.5
+Resistant by clinical breakpoint,Micafungin,"CLSI, species-specific",155 (154),"111/10,328",1.1 (0.9–1.3),1.9 (1.2–2.9),0.6 (0.3–1.0),0.0–13.8,2.74 (1.49–5.10),21.2
+Resistant by clinical breakpoint,Posaconazole,EUCAST,21 (20),"299/1,053",28.4 (25.7–31.2),39.7 (25.3–54.8),29.7 (9.4–63.3),0.1–99.5,7.99 (3.42–21.43),60.9
+Resistant by clinical breakpoint,Voriconazole,"CLSI, species-specific",273 (268),"2,873/21,507",13.4 (12.9–13.8),13.7 (11.2–16.2),5.1 (3.8–6.8),0.1–74.4,4.08 (3.08–5.46),17.2
+Resistant by clinical breakpoint,Voriconazole,"CLSI, pre-2012",121 (121),"355/3,602",9.9 (8.9–10.9),17.8 (13.0–22.3),5.0 (2.7–9.0),0.0–91.3,7.05 (4.50–11.31),14.5
+Resistant by clinical breakpoint,Voriconazole,EUCAST,39 (38),"167/1,631",10.2 (8.8–11.8),13.2 (8.0–19.8),7.1 (3.6–13.2),0.3–64.5,2.34 (0.83–6.60),39.3

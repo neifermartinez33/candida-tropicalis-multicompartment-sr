@@ -1,0 +1,76 @@
+{
+ "script": "derive_rob_judgement_v2.py",
+ "mode": "FINAL",
+ "run_time": "2026-10-28T15:35:57-05:00",
+ "dataset": "10_phase8_analysis/data/analysis_dataset_v3_2026-10-28T153554",
+ "inputs": {
+  "09_phase7_risk_of_bias/rob_consensus_2026-10-22.xlsx": "825ba0e08d189a08ec5b09a41cd57ad2",
+  "09_phase7_risk_of_bias/rob_rules_v3_2026-10-24.md": "e00042ac92cca6ae747f8a4a0fa46142",
+  "10_phase8_analysis/data/analysis_dataset_v3_2026-10-28T153554/studies.csv": "2d6b552567e6662891c71f80f0e8cd39",
+  "10_phase8_analysis/data/analysis_dataset_v3_2026-10-28T153554/ast.csv": "5c00f98a0110691a9d9906cd2d0b8c7d",
+  "09_phase7_risk_of_bias/round2_2026-10-24/r2_b12_rob_new_reports_2026-10-24T180816.xlsx": "6da165ce6e5ed843e3dae142fb43874f",
+  "09_phase7_risk_of_bias/round2_2026-10-24/r2_b12_rob_new_reports_2026-10-26T114717.xlsx": "ec355cc8456aaa073b787b1c75e2faee",
+  "09_phase7_risk_of_bias/round3_reference_check_2026-10-27/r3_b12_rob_reference_check_2026-10-27T193151.xlsx": "f543e2b10a1bf7a9b736cf503fd328a7"
+ },
+ "outputs": {
+  "rob_assessment_v2_2026-10-28T153557.csv": "6e8f919864989009f56a817f8eb1f5d2"
+ },
+ "reports": 1206,
+ "without_rb8": 0,
+ "judgement": {
+  "High": 729,
+  "Low": 294,
+  "Moderate": 183
+ },
+ "rb6_written_branch": {
+  "standard_or_document_absent_no_inference": 145
+ },
+ "by_criterion": {
+  "RB1": {
+   "Yes": 924,
+   "Unclear": 221,
+   "No": 61
+  },
+  "RB2": {
+   "Yes": 977,
+   "No": 228,
+   "Unclear": 1
+  },
+  "RB3": {
+   "Yes": 1038,
+   "Unclear": 123,
+   "No": 45
+  },
+  "RB4": {
+   "Unclear": 652,
+   "Yes": 546,
+   "No": 8
+  },
+  "RB5": {
+   "Yes": 1018,
+   "Unclear": 164,
+   "No": 24
+  },
+  "RB6": {
+   "Yes": 616,
+   "No": 313,
+   "Unclear": 277
+  },
+  "RB7": {
+   "Yes": 1195,
+   "No": 8,
+   "Unclear": 3
+  },
+  "RB8": {
+   "No": 687,
+   "Yes": 409,
+   "Not applicable": 74,
+   "Unclear": 36
+  },
+  "RB9": {
+   "Not applicable": 1143,
+   "Unclear": 58,
+   "Yes": 5
+  }
+ }
+}

@@ -1,0 +1,34 @@
+Compartment,Agent,Outcome and interpretive criterion,k collections,Research groups,Events/isolates,"Crude proportion, %","Range across collections, %","Exact binomial 95% CI of the total, %",Model status
+C2 Animal host,amphotericin B,"Non-wild-type by epidemiological cut-off value, CLSI ECV",1,1,0/11,0.0,0.0–0.0,0.0–28.5,Below minimum condition (AR12): not estimated
+C2 Animal host,amphotericin B,"Resistant by clinical breakpoint, EUCAST",2,2,1/30,3.3,0.0–3.4,0.1–17.2,Below minimum condition (AR12): not estimated
+C2 Animal host,anidulafungin,"Resistant by clinical breakpoint, CLSI, species-specific",1,1,0/11,0.0,0.0–0.0,0.0–28.5,Below minimum condition (AR12): not estimated
+C2 Animal host,caspofungin,"Resistant by clinical breakpoint, CLSI, species-specific",2,2,10/30,33.3,0.0–100.0,17.3–52.8,Below minimum condition (AR12): not estimated
+C2 Animal host,fluconazole,"Resistant by clinical breakpoint, CLSI species-specific or EUCAST",11,11,99/208,47.6,0.0–100.0,40.6–54.6,Pooled
+C2 Animal host,fluconazole,"Resistant by clinical breakpoint, CLSI, pre-2012",16,16,56/123,45.5,0.0–100.0,36.5–54.8,Not pooled: upper limit of the profile interval for τ² above 25
+C2 Animal host,flucytosine,"Resistant by clinical breakpoint, CLSI, pre-2012",3,3,0/22,0.0,0.0–0.0,0.0–15.4,Below minimum condition (AR12): not estimated
+C2 Animal host,itraconazole,"Non-wild-type by epidemiological cut-off value, CLSI ECV",1,1,8/11,72.7,72.7–72.7,39.0–94.0,Below minimum condition (AR12): not estimated
+C2 Animal host,itraconazole,"Resistant by clinical breakpoint, CLSI, pre-2012",16,14,109/220,49.5,0.0–100.0,42.8–56.3,Pooled
+C2 Animal host,posaconazole,"Non-wild-type by epidemiological cut-off value, CLSI ECV",1,1,11/11,100.0,100.0–100.0,71.5–100.0,Below minimum condition (AR12): not estimated
+C2 Animal host,voriconazole,"Resistant by clinical breakpoint, CLSI, species-specific",3,3,9/23,39.1,0.0–81.8,19.7–61.5,Below minimum condition (AR12): not estimated
+C2 Animal host,voriconazole,"Resistant by clinical breakpoint, CLSI, pre-2012",5,5,2/37,5.4,0.0–66.7,0.7–18.2,Not pooled: upper limit of the profile interval for τ² above 25
+C2 Animal host,voriconazole,"Resistant by clinical breakpoint, EUCAST",1,1,0/1,0.0,0.0–0.0,0.0–97.5,Below minimum condition (AR12): not estimated
+C3 Agroecosystem,fluconazole,"Resistant by clinical breakpoint, CLSI species-specific or EUCAST",3,3,14/72,19.4,0.0–30.0,11.1–30.5,Below minimum condition (AR12): not estimated
+C3 Agroecosystem,voriconazole,"Resistant by clinical breakpoint, CLSI, species-specific",1,1,1/10,10.0,10.0–10.0,0.3–44.5,Below minimum condition (AR12): not estimated
+C4 Healthcare environment,anidulafungin,"Resistant by clinical breakpoint, CLSI, species-specific",1,1,0/21,0.0,0.0–0.0,0.0–16.1,Below minimum condition (AR12): not estimated
+C4 Healthcare environment,caspofungin,"Resistant by clinical breakpoint, CLSI, species-specific",1,1,0/3,0.0,0.0–0.0,0.0–70.8,Below minimum condition (AR12): not estimated
+C4 Healthcare environment,fluconazole,"Resistant by clinical breakpoint, CLSI species-specific or EUCAST",2,2,2/24,8.3,0.0–9.5,1.0–27.0,Below minimum condition (AR12): not estimated
+C4 Healthcare environment,micafungin,"Resistant by clinical breakpoint, CLSI, species-specific",1,1,0/3,0.0,0.0–0.0,0.0–70.8,Below minimum condition (AR12): not estimated
+C4 Healthcare environment,voriconazole,"Resistant by clinical breakpoint, CLSI, species-specific",2,2,2/24,8.3,0.0–9.5,1.0–27.0,Below minimum condition (AR12): not estimated
+C5 Natural environment,fluconazole,"Resistant by clinical breakpoint, CLSI, pre-2012",1,1,2/2,100.0,100.0–100.0,15.8–100.0,Below minimum condition (AR12): not estimated
+C5 Natural environment,itraconazole,"Resistant by clinical breakpoint, CLSI, pre-2012",1,1,1/2,50.0,50.0–50.0,1.3–98.7,Below minimum condition (AR12): not estimated
+C6 Anthropogenic matrix,amphotericin B,"Non-wild-type by epidemiological cut-off value, CLSI ECV",1,1,0/13,0.0,0.0–0.0,0.0–24.7,Below minimum condition (AR12): not estimated
+C6 Anthropogenic matrix,anidulafungin,"Resistant by clinical breakpoint, CLSI, species-specific",2,2,0/74,0.0,0.0–0.0,0.0–4.9,Below minimum condition (AR12): not estimated
+C6 Anthropogenic matrix,caspofungin,"Resistant by clinical breakpoint, CLSI, species-specific",3,3,4/79,5.1,0.0–100.0,1.4–12.5,Below minimum condition (AR12): not estimated
+C6 Anthropogenic matrix,fluconazole,"Resistant by clinical breakpoint, CLSI species-specific or EUCAST",7,7,54/116,46.6,0.0–100.0,37.2–56.0,Pooled
+C6 Anthropogenic matrix,fluconazole,"Resistant by clinical breakpoint, CLSI, pre-2012",5,4,6/17,35.3,0.0–100.0,14.2–61.7,Not pooled: upper limit of the profile interval for τ² above 25
+C6 Anthropogenic matrix,flucytosine,"Resistant by clinical breakpoint, CLSI, pre-2012",2,2,0/10,0.0,0.0–0.0,0.0–30.8,Below minimum condition (AR12): not estimated
+C6 Anthropogenic matrix,itraconazole,"Non-wild-type by epidemiological cut-off value, CLSI ECV",1,1,13/13,100.0,100.0–100.0,75.3–100.0,Below minimum condition (AR12): not estimated
+C6 Anthropogenic matrix,itraconazole,"Resistant by clinical breakpoint, CLSI, pre-2012",5,4,42/76,55.3,0.0–100.0,43.4–66.7,Pooled
+C6 Anthropogenic matrix,micafungin,"Resistant by clinical breakpoint, CLSI, species-specific",1,1,0/62,0.0,0.0–0.0,0.0–5.8,Below minimum condition (AR12): not estimated
+C6 Anthropogenic matrix,voriconazole,"Resistant by clinical breakpoint, CLSI, species-specific",4,4,51/91,56.0,0.0–100.0,45.2–66.4,Below minimum condition (AR12): not estimated
+C6 Anthropogenic matrix,voriconazole,"Resistant by clinical breakpoint, CLSI, pre-2012",1,1,3/3,100.0,100.0–100.0,29.2–100.0,Below minimum condition (AR12): not estimated

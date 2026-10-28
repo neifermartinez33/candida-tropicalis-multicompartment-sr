@@ -1,0 +1,20 @@
+{
+  "script": "12_ma_metareg_v1.R",
+  "mode": "FINAL",
+  "run_time": "2026-10-28 15:44:52 -0500",
+  "r_version": "R version 4.5.3 (2026-03-11)",
+  "lme4": "2.0.6",
+  "inputs": {
+    "10_phase8_analysis/analysis_rules_v4_2026-10-24.md": "a2e7e7b72e3731c398e1cb0486626b9d",
+    "10_phase8_analysis/results/ma_input_v2_2026-10-28T153606.csv": "1691408ffa5dca38d1d54446aac7d136",
+    "10_phase8_analysis/results/ma_results_v3_2026-10-28T154432.csv": "ba12d2319d88eff4cdd8d41a152920cc",
+    "09_phase7_risk_of_bias/results/rob_assessment_v2_2026-10-28T153557.csv": "6e8f919864989009f56a817f8eb1f5d2"
+  },
+  "outputs": {
+    "ma_metareg_v1_2026-10-28T154452.csv": "7cf2c0ea8afc402bbc740f11faaece93"
+  },
+  "min_collections": 10,
+  "min_level": 3,
+  "tests": 90,
+  "note": "exploratory; no correction for multiplicity; covariates of deferred hypotheses excluded (D1)"
+}

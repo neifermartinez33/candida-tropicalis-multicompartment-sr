@@ -1,0 +1,20 @@
+DRAFT GRADE certainty and summary of findings for the pooled strata, for decision by the review team.
+
+The protocol applies GRADE as adapted to single-proportion estimates from observational studies: study limitations
+from the aggregate risk-of-bias judgement, inconsistency from the width of the prediction interval (not I2),
+imprecision from the CI width relative to the proportion and from the number of isolates and collections,
+indirectness from the correspondence with the review framework, and publication bias with the caution stated for
+proportions. The protocol does not fix numeric thresholds; the thresholds below are PROPOSALS of this draft and are
+written in the output so the team can change them before any judgement enters the manuscript.
+
+Proposed rules (starting level high, as for proportions estimated from cross-sectional data):
+  risk of bias    serious if more than 50% of the isolates come from collections whose index report is at high risk
+  inconsistency   serious if the 95% prediction interval spans more than 50 percentage points; very serious if > 75
+  imprecision     serious if the CI width exceeds the estimate itself or fewer than 300 isolates contribute
+  indirectness    serious for non-human compartments (heterogeneous hosts or matrices pooled within one compartment);
+                  not serious for the human host
+  publication     not downgraded: funnel asymmetry is not valid for proportions (Section 2.9); non-retrieval bias is
+                  discussed instead
+Usage: python 35_grade_draft_v1.py   (from the project root)
+
+Thresholds used: {'rob_high_share': 0.5, 'pi_serious': 50, 'pi_very': 75, 'min_isolates': 300}

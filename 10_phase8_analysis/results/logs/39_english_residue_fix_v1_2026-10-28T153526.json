@@ -1,0 +1,19 @@
+{
+  "script": "39_english_residue_fix_v1.py",
+  "mode": "FINAL",
+  "run_time": "2026-10-28T15:35:26-05:00",
+  "python": "3.14.6",
+  "inputs": {},
+  "outputs": {
+    "10_phase8_analysis/data/tidy_tables_v0_2026-10-20/reports.csv": "9a8246e0f988a32760b908cd847f4511",
+    "10_phase8_analysis/data/tidy_tables_v0_2026-10-20/molecular.csv": "731b79890804eadcbb07dca7fa395f7b",
+    "10_phase8_analysis/data/tidy_tables_v0_2026-10-20/genotypes.csv": "01b62bcf2587b18f5aa574b46b65a8c0",
+    "10_phase8_analysis/data/tidy_tables_v0_2026-10-20/ast.csv": "81c94acb0ea8603fdc62ae72576e0c4b"
+  },
+  "cells_changed": {
+    "10_phase8_analysis/data/tidy_tables_v0_2026-10-20/reports.csv": 2,
+    "10_phase8_analysis/data/tidy_tables_v0_2026-10-20/molecular.csv": 1,
+    "10_phase8_analysis/data/tidy_tables_v0_2026-10-20/genotypes.csv": 51,
+    "10_phase8_analysis/data/tidy_tables_v0_2026-10-20/ast.csv": 6
+  }
+}

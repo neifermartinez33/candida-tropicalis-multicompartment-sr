@@ -1,0 +1,20 @@
+name: ctrop_ma
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  # R: modelos y figuras
+  - r-base>=4.4
+  - r-meta>=7.0
+  - r-metafor>=4.0
+  - r-lme4
+  - r-data.table
+  - r-jsonlite
+  - r-ggplot2
+  - r-ragg
+  # Python: preparacion de datos y tablas .xlsx para el equipo
+  - python=3.12
+  - pandas>=2.2
+  - numpy
+  - openpyxl>=3.1
+  - xlsxwriter>=3.2

@@ -1,0 +1,18 @@
+{
+ "built": "2026-10-28",
+ "script": "build_tidy_tables_v0.py",
+ "version": "v0",
+ "inputs": {
+  "full_text_screening_r3_v1_2026-10-27T192604.xlsx": "7ec16e101d7ca7fe15ab8b64313aa0ee",
+  "data_extraction_r3_v1_2026-10-27T192604.xlsx": "0dad797224156231cd75e269f9871b1c",
+  "pdf_identical_groups_r3_2026-10-27.csv": "ed217205384d0d2f34c98383cb2fc8f2",
+  "pdf_truncated_r3_2026-10-27.csv": "7235c87511b978ef95e768196707e26d"
+ },
+ "counts": {
+  "reports": 12,
+  "ast_rows": 42,
+  "molecular_rows": 0,
+  "genotype_rows": 0,
+  "collection_candidate_rows": 0
+ }
+}

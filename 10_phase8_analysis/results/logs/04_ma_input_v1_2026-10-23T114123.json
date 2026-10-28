@@ -1,0 +1,53 @@
+{
+ "script": "04_ma_input_v1.py",
+ "run_time": "2026-10-23T11:41:23-05:00",
+ "python": "3.12.15",
+ "pandas": "3.0.6",
+ "inputs": {
+  "rules": {
+   "path": "10_phase8_analysis/analysis_rules_v3_2026-10-22.md",
+   "md5": "3a5fbb5b14eaafda96de6607696c12b1"
+  },
+  "studies": {
+   "path": "10_phase8_analysis/data/analysis_dataset_v2_2026-10-23/studies.csv",
+   "md5": "9010fb0fb6681c4a521f4277705313ed"
+  },
+  "ast": {
+   "path": "10_phase8_analysis/data/analysis_dataset_v2_2026-10-23/ast.csv",
+   "md5": "1cda4678ac9a6be990361b2d41084fee"
+  },
+  "candidates": {
+   "path": "10_phase8_analysis/data/tidy_tables_v0_2026-10-20/collection_candidates.csv",
+   "md5": "2b09907c0432db41e787c0b95e303b06"
+  },
+  "reports": {
+   "path": "10_phase8_analysis/data/tidy_tables_v0_2026-10-20/reports.csv",
+   "md5": "be8246dc9ecd7906fdd5637ede84710b"
+  }
+ },
+ "outputs": {
+  "ma_input_v1_2026-10-23T114123.csv": "44af1b00df7e7d7dbd37e79a57383b8e",
+  "ma_strata_v1_2026-10-23T114123.csv": "3c75f4a50853d2e63d53616937780641",
+  "ec12_rule_collections_v1_2026-10-23T114123.csv": "b0a200693a1ba3a0f253edf1b4a7b211"
+ },
+ "excluded_rows_by_reason": {
+  "method_biofilm_or_not_reported": 11,
+  "R:no_clsi_cbp_for_agent": 769,
+  "R:mixed_standard": 78,
+  "R:version_not_inferable": 73,
+  "NWT:ecv_source_not_identifiable": 82,
+  "NWT:no_ecv_for_agent": 14,
+  "NWT:mixed_standard": 2
+ },
+ "selected_rows": 3095,
+ "main_rows": 3018,
+ "collections_with_2plus_reports": 85,
+ "reports_in_them": 216,
+ "strata": 102,
+ "strata_meeting_minimum": 38,
+ "strata_meeting_minimum_by_compartment": {
+  "C1": 31,
+  "C2": 5,
+  "C6": 2
+ }
+}

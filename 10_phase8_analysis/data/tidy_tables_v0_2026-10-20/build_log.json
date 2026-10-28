@@ -1,0 +1,19 @@
+{
+ "built": "2026-10-20",
+ "script": "build_tidy_tables_v0.py",
+ "version": "v0",
+ "inputs": {
+  "full_text_screening.xlsx": "dfa228e6ce0ecaee5ab3071b0ab19423",
+  "data_extraction_tropicalis.xlsx": "40e21ea926fdb57ada874d4ac2343eef",
+  "pdf_identical_groups_2026-10-20.csv": "32abfc236ed4d66b0c59da61daa32f62",
+  "pdf_truncated_2026-10-20.csv": "1393f54c96f9b3bb4c65b85aec61c225",
+  "full_text_doubtful_review_2026-10-20.csv": "c920d7eac1b0fceeb686e1c2ee7baa58"
+ },
+ "counts": {
+  "reports": 3617,
+  "ast_rows": 8497,
+  "molecular_rows": 641,
+  "genotype_rows": 670,
+  "collection_candidate_rows": 693
+ }
+}

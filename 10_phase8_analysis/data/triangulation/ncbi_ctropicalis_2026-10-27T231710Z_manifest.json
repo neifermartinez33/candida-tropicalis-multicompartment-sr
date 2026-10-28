@@ -1,0 +1,13 @@
+{
+  "query": "\"Candida tropicalis\"[Organism]",
+  "queried_utc": "2026-10-27T231710Z",
+  "biosample_count_query": 1929,
+  "biosample_records": 1931,
+  "biosamples_added_from_sra": 2,
+  "sra_experiment_count_query": 1755,
+  "sra_runs": 1766,
+  "files": {
+    "ncbi_biosample_ctropicalis_2026-10-27T231710Z.jsonl": "007b9c9edd1ba7688f957dd31fbbd244bd18c12d6bce3e3f782dd38d9b511481",
+    "ncbi_sra_runinfo_ctropicalis_2026-10-27T231710Z.csv": "5c68453510c06fdfdd5b620a3baee0feb23ddc8320890fd5467818741e0a2a37"
+  }
+}

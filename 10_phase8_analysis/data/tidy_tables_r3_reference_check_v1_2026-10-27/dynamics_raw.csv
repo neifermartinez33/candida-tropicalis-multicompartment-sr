@@ -1,0 +1,11 @@
+report_id,compartment,row_type,agent_raw,agent_std,period_raw,n_tested,n_R,description_raw,extraction_decision
+B003,C1,resistance_by_period_to_merge_into_ast,fluconazole,fluconazole,2012,52,3,R to fluconazole in C. tropicalis 2012: 3/52; total 2012-2016 12/289 (4.2%); no clear trend,INCLUDE
+B003,C1,resistance_by_period_to_merge_into_ast,fluconazole,fluconazole,2013,59,1,R to fluconazole in C. tropicalis 2013: 1/59; total 2012-2016 12/289 (4.2%); no clear trend,INCLUDE
+B003,C1,resistance_by_period_to_merge_into_ast,fluconazole,fluconazole,2014,63,5,R to fluconazole in C. tropicalis 2014: 5/63; total 2012-2016 12/289 (4.2%); no clear trend,INCLUDE
+B003,C1,resistance_by_period_to_merge_into_ast,fluconazole,fluconazole,2015,56,1,R to fluconazole in C. tropicalis 2015: 1/56; total 2012-2016 12/289 (4.2%); no clear trend,INCLUDE
+B003,C1,resistance_by_period_to_merge_into_ast,fluconazole,fluconazole,2016,59,2,R to fluconazole in C. tropicalis 2016: 2/59; total 2012-2016 12/289 (4.2%); no clear trend,INCLUDE
+B003,C1,resistance_by_period_to_merge_into_ast,voriconazole,voriconazole,2012,52,1,R to voriconazole in C. tropicalis 2012: 1/52; total 2012-2016 6/289 (2.1%); no clear trend,INCLUDE
+B003,C1,resistance_by_period_to_merge_into_ast,voriconazole,voriconazole,2013,59,1,R to voriconazole in C. tropicalis 2013: 1/59; total 2012-2016 6/289 (2.1%); no clear trend,INCLUDE
+B003,C1,resistance_by_period_to_merge_into_ast,voriconazole,voriconazole,2014,63,2,R to voriconazole in C. tropicalis 2014: 2/63; total 2012-2016 6/289 (2.1%); no clear trend,INCLUDE
+B003,C1,resistance_by_period_to_merge_into_ast,voriconazole,voriconazole,2015,56,0,R to voriconazole in C. tropicalis 2015: 0/56; total 2012-2016 6/289 (2.1%); no clear trend,INCLUDE
+B003,C1,resistance_by_period_to_merge_into_ast,voriconazole,voriconazole,2016,59,2,R to voriconazole in C. tropicalis 2016: 2/59; total 2012-2016 6/289 (2.1%); no clear trend,INCLUDE

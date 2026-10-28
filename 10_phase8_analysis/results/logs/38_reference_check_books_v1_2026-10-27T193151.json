@@ -1,0 +1,20 @@
+{
+  "script": "38_reference_check_books_v1.py",
+  "mode": "FINAL",
+  "run_time": "2026-10-27T19:31:51-05:00",
+  "python": "3.12.15",
+  "inputs": {
+    "07_phase5_full_text_screening/reference_check_2026-10-27/reference_check_candidates_v1_2026-10-27T190334.csv": "faf824e3a395acc44c56ab1698c8e164",
+    "07_phase5_full_text_screening/reference_check_2026-10-27/full_text_screening_r3_v1_2026-10-27T192604.xlsx": "7ec16e101d7ca7fe15ab8b64313aa0ee",
+    "10_phase8_analysis/data/tidy_tables_r3_reference_check_v1_2026-10-27/reports.csv": "b477c6ca10bcefa6d0d085c162ac5b80",
+    "10_phase8_analysis/data/tidy_tables_r3_reference_check_v1_2026-10-27/ast.csv": "a80280f9033aadabc9b303626d406643"
+  },
+  "outputs": {
+    "08_phase6_data_extraction/verification/round3_reference_check_2026-10-27/r3_b14_reference_check_2026-10-27T193151.xlsx": "5b0235f4b7bca7b4f90b160e1196ec0b",
+    "09_phase7_risk_of_bias/round3_reference_check_2026-10-27/r3_b12_rob_reference_check_2026-10-27T193151.xlsx": "dc0345b090d31f26e27780b653d0962e"
+  },
+  "reports": 23,
+  "rows": 42,
+  "pairs": 5,
+  "rob_reports": 12
+}

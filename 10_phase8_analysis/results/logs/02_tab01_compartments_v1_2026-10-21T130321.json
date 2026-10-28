@@ -1,0 +1,15 @@
+{
+ "script": "02_tab01_compartments_v1.py",
+ "run_time": "2026-10-21T13:03:21-05:00",
+ "python": "3.12.15",
+ "xlsxwriter": "3.2.9",
+ "source": "registered protocol, section 3 and Table 1 (PROSPERO CRD420261486387)",
+ "inputs": {
+  "10_phase8_analysis/data/lookups/compartments_v1.csv": "acbd2e7549ac4c1ea175abe558f6effd"
+ },
+ "outputs": {
+  "tab01_compartments_v1_2026-10-21T130321.xlsx": "768cc1b64010b3e2330fe6bab5779e15"
+ },
+ "rows": 6,
+ "footnotes": 4
+}

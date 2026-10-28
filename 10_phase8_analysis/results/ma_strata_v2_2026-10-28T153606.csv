@@ -1,0 +1,69 @@
+compartment,agent,outcome,regime_stratum,k_collections,research_groups,events,isolates,largest_collection_pct,flagged_main_rows,unverified_main_rows,k_reports_all,meets_minimum
+C1,amphotericin B,NWT,ECV_CLSI,96,95,34,10505,20.9,12,0,112,True
+C1,amphotericin B,NWT,ECV_EUCAST,5,5,0,168,43.5,0,0,5,True
+C1,amphotericin B,R,EUCAST,57,56,33,1412,17.7,0,0,66,True
+C1,anidulafungin,NWT,ECV_CLSI,3,3,9,529,55.6,1,0,3,False
+C1,anidulafungin,NWT,ECV_EUCAST,3,3,2,92,79.3,0,0,3,False
+C1,anidulafungin,R,CLSI_SS,122,121,83,9214,23.8,4,0,138,True
+C1,anidulafungin,R,EUCAST,35,34,49,946,26.0,0,0,45,True
+C1,caspofungin,R,CLSI_SS,188,185,161,10164,21.6,7,0,212,True
+C1,fluconazole,NWT,ECV_CLSI,11,11,1090,3746,53.8,2,0,11,True
+C1,fluconazole,NWT,ECV_EUCAST,5,5,38,281,33.1,0,0,5,True
+C1,fluconazole,R,CLSI_SS+EUCAST,408,399,4241,27155,13.6,19,0,487,True
+C1,fluconazole,R,CLSI_pre2012,406,396,1469,11117,5.9,241,0,440,True
+C1,flucytosine,NWT,ECV_CLSI,22,22,42,2004,25.3,3,0,25,True
+C1,flucytosine,NWT,ECV_EUCAST,1,1,82,250,100.0,0,0,1,False
+C1,flucytosine,R,CLSI_pre2012,93,93,204,2868,8.5,47,0,101,True
+C1,ibrexafungerp,NWT,ECV_EUCAST,1,1,1,40,100.0,0,0,1,False
+C1,isavuconazole,NWT,ECV_EUCAST,1,1,0,65,100.0,0,0,2,False
+C1,itraconazole,NWT,ECV_CLSI,65,65,1412,9247,23.7,9,0,80,True
+C1,itraconazole,NWT,ECV_EUCAST,3,3,6,78,61.5,0,0,3,False
+C1,itraconazole,R,CLSI_pre2012,156,154,661,4362,5.6,70,0,168,True
+C1,itraconazole,R,EUCAST,16,16,125,298,26.5,0,0,18,True
+C1,micafungin,NWT,ECV_CLSI,6,6,14,1395,37.5,1,0,6,True
+C1,micafungin,NWT,ECV_EUCAST,8,8,6,394,38.6,0,0,8,True
+C1,micafungin,R,CLSI_SS,155,154,111,10328,21.2,3,0,175,True
+C1,micafungin,R,EUCAST,2,2,1,28,71.4,0,0,2,False
+C1,posaconazole,NWT,ECV_CLSI,44,44,2616,5220,42.0,3,0,57,True
+C1,posaconazole,NWT,ECV_EUCAST,3,3,14,76,63.2,0,0,3,False
+C1,posaconazole,R,EUCAST,21,20,299,1053,60.9,0,0,24,True
+C1,rezafungin,NWT,ECV_EUCAST,1,1,2,73,100.0,0,0,1,False
+C1,terbinafine,NWT,ECV_CLSI,1,1,23,28,100.0,0,0,1,False
+C1,voriconazole,NWT,ECV_CLSI,13,13,1170,3578,56.3,2,0,13,True
+C1,voriconazole,NWT,ECV_EUCAST,4,4,31,236,39.4,0,0,4,False
+C1,voriconazole,R,CLSI_SS,273,268,2873,21507,17.2,12,0,311,True
+C1,voriconazole,R,CLSI_pre2012,121,121,355,3602,14.5,98,0,125,True
+C1,voriconazole,R,EUCAST,39,38,167,1631,39.3,0,0,41,True
+C2,amphotericin B,NWT,ECV_CLSI,1,1,0,11,100.0,0,0,1,False
+C2,amphotericin B,R,EUCAST,2,2,1,30,96.7,0,0,2,False
+C2,anidulafungin,R,CLSI_SS,1,1,0,11,100.0,1,0,1,False
+C2,caspofungin,R,CLSI_SS,2,2,10,30,66.7,2,0,2,False
+C2,fluconazole,R,CLSI_SS+EUCAST,11,11,99,208,30.8,6,0,11,True
+C2,fluconazole,R,CLSI_pre2012,16,16,56,123,17.1,10,0,16,True
+C2,flucytosine,R,CLSI_pre2012,3,3,0,22,45.5,2,0,3,False
+C2,itraconazole,NWT,ECV_CLSI,1,1,8,11,100.0,0,0,1,False
+C2,itraconazole,R,CLSI_pre2012,16,14,109,220,29.1,11,0,16,True
+C2,posaconazole,NWT,ECV_CLSI,1,1,11,11,100.0,0,0,1,False
+C2,voriconazole,R,CLSI_SS,3,3,9,23,47.8,2,0,3,False
+C2,voriconazole,R,CLSI_pre2012,5,5,2,37,56.8,5,0,5,True
+C2,voriconazole,R,EUCAST,1,1,0,1,100.0,0,0,1,False
+C3,fluconazole,R,CLSI_SS+EUCAST,3,3,14,72,81.9,1,0,4,False
+C3,voriconazole,R,CLSI_SS,1,1,1,10,100.0,0,0,1,False
+C4,anidulafungin,R,CLSI_SS,1,1,0,21,100.0,1,0,1,False
+C4,caspofungin,R,CLSI_SS,1,1,0,3,100.0,0,0,1,False
+C4,fluconazole,R,CLSI_SS+EUCAST,2,2,2,24,87.5,1,0,2,False
+C4,micafungin,R,CLSI_SS,1,1,0,3,100.0,0,0,1,False
+C4,voriconazole,R,CLSI_SS,2,2,2,24,87.5,1,0,2,False
+C5,fluconazole,R,CLSI_pre2012,1,1,2,2,100.0,0,0,1,False
+C5,itraconazole,R,CLSI_pre2012,1,1,1,2,100.0,0,0,1,False
+C6,amphotericin B,NWT,ECV_CLSI,1,1,0,13,100.0,0,0,1,False
+C6,anidulafungin,R,CLSI_SS,2,2,0,74,83.8,0,0,2,False
+C6,caspofungin,R,CLSI_SS,3,3,4,79,78.5,0,0,3,False
+C6,fluconazole,R,CLSI_SS+EUCAST,7,7,54,116,53.4,0,0,7,True
+C6,fluconazole,R,CLSI_pre2012,5,4,6,17,35.3,2,0,5,True
+C6,flucytosine,R,CLSI_pre2012,2,2,0,10,60.0,1,0,2,False
+C6,itraconazole,NWT,ECV_CLSI,1,1,13,13,100.0,0,0,1,False
+C6,itraconazole,R,CLSI_pre2012,5,4,42,76,81.6,2,0,5,True
+C6,micafungin,R,CLSI_SS,1,1,0,62,100.0,0,0,1,False
+C6,voriconazole,R,CLSI_SS,4,4,51,91,68.1,0,0,4,False
+C6,voriconazole,R,CLSI_pre2012,1,1,3,3,100.0,1,0,1,False

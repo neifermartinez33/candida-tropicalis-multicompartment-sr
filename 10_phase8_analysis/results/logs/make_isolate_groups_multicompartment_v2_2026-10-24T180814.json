@@ -1,0 +1,31 @@
+{
+ "script": "make_isolate_groups_multicompartment_v2.py",
+ "run_time": "2026-10-24T18:08:14-05:00",
+ "dataset": "10_phase8_analysis/data/analysis_dataset_v3_2026-10-24T180810_PROVISIONAL",
+ "previous_books": [
+  "isolate_groups_multicompartment_v1_2026-10-21.xlsx"
+ ],
+ "inputs": {
+  "studies": {
+   "path": "10_phase8_analysis/data/analysis_dataset_v3_2026-10-24T180810_PROVISIONAL/studies.csv",
+   "md5": "71490828f21d1eb1fd3d95d85e51b6fd"
+  },
+  "ast": {
+   "path": "10_phase8_analysis/data/analysis_dataset_v3_2026-10-24T180810_PROVISIONAL/ast.csv",
+   "md5": "cb53a727daae7fdaa4691ad221d8a16c"
+  },
+  "reports": {
+   "path": "10_phase8_analysis/data/tidy_tables_v0_2026-10-20/reports.csv",
+   "md5": "be8246dc9ecd7906fdd5637ede84710b"
+  },
+  "lookup": {
+   "path": "10_phase8_analysis/data/lookups/compartments_v1.csv",
+   "md5": "acbd2e7549ac4c1ea175abe558f6effd"
+  }
+ },
+ "outputs": {
+  "isolate_groups_multicompartment_v2_2026-10-24T180814.xlsx": "82674f2225085b8bd8c413f5776573b2"
+ },
+ "reports": 6,
+ "rows": 12
+}

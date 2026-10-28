@@ -1,0 +1,551 @@
+method_raw,n_rows,method_cat
+Broth microdilution,1180,broth_microdilution_CLSI_or_unspecified
+microdilution CLSI,792,broth_microdilution_CLSI_or_unspecified
+Disk diffusion,697,disk_diffusion
+Sensititre YeastOne,576,commercial_microdilution_SYO
+Vitek 2,530,commercial_automated_VITEK2
+E-test,463,gradient_diffusion
+EUCAST microdilution,291,broth_microdilution_EUCAST
+Broth microdilution CLSI,262,broth_microdilution_CLSI_or_unspecified
+Sensititre YeastOne YO10,225,commercial_microdilution_SYO
+ATB Fungus 3,146,commercial_ATB_FUNGUS
+Vitek 2 AST-YS08,111,commercial_automated_VITEK2
+Vitek 2 Compact,78,commercial_automated_VITEK2
+VITEK 2,76,commercial_automated_VITEK2
+Disk diffusion (10 µg),60,disk_diffusion
+Broth microdilution EUCAST,56,broth_microdilution_EUCAST
+ATB FUNGUS 3,52,commercial_ATB_FUNGUS
+microdilution,49,broth_microdilution_CLSI_or_unspecified
+Etest,46,gradient_diffusion
+Disk diffusion (25 µg),45,disk_diffusion
+Broth microdilution CLSI,44,broth_microdilution_CLSI_or_unspecified
+microdilution NCCLS,44,broth_microdilution_CLSI_or_unspecified
+ATB FUNGUS 3 (bioMérieux),43,commercial_ATB_FUNGUS
+Vitek 2 AST-YS07,39,commercial_automated_VITEK2
+ATB Fungus 3 (bioMérieux),38,commercial_ATB_FUNGUS
+Vitek 2 (AST-YS08 card),38,commercial_automated_VITEK2
+,36,not_reported
+Sensititre YeastOne YO9,31,commercial_microdilution_SYO
+Disk diffusion (1 µg),31,disk_diffusion
+Not specified,31,not_reported
+Vitek 2 AST-YS01,26,commercial_automated_VITEK2
+Broth microdilution NCCLS,26,broth_microdilution_CLSI_or_unspecified
+ATB Fungus,25,commercial_ATB_FUNGUS
+Disk diffusion (Mueller-Hinton + 2% glucose + methylene blue),25,disk_diffusion
+modified CLSI M27-A3 broth microdilution (Eiken plates),24,commercial_other
+Vitek 2 (AST-YS08),21,commercial_automated_VITEK2
+Disk diffusion (Neo-Sensitabs),21,disk_diffusion
+broth macrodilution,21,broth_macrodilution
+Integral System Yeast Plus (Liofilchem),20,commercial_other
+Disk diffusion (50 µg),20,disk_diffusion
+Disk diffusion,19,disk_diffusion
+Sensititre YeastOne (SYO-09),19,commercial_microdilution_SYO
+Broth microdilution (CLSI; method not described in the supplement),18,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (individual MICs),18,broth_microdilution_CLSI_or_unspecified
+Sensititre YeastOne (colorimetric microdilution),17,commercial_microdilution_SYO
+"mixed: Sensititre YeastOne, MICRONAUT-AM, Vitek 2, Etest, disk diffusion",17,mixed_methods
+Vitek 2/Phoenix/MicroScan/microdilution/disk,15,mixed_methods
+CLSI microdilution (48 h),15,broth_microdilution_CLSI_or_unspecified
+Vitek 2 Compact / broth dilution method,14,commercial_automated_VITEK2
+agar dilution (Steers replicator) on SDA,14,agar_dilution
+Not recorded,14,not_reported
+VITEK 2 (AST-YS08),13,commercial_automated_VITEK2
+VITEK 2 AST-YS08,13,commercial_automated_VITEK2
+Disk diffusion (100 U),13,disk_diffusion
+CLSI microdilution 24 h,13,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (in-house plates) CLSI,13,broth_microdilution_CLSI_or_unspecified
+Broth microdilution CLSI (spectrophotometric reading),13,broth_microdilution_CLSI_or_unspecified
+Fungitest,12,commercial_other
+Vitek 2 (AST),12,commercial_automated_VITEK2
+Vitek 2 (AST-YS01),12,commercial_automated_VITEK2
+Vitek 2 (AST-YS07),12,commercial_automated_VITEK2
+Vitek 2 (AST-YS07 card),12,commercial_automated_VITEK2
+Vitek 2 Compact AST-YS07,12,commercial_automated_VITEK2
+Disk diffusion (20 µg),12,disk_diffusion
+Disk diffusion (Kirby-Bauer),12,disk_diffusion
+Disk diffusion 10 µg,12,disk_diffusion
+microdilution (method not visible in the supplementary material),12,broth_microdilution_CLSI_or_unspecified
+commercial microdilution bioMérieux,12,commercial_other
+gradient strips,12,gradient_diffusion
+ATB Fungus 2,11,commercial_ATB_FUNGUS
+Vitek 2 (bioMérieux),11,commercial_automated_VITEK2
+Disk diffusion (100 µg),11,disk_diffusion
+Disk diffusion (Liofilchem),11,commercial_other
+Disk diffusion (Kirby-Bauer),10,disk_diffusion
+agar well diffusion,10,well_diffusion_nonstandard
+microdilution (Eiken DP),10,commercial_other
+EUCAST microdilution (E.Def),10,broth_microdilution_EUCAST
+commercial colorimetric microdilution,10,commercial_other
+Broth microdilution (NCCLS),10,broth_microdilution_CLSI_or_unspecified
+ATB Fungus 3 (Jan 2016-May 2017) and Sensititre YeastOne (from Apr 2017),9,commercial_microdilution_SYO
+Microdilution CLSI,9,broth_microdilution_CLSI_or_unspecified
+EUCAST microdilution,9,broth_microdilution_EUCAST
+Broth microdilution CLSI (spectrophotometric reading at 48 h),9,broth_microdilution_CLSI_or_unspecified
+Sensititre YeastOne (colorimetric),9,commercial_microdilution_SYO
+Sensititre YeastOne 9,9,commercial_microdilution_SYO
+Sensititre YeastOne SYO-09,9,commercial_microdilution_SYO
+Sensititre YeastOne Y010,9,commercial_microdilution_SYO
+Sensititre YeastOne YO-09,9,commercial_microdilution_SYO
+Sensititre YeastOne YO10 (colorimetric microdilution),9,commercial_microdilution_SYO
+"Sensititre YeastOne YO10 (microdilution), 24 h reading",9,commercial_microdilution_SYO
+Disk diffusion (100 UI),9,disk_diffusion
+Disk diffusion (antifungal susceptibility test with disks),9,disk_diffusion
+Disk diffusion Neo-Sensitabs,9,disk_diffusion
+microdilution (Sensititre YO10),9,commercial_microdilution_SYO
+Micronaut-AM microdilution,9,commercial_other
+Broth microdilution CLSI (48 h reading),9,broth_microdilution_CLSI_or_unspecified
+Broth microdilution CLSI (in-house 96 microwells plates),9,broth_microdilution_CLSI_or_unspecified
+Broth microdilution CLSI M27-A3,9,broth_microdilution_CLSI_or_unspecified
+Broth microdilution colorimetric,9,broth_microdilution_CLSI_or_unspecified
+reference broth microdilution (frozen panels),9,broth_microdilution_CLSI_or_unspecified
+HiComb gradient strip,9,gradient_diffusion
+Candifast,8,commercial_other
+"E-test (RPMI 1640 agar, 2% glucose)",8,gradient_diffusion
+E-test (RPMI-1640),8,gradient_diffusion
+E-test on RPMI-1640 agar (confirmation by microdilution in case of doubt),8,gradient_diffusion
+"Etest (RPMI agar, Liofilchem)",8,commercial_other
+Sensititre YeastOne Y09,8,commercial_microdilution_SYO
+"Disk diffusion (Mueller-Hinton, Oxoid/Abtek disks)",8,disk_diffusion
+Disk diffusion + E-test,8,gradient_diffusion
+well diffusion (well diffusion),8,well_diffusion_nonstandard
+NCCLS broth macrodilution,8,broth_macrodilution
+DL-96Fungus microdilution,8,broth_microdilution_CLSI_or_unspecified
+EUCAST E.Def 7.3.1 microdilution,8,broth_microdilution_EUCAST
+Broth microdilution (RPMI-MOPS),8,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (Trek panels),8,broth_microdilution_CLSI_or_unspecified
+Broth microdilution modified,8,broth_microdilution_CLSI_or_unspecified
+E-test (bioMérieux),7,commercial_other
+Etest (coordinating centers),7,gradient_diffusion
+CLSI broth macrodilution,7,broth_macrodilution
+Sensititre YeastOne (coordinating centers),7,commercial_microdilution_SYO
+Disk diffusion (30 µg),7,disk_diffusion
+Disk diffusion (5 µg),7,disk_diffusion
+"Disk diffusion (Kirby-Bauer, Hi Media)",7,disk_diffusion
+"Disk diffusion (Kirby-Bauer, Bioanalyse disks)",7,disk_diffusion
+"Disk diffusion (Neo-Sensitabs tablets, Rosco)",7,disk_diffusion
+microdilution (Dry Plate Eiken),7,commercial_other
+CLSI microdilution (24 h),7,broth_microdilution_CLSI_or_unspecified
+EUCAST E.Def 7.2 microdilution,7,broth_microdilution_EUCAST
+Broth microdilution (according to CLSI M38-A2),7,broth_microdilution_CLSI_or_unspecified
+ATB Fungus (bioMérieux) and disk diffusion Drouhet-Dupont,6,commercial_ATB_FUNGUS
+Disk diffusion (Mueller-Hinton + 2% glucose + methylene blue),6,disk_diffusion
+"Disk diffusion (Mueller-Hinton; HiMedia discs FLU 25 µg, VOR 1 µg, AMB 100 µg)",6,disk_diffusion
+E-test (Himedia),6,gradient_diffusion
+MA120 automatizado,6,other
+NCCLS M27-A microdilution,6,broth_microdilution_CLSI_or_unspecified
+"Non-standard microdilution (Sánchez-Vargas et al., based on CLSI M38-A) with only two concentrations per antifungal; reading at 72 h",6,broth_microdilution_CLSI_or_unspecified
+VITEK 2 AST-YS07,6,commercial_automated_VITEK2
+VITEK 2 AST-YST07,6,commercial_automated_VITEK2
+VITEK 2 Compact,6,commercial_automated_VITEK2
+VITEK 2 compact (AST-YS07),6,commercial_automated_VITEK2
+"Vitek (""Viteck 8""; probably Vitek 2)",6,commercial_automated_VITEK2
+Vitek 1/2 (AST-YS07),6,commercial_automated_VITEK2
+Vitek 2 (AST-07),6,commercial_automated_VITEK2
+Vitek 2 (YS08),6,commercial_automated_VITEK2
+Vitek 2 (YST08 card),6,commercial_automated_VITEK2
+Vitek 2 AST-YS06 / ATB Fungus 3 / E-test,6,commercial_automated_VITEK2
+Vitek 2 Compact (YST08 card),6,commercial_automated_VITEK2
+agar dilution in YNB,6,agar_dilution
+semisolid agar (SAAS),6,other
+tablet diffusion (Rosco Neo-Sensitabs),6,disk_diffusion
+"Disk diffusion (100 µg, in-house disks)",6,disk_diffusion
+"Disk diffusion (25 µg, in-house prepared disks)",6,disk_diffusion
+"Disk diffusion (30 µg, in-house prepared disks)",6,disk_diffusion
+Disk diffusion (Hi-Media) on MHA,6,disk_diffusion
+Disk diffusion (modified Kirby-Bauer),6,disk_diffusion
+"Disk diffusion (Kirby-Bauer; Liofilchem discs: FLU 25 µg, VOR 20 µg, AmB 1 µg)",6,commercial_other
+Disk diffusion (Mueller-Hinton + 2% glucose),6,disk_diffusion
+"Disk diffusion (Mueller-Hinton; fluconazole 25 µg, voriconazole 1 µg, amphotericin B 20 µg)",6,disk_diffusion
+Disk diffusion / MIC strip,6,gradient_diffusion
+Disk diffusion CLSI M44-A,6,disk_diffusion
+macrodilution NCCLS,6,broth_macrodilution
+microdilution (Eiken),6,commercial_other
+microdilution (HR medium),6,broth_microdilution_CLSI_or_unspecified
+microdilution (modified CLSI M27-A3),6,broth_microdilution_CLSI_or_unspecified
+CLSI microdilution (TREK),6,broth_microdilution_CLSI_or_unspecified
+CLSI microdilution / VITEK 2,6,commercial_automated_VITEK2
+CLSI M27-A2 microdilution (visual reading 24 h),6,broth_microdilution_CLSI_or_unspecified
+CLSI M27-A3 microdilution,6,broth_microdilution_CLSI_or_unspecified
+EUCAST microdilution (AFST-EUCAST discussion document 7.1),6,broth_microdilution_EUCAST
+commercial microdilution (Eiken DP),6,commercial_other
+"commercial microdilution (Kyokuto) according to CLSI M27-A3, 48 h reading",6,commercial_other
+commercial microdilution (Mindray),6,commercial_other
+"Broth microdilution (NCCLS), 24 h reading",6,broth_microdilution_CLSI_or_unspecified
+"Broth microdilution (NCCLS), 48 h reading",6,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (RPMI 1640),6,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (Trek),6,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (spectrophotometric),6,broth_microdilution_CLSI_or_unspecified
+Broth microdilution CLSI M27 4th ed.,6,broth_microdilution_CLSI_or_unspecified
+Broth microdilution CLSI M27-A,6,broth_microdilution_CLSI_or_unspecified
+Broth microdilution NCCLS (reference method),6,broth_microdilution_CLSI_or_unspecified
+Broth microdilution NCCLS M27-A,6,broth_microdilution_CLSI_or_unspecified
+modified NCCLS M27-A broth microdilution,6,broth_microdilution_CLSI_or_unspecified
+Broth microdilution with resazurin (CLSI),6,broth_microdilution_CLSI_or_unspecified
+Not specified (VITEK-32 identification),6,commercial_automated_VITEK2
+gradient strip (Ezy MIC),6,gradient_diffusion
+gradient strip (Liofilchem),6,commercial_other
+ATB FUNGUS 3 (commercial broth microdilution),5,commercial_ATB_FUNGUS
+ATB Fungus (commercial microdilution),5,commercial_ATB_FUNGUS
+ATB Fungus / E-test,5,commercial_ATB_FUNGUS
+ATB Fungus 2 (microdilution),5,commercial_ATB_FUNGUS
+Disk diffusion (Hi-Media disks),5,disk_diffusion
+"E-test (RPMI 1640 agar), 48 h reading",5,gradient_diffusion
+E-test (gradient in RPMI-MOPS),5,gradient_diffusion
+Etest/EUCAST,5,gradient_diffusion
+Fungifast,5,other
+Fungitest (cut-off),5,commercial_other
+Concentration gradient (E-test) in RPMI,5,gradient_diffusion
+MICRONAUT-AM,5,commercial_other
+MicroScan WalkAway 96 Plus (automated microdilution),5,commercial_other
+MiniAPI ATB Fungus 2,5,commercial_ATB_FUNGUS
+Mueller-Hinton glucose (probable disk diffusion),5,disk_diffusion
+Phoenix 100; CLSI 2017 (criteria described as NCCLS M27-A),5,commercial_other
+Sensititre YeastOne SYO-09 (colorimetric microdilution),5,commercial_microdilution_SYO
+VITEK 2 (YS-01 card),5,commercial_automated_VITEK2
+VITEK 2 AST-YS,5,commercial_automated_VITEK2
+Vitek 2 (AST card),5,commercial_automated_VITEK2
+Vitek 2 AST-YS07/YS08,5,commercial_automated_VITEK2
+"agar diffusion (Neo-Sensitabs tablets, Rosco) on modified Shadomy medium",5,disk_diffusion
+Disk diffusion (BIOMIC),5,disk_diffusion
+"Disk diffusion (Kirby-Bauer, MHA, Oxoid disks)",5,disk_diffusion
+Disk diffusion CLSI M44-A + CLSI M27-A2 microdilution,5,disk_diffusion
+well diffusion,5,well_diffusion_nonstandard
+agar well diffusion,5,well_diffusion_nonstandard
+Agar dilution,5,agar_dilution
+Broth dilution,5,broth_microdilution_CLSI_or_unspecified
+Broth dilution (SAAMF),5,broth_microdilution_CLSI_or_unspecified
+"disk (Kirby-Bauer, MH + 2% glucose)",5,disk_diffusion
+microdilution (secondary data),5,broth_microdilution_CLSI_or_unspecified
+microdilution / literature data,5,broth_microdilution_CLSI_or_unspecified
+colorimetric microdilution (Yeast MIC Plate Kit),5,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (CLSI M27-A3),5,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (Eiken checkerboard),5,commercial_other
+Broth microdilution (JSMM standard method) and commercial Eiken frozen plate,5,commercial_other
+CLSI broth microdilution (reference) and ATB FUNGUS 3 (visual and automated reading),5,commercial_ATB_FUNGUS
+Broth microdilution RPMI,5,broth_microdilution_CLSI_or_unspecified
+Broth microdilution in-house,5,broth_microdilution_CLSI_or_unspecified
+miniAPI (ATB Fungus),5,commercial_ATB_FUNGUS
+Not specified (routine hospital antifungal susceptibility test),5,not_reported
+ASTY,4,other
+ASTY colorimetric microdilution,4,broth_microdilution_CLSI_or_unspecified
+ATB Fungus 2 (bioMérieux),4,commercial_ATB_FUNGUS
+ATB Fungus 3 / Sensititre YeastOne YO10,4,commercial_microdilution_SYO
+CLSI (not specified),4,broth_microdilution_CLSI_or_unspecified
+MIC (method in previous ref.),4,other
+Calgary biofilm (MBEC),4,biofilm_susceptibility_not_resistance
+"Disk diffusion (Kirby-Bauer, MH-GMB)",4,disk_diffusion
+Disk diffusion (MH + glucose + methylene blue; HiMedia disks),4,disk_diffusion
+"Disk diffusion (YNBGA, HiMedia disks)",4,disk_diffusion
+E-test (RPMI 1640),4,gradient_diffusion
+"E-test (RPMI 1640, 2% glucose)",4,gradient_diffusion
+E-test (RPMI 1640-glucose) + disk diffusion,4,gradient_diffusion
+"E-test (fluconazole, amphotericin B) in RPMI-1640",4,gradient_diffusion
+E-test (gradient on RPMI 1640 agar),4,gradient_diffusion
+E-test + Vitek 2,4,commercial_automated_VITEK2
+Modified E-test,4,gradient_diffusion
+Etest (RPMI agar),4,gradient_diffusion
+HiComb MIC (gradient),4,gradient_diffusion
+NCCLS M27-A broth macrodilution,4,broth_macrodilution
+"Broth microdilution (own method, pre-CLSI; 48 h, 30 °C, inoculum 10^4 CFU/mL)",4,broth_microdilution_CLSI_or_unspecified
+Broth microdilution EUCAST,4,broth_microdilution_EUCAST
+"Sensititre YeastOne (SYO-09), colorimetric",4,commercial_microdilution_SYO
+Sensititre YeastOne / ATB FUNGUS 3,4,commercial_microdilution_SYO
+Sensititre YeastOne Y-8 or Vitek 2 AST-YS01,4,commercial_microdilution_SYO
+Sensititre YeastOne colorimetric,4,commercial_microdilution_SYO
+VITEK 2 (YS07),4,commercial_automated_VITEK2
+VITEK 2 / Sensititre YeastOne,4,commercial_microdilution_SYO
+Vitek 2 (AST-SY01),4,commercial_automated_VITEK2
+Vitek 2 (AST-YST01),4,commercial_automated_VITEK2
+Vitek 2 (YST card),4,commercial_automated_VITEK2
+Vitek 2 / Sensititre YeastOne,4,commercial_microdilution_SYO
+Vitek 2 AST-Y07 (occasionally Sensititre YeastOne YO10),4,commercial_microdilution_SYO
+Vitek 2 AST-YS06,4,commercial_automated_VITEK2
+Vitek 2 Compact (AST-YS08),4,commercial_automated_VITEK2
+Vitek 2 Compact (AST-YS01 card),4,commercial_automated_VITEK2
+Vitek 2 Compact AST-YS,4,commercial_automated_VITEK2
+XTT biofilm (MIC80),4,biofilm_susceptibility_not_resistance
+diffusion with Neo-Sensitabs tablets,4,disk_diffusion
+Disk diffusion (15 µg),4,disk_diffusion
+"Disk diffusion (CECON, 50 µg)",4,disk_diffusion
+"Disk diffusion (Kirby-Bauer, MH + 2% glucose + methylene blue; HiMedia disks)",4,disk_diffusion
+"Disk diffusion (Kirby-Bauer, Mueller-Hinton + 2% glucose + methylene blue)",4,disk_diffusion
+"Disk diffusion (Kirby-Bauer, Neo-Sensitabs Rosco)",4,disk_diffusion
+"Disk diffusion (Neo-Sensitab, Rosco)",4,disk_diffusion
+Disk diffusion (Sensifungidisc),4,disk_diffusion
+Disk diffusion + Sensititre YeastOne,4,commercial_microdilution_SYO
+Disk diffusion / microdilution (not broken down),4,disk_diffusion
+Disk diffusion 50 µg,4,disk_diffusion
+"Agar dilution (Casitone agar, 27 °C, 2 days; MIC=complete inhibition)",4,agar_dilution
+"Agar dilution (Steers replicator), Sabouraud",4,agar_dilution
+Broth dilution (DO600),4,broth_microdilution_CLSI_or_unspecified
+tube dilution,4,other
+kit Autobio,4,other
+macrodilution SAAM-F,4,broth_macrodilution
+microdilution (cells dispersed from biofilm),4,biofilm_susceptibility_not_resistance
+CLSI microdilution (reference),4,broth_microdilution_CLSI_or_unspecified
+CLSI M27 microdilution,4,broth_microdilution_CLSI_or_unspecified
+CLSI M27-A2 microdilution,4,broth_microdilution_CLSI_or_unspecified
+DL-96FUNGUS microdilution,4,broth_microdilution_CLSI_or_unspecified
+Dry Plate Eiken microdilution,4,commercial_other
+EUCAST microdilution (according to ref.),4,broth_microdilution_EUCAST
+colorimetric microdilution (Sensititre YeastOne YO-10),4,commercial_microdilution_SYO
+microdilution with resazurin (non-standard),4,broth_microdilution_CLSI_or_unspecified
+"Broth microdilution (CLSI), planktonic cells",4,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (planktonic),4,broth_microdilution_CLSI_or_unspecified
+Broth microdilution / Vitek 2,4,commercial_automated_VITEK2
+Broth microdilution CLSI (spectrophotometric reading 24/48 h),4,broth_microdilution_CLSI_or_unspecified
+Broth microdilution EUCAST (AFST-EUCAST),4,broth_microdilution_EUCAST
+Broth microdilution according to CLSI (spectrophotometric reading 24 h),4,broth_microdilution_CLSI_or_unspecified
+Hicomb MIC gradient strip,4,gradient_diffusion
+Di'er strips (MIC),4,gradient_diffusion
+ASTY (colorimetric microdilution),3,broth_microdilution_CLSI_or_unspecified
+ATB FUNGUS 3 (microdilution),3,commercial_ATB_FUNGUS
+ATB Fungus 3 (commercial microdilution),3,commercial_ATB_FUNGUS
+ATB Fungus 3 / Vitek 2,3,commercial_automated_VITEK2
+ATB Fungus 3 / disk diffusion,3,commercial_ATB_FUNGUS
+E-test (RPMI 1640-MOPS),3,gradient_diffusion
+E-test and broth microdilution,3,gradient_diffusion
+EUCAST/Etest/VITEK 2,3,commercial_automated_VITEK2
+Etest and microdilution FP panel,3,gradient_diffusion
+Hi-comb MIC,3,other
+Integral System Yeasts Plus,3,commercial_other
+Broth macrodilution,3,broth_macrodilution
+Broth microdilution (commercial kit) in accordance with NCCLS,3,commercial_other
+Sensititre,3,commercial_microdilution_SYO
+Sensititre YeastOne / CLSI microdilution,3,commercial_microdilution_SYO
+VITEK 2 YST,3,commercial_automated_VITEK2
+Vitek 2 / Etest / MTS / Sensititre YeastOne / EUCAST,3,commercial_microdilution_SYO
+Vitek 2 and E-test,3,commercial_automated_VITEK2
+agar dilution (fluconazole) and broth microdilution (1991-93); Alamar Blue colorimetric microdilution based on NCCLS (1994-96),3,agar_dilution
+clinical definition (therapeutic failure),3,clinical_definition_not_in_vitro
+"Disk diffusion (Kirby-Bauer, MHA)",3,disk_diffusion
+"Disk diffusion (Kirby-Bauer, Mueller-Hinton)",3,disk_diffusion
+Disk diffusion (YeastOne confirmation in R/SDD),3,commercial_microdilution_SYO
+Disk diffusion + Vitek 2,3,commercial_automated_VITEK2
+Disk diffusion 25 µg,3,disk_diffusion
+well diffusion (agar),3,well_diffusion_nonstandard
+"Sabouraud broth macrodilution (MIC/MFC), no standard",3,broth_macrodilution
+CLSI microdilution (24 h reading),3,broth_microdilution_CLSI_or_unspecified
+CLSI microdilution (48 h reading),3,broth_microdilution_CLSI_or_unspecified
+CLSI microdilution (planktonic),3,broth_microdilution_CLSI_or_unspecified
+microdilution DIN,3,broth_microdilution_CLSI_or_unspecified
+EUCAST microdilution (E.Def 7.1),3,broth_microdilution_EUCAST
+MICRONAUT-AM microdilution,3,commercial_other
+microdilution TREK,3,broth_microdilution_CLSI_or_unspecified
+commercial microdilution (Sensi Quattro Candida EU),3,commercial_other
+"biofilm microdilution (crystal violet), RPMI-1640",3,biofilm_susceptibility_not_resistance
+Broth microdilution (FP Eiken),3,commercial_other
+Broth microdilution (fixed concentration),3,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (24 h reading),3,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (48 h reading),3,broth_microdilution_CLSI_or_unspecified
+"microdilution in CSM medium (non-standard), MIC80 reading at 48 h, 30 °C",3,broth_microdilution_CLSI_or_unspecified
+Not recorded (ref. 11),3,not_reported
+MIC gradient strip,3,gradient_diffusion
+ATB FUNGUS 2/3,2,commercial_ATB_FUNGUS
+ATB FUNGUS 2/3 / E-test,2,commercial_ATB_FUNGUS
+BD Phoenix,2,commercial_other
+"Agar dilution (YNB, 25 °C, 48 h)",2,agar_dilution
+E-test (2) and Sensititre YeastOne (2),2,commercial_microdilution_SYO
+E-test (Himedia Ezy MIC),2,gradient_diffusion
+E-test (RPMI pH 4.5),2,gradient_diffusion
+E-test (RPMI pH 7.0),2,gradient_diffusion
+E-test / Vitek 2,2,commercial_automated_VITEK2
+E-test o Sensititre YeastOne,2,commercial_microdilution_SYO
+E-test o Vitek 2,2,commercial_automated_VITEK2
+Etest / MTS / Sensititre YeastOne / EUCAST,2,commercial_microdilution_SYO
+Fungitest + E-test,2,commercial_other
+MBEC50/MBEC80 in biofilm (XTT),2,biofilm_susceptibility_not_resistance
+Sensititre YeastOne YO-10 (microdilution),2,commercial_microdilution_SYO
+VITEK 2C / microdilution,2,commercial_automated_VITEK2
+Vitek,2,commercial_automated_VITEK2
+Vitek 2 (CMI automatizada),2,commercial_automated_VITEK2
+Vitek 2 / Etest / MTS / Sensititre YeastOne / EUCAST microdilution,2,commercial_microdilution_SYO
+agar diffusion (own method),2,disk_diffusion
+Disk diffusion (2009-2014) + Sensititre YeastOne (2014-2018),2,commercial_microdilution_SYO
+Disk diffusion (Biomic),2,disk_diffusion
+Disk diffusion (CECON),2,disk_diffusion
+Disk diffusion (MIC by BIOMIC regression),2,disk_diffusion
+"Disk diffusion (GM-MH, fluconazole 10 µg, voriconazole 1 µg)",2,disk_diffusion
+Disk diffusion (Mueller-Hinton + glucose + methylene blue),2,disk_diffusion
+Disk diffusion (Neo-Sensitabs 10 µg),2,disk_diffusion
+"Disk diffusion (Neo-Sensitabs, MHA-GMB)",2,disk_diffusion
+"Disk diffusion (amphotericin B 100 µg, Mueller-Hinton glucose methylene blue agar) + RPMI microdilution (Noumi et al.)",2,disk_diffusion
+Disk diffusion + MIC strip,2,gradient_diffusion
+Disk diffusion 1 µg,2,disk_diffusion
+Disk diffusion 100 U,2,disk_diffusion
+Disk diffusion 20 µg,2,disk_diffusion
+Disk diffusion CLSI M44-A2,2,disk_diffusion
+Disk diffusion NCCLS M44-P (BIOMIC),2,disk_diffusion
+Disk diffusion and Vitek 2,2,commercial_automated_VITEK2
+Disk diffusion and broth macrodilution (non-standard),2,disk_diffusion
+gradient diffusion (HiComb),2,gradient_diffusion
+well/disk diffusion,2,well_diffusion_nonstandard
+Agar dilution (SGA),2,agar_dilution
+tube dilution (OD600) and disk diffusion,2,disk_diffusion
+BHI broth macrodilution,2,broth_macrodilution
+CLSI broth macrodilution,2,broth_macrodilution
+Broth microdilution,2,broth_microdilution_CLSI_or_unspecified
+"microdilution (CLSI M27 procedure, 2017); system not specified",2,broth_microdilution_CLSI_or_unspecified
+CLSI microdilution or ATB Fungus 2,2,commercial_ATB_FUNGUS
+"EUCAST microdilution (24 h, MIC50)",2,broth_microdilution_EUCAST
+NCCLS M27-A microdilution (24 and 48 h reading),2,broth_microdilution_CLSI_or_unspecified
+"modified NCCLS microdilution (48 h, MIC80)",2,broth_microdilution_CLSI_or_unspecified
+"microdilution in SAAMF (30 °C, 24 h, 100% inhibition)",2,broth_microdilution_CLSI_or_unspecified
+"Broth microdilution (RPMI, 48 h)",2,broth_microdilution_CLSI_or_unspecified
+"Broth microdilution (spectrophotometric, M3 medium)",2,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (semiquantitative scoring),2,broth_microdilution_CLSI_or_unspecified
+Broth microdilution CLSI 24 h,2,broth_microdilution_CLSI_or_unspecified
+Broth microdilution CLSI M27-A2,2,broth_microdilution_CLSI_or_unspecified
+Broth microdilution CLSI M27-A4,2,broth_microdilution_CLSI_or_unspecified
+Broth microdilution CLSI M27-ED4,2,broth_microdilution_CLSI_or_unspecified
+"Broth microdilution in 96-microwells plate, reading by OD 495 nm (≥90% inhibition)",2,broth_microdilution_CLSI_or_unspecified
+Broth microdilution and E-test,2,gradient_diffusion
+microdilution in AM3 medium (modified EUCAST),2,broth_microdilution_EUCAST
+in-house microdilution,2,broth_microdilution_CLSI_or_unspecified
+"microdilution, spectrophotometry 50% at 48 h",2,broth_microdilution_CLSI_or_unspecified
+"microdilution, spectrophotometry 80% at 48 h",2,broth_microdilution_CLSI_or_unspecified
+"microdilution, visual reading 24 h",2,broth_microdilution_CLSI_or_unspecified
+"microdilution, visual reading 48 h",2,broth_microdilution_CLSI_or_unspecified
+Not specified (ATB Fungus does not include echinocandins),2,commercial_ATB_FUNGUS
+ATB FUNGUS 3 / E-test,1,commercial_ATB_FUNGUS
+CLSI (not detailed),1,broth_microdilution_CLSI_or_unspecified
+biofilm MIC (50% reduction in XTT metabolic activity),1,biofilm_susceptibility_not_resistance
+MIC50 in biofilm (XTT),1,biofilm_susceptibility_not_resistance
+CandiFast,1,commercial_other
+"Candifast (colorimetric), 48 h reading",1,commercial_other
+Candifast / disk diffusion / E-test,1,commercial_other
+E-test (3) and Sensititre YeastOne (2),1,commercial_microdilution_SYO
+E-test (5) and Sensititre YeastOne (2),1,commercial_microdilution_SYO
+E-test (Liofilchem) and Vitek 2,1,commercial_automated_VITEK2
+E-test (Mueller-Hinton + 2% glucose + methylene blue) (24 h),1,gradient_diffusion
+E-test (Mueller-Hinton + 2% glucose + methylene blue) (48 h),1,gradient_diffusion
+E-test (RPMI 2% glucose),1,gradient_diffusion
+"E-test (RPMI agar, 48 h)",1,gradient_diffusion
+E-test (RPMI),1,gradient_diffusion
+E-test (agar antibiotic medium 3),1,gradient_diffusion
+E-test (confirmation by microdilution if MIC ≥1),1,gradient_diffusion
+E-test (screening) and broth microdilution (35 isolates),1,gradient_diffusion
+E-test (24 h reading),1,gradient_diffusion
+E-test / Sensititre YeastOne,1,commercial_microdilution_SYO
+E-test or broth microdilution,1,gradient_diffusion
+E-test and CLSI microdilution,1,gradient_diffusion
+"E-test, 48 h reading",1,gradient_diffusion
+EUCAST E.Def 7.3.1,1,broth_microdilution_EUCAST
+Etest / MTS / Sensititre YeastOne,1,commercial_microdilution_SYO
+EUCAST Etest/microdilution,1,gradient_diffusion
+"Integral System Yeasts, 48 h reading",1,commercial_other
+"MIC Strip Test (gradient, Liofilchem)",1,commercial_other
+Broth microdilution,1,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (BMD),1,broth_microdilution_CLSI_or_unspecified
+Sensititre YeastOne (24 h),1,commercial_microdilution_SYO
+Sensititre YeastOne / E-test,1,commercial_microdilution_SYO
+Sensititre YeastOne / Etest,1,commercial_microdilution_SYO
+"Sensititre YeastOne, 48 h reading",1,commercial_microdilution_SYO
+VITEK 2 (AST-YS08); 100% agreement with CLSI microdilution,1,commercial_automated_VITEK2
+Vitek 2 (fluconazole MICs confirmed by broth microdilution CLSI M27-A3),1,commercial_automated_VITEK2
+Vitek 2 / E-test,1,commercial_automated_VITEK2
+Vitek 2 / Etest / MTS / Sensititre YeastOne,1,commercial_microdilution_SYO
+Vitek 2 AF03 IUO,1,commercial_automated_VITEK2
+Vitek 2 Compact 30,1,commercial_automated_VITEK2
+XTT (planktonic cells),1,biofilm_susceptibility_not_resistance
+agar with 1% boric acid,1,other
+antifungal susceptibility test in liquid medium,1,other
+Odds & Abbott biotyping (growth in medium with 5-fluorocytosine),1,other
+Disk diffusion,1,disk_diffusion
+agar diffusion (Neo-Sensitabs 25 µg),1,disk_diffusion
+agar diffusion (Neo-Sensitab 15 µg tablets),1,disk_diffusion
+Disk diffusion (10 U),1,disk_diffusion
+Disk diffusion (10 µg) / microdilution,1,disk_diffusion
+Disk diffusion (2.5 µg),1,disk_diffusion
+"Disk diffusion (25 µg, GMB)",1,disk_diffusion
+"Disk diffusion (25 µg, YNBG), zone criterion and microcolonies of the author",1,disk_diffusion
+Disk diffusion (50 µg); MIC by diffusion,1,disk_diffusion
+Disk diffusion (8 µg),1,disk_diffusion
+"Disk diffusion (CECON, 1 and 10 µg)",1,disk_diffusion
+"Disk diffusion (CECON, 100 UI)",1,disk_diffusion
+"Disk diffusion (CECON, 100 µg)",1,disk_diffusion
+"Disk diffusion (CECON, 25 µg)",1,disk_diffusion
+Disk diffusion (HiCrome Candida with glucose),1,disk_diffusion
+Disk diffusion (MHAGMB and HCAG),1,disk_diffusion
+"Disk diffusion (MHAGMB, reference medium)",1,disk_diffusion
+"Disk diffusion (Mueller-Hinton + 2% glucose + methylene blue), 100 µg disk",1,disk_diffusion
+"Disk diffusion (Mueller-Hinton + 2% glucose + methylene blue), 25 µg disk",1,disk_diffusion
+Disk diffusion (Neo-Sensitabs 25 µg),1,disk_diffusion
+Disk diffusion (Rapid Labs),1,disk_diffusion
+Disk diffusion (E-test confirmation),1,gradient_diffusion
+Disk diffusion (confirmation by broth macrodilution),1,disk_diffusion
+Disk diffusion (fluconazole 25 µg),1,disk_diffusion
+"Disk diffusion (standard inoculum McFarland 0.5, 24 h reading)",1,disk_diffusion
+Disk diffusion (voriconazole 1 µg),1,disk_diffusion
+Disk diffusion (± Sensititre YeastOne if halo <17 mm),1,commercial_microdilution_SYO
+Disk diffusion + microdilution,1,disk_diffusion
+Disk diffusion / E-test,1,gradient_diffusion
+Disk diffusion / dilution with commercial systems,1,commercial_other
+Disk diffusion 10 µg (CECON),1,disk_diffusion
+Disk diffusion 100 UI,1,disk_diffusion
+Disk diffusion 100 UI (CECON),1,disk_diffusion
+Disk diffusion 100 µg,1,disk_diffusion
+Disk diffusion 25 µg (CECON),1,disk_diffusion
+Disk diffusion 25 µg + MIC,1,disk_diffusion
+Disk diffusion 25 µg on Mueller-Hinton-glucose-methylene blue,1,disk_diffusion
+Disk diffusion 50 µg (CECON),1,disk_diffusion
+Disk diffusion CLSI M44-A + CLSI M27-A2 microdilution (RPMI and AM3),1,disk_diffusion
+Disk diffusion with BIOMIC reading,1,disk_diffusion
+"Disk diffusion, 48 h reading",1,disk_diffusion
+Disk diffusion/agar dilution,1,disk_diffusion
+Disk diffusion; MIC by microwell diffusion,1,disk_diffusion
+serial dilution in modified RPMI-1640,1,other
+Agar dilution/microdilution/E-test,1,gradient_diffusion
+"Broth dilution YNB, 48 h reading",1,broth_microdilution_CLSI_or_unspecified
+tube dilution (OD600),1,other
+Fungicidal trial (survivors after 24 h in AmB 2 µg/mL),1,other
+"NCCLS M27-A broth macrodilution (RPMI 1640, 48 h)",1,broth_macrodilution
+Broth microdilution CLSI/EUCAST (or disk),1,disk_diffusion
+microdilution (Burgess and Bodey),1,broth_microdilution_CLSI_or_unspecified
+microdilution (RPMI) + disk diffusion,1,disk_diffusion
+microdilution (method not visible),1,broth_microdilution_CLSI_or_unspecified
+microdilution (according to previous study),1,broth_microdilution_CLSI_or_unspecified
+microdilution (EUCAST-type),1,broth_microdilution_EUCAST
+"CLSI microdilution (RPMI 1640, 48 h)",1,broth_microdilution_CLSI_or_unspecified
+"CLSI microdilution (antibiotic medium 3, 48 h)",1,broth_microdilution_CLSI_or_unspecified
+CLSI microdilution / Sensititre YeastOne,1,commercial_microdilution_SYO
+CLSI M27-A2 microdilution (48 h),1,broth_microdilution_CLSI_or_unspecified
+CLSI M27-A2 microdilution and CLSI M44-A disk diffusion,1,disk_diffusion
+"CLSI microdilution neutral pH (BMD-N), 24 h reading",1,broth_microdilution_CLSI_or_unspecified
+EUCAST microdilution in AM3 and E-test,1,gradient_diffusion
+modified EUCAST microdilution (AM3 medium),1,broth_microdilution_EUCAST
+"EUCAST microdilution, AM3 medium",1,broth_microdilution_EUCAST
+"EUCAST microdilution, RPMI 1640 medium",1,broth_microdilution_EUCAST
+EUCAST/Etest microdilution,1,gradient_diffusion
+FP panel microdilution (Eiken),1,commercial_other
+NCCLS microdilution (48 h),1,broth_microdilution_CLSI_or_unspecified
+NCCLS microdilution (complete inhibition),1,broth_microdilution_CLSI_or_unspecified
+NCCLS-M / EUCAST microdilution,1,broth_microdilution_EUCAST
+Sensititre microdilution,1,commercial_microdilution_SYO
+colorimetric microdilution,1,broth_microdilution_CLSI_or_unspecified
+NCCLS reference microdilution,1,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (24 h),1,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (48 h),1,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (BMD consistent with M27-A2; fluconazole in i.v. solution),1,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (EUCAST-modified) and disk diffusion,1,disk_diffusion
+"Broth microdilution (RPMI 1640 and TSB, concordant)",1,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (RPMI-1640),1,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (breakpoint concentrations),1,broth_microdilution_CLSI_or_unspecified
+"Broth microdilution (planktonic cells), 48 h reading",1,broth_microdilution_CLSI_or_unspecified
+Broth microdilution (high inoculum 10^4 CFU/mL),1,broth_microdilution_CLSI_or_unspecified
+"Broth microdilution (reference), 48 h reading",1,broth_microdilution_CLSI_or_unspecified
+"Broth microdilution CLSI (MIC80, visual reading 24 h)",1,broth_microdilution_CLSI_or_unspecified
+EUCAST broth microdilution (planktonic form),1,broth_microdilution_EUCAST
+Broth microdilution RPMI-1640,1,broth_microdilution_CLSI_or_unspecified
+Broth microdilution YNB,1,broth_microdilution_CLSI_or_unspecified
+modified CLSI broth microdilution (spectrophotometric reading 48 h),1,broth_microdilution_CLSI_or_unspecified
+"Broth microdilution, planktonic cells, visual reading 24 h",1,broth_microdilution_CLSI_or_unspecified
+modified microdilution,1,broth_microdilution_CLSI_or_unspecified
+microdilution/E-test,1,gradient_diffusion
+microdilution/Vitek,1,commercial_automated_VITEK2
+not described,1,other
+Not specified (VITEK 2/MicroScan probable),1,mixed_methods
+Not specified (local laboratories),1,not_reported
+Not specified (probably microdilution/Sensititre YeastOne),1,commercial_microdilution_SYO
+Not specified (hospital routine),1,not_reported
+Not specified for non-auris,1,not_reported

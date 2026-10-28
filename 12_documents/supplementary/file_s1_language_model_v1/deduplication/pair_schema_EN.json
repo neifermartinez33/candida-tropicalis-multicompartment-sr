@@ -1,0 +1,51 @@
+{
+  "type": "object",
+  "required": [
+    "decisions"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "decisions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "pair_id",
+          "decision",
+          "key_field",
+          "reason"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "pair_id": {
+            "type": "string"
+          },
+          "decision": {
+            "type": "string",
+            "enum": [
+              "SAME_WORK",
+              "DIFFERENT_WORKS",
+              "UNDECIDABLE"
+            ]
+          },
+          "key_field": {
+            "type": "string",
+            "enum": [
+              "doi",
+              "title",
+              "authors",
+              "year",
+              "issn_volume_page",
+              "record_type",
+              "none"
+            ]
+          },
+          "reason": {
+            "type": "string",
+            "maxLength": 200
+          }
+        }
+      }
+    }
+  }
+}

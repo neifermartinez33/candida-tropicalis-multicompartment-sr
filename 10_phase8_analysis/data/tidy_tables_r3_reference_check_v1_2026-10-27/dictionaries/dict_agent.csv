@@ -1,0 +1,10 @@
+agent_raw,n_rows,agent_std,agent_class,per_agent,rule
+fluconazole,12,fluconazole,triazole,True,exact
+amphotericin B,10,amphotericin B,polyene,True,exact
+voriconazole,9,voriconazole,triazole,True,exact
+echinocandins (anidulafungin/caspofungin/micafungin),5,echinocandin class (aggregated),echinocandin,False,pattern
+caspofungin,2,caspofungin,echinocandin,True,exact
+5-flucytosine,1,flucytosine,pyrimidine analogue,True,exact
+anidulafungin,1,anidulafungin,echinocandin,True,exact
+itraconazole,1,itraconazole,triazole,True,exact
+micafungin,1,micafungin,echinocandin,True,exact

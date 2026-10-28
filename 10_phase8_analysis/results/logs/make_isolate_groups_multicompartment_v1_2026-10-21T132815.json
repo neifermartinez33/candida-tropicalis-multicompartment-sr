@@ -1,0 +1,38 @@
+{
+ "script": "make_isolate_groups_multicompartment_v1.py",
+ "run_time": "2026-10-21T13:28:15-05:00",
+ "python": "3.12.15",
+ "pandas": "3.0.6",
+ "xlsxwriter": "3.2.9",
+ "inputs": {
+  "studies": {
+   "path": "10_phase8_analysis/data/analysis_dataset_v1_2026-10-20/studies.csv",
+   "md5": "0868cfeab00d5ea1a13f03dc47129a3a"
+  },
+  "ast": {
+   "path": "10_phase8_analysis/data/analysis_dataset_v1_2026-10-20/ast.csv",
+   "md5": "71f9cd704e8079c8edb29e0b62c61668"
+  },
+  "reports": {
+   "path": "10_phase8_analysis/data/tidy_tables_v0_2026-10-20/reports.csv",
+   "md5": "be8246dc9ecd7906fdd5637ede84710b"
+  },
+  "lookup": {
+   "path": "10_phase8_analysis/data/lookups/compartments_v1.csv",
+   "md5": "acbd2e7549ac4c1ea175abe558f6effd"
+  }
+ },
+ "outputs": {
+  "isolate_groups_multicompartment_v1_2026-10-21.xlsx": "767896814f0a6a71ce4bcfe0c21c255f"
+ },
+ "reports": 42,
+ "rows": 90,
+ "rows_by_compartment": {
+  "C1": 36,
+  "C2": 8,
+  "C3": 6,
+  "C4": 23,
+  "C5": 10,
+  "C6": 7
+ }
+}

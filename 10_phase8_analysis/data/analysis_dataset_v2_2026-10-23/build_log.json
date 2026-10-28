@@ -1,0 +1,136 @@
+{
+ "log": [
+  [
+   "Included in the extraction",
+   2801
+  ],
+  [
+   "Without truncated PDF",
+   2801
+  ],
+  [
+   "Without PDF of another work",
+   2786
+  ],
+  [
+   "Without country inferred from the affiliation (EC3)",
+   2784
+  ],
+  [
+   "Without duplicate records of the same PDF",
+   2743
+  ],
+  [
+   "Excluded by EC2 after the species_id triage (2026-10-23)",
+   2743
+  ]
+ ],
+ "rows": {
+  "studies": 2743,
+  "ast": 6957,
+  "molecular": 421,
+  "genotypes": 454,
+  "clade4": 38
+ },
+ "dropped_duplicates": [
+  "O01164",
+  "O03279",
+  "O03386",
+  "O04332",
+  "O05398",
+  "O06248",
+  "O09218",
+  "O11010",
+  "O11842",
+  "O13106",
+  "O14335",
+  "O17562",
+  "O17708",
+  "O21620"
+ ],
+ "ec2_triage_2026-10-23": {
+  "excluded": [
+   "O00870",
+   "O01013",
+   "O01223",
+   "O01737",
+   "O01829",
+   "O01982",
+   "O02514",
+   "O03121",
+   "O03305",
+   "O04195",
+   "O06897",
+   "O07326",
+   "O07554",
+   "O08311",
+   "O09559",
+   "O10140",
+   "O11248",
+   "O12153",
+   "O12406",
+   "O12871",
+   "O17520",
+   "R05038",
+   "R06524",
+   "R08073",
+   "R08641",
+   "R09184",
+   "R09269"
+  ],
+  "recodificados": {
+   "O00587": "conventional",
+   "O01685": "biochemical",
+   "O01992": "conventional",
+   "O04060": "biochemical",
+   "O04726": "conventional",
+   "O05039": "conventional",
+   "O05387": "conventional",
+   "O06380": "conventional",
+   "O06396": "conventional",
+   "O06474": "molecular",
+   "O07529": "conventional",
+   "O07801": "molecular",
+   "O08363": "molecular",
+   "O10645": "MALDI_TOF",
+   "O12172": "conventional",
+   "O12464": "conventional",
+   "O14808": "conventional",
+   "O14893": "conventional",
+   "O15896": "automated",
+   "O17788": "conventional",
+   "O21522": "automated",
+   "R00135": "biochemical",
+   "R00609": "automated",
+   "R00982": "conventional",
+   "R03308": "automated",
+   "R03645": "automated",
+   "R04473": "biochemical",
+   "R06096": "biochemical",
+   "R07535": "biochemical",
+   "R08179": "biochemical",
+   "R08287": "automated",
+   "R09338": "conventional",
+   "R09437": "molecular",
+   "O01668": "molecular",
+   "O13544": "conventional",
+   "O15030": "automated",
+   "O15416": "biochemical",
+   "R00651": "molecular",
+   "R04202": "conventional",
+   "R05458": "biochemical",
+   "R07360": "conventional",
+   "R08386": "biochemical"
+  },
+  "kept_not_specified": [
+   "O02083",
+   "O05783",
+   "O05789",
+   "O08185",
+   "O10899",
+   "O21821",
+   "R09339",
+   "R09771"
+  ]
+ }
+}

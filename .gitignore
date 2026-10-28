@@ -1,0 +1,27 @@
+# Allowlist (team decision 2026-10-28): the repository holds only the analysis matrices, the scripts,
+# the model results with their run logs, the tables, the figures and the supplementary material.
+*
+!*/
+!/README.md
+!/.gitignore
+# scripts of every phase and the computing environment
+!*.py
+!*.R
+!*.sh
+!/10_phase8_analysis/env/*.yml
+# analysis matrices: extraction matrix, tidy tables, analysis datasets, risk-of-bias assessment
+!/08_phase6_data_extraction/data_extraction_tropicalis.xlsx
+!/08_phase6_data_extraction/reference_check_2026-10-27/data_extraction_r3_v1_*.xlsx
+!/10_phase8_analysis/data/**
+!/09_phase7_risk_of_bias/results/**
+!/09_phase7_risk_of_bias/logs/**
+# model results and run logs
+!/10_phase8_analysis/results/**
+# tables, figures and supplementary material (manuscript drafts are not included)
+!/12_documents/tables/**
+!/12_documents/figures/**
+!/12_documents/supplementary/**
+# never
+__pycache__/
+*.pyc
+.~lock.*#

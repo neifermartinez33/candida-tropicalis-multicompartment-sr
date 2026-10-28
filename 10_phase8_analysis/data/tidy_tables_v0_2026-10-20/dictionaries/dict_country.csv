@@ -1,0 +1,182 @@
+country_raw,n_reports,iso3,who_region,multinational,inferred_flag,rule
+India,540,IND,SEAR,False,False,single
+Brazil,407,BRA,AMR,False,False,single
+China,252,CHN,WPR,False,False,single
+Iran,221,IRN,EMR,False,False,single
+Turkey,185,TUR,EUR,False,False,single
+United States,161,USA,AMR,False,False,single
+Spain,117,ESP,EUR,False,False,single
+Japan,92,JPN,WPR,False,False,single
+Nigeria,89,NGA,AFR,False,False,single
+Italy,88,ITA,EUR,False,False,single
+Taiwan,67,TWN,WPR,False,False,single
+Egypt,66,EGY,EMR,False,False,single
+Iraq,60,IRQ,EMR,False,False,single
+Vietnam,55,VNM,WPR,False,False,single
+France,53,FRA,EUR,False,False,single
+Mexico,47,MEX,AMR,False,False,single
+South Korea,46,KOR,WPR,False,False,single
+Saudi Arabia,39,SAU,EMR,False,False,single
+Thailand,39,THA,SEAR,False,False,single
+Colombia,36,COL,AMR,False,False,single
+Poland,36,POL,EUR,False,False,single
+Indonesia,35,IDN,SEAR,False,False,single
+Pakistan,34,PAK,EMR,False,False,single
+Argentina,32,ARG,AMR,False,False,single
+Germany,27,DEU,EUR,False,False,single
+United Kingdom,27,GBR,EUR,False,False,single
+Russia,26,RUS,EUR,False,False,single
+Greece,22,GRC,EUR,False,False,single
+Venezuela,21,VEN,AMR,False,False,single
+Portugal,19,PRT,EUR,False,False,single
+Chile,18,CHL,AMR,False,False,single
+Slovakia,18,SVK,EUR,False,False,single
+Malaysia,18,MYS,WPR,False,False,single
+Tunisia,18,TUN,EMR,False,False,single
+Australia,17,AUS,WPR,False,False,single
+Denmark,17,DNK,EUR,False,False,single
+Canada,16,CAN,AMR,False,False,single
+Nepal,16,NPL,SEAR,False,False,single
+Morocco,15,MAR,EMR,False,False,single
+Kuwait,14,KWT,EMR,False,False,single
+Hungary,13,HUN,EUR,False,False,single
+Austria,11,AUT,EUR,False,False,single
+Cameroon,11,CMR,AFR,False,False,single
+Côte d'Ivoire,11,CIV,AFR,False,False,single
+Peru,11,PER,AMR,False,False,single
+Singapore,11,SGP,WPR,False,False,single
+Uganda,11,UGA,AFR,False,False,single
+Ethiopia,10,ETH,AFR,False,False,single
+Sri Lanka,10,LKA,SEAR,False,False,single
+Tanzania,10,TZA,AFR,False,False,single
+Yemen,10,YEM,EMR,False,False,single
+Ecuador,8,ECU,AMR,False,False,single
+Ghana,8,GHA,AFR,False,False,single
+Israel,8,ISR,EUR,False,False,single
+Jordan,8,JOR,EMR,False,False,single
+South Africa,8,ZAF,AFR,False,False,single
+Algeria,7,DZA,AFR,False,False,single
+Belgium,7,BEL,EUR,False,False,single
+Lebanon,7,LBN,EMR,False,False,single
+Bulgaria,6,BGR,EUR,False,False,single
+Burkina Faso,6,BFA,AFR,False,False,single
+Costa Rica,6,CRI,AMR,False,False,single
+Portugal; Brazil,6,PRT;BRA,AMR+EUR,True,False,multi_listed
+Sweden,6,SWE,EUR,False,False,single
+Switzerland,6,CHE,EUR,False,False,single
+Saudi Arabia,5,SAU,EMR,False,False,single
+Kenya,5,KEN,AFR,False,False,single
+Libya,5,LBY,EMR,False,False,single
+Norway,5,NOR,EUR,False,False,single
+Paraguay,5,PRY,AMR,False,False,single
+Netherlands,5,NLD,EUR,False,False,single
+Czech Republic,5,CZE,EUR,False,False,single
+Romania,5,ROU,EUR,False,False,single
+Serbia,5,SRB,EUR,False,False,single
+Ukraine,5,UKR,EUR,False,False,single
+Bangladesh,4,BGD,SEAR,False,False,single
+Bangladesh,4,BGD,SEAR,False,False,single
+Qatar,4,QAT,EMR,False,False,single
+China (Hong Kong),4,HKG,WPR,False,False,single
+Philippines,4,PHL,WPR,False,False,single
+New Zealand,4,NZL,WPR,False,False,single
+Croatia,3,HRV,EUR,False,False,single
+United Arab Emirates,3,ARE,EMR,False,False,single
+Gabon,3,GAB,AFR,False,False,single
+Honduras,3,HND,AMR,False,False,single
+Senegal,3,SEN,AFR,False,False,single
+Sudan,3,SDN,EMR,False,False,single
+Turkey,3,TUR,EUR,False,False,single
+Germany; Austria,2,DEU;AUT,EUR,True,False,multi_listed
+Belarus,2,BLR,EUR,False,False,single
+Cuba,2,CUB,AMR,False,False,single
+Finland,2,FIN,EUR,False,False,single
+Hong Kong (China),2,HKG,WPR,False,False,single
+Iceland,2,ISL,EUR,False,False,single
+Italy; Spain,2,ITA;ESP,EUR,True,False,multi_listed
+Nicaragua,2,NIC,AMR,False,False,single
+Oman,2,OMN,EMR,False,False,single
+Palestine,2,PSE,EMR,False,False,single
+United Kingdom (Scotland),2,GBR,EUR,False,False,single
+Uruguay,2,URY,AMR,False,False,single
+Germany; Belgium; Netherlands; United States; United Kingdom,1,DEU;BEL;NLD;USA;GBR,AMR+EUR,True,False,multi_listed
+Angola,1,AGO,AFR,False,False,single
+Argentina; Brazil; Chile; Colombia; Ecuador; Honduras; Venezuela,1,ARG;BRA;CHL;COL;ECU;HND;VEN,AMR,True,False,multi_listed
+Argentina; Brazil; Peru; United States; Croatia; France; Iceland; Poland; Spain; South Africa; Republic of Korea; India; Thailand,1,ARG;BRA;PER;USA;HRV;FRA;ISL;POL;ESP;ZAF;KOR;IND;THA,AFR+AMR+EUR+SEAR+WPR,True,False,multi_listed
+Australia; Hong Kong; India; South Korea; New Zealand; Singapore; South Africa; Taiwan; Thailand,1,AUS;HKG;IND;KOR;NZL;SGP;ZAF;TWN;THA,AFR+SEAR+WPR,True,False,multi_listed
+Bahrain,1,BHR,EMR,False,False,single
+Brazil; Argentina; Peru; Venezuela,1,BRA;ARG;PER;VEN,AMR,True,False,multi_listed
+Brazil; Colombia; Argentina,1,BRA;COL;ARG,AMR,True,False,multi_listed
+Brazil; United States,1,BRA;USA,AMR,True,False,multi_listed
+Brazil; Portugal,1,BRA;PRT,AMR+EUR,True,False,multi_listed
+Brunei; Philippines; Singapore; South Korea; Taiwan; Thailand; Vietnam,1,BRN;PHL;SGP;KOR;TWN;THA;VNM,SEAR+WPR,True,False,multi_listed
+Belgium; Germany; Italy; Portugal; Spain,1,BEL;DEU;ITA;PRT;ESP,EUR,True,False,multi_listed
+Belgium; Netherlands,1,BEL;NLD,EUR,True,False,multi_listed
+Cambodia,1,KHM,WPR,False,False,single
+Cameroon; South Africa,1,CMR;ZAF,AFR,True,False,multi_listed
+Chad,1,TCD,AFR,False,False,single
+Czechoslovakia,1,CSK,EUR,False,False,single
+China (Hong Kong); Finland,1,HKG;FIN,EUR+WPR,True,False,multi_listed
+China; United States; Canada,1,CHN;USA;CAN,AMR+WPR,True,False,multi_listed
+China; Hong Kong; India; Singapore; Taiwan; Thailand,1,CHN;HKG;IND;SGP;TWN;THA,SEAR+WPR,True,False,multi_listed
+China; Japan,1,CHN;JPN,WPR,True,False,multi_listed
+China; Taiwan,1,CHN;TWN,WPR,True,False,multi_listed
+China; global (MLST/WGS collection from 5 continents),1,CHN,MULTI,True,False,multinational
+China; mixed/global (public clinical genomes),1,CHN,MULTI,True,False,multinational
+China; Indian Ocean (Sri Lanka),1,CHN,WPR,False,False,single
+Colombia; Ecuador; Venezuela,1,COL;ECU;VEN,AMR,True,False,multi_listed
+Côte d'Ivoire,1,CIV,AFR,False,False,single
+Denmark; Norway; Sweden; Greenland; Faroe Islands,1,DNK;NOR;SWE;GRL;FRO,EUR,True,False,multi_listed
+Egypt; Libya,1,EGY;LBY,EMR,True,False,multi_listed
+Slovenia,1,SVN,EUR,False,False,single
+Spain; Argentina,1,ESP;ARG,AMR+EUR,True,False,multi_listed
+Spain; France; Turkey; Iran; Greece; Italy; Poland; Germany; Austria; Czech Republic; India; Serbia; Thailand; United States,1,ESP;FRA;TUR;IRN;GRC;ITA;POL;DEU;AUT;CZE;IND;SRB;THA;USA,AMR+EMR+EUR+SEAR,True,False,multi_listed
+Spain; Italy; Brazil; Denmark,1,ESP;ITA;BRA;DNK,AMR+EUR,True,False,multi_listed
+Spain; Italy; Denmark; Brazil,1,ESP;ITA;DNK;BRA,AMR+EUR,True,False,multi_listed
+United States; Australia; New Zealand,1,USA;AUS;NZL,AMR+WPR,True,False,multi_listed
+United States; Bahamas,1,USA;BHS,AMR,True,False,multi_listed
+United States; Brazil; Israel,1,USA;BRA;ISR,AMR+EUR,True,False,multi_listed
+United States; Canada; Argentina; Brazil; Chile; Colombia; Mexico; Venezuela,1,USA;CAN;ARG;BRA;CHL;COL;MEX;VEN,AMR,True,False,multi_listed
+United States; Canada; Argentina; Brazil; Chile; Colombia; Uruguay,1,USA;CAN;ARG;BRA;CHL;COL;URY,AMR,True,False,multi_listed
+United States; Canada; Australia; China; Japan; Malaysia; Singapore; South Africa; Austria; Belgium; Czech Republic; France; Germany; Greece; Ireland; Israel; Italy; Netherlands; Poland; Portugal; Slovakia; Spain; Sweden; Switzerland; Turkey; United Kingdom; Argentina; Brazil; Chile; Colombia; Mexico; Venezuela,1,USA;CAN;AUS;CHN;JPN;MYS;SGP;ZAF;AUT;BEL;CZE;FRA;DEU;GRC;IRL;ISR;ITA;NLD;POL;PRT;SVK;ESP;SWE;CHE;TUR;GBR;ARG;BRA;CHL;COL;MEX;VEN,AFR+AMR+EUR+WPR,True,False,multi_listed
+United States; Spain; Ireland; India,1,USA;ESP;IRL;IND,AMR+EUR+SEAR,True,False,multi_listed
+United States; Panama,1,USA;PAN,AMR,True,False,multi_listed
+Europe (17 countries),1,,MULTI,True,False,multinational
+France (Réunion Island),1,REU,AFR,False,False,single
+France (Mayotte),1,MYT,AFR,False,False,single
+Georgia,1,GEO,EUR,False,False,single
+Grenada,1,GRD,AMR,False,False,single
+Greece; Turkey,1,GRC;TUR,EUR,True,False,multi_listed
+India (inferred),1,IND,SEAR,False,True,single
+Ireland,1,IRL,EUR,False,False,single
+Italy; Egypt; Cameroon,1,ITA;EGY;CMR,AFR+EMR+EUR,True,False,multi_listed
+Italy; Portugal; Spain; Greece; Cyprus,1,ITA;PRT;ESP;GRC;CYP,EUR,True,False,multi_listed
+Italy; Romania; Hungary; Bulgaria,1,ITA;ROU;HUN;BGR,EUR,True,False,multi_listed
+Japan; Vietnam,1,JPN;VNM,WPR,True,False,multi_listed
+Latvia,1,LVA,EUR,False,False,single
+Lithuania,1,LTU,EUR,False,False,single
+North Macedonia,1,MKD,EUR,False,False,single
+Mali,1,MLI,AFR,False,False,single
+Morocco; Italy,1,MAR;ITA,EMR+EUR,True,False,multi_listed
+Nigeria; Tanzania,1,NGA;TZA,AFR,True,False,multi_listed
+Niger,1,NER,AFR,False,False,single
+Netherlands,1,NLD,EUR,False,False,single
+Pakistan; China,1,PAK;CHN,EMR+WPR,True,False,multi_listed
+Panama,1,PAN,AMR,False,False,single
+Netherlands; United States,1,NLD;USA,AMR+EUR,True,False,multi_listed
+Netherlands; Greece; Qatar; Kuwait; India,1,NLD;GRC;QAT;KWT;IND,EMR+EUR+SEAR,True,False,multi_listed
+Qatar,1,QAT,EMR,False,False,single
+United Kingdom; Austria; Spain; Denmark,1,GBR;AUT;ESP;DNK,EUR,True,False,multi_listed
+United Kingdom; United States; Belgium; Germany; Greece; Netherlands; Sweden; Australia,1,GBR;USA;BEL;DEU;GRC;NLD;SWE;AUS,AMR+EUR+WPR,True,False,multi_listed
+United Kingdom; Japan,1,GBR;JPN,EUR+WPR,True,False,multi_listed
+United Kingdom; Taiwan; others (not detailed in the text),1,GBR;TWN,MULTI,True,False,multinational
+Czech Republic (inferred from affiliation and funding),1,CZE,EUR,False,True,single
+Dominican Republic,1,DOM,AMR,False,False,single
+Republic of the Congo,1,COG,AFR,False,False,single
+Romania; Hungary; Bulgaria,1,ROU;HUN;BGR,EUR,True,False,multi_listed
+Russia (Crimea),1,RUS,EUR,False,False,single
+Somaliland (Somalia),1,SOM,EMR,False,False,single
+Switzerland; Germany,1,CHE;DEU,EUR,True,False,multi_listed
+"Taiwan; various (NCBI genomes: Asia 76%, Oceania 15%, Europe 5%, North America 3%)",1,TWN,MULTI,True,False,multinational
+Vietnam; Thailand,1,VNM;THA,SEAR+WPR,True,False,multi_listed
+multinational (25 countries),1,,MULTI,True,False,multinational

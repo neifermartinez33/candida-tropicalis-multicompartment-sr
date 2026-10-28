@@ -1,0 +1,11 @@
+country_raw,n_reports,iso3,who_region,multinational,inferred_flag,rule
+Australia,2,AUS,WPR,False,False,single
+United States,2,USA,AMR,False,False,single
+Brazil,1,BRA,AMR,False,False,single
+Brazil; Spain,1,BRA;ESP,AMR+EUR,True,False,multi_listed
+France,1,FRA,EUR,False,False,single
+India,1,IND,SEAR,False,False,single
+Israel,1,ISR,EUR,False,False,single
+Japan,1,JPN,WPR,False,False,single
+Spain,1,ESP,EUR,False,False,single
+Turkey,1,TUR,EUR,False,False,single

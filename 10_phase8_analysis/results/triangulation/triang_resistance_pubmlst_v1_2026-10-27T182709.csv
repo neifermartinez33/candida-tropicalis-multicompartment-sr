@@ -1,0 +1,9 @@
+source,compartment,agent,criterion,subset,resistant,classified,unclassifiable,senders,percent,ci_lower,ci_upper
+PubMLST,C1,fluconazole,MIC >= 8 mg/L (CLSI species-specific and EUCAST coincide),all senders,219,575,0,12,38.1,34.1,42.2
+PubMLST,C1,fluconazole,MIC >= 8 mg/L (CLSI species-specific and EUCAST coincide),without the largest sender (155 isolates),146,420,,11,34.8,30.2,39.5
+PubMLST,C2,fluconazole,MIC >= 8 mg/L (CLSI species-specific and EUCAST coincide),all senders,0,10,0,2,0.0,0.0,30.8
+PubMLST,C2,fluconazole,MIC >= 8 mg/L (CLSI species-specific and EUCAST coincide),without the largest sender (8 isolates),0,2,,1,0.0,0.0,84.2
+PubMLST,C1,voriconazole,MIC >= 1 mg/L (CLSI species-specific),all senders,85,391,0,12,21.7,17.8,26.2
+PubMLST,C1,voriconazole,MIC >= 1 mg/L (CLSI species-specific),without the largest sender (109 isolates),73,282,,11,25.9,20.9,31.4
+PubMLST,C2,voriconazole,MIC >= 1 mg/L (CLSI species-specific),all senders,0,10,0,2,0.0,0.0,30.8
+PubMLST,C2,voriconazole,MIC >= 1 mg/L (CLSI species-specific),without the largest sender (8 isolates),0,2,,1,0.0,0.0,84.2

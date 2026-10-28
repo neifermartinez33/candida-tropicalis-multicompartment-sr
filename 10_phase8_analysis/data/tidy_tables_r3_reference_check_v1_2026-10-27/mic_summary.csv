@@ -1,0 +1,17 @@
+ast_row_id,report_id,compartment,agent_std,method_cat,n_tested,mic_range,mic50,mic90,mic_gm,unit
+A00021,B004,C1,fluconazole,broth_microdilution_CLSI_or_unspecified,3,0.25-64,1.0,64,,µg/mL
+A00022,B004,C1,voriconazole,broth_microdilution_CLSI_or_unspecified,3,0.03-16,0.06,16,,µg/mL
+A00023,B004,C1,amphotericin B,broth_microdilution_CLSI_or_unspecified,3,0.125-0.25,0.125,0.25,,µg/mL
+A00024,B004,C1,caspofungin,broth_microdilution_CLSI_or_unspecified,3,0.015-0.06,0.06,0.06,,µg/mL
+A00025,B006,C1,fluconazole,commercial_other,11,0.25->64,0.5,>64,,µg/mL
+A00026,B006,C1,itraconazole,commercial_other,11,0.03->8,0.06,2,,µg/mL
+A00027,B006,C1,voriconazole,commercial_other,11,0.015->8,0.03,4,,µg/mL
+A00028,B006,C1,amphotericin B,commercial_other,11,0.25-0.5,0.5,0.5,,µg/mL
+A00029,B006,C1,caspofungin,commercial_other,7,0.25-0.5,0.5,0.5,,µg/mL
+A00030,B006,C1,micafungin,commercial_other,11,0.015-0.03,0.03,0.03,,µg/mL
+A00032,B010,C1,amphotericin B,broth_microdilution_CLSI_or_unspecified,1,0.12,,,,µg/mL
+A00033,B010,C1,fluconazole,broth_microdilution_CLSI_or_unspecified,1,4,,,,µg/mL
+A00034,B010,C1,anidulafungin,broth_microdilution_CLSI_or_unspecified,1,0.06,,,,µg/mL
+A00036,B015,C1,fluconazole,broth_microdilution_CLSI_or_unspecified,17,0.125-2,0.5,2,,µg/mL
+A00037,B015,C1,voriconazole,broth_microdilution_CLSI_or_unspecified,17,0.03-0.25,0.06,0.125,,µg/mL
+A00038,B015,C1,amphotericin B,broth_microdilution_CLSI_or_unspecified,17,0.5-2,1.0,2,,µg/mL

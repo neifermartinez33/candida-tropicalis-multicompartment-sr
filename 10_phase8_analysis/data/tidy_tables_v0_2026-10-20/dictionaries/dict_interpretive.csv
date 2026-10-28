@@ -1,0 +1,1156 @@
+interp_raw,n_rows,interp_standard,interp_documents,bp_type,flc_regime,version_inferred,parse_confidence,needs_check
+,782,not_reported,,,,False,high,False
+CLSI M27-A3,574,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2,324,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44-A,268,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-S4,247,CLSI,M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+NCCLS M27-A,230,CLSI,M27-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M60,224,CLSI,M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M44-A2,208,CLSI,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3/M27-S4,176,CLSI,M27-A3; M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI,156,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+EUCAST,113,EUCAST,,CBP_assumed,EUCAST,False,low,True
+CLSI (no version),98,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI M27-A3 / M27-S4,81,CLSI,M27-A3; M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+manufacturer,77,manufacturer,,,not_applicable_or_not_reported,False,low,True
+NCCLS M27-A2,72,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3/S4,53,CLSI,M27-A3; M27-S4,CBP_assumed,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3/M27-S3,46,CLSI,M27-A3; M27-S3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-S3,46,CLSI,M27-S3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27,44,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI (version not indicated),42,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI M27 4th ed. / M60,42,CLSI,M27 4th ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3 + M27-S4,42,CLSI,M27-A3; M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3/M60,41,CLSI,M27-A3; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M44,39,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27 4th ed.,37,CLSI,M27 4th ed,CBP_assumed,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A,37,CLSI,M27-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI (version not specified),36,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI M27M44S,36,CLSI,M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3 / M60,35,CLSI,M27-A3; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+EUCAST E.Def 7.3.2,35,EUCAST,E.Def 7.3.2,CBP_assumed,EUCAST,False,medium,False
+CLSI M60 1st ed.,34,CLSI,M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27M44S 3rd ed.,33,CLSI,M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+Not declared,31,not_reported,,,not_applicable_or_not_reported,False,low,True
+No cut-off,31,not_reported,,,not_applicable_or_not_reported,False,low,True
+CLSI M27-A4,30,CLSI,M27 4th ed,CBP_assumed,CLSI_species_specific_2012plus,False,medium,False
+CLSI (not specified),29,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI 2012,29,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+EUCAST v10.0,28,EUCAST,EUCAST BP v10.0,CBP,EUCAST,False,medium,False
+CLSI M60 1st ed. + M59 3rd ed.,27,CLSI,M60; M59,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+ECV,27,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+CLSI M27M44S 3rd ed. (2022),26,CLSI,M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M59 (ECV),26,CLSI,M59,ECV,CLSI_version_not_stated,True,low,True
+CLSI M60 1st ed. (CBP) / M59 2nd ed. (ECV),26,CLSI,M60; M59,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI 2022,25,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+CLSI ECV,25,CLSI,,ECV,CLSI_version_not_stated,True,low,True
+CLSI M27/M60,25,CLSI,M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M60 2nd ed. (2020) and M27M44S 3rd ed. (2022),25,CLSI,M27M44S; M60 2nd ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3 (cut-offs of table 1: M27-A2/M27-S3),24,CLSI,M27-A3; M27-A2; M27-S3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M60 2nd ed.,24,CLSI,M60 2nd ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+NCCLS M27-A (1997),24,CLSI,M27-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+Not specified,23,not_reported,,,not_applicable_or_not_reported,False,low,True
+EUCAST (not indicated version),22,EUCAST,,CBP_assumed,EUCAST,False,low,True
+NCCLS (no version),22,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+NCCLS M44-A,22,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-S4 (2012),21,CLSI,M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+criterion of the author; no standard,20,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Not recorded,20,not_reported,,,not_applicable_or_not_reported,False,low,True
+CLSI M27-S4 (CBP) + ECV CLSI,19,CLSI,M27-S4,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+EUCAST (not specified version),19,EUCAST,,CBP_assumed,EUCAST,False,low,True
+CLSI (CBP and ECV from Table S2); document and version not recorded,18,CLSI,,CBP+ECV,CLSI_version_not_stated,True,low,True
+CLSI (CBP and ECV; Table S2),18,CLSI,,CBP+ECV,CLSI_version_not_stated,True,low,True
+CLSI M27-A3; CBP CLSI M60; ECV CLSI M59,18,CLSI,M27-A3; M60; M59,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A4 / M60,18,CLSI,M27 4th ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+ECV CLSI,18,CLSI,,ECV,CLSI_version_not_stated,True,low,True
+manufacturer's instructions,18,manufacturer,,,not_applicable_or_not_reported,False,low,True
+Human cut-offs,18,author_or_other,,,not_applicable_or_not_reported,False,low,True
+CLSI M27-S4/M60,17,CLSI,M27-S4; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M60 2nd ed. + ECV CLSI,17,CLSI,M60 2nd ed; M60,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M60-Ed2,17,CLSI,M60 2nd ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27 (not specified version),16,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+EUCAST v11.0,16,EUCAST,EUCAST BP v11.0,CBP,EUCAST,False,medium,False
+CLSI M27-S4 (CBP) / ECV,15,CLSI,M27-S4,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+EUCAST E.Def 7.3,15,EUCAST,E.Def 7.3,CBP_assumed,EUCAST,False,medium,False
+NCCLS M27-P,15,CLSI,M27-P,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI (ref. M100 28th ed., 2018)",14,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+"CLSI M27-A2 (CBP of the time: FLC S≤8, SDD 16-32, R≥64; ITC S≤0.125, SDD 0.25-0.5, R≥1; VRC S≤1, SDD 2, R≥4; echinocandins S≤2; AMB S≤1; POS with the VRC CBP)",14,CLSI,M27-A2,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27/M44S and M57S (2022),14,CLSI,M27M44S; M57S,ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI (CBP and ECV; version not specified),13,CLSI,,CBP+ECV,CLSI_version_not_stated,True,low,True
+CLSI M27 / M60 (CBP) and CLSI ECV,13,CLSI,M60,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27/M59,13,CLSI,M59,ECV,CLSI_version_not_stated,True,low,True
+CLSI M27M44S 3rd ed. / M57S 4th ed.,13,CLSI,M27M44S; M57S,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+EUCAST E.Def 7.4,13,EUCAST,E.Def 7.4,CBP_assumed,EUCAST,False,medium,False
+of the author,13,author_or_other,,,not_applicable_or_not_reported,False,low,True
+CLSI (M27-A3/M44-A/M60),12,CLSI,M27-A3; M60; M44-A,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI 2009,12,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+"CLSI CBP (fluconazole, voriconazole, echinocandins) / ECV CLSI (itraconazole 0.5, posaconazole 0.12, amphotericin B 2) according to Table S2",12,CLSI,,CBP+ECV,CLSI_version_not_stated,True,low,True
+CLSI M27-A3 / M27-S3,12,CLSI,M27-A3; M27-S3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 / M27M44S 2022,12,CLSI,M27-A3; M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3; cut-offs M27-S4,12,CLSI,M27-A3; M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M44-A2 (2009),12,CLSI,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M57S (ECV),12,CLSI,M57S,ECV,CLSI_version_not_stated,True,low,True
+CLSI M60 (CBP) / M59 (ECV),12,CLSI,M60; M59,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+NCCLS M27-A (1999-2001); CLSI M27-A2/M27-A3/M27,12,CLSI,M27-A3; M27-A2; M27-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI (version not recorded),11,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI 2019,11,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+"CLSI M27-A3 (cut-offs of the time: FLU R≥64, VOR R≥4, AMB R≥2)",11,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 / M27M44S,11,CLSI,M27-A3; M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M60 1st ed. (2017),11,CLSI,M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M60 2020,11,CLSI,M60 2nd ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI/EUCAST (no version),11,CLSI+EUCAST,,CBP_assumed,CLSI_version_not_stated,True,low,True
+EUCAST E.Def 7.2,11,EUCAST,E.Def 7.2,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.3.2 / v10.0,11,EUCAST,E.Def 7.3.2; EUCAST BP v10.0,CBP,EUCAST,False,medium,False
+EUCAST breakpoints v9.0,11,EUCAST,EUCAST BP v9.0,CBP,EUCAST,False,medium,False
+manufacturer criterion (Rosco),11,author_or_other+manufacturer,,,not_applicable_or_not_reported,False,low,True
+CLSI (cited 'NCCLS 1997'; M27-A3),10,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27 4th ed. / M60-E2,10,CLSI,M27 4th ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3 / manufacturer,10,CLSI+manufacturer,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3 / kit,10,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; ECV,10,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+EUCAST 2018,10,EUCAST,,CBP_assumed,EUCAST,False,low,True
+EUCAST E.Def 7.3.1,10,EUCAST,E.Def 7.3.1,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.3.2; CBP EUCAST/ECOFF,10,EUCAST,E.Def 7.3.2,CBP+ECV,EUCAST,False,medium,False
+EUCAST clinical cut-offs (version not specified) / ECOFF,10,EUCAST,,ECV,EUCAST,False,low,True
+EUCAST v9.0,10,EUCAST,EUCAST BP v9.0,CBP,EUCAST,False,medium,False
+NCCLS,10,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+NCCLS M27-A (1997); cut-offs of Sutton et al. and NCCLS,10,CLSI+author_or_other,M27-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+No standard for interpretation; a single concentration per drug (red/orange/yellow color),10,not_reported,,,not_applicable_or_not_reported,False,low,True
+manufacturer criterion (HiMedia),10,author_or_other+manufacturer,,,not_applicable_or_not_reported,False,low,True
+manufacturer (CECON),10,manufacturer,,,not_applicable_or_not_reported,False,low,True
+CLSI 2012 (species-specific CBP) / ECV (Canton 2012; CLSI),9,CLSI,,CBP+ECV,CLSI_species_specific_2012plus,True,low,True
+CLSI 2017,9,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+CLSI 2021,9,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+CLSI CBP/ECV 2022 (M27M44S/M57S),9,CLSI,M27M44S; M57S,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+"CLSI M27 (manufacturer's criteria, non-species-specific cut-offs)",9,CLSI+author_or_other+manufacturer,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI M27-A (1997),9,CLSI,M27-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A2 (5-FC S<=4, I 8-16, R>=32; VOR S<=1, SDD 2, R>=4)",9,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 modified,9,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (2008),9,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; CBP echinocandins S ≤2 / NS ≥4,9,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-Ed4,9,CLSI,M27 4th ed,CBP_assumed,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-S2,9,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI M27-S4 (CBP) / CLSI M59 (ECV),9,CLSI,M27-S4; M59,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-S4; CBP M60 (2017) / ECV M59 (2018),9,CLSI,M27-S4; M60; M59,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27M44S (2022),9,CLSI,M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27M44S (CBP) + CLSI M57 (ECV),9,CLSI,M27M44S,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M60 (2020) / M59 (2020),9,CLSI,M60; M59,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI cut-offs species-specific (M27-S4) + ECV (Guangzhou 2012),9,CLSI,M27-S4,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI/EUCAST (version not specified),9,CLSI+EUCAST,,CBP_assumed,CLSI_version_not_stated,True,low,True
+manufacturer Rosco,9,manufacturer,,,not_applicable_or_not_reported,False,low,True
+Cut-off of the author,9,author_or_other,,,not_applicable_or_not_reported,False,low,True
+CBP CLSI M27-S4,8,CLSI,M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI (cites M27-A3; disk cut-offs in Table 1),8,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI 2018,8,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+CLSI M27 (2017),8,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+CLSI M27 (no version),8,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI M27 4th ed. / M60 1st ed. / M59 2nd ed.,8,CLSI,M27 4th ed; M60; M59,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27 4th ed./M60 2017,8,CLSI,M27 4th ed; M60 2nd ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A2/M27-S3,8,CLSI,M27-A2; M27-S3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 + species-specific cut-offs (Pfaller 2010/2011),8,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 with 24 h species-specific cut-offs (M27-S4),8,CLSI,M27-A3; M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3; CBP M27-M44S; ECV M60/M59/M27-S3,8,CLSI,M27-A3; M27-S3; M60; M59,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3; CLSI M60 (2nd ed. 2020) + ECV,8,CLSI,M27-A3; M60,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A4/M27-S3,8,CLSI,M27 4th ed; M27-S3,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-S4 (AmB: Park et al.),8,CLSI+author_or_other,M27-S4,CBP,CLSI_species_specific_2012plus,False,low,True
+CLSI M27M44S 3rd ed. (2022) / M57S 4th ed. (2022),8,CLSI,M27M44S; M57S,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M44-A / EUCAST,8,CLSI+EUCAST,M44-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M44-A; manufacturer criterion,8,CLSI+author_or_other+manufacturer,M44-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M60 / ECV Sensititre,8,CLSI+manufacturer,M60,CBP+ECV,CLSI_species_specific_2012plus,False,low,True
+CLSI M60 2nd ed. (2020),8,CLSI,M60 2nd ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M60 ED1,8,CLSI,M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+EUCAST E.Def 7.1 / BP v7.0,8,EUCAST,E.Def 7.1; EUCAST BP v7.0,CBP,EUCAST,False,medium,False
+EUCAST breakpoints v7.0 (2014) + ECV,8,EUCAST,EUCAST BP v7.0,CBP+ECV,EUCAST,False,medium,False
+"NCCLS M27-A (modified, Anaissie et al.)",8,CLSI+author_or_other,M27-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+criterion of the author,8,author_or_other,,,not_applicable_or_not_reported,False,low,True
+published criterion,8,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-offs of disk diffusion NCCLS,8,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+No CBP in CLSI M60,8,CLSI,M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI (2015 recommendation; M44-A2 cited),7,CLSI,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 + M27-S3,7,CLSI,M27-A3; M27-S3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-S3/M27-S4,7,CLSI,M27-S4; M27-S3,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-S4 + ECV,7,CLSI,M27-S4,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27/M60 2020,7,CLSI,M60 2nd ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27M44S 2022,7,CLSI,M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M38-A2,7,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI M44 (3rd ed., 2018)",7,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44-A (Neo-Sensitabs disk diffusion),7,CLSI+manufacturer,M44-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M44-A / M27-A2,7,CLSI,M27-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44-A/EUCAST,7,CLSI+EUCAST,M44-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M60 (CBP),7,CLSI,M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+EUCAST 10.0 + ECV,7,EUCAST,,ECV,EUCAST,False,low,True
+EUCAST E.Def 7.1,7,EUCAST,E.Def 7.1,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.1; cut-offs EUCAST/species-specific of the time,7,EUCAST,E.Def 7.1,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.3.1; breakpoints v9.0,7,EUCAST,E.Def 7.3.1; EUCAST BP v9.0,CBP,EUCAST,False,medium,False
+EUCAST EDef 7.1,7,EUCAST,E.Def 7.1,CBP_assumed,EUCAST,False,medium,False
+EUCAST v8.0 / CLSI M27-S4,7,CLSI+EUCAST,M27-S4; EUCAST BP v8.0,CBP,CLSI_species_specific_2012plus,False,low,True
+internal criterion,7,author_or_other,,,not_applicable_or_not_reported,False,low,True
+"CLSI M60 CBP (azoles, echinocandins); EUCAST v10 (amphotericin B); CLSI M27-A3 (flucytosine)",6,CLSI+EUCAST,M27-A3; M60; EUCAST BP v10,CBP,CLSI_species_specific_2012plus,False,low,True
+CLSI (M100-S25 according to authors),6,CLSI+author_or_other,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI (M27 4th ed., cited as 'M27-A2 4th Edition')",6,CLSI,M27 4th ed; M27-A2,CBP_assumed,CLSI_species_specific_2012plus,False,medium,False
+CLSI (M27-A2 cited),6,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI (M44-A2 cited),6,CLSI,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI (not identifiable document for yeasts; cites M100 2012),6,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+CLSI (cut-offs revised),6,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI 2016,6,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+CLSI 2018 (without document),6,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+CLSI 2018 / Pfaller and Diekema 2012 (MIC equivalents),6,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+CLSI 2024,6,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+CLSI CBP,6,CLSI,,CBP,CLSI_version_not_stated,True,low,True
+CLSI CBP species-specific,6,CLSI,,CBP,CLSI_version_not_stated,True,low,True
+CLSI CBP species-specific,6,CLSI,,CBP,CLSI_version_not_stated,True,low,True
+CLSI M27 4th ed. (2017) / M59 2nd ed. (2018),6,CLSI,M27 4th ed; M59,ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27 4th ed. (CBP),6,CLSI,M27 4th ed,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27 4th ed. + M60 2nd ed. (ECV M59 3rd ed.),6,CLSI,M27 4th ed; M60 2nd ed; M60; M59,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27 4th ed./M60 1st ed.,6,CLSI,M27 4th ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27 4th ed.; M27M44S-Ed3 and M57S-Ed4,6,CLSI,M27 4th ed; M27M44S; M57S,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A (cut-offs CLSI; caspofungin CLSI 2011),6,CLSI,M27-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 (method); criterion of the author,6,CLSI+author_or_other,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A2/M60,6,CLSI,M27-A2; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A2; cut-offs M27-S3,6,CLSI,M27-A2; M27-S3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (CLSI cut-offs),6,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (no cut-off),6,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 / EUCAST ECV v5.0,6,CLSI+EUCAST,M27-A3; EUCAST BP v5.0,CBP+ECV,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3 / M44-A (declared),6,CLSI,M27-A3; M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 with CBP species-specific (Pfaller 2011),6,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 supplement,6,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3/M27-S3/M27-S4,6,CLSI,M27-A3; M27-S4; M27-S3,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3; cut-offs of the author,6,CLSI+author_or_other,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-S4 (species-specific CBP); ECV for 5FC and AMB,6,CLSI,M27-S4,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27M44S (3rd ed.),6,CLSI,M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27M44S / M57S,6,CLSI,M27M44S; M57S,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M38-A (adapted),6,CLSI+author_or_other,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI M44-A / HiMedia,6,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44-A modified,6,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44-A3,6,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44-ED3 (2018),6,CLSI,M44 3rd ed; M44-A,CBP_assumed,CLSI_species_specific_2012plus,False,medium,False
+CLSI M44/M60 2020,6,CLSI,M60 2nd ed; M60; M44-A,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M59-E3 (ECV),6,CLSI,M59,ECV,CLSI_version_not_stated,True,low,True
+CLSI M60 (2020),6,CLSI,M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M60/M27-S4 (2000-2010) or EUCAST v9 (2011-2019),6,CLSI+EUCAST,M27-S4; M60; EUCAST BP v9,CBP,CLSI_species_specific_2012plus,False,low,True
+CLSI cut-offs species-specific (Pfaller 2010-2011),6,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+Chakrabarti et al. (YNBG),6,author_or_other,,,not_applicable_or_not_reported,False,low,True
+EUCAST (E.Def 7.3),6,EUCAST,E.Def 7.3,CBP_assumed,EUCAST,False,medium,False
+EUCAST / NCCLS M27-A,6,CLSI+EUCAST,M27-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+EUCAST 7.1 (provisional cut-offs),6,EUCAST,,CBP_assumed,EUCAST,False,low,True
+EUCAST CBP v9.0,6,EUCAST,EUCAST BP v9.0,CBP,EUCAST,False,medium,False
+EUCAST E.Def 7.1 / BP v6.1,6,EUCAST,E.Def 7.1; EUCAST BP v6.1,CBP,EUCAST,False,medium,False
+EUCAST E.Def 7.2; EUCAST v7.0 cut-offs,6,EUCAST,E.Def 7.2; EUCAST BP v7.0,CBP,EUCAST,False,medium,False
+EUCAST E.Def 7.3.2 / breakpoints v10.0,6,EUCAST,E.Def 7.3.2; EUCAST BP v10.0,CBP,EUCAST,False,medium,False
+EUCAST E.Def 7.3.2; breakpoints v10.0,6,EUCAST,E.Def 7.3.2; EUCAST BP v10.0,CBP,EUCAST,False,medium,False
+EUCAST E.Def 7.4 + CBP EUCAST,6,EUCAST,E.Def 7.4,CBP,EUCAST,False,medium,False
+EUCAST v8.0,6,EUCAST,EUCAST BP v8.0,CBP,EUCAST,False,medium,False
+EUCAST v8.1,6,EUCAST,EUCAST BP v8.1,CBP,EUCAST,False,medium,False
+EUCAST and CLSI M60 (2020),6,CLSI+EUCAST,M60,CBP,CLSI_species_specific_2012plus,False,low,True
+NCCLS M44-P,6,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+Rosco Neo-Sensitabs,6,manufacturer,,,not_applicable_or_not_reported,False,low,True
+criterion from literature,6,author_or_other,,,not_applicable_or_not_reported,False,low,True
+manufacturer Vitek 2,6,manufacturer,,,not_applicable_or_not_reported,False,low,True
+not explicit (CLSI M27-S3 cited),6,CLSI,M27-S3,CBP,CLSI_historical_pre2012,False,medium,False
+own,6,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-offs Vitek 2 (generic),6,manufacturer,,,not_applicable_or_not_reported,False,low,True
+No CBP,6,not_reported,,CBP,not_applicable_or_not_reported,False,low,True
+No standard,6,not_reported,,,not_applicable_or_not_reported,False,low,True
+interpretive no standard specified (Vitek 2 expert system),6,manufacturer,,,not_applicable_or_not_reported,False,low,True
+ATB FUNGUS 3 (criterion of the manufacturer),5,author_or_other+manufacturer,,,not_applicable_or_not_reported,False,low,True
+BrCAST 2019,5,EUCAST,,CBP_assumed,EUCAST,False,low,True
+CDC / manufacturer,5,manufacturer,,,not_applicable_or_not_reported,False,low,True
+CLSI (M27-Ed3),5,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI (M44/M51, cited as M22)",5,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI (M100-S27 citation),5,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI (adapted CLSI cut-offs; version not indicated) / Sheehan 1999 for AMB,5,CLSI+author_or_other,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+CLSI 1st ed.,5,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI 2014 (document not specified),5,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+CLSI CBP/ECV,5,CLSI,,CBP+ECV,CLSI_version_not_stated,True,low,True
+CLSI CBP; ECV if no CBP,5,CLSI,,CBP+ECV,CLSI_version_not_stated,True,low,True
+CLSI M100 (2023),5,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+CLSI M100-S20,5,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI M27 / M60 4th ed. (2017),5,CLSI,M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27 4th ed./M60 2nd ed.,5,CLSI,M27 4th ed; M60 2nd ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27 4th ed./M60 2nd ed.; EUCAST v10.0,5,CLSI+EUCAST,M27 4th ed; M60 2nd ed; M60; EUCAST BP v10.0,CBP,CLSI_species_specific_2012plus,False,low,True
+CLSI M27 Ed4 (2023),5,CLSI,M27 4th ed,CBP_assumed,CLSI_species_specific_2012plus,False,medium,False
+"CLSI M27-A2 (microdilution, visual reading 48 h)",5,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 (cut-offs of the authors for AmB and 5-FC),5,CLSI+author_or_other,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A2 / M27-S2 (and CLSI voriconazole and caspofungin breakpoints),5,CLSI,M27-A2,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (2008 CBP) and CLSI 2011 species-specific CBP,5,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (cut-offs of the authors),5,CLSI+author_or_other,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3 (cut-offs species-specific),5,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 + revised 24 h CBP,5,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 + CBP species-specific,5,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 / ECV,5,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 / M27 4th ed.; CBP or ECV specific to the species,5,CLSI,M27 4th ed; M27-A3,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3 / M27-S4 (CBP) and ECV,5,CLSI,M27-A3; M27-S4,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3/S3,5,CLSI,M27-A3; M27-S3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; CBP Pfaller & Diekema 2012,5,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; CLSI M27-S4 cut-offs,5,CLSI,M27-A3; M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A4/M60,5,CLSI,M27 4th ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-Ed4 / M60-Ed2,5,CLSI,M27 4th ed; M60 2nd ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-S4 (CBP species-specific),5,CLSI,M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-S4 and M60,5,CLSI,M27-S4; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-ed4 / M60,5,CLSI,M27 4th ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27M44S / M60-Ed2,5,CLSI,M27M44S; M60 2nd ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27M44S 3rd ed. (2022) / EUCAST 2020,5,CLSI+EUCAST,M27M44S,CBP,CLSI_species_specific_2012plus,False,low,True
+CLSI M27M44S 3rd ed. / M57 1st ed.,5,CLSI,M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27M44S-Ed3,5,CLSI,M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M44 3rd ed. + manufacturer's criterion,5,CLSI+author_or_other+manufacturer,M44 3rd ed; M44-A,CBP_assumed,CLSI_species_specific_2012plus,False,low,True
+CLSI M44-A / criterion manufacturer,5,CLSI+author_or_other+manufacturer,M44-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M44-A2 (modified),5,CLSI,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44-A2 / M60 1st ed.,5,CLSI,M60; M44-A2; M44-A,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M44-A2 / ROSCO,5,CLSI+manufacturer,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M60 / ECV,5,CLSI,M60,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M60 1st ed. (2017) / M59 2nd ed. (2018),5,CLSI,M60; M59,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M60 1st ed. (2017); ECV based on SYO,5,CLSI+manufacturer,M60,CBP+ECV,CLSI_species_specific_2012plus,False,low,True
+CLSI M60 2nd ed. (2020); miconazole R>8 and nystatin R>2 (literature),5,CLSI+author_or_other,M60 2nd ed; M60,CBP,CLSI_species_specific_2012plus,False,low,True
+CLSI M60-ED2,5,CLSI,M60 2nd ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M61,5,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI SSCBP (cut-offs specific by species, 2010-2011)",5,CLSI,,CBP,CLSI_historical_pre2012,True,low,True
+CLSI/NCCLS (not specified version),5,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+ECV SYO,5,manufacturer,,ECV,not_applicable_or_not_reported,False,low,True
+EUCAST 2008,5,EUCAST,,CBP_assumed,EUCAST,False,low,True
+EUCAST 2024,5,EUCAST,,CBP_assumed,EUCAST,False,low,True
+EUCAST E.Def 7.1 (spectrophotometric 24 h),5,EUCAST,E.Def 7.1,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.1; cut-offs EUCAST v5.0/v6.1,5,EUCAST,E.Def 7.1; EUCAST BP v5.0; EUCAST BP v6.1,CBP,EUCAST,False,medium,False
+EUCAST E.Def 7.3.1; ECOFF EUCAST / WT-UL of the author; breakpoints v9.0,5,EUCAST+author_or_other,E.Def 7.3.1; EUCAST BP v9.0,CBP+ECV,EUCAST,False,low,True
+EUCAST EDef 7.2,5,EUCAST,E.Def 7.2,CBP_assumed,EUCAST,False,medium,False
+EUCAST v10.0 / CLSI 2024 / BrCAST 2024,5,CLSI+EUCAST,EUCAST BP v10.0,CBP,CLSI_species_specific_2012plus,True,low,True
+JSMM (modification of NCCLS M27-P),5,CLSI+author_or_other,M27-P,CBP_assumed,CLSI_historical_pre2012,False,low,True
+NCCLS 2002 (M27-A2),5,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M27,5,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+NCCLS M27-A2 (criterion of the manufacturer),5,CLSI+author_or_other+manufacturer,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,low,True
+NCCLS M27-T,5,CLSI,M27-T,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M27-T (1995),5,CLSI,M27-T,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M44-A2,5,CLSI,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+Proposed modified NCCLS; cut-off of the author,5,CLSI+author_or_other,,CBP_assumed,CLSI_version_not_stated,True,low,True
+NCCLS/CLSI M27-A2,5,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+Zarei et al.,5,author_or_other,,,not_applicable_or_not_reported,False,low,True
+manufacturer (ref. CLSI M27-A2),5,CLSI+manufacturer,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,low,True
+manufacturer YO10,5,manufacturer,,,not_applicable_or_not_reported,False,low,True
+Etest technical guide (1993),5,manufacturer,,,not_applicable_or_not_reported,False,low,True
+Cut-offs from published studies,5,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-offs of the author,5,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-offs from the Vitek 2 manufacturer,5,manufacturer,,,not_applicable_or_not_reported,False,low,True
+No CBP CLSI,5,CLSI,,CBP,CLSI_version_not_stated,True,low,True
+BrCAST 2023,4,EUCAST,,CBP_assumed,EUCAST,False,low,True
+CLSI (NCCLS) M44-A,4,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI (not specified),4,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI (species-specific cut-offs; Pfaller and Diekema 2012, equivalent to M27-S4)",4,CLSI,M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI (current; S/SDD/I/R),4,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI 2008 (M27-A3/S3),4,CLSI,M27-A3; M27-S3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M100-S16,4,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI M27 (no version); cut-offs of the author,4,CLSI+author_or_other,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI M27 4th ed (cut-offs M27 4th ed, Table 2)",4,CLSI,M27 4th ed,CBP_assumed,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27 4th ed. (2017) + M60 1st ed. (2017),4,CLSI,M27 4th ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27 4th ed. / M27M44S,4,CLSI,M27 4th ed; M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27 4th ed. / M60 (2017),4,CLSI,M27 4th ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27 Ed4,4,CLSI,M27 4th ed,CBP_assumed,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A/M44-A,4,CLSI,M27-A; M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 (NCCLS 2002),4,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A2 (method); new species-specific CBP (Pfaller and Diekema 2012, equivalent to M27-S4)",4,CLSI,M27-A2; M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A2 / CLSI 2005,4,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2/M27-A3,4,CLSI,M27-A3; M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (cut-offs applied to MBEC),4,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 + cut-offs species-specific,4,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 / M27-S3 (earlier documents),4,CLSI,M27-A3; M27-S3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 / M57S,4,CLSI,M27-A3; M57S,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 / Pfaller 2012,4,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3/M27-S4 (R >0,5)",4,CLSI,M27-A3; M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3/M27-S4 and EUCAST,4,CLSI+EUCAST,M27-A3; M27-S4,CBP,CLSI_species_specific_2012plus,False,low,True
+CLSI M27-A3/S4 (ECV),4,CLSI,M27-A3; M27-S4,ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3/S4; ECV,4,CLSI,M27-A3; M27-S4,ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3; CBP CLSI M60 / ECV,4,CLSI,M27-A3; M60,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3; arbitrary cut-off,4,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; cut-offs CLSI M60,4,CLSI,M27-A3; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-Ed4/M59-Ed3,4,CLSI,M27 4th ed; M59,ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-S4 / M60,4,CLSI,M27-S4; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+"CLSI M27-S4 CBP (R >0,5)",4,CLSI,M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-S4 and M59 3rd ed. (adapted),4,CLSI+author_or_other,M27-S4; M59,CBP+ECV,CLSI_species_specific_2012plus,False,low,True
+CLSI M38-A2 (cited),4,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI M44-A (M44-A2 cited),4,CLSI,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44-A / Rosco criterion,4,CLSI+author_or_other+manufacturer,M44-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M44-A / manufacturer,4,CLSI+manufacturer,M44-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M44-A/manufacturer,4,CLSI+manufacturer,M44-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M44-A2 (cited),4,CLSI,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44-A2 (cut-off of the author),4,CLSI+author_or_other,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M44-A2 / manufacturer (Liofilchem),4,CLSI+manufacturer,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M44-A2; interpretation CLSI 2022,4,CLSI,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44-Ed3 / M60-Ed2,4,CLSI,M60 2nd ed; M60; M44 3rd ed; M44-A,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M44-S1 (2006) breakpoints,4,CLSI,M44-A,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M44-S3 (2009) + manufacturer,4,CLSI+manufacturer,M44-A; M44-S3,CBP,CLSI_historical_pre2012,False,low,True
+CLSI M44A,4,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M59-Ed3 (ECV),4,CLSI,M59,ECV,CLSI_version_not_stated,True,low,True
+CLSI; EUCAST since March 2012 (versions not specified),4,CLSI+EUCAST,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+Method-specific ECVs,4,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+EUCAST (cut-offs; version not recorded),4,EUCAST,,CBP_assumed,EUCAST,False,low,True
+EUCAST E.Def 7.1 + species-specific CBP,4,EUCAST,E.Def 7.1,CBP,EUCAST,False,medium,False
+EUCAST E.Def 7.3.1 / BP v9.0,4,EUCAST,E.Def 7.3.1; EUCAST BP v9.0,CBP,EUCAST,False,medium,False
+"EUCAST E.Def 7.3.2 (Arendrup et al., 2020)",4,EUCAST+author_or_other,E.Def 7.3.2,CBP_assumed,EUCAST,False,low,True
+EUCAST E.Def 7.3.2; CBP v10.0,4,EUCAST,E.Def 7.3.2; EUCAST BP v10.0,CBP,EUCAST,False,medium,False
+EUCAST E.Def 7.3.2; breakpoints/ECOFF EUCAST 2020-2021,4,EUCAST,E.Def 7.3.2,CBP+ECV,EUCAST,False,medium,False
+EUCAST E.Def 7.3.2; WT upper limit,4,EUCAST,E.Def 7.3.2,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.4 / BP v10.0,4,EUCAST,E.Def 7.4; EUCAST BP v10.0,CBP,EUCAST,False,medium,False
+EUCAST breakpoints v11.0,4,EUCAST,EUCAST BP v11.0,CBP,EUCAST,False,medium,False
+EUCAST clinical cut-offs (Arendrup et al. 2020),4,EUCAST+author_or_other,,CBP_assumed,EUCAST,False,low,True
+"EUCAST v10/v11 / CLSI M27-S4, M59",4,CLSI+EUCAST,M27-S4; M59; EUCAST BP v10; EUCAST BP v11,CBP+ECV,CLSI_species_specific_2012plus,False,low,True
+EUCAST v12.0,4,EUCAST,EUCAST BP v12.0,CBP,EUCAST,False,medium,False
+EUCAST v12.1,4,EUCAST,EUCAST BP v12.1,CBP,EUCAST,False,medium,False
+EUCAST and CLSI (version not specified),4,CLSI+EUCAST,,CBP_assumed,CLSI_version_not_stated,True,low,True
+Etest (Liofilchem) with ECV from Espinel-Ingroff et al.,4,author_or_other+manufacturer,,ECV,not_applicable_or_not_reported,False,low,True
+NCCLS (M27-A; version not specified),4,CLSI,M27-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M27-A 1997,4,CLSI,M27-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M27-A2 (2002),4,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M27-A2 + cut-offs EUCAST 2008/Thérèse 2006,4,CLSI+EUCAST,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,low,True
+NCCLS M27-A2 / Barry & Brown 1996,4,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M27-P (correlation),4,CLSI,M27-P,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+Standard/not identifiable cut-offs (Table 1 cited but absent from text),4,not_reported,,,not_applicable_or_not_reported,False,low,True
+"Cut-offs declared by the authors (AmB S≤1, I 2, R≥4; 5FC S≤4, I 8-16, R≥32; FLC S≤8?, SDD 16-32, R≥64; VOR S≤1, SDD 2, R≥4); standard not explicitly cited",4,author_or_other,,,not_applicable_or_not_reported,False,low,True
+criterion of the manufacturer,4,author_or_other+manufacturer,,,not_applicable_or_not_reported,False,low,True
+criterion of the author,4,author_or_other,,,not_applicable_or_not_reported,False,low,True
+criterion of the manufacturer,4,author_or_other+manufacturer,,,not_applicable_or_not_reported,False,low,True
+"of the author (S≤1, I=2, R≥4)",4,author_or_other,,,not_applicable_or_not_reported,False,low,True
+manufacturer (Rosco),4,manufacturer,,,not_applicable_or_not_reported,False,low,True
+manufacturer E-test,4,manufacturer,,,not_applicable_or_not_reported,False,low,True
+manufacturer's instructions (ATB Fungus 2),4,manufacturer,,,not_applicable_or_not_reported,False,low,True
+Cut-offs of the author/manufacturer,4,author_or_other+manufacturer,,,not_applicable_or_not_reported,False,low,True
+Cut-offs without standard document (S: ITR ≤0.125; VOR ≤1; FLZ ≤8; 5FC ≤4),4,unparsed,,,not_applicable_or_not_reported,False,low,True
+AFST-EUCAST,3,EUCAST,,CBP_assumed,EUCAST,False,low,True
+CBP CLSI species-specific (2012),3,CLSI,,CBP,CLSI_species_specific_2012plus,True,low,True
+"CLSI (2017, M60)",3,CLSI,M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI (ECV),3,CLSI,,ECV,CLSI_version_not_stated,True,low,True
+CLSI (M02-A11 cited),3,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI (Pfaller 2011),3,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+CLSI (implicit M27-S4 cut-offs),3,CLSI,M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI (no CBP),3,CLSI,,CBP,CLSI_version_not_stated,True,low,True
+CLSI (version not specified); S/R categorization of the author by biofilm formation,3,CLSI+author_or_other,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI 2008 (cut-offs old),3,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+CLSI 2011 (revised),3,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+CLSI 2012 (Pfaller),3,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+CLSI species-specific CBP (Pfaller 2010/2011) and M27-S3,3,CLSI,M27-S3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27 + CBP species-specific,3,CLSI,,CBP,CLSI_version_not_stated,True,low,True
+CLSI M27 2017,3,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+CLSI M27 4th ed. + M60 1st ed.,3,CLSI,M27 4th ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27 4th ed. / M27-S4,3,CLSI,M27 4th ed; M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A2 (2002),3,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 (according to manufacturer),3,CLSI+manufacturer,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3 (cited),3,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (method) + M60 1st ed. (cut-offs),3,CLSI,M27-A3; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3 (cut-off Pfaller and Diekema 2012),3,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (generic old cut-offs),3,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (no cut-off; interpretation of the author),3,CLSI+author_or_other,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3 + CBP revised,3,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 / CBP Pfaller 2011,3,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 / ECV Pfaller 2012,3,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 / EUCAST E.Def 7.4,3,CLSI+EUCAST,M27-A3; E.Def 7.4,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3 / M27-S3 and manufacturer,3,CLSI+manufacturer,M27-A3; M27-S3,CBP,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3 / M27-S4-M60,3,CLSI,M27-A3; M27-S4; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3 / M60 (2017),3,CLSI,M27-A3; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3/M27-S4; ECV CLSI M59 2nd ed.,3,CLSI,M27-A3; M27-S4; M59,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3/M60 (ECV),3,CLSI,M27-A3; M60,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+"CLSI M27-A3/S3, M27-S4",3,CLSI,M27-A3; M27-S4; M27-S3,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3; ECV Pfaller & Diekema 2012,3,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; ECV Pfaller 2012,3,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-Ed4 (ECV),3,CLSI,M27 4th ed,ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-Ed4/M60-Ed2,3,CLSI,M27 4th ed; M60 2nd ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-S3 (according to manufacturer),3,CLSI+manufacturer,M27-S3,CBP,CLSI_historical_pre2012,False,low,True
+CLSI M27-S3/S4,3,CLSI,M27-S3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-S4 (ECV),3,CLSI,M27-S4,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-S4 / EUCAST E.Def 7.2,3,CLSI+EUCAST,M27-S4; E.Def 7.2,CBP,CLSI_species_specific_2012plus,False,low,True
+CLSI M27/M60 (CBP),3,CLSI,M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27Ed4 / M60Ed2,3,CLSI,M27 4th ed; M60 2nd ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27M44S 3rd ed.,3,CLSI,M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27M44S-ED3,3,CLSI,M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27M44S-Ed3 / M57S-Ed4,3,CLSI,M27M44S; M57S,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27M44S/M57S,3,CLSI,M27M44S; M57S,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M44 (not indicated version),3,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44 3rd ed.,3,CLSI,M44 3rd ed; M44-A,CBP_assumed,CLSI_species_specific_2012plus,False,medium,False
+CLSI M44-A / Etest criterion,3,CLSI+author_or_other,M44-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M44-ED3,3,CLSI,M44 3rd ed; M44-A,CBP_assumed,CLSI_species_specific_2012plus,False,medium,False
+CLSI M44-S1,3,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44-S3,3,CLSI,M44-A; M44-S3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M57 (ECV),3,CLSI,,ECV,CLSI_version_not_stated,True,low,True
+CLSI M59 3rd ed. (ECV),3,CLSI,M59,ECV,CLSI_version_not_stated,True,low,True
+CLSI M59-Ed3 ECV,3,CLSI,M59,ECV,CLSI_version_not_stated,True,low,True
+CLSI M60 (1st ed.),3,CLSI,M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M60 / M27-S3,3,CLSI,M27-S3; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M60 2020 / ECV,3,CLSI,M60 2nd ed; M60,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M60-ED2:2020,3,CLSI,M60 2nd ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M60/M59,3,CLSI,M60; M59,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI revised species-specific cut-offs (Pfaller 2010/2011) / ECV,3,CLSI,,ECV,CLSI_historical_pre2012,True,low,True
+CLSI/EUCAST,3,CLSI+EUCAST,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI/NCCLS no version,3,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+DIN 58940-84,3,unparsed,,,not_applicable_or_not_reported,False,low,True
+ECV (CLSI),3,CLSI,,ECV,CLSI_version_not_stated,True,low,True
+ECV (Canton et al.),3,author_or_other,,ECV,not_applicable_or_not_reported,False,low,True
+ECV 2 mg/L,3,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+ECV CLSI M59,3,CLSI,M59,ECV,CLSI_version_not_stated,True,low,True
+"ECV EUCAST 0,12 / CLSI 0,06 µg/mL",3,CLSI+EUCAST,,ECV,CLSI_version_not_stated,True,low,True
+ECV EUCAST/CLSI (2 µg/mL),3,CLSI+EUCAST,,ECV,CLSI_version_not_stated,True,low,True
+ECV Sensititre YeastOne,3,manufacturer,,ECV,not_applicable_or_not_reported,False,low,True
+EUCAST (implicit),3,EUCAST,,CBP_assumed,EUCAST,False,low,True
+EUCAST (interpreted with cut-offs CLSI M27-A2),3,CLSI+EUCAST,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,low,True
+EUCAST / ECV SYO,3,EUCAST+manufacturer,,ECV,EUCAST,False,low,True
+EUCAST / NCCLS M27-A2,3,CLSI+EUCAST,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,low,True
+EUCAST E.Def 7.1; EUCAST voriconazole CBP (S ≤0.12; R >0.12 mg/L),3,EUCAST,E.Def 7.1,CBP,EUCAST,False,medium,False
+EUCAST E.Def 7.3.2; BP v10.0,3,EUCAST,E.Def 7.3.2; EUCAST BP v10.0,CBP,EUCAST,False,medium,False
+"EUCAST E.Def 7.3.2; WT-UL 0,5 mg/L",3,EUCAST,E.Def 7.3.2,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.4; breakpoints v10.0,3,EUCAST,E.Def 7.4; EUCAST BP v10.0,CBP,EUCAST,False,medium,False
+EUCAST E.Dis 7.1,3,EUCAST,,CBP_assumed,EUCAST,False,low,True
+EUCAST EDef 7.1 (method); cut-offs NCCLS M27-A2,3,CLSI+EUCAST,M27-A2; E.Def 7.1,CBP_assumed,CLSI_historical_pre2012,False,low,True
+EUCAST EDef 7.1; no cut-off,3,EUCAST,E.Def 7.1,CBP_assumed,EUCAST,False,medium,False
+EUCAST EDef 7.2 / v6.1,3,EUCAST,E.Def 7.2; EUCAST BP v6.1,CBP,EUCAST,False,medium,False
+EUCAST EDef 7.3,3,EUCAST,E.Def 7.3,CBP_assumed,EUCAST,False,medium,False
+NCCLS M27-A (1997); FLU/ITR according to Rex 1997; KTZ arbitrary points,3,CLSI,M27-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M27-A (cut-offs),3,CLSI,M27-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M27-A + literature (cut-offs adapted by the authors),3,CLSI+author_or_other,M27-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+NCCLS M27-A2 (inoculum),3,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M27-A2 / EUCAST 7.3.1,3,CLSI+EUCAST,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,low,True
+NCCLS M27-P (comparison),3,CLSI,M27-P,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS/CLSI M27,3,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+Neo-Sensitabs (manufacturer),3,manufacturer,,,not_applicable_or_not_reported,False,low,True
+Neo-Sensitabs Rosco,3,manufacturer,,,not_applicable_or_not_reported,False,low,True
+R ≥2 µg/mL (literature),3,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Rosco NeoSensitabs,3,manufacturer,,,not_applicable_or_not_reported,False,low,True
+Rosco Neosensitabs,3,manufacturer,,,not_applicable_or_not_reported,False,low,True
+base Vitek / ECV,3,manufacturer,,ECV,not_applicable_or_not_reported,False,low,True
+criterion PHLS,3,author_or_other,,,not_applicable_or_not_reported,False,low,True
+None,3,unparsed,,,not_applicable_or_not_reported,False,low,True
+None (adaptation of CLSI M27-A3 with CSM medium instead of RPMI),3,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+None (criterion of the author),3,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-offs cited (CLSI),3,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+Cut-offs of the author (no standard identified),3,author_or_other,,,not_applicable_or_not_reported,False,low,True
+manufacturer cut-offs ATB FUNGUS 3,3,manufacturer,,,not_applicable_or_not_reported,False,low,True
+No criterion,3,author_or_other,,,not_applicable_or_not_reported,False,low,True
+No criterion (ND),3,author_or_other,,,not_applicable_or_not_reported,False,low,True
+No criterion interpretive,3,author_or_other,,,not_applicable_or_not_reported,False,low,True
+≤1 µg/mL S (literature),2,author_or_other,,,not_applicable_or_not_reported,False,low,True
+CBP EUCAST,2,EUCAST,,CBP,EUCAST,False,low,True
+"CBP S<=0,25, R>=1 (Pfaller 2011)",2,unparsed,,CBP,not_applicable_or_not_reported,False,low,True
+CLSI (document not specified),2,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI (unspecified); cut-off of the author,2,CLSI+author_or_other,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI (no version); cut-off of the author ≥1 µg/mL,2,CLSI+author_or_other,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI / ECV SYO,2,CLSI+manufacturer,,ECV,CLSI_version_not_stated,True,low,True
+CLSI 2007 (not specified),2,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+CLSI 2008,2,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+CLSI 2011,2,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+CLSI 2012 (M27-S4) / EUCAST v6.1 (identical results),2,CLSI+EUCAST,M27-S4; EUCAST BP v6.1,CBP,CLSI_species_specific_2012plus,False,low,True
+CLSI 2022 (ECV),2,CLSI,,ECV,CLSI_species_specific_2012plus,True,low,True
+CLSI 2022 (document not specified),2,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+"CLSI CBP ≤2 µg/mL; ECV 0,12",2,CLSI,,CBP+ECV,CLSI_version_not_stated,True,low,True
+CLSI M100 31th ed.,2,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI M27 4th ed. / M27M44S / M57S,2,CLSI,M27 4th ed; M27M44S; M57S,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27 4th ed./M60,2,CLSI,M27 4th ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A2 (cut-offs of the author),2,CLSI+author_or_other,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A2 (cut-offs),2,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 / Pfaller 2006,2,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (CBP revised),2,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (cut-off of the author),2,CLSI+author_or_other,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3 (cut-offs for voriconazole),2,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (reapplied species-specific cut-offs),2,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 / CBP revised,2,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 / M60 ed.1,2,CLSI,M27-A3; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3/M27-S4 (ECV),2,CLSI,M27-A3; M27-S4,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3; BP CLSI (≥1),2,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; ECV Pfaller 2010,2,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; ECV Pfaller and Diekema 2012,2,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; cut-off of the author >1 R,2,CLSI+author_or_other,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,low,True
+"CLSI M27-A3; specific to the species cut-offs (S≤2, SDD 4, R≥8)",2,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A4 (criterion of the author),2,CLSI+author_or_other,M27 4th ed,CBP_assumed,CLSI_species_specific_2012plus,False,low,True
+CLSI M27-E4/M60,2,CLSI,M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-ED4; CBP M60 1st ed.,2,CLSI,M27 4th ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-Ed4 / ECV,2,CLSI,M27 4th ed,ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-Ed4 / M59-Ed3 (ECV),2,CLSI,M27 4th ed; M59,ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-S3 (S ≤1),2,CLSI,M27-S3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-S3/M60,2,CLSI,M27-S3; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-S4 (SS-CBP),2,CLSI,M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-S4 (cut-off of the author ≤1 S),2,CLSI+author_or_other,M27-S4,CBP,CLSI_species_specific_2012plus,False,low,True
+CLSI M27-S4 (cut-offs),2,CLSI,M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-S4 / ECV,2,CLSI,M27-S4,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27/M59 (ECV),2,CLSI,M59,ECV,CLSI_version_not_stated,True,low,True
+CLSI M27M44S (2022); cut-off of the author (R ≥1),2,CLSI+author_or_other,M27M44S,CBP,CLSI_species_specific_2012plus,False,low,True
+CLSI M27M44S 3rd ed./M60 2nd ed.,2,CLSI,M27M44S; M60 2nd ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27M44S-ED3 (ECV),2,CLSI,M27M44S,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M44 (M27M44S 3rd ed.),2,CLSI,M27M44S; M44-A,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M44 3rd ed.,2,CLSI,M44 3rd ed; M44-A,CBP_assumed,CLSI_species_specific_2012plus,False,medium,False
+CLSI M44 3rd ed. (2018),2,CLSI,M44 3rd ed; M44-A,CBP_assumed,CLSI_species_specific_2012plus,False,medium,False
+CLSI M44-A/M44-S2,2,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44-A2 (criterion of the author),2,CLSI+author_or_other,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M44-A2 (method); published cut-offs,2,CLSI+author_or_other,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M44-A2 + CBP Pfaller et al.,2,CLSI+author_or_other,M44-A2; M44-A,CBP,CLSI_historical_pre2012,False,low,True
+CLSI M44-A2 / CLSI 2012,2,CLSI,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44-A2 / M60,2,CLSI,M60; M44-A2; M44-A,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M44-A2 / M60 (species-specific CBP),2,CLSI,M60; M44-A2; M44-A,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M44-A2/M44-S3,2,CLSI,M44-A2; M44-A; M44-S3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M44-S2 / M27-S3,2,CLSI,M27-S3; M44-A,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M57S 4th ed. (ECV),2,CLSI,M57S,ECV,CLSI_version_not_stated,True,low,True
+CLSI M59,2,CLSI,M59,ECV,CLSI_version_not_stated,True,low,True
+CLSI M59 (2020) ECV,2,CLSI,M59,ECV,CLSI_species_specific_2012plus,True,medium,False
+CLSI M60 (criterion of the author ≥1),2,CLSI+author_or_other,M60,CBP,CLSI_species_specific_2012plus,False,low,True
+CLSI M60 (same with M44-A2),2,CLSI,M60; M44-A2; M44-A,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M60 (no CBP for C. tropicalis),2,CLSI,M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M60 (no CBP; possible ECV),2,CLSI,M60,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI cut-offs revised (2010),2,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+CLSI revised,2,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI/EUCAST (not specified),2,CLSI+EUCAST,,CBP_assumed,CLSI_version_not_stated,True,low,True
+ECV (Pfaller & Diekema 2012),2,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+ECV (Pfaller and Diekema 2012),2,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+ECV (no CBP clinical),2,not_reported,,CBP+ECV,not_applicable_or_not_reported,False,low,True
+ECV 1 µg/mL,2,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+"ECV CLSI 0,12 µg/mL",2,CLSI,,ECV,CLSI_version_not_stated,True,low,True
+Amphotericin B ECV applied,2,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+ECV of the author (0.5 µg/mL),2,author_or_other,,ECV,not_applicable_or_not_reported,False,low,True
+CLSI human ECV (2 µg/mL),2,CLSI,,ECV,CLSI_version_not_stated,True,low,True
+EUCAST (R >0.06),2,EUCAST,,CBP_assumed,EUCAST,False,low,True
+EUCAST (breakpoints v3.0),2,EUCAST,EUCAST BP v3.0,CBP,EUCAST,False,medium,False
+EUCAST 2020,2,EUCAST,,CBP_assumed,EUCAST,False,low,True
+EUCAST CBP v6.1,2,EUCAST,EUCAST BP v6.1,CBP,EUCAST,False,medium,False
+EUCAST E.Def 7.1 / breakpoints v6.1,2,EUCAST,E.Def 7.1; EUCAST BP v6.1,CBP,EUCAST,False,medium,False
+EUCAST E.Def 7.1; non-specific BP 0.25 mg/L,2,EUCAST,E.Def 7.1,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.1; PC CLSI (Pfaller 2011),2,CLSI+EUCAST,E.Def 7.1,CBP_assumed,CLSI_historical_pre2012,True,low,True
+EUCAST E.Def 7.1; breakpoints EUCAST,2,EUCAST,E.Def 7.1,CBP,EUCAST,False,medium,False
+"EUCAST E.Def 7.2 (R >0,06)",2,EUCAST,E.Def 7.2,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.2 / v6.1,2,EUCAST,E.Def 7.2; EUCAST BP v6.1,CBP,EUCAST,False,medium,False
+EUCAST E.Def 7.3 + CBP CLSI (EUCAST: IE),2,CLSI+EUCAST,E.Def 7.3,CBP,CLSI_version_not_stated,True,low,True
+EUCAST E.Def 7.3.2; ECOFF,2,EUCAST,E.Def 7.3.2,ECV,EUCAST,False,medium,False
+EUCAST ECOFF,2,EUCAST,,ECV,EUCAST,False,low,True
+EUCAST ECOFF v4.0,2,EUCAST,EUCAST BP v4.0,CBP+ECV,EUCAST,False,medium,False
+EUCAST ECOFF/CBP,2,EUCAST,,CBP+ECV,EUCAST,False,low,True
+"EUCAST EDef 7.1; CBP EUCAST (R >0,06 mg/L)",2,EUCAST,E.Def 7.1,CBP,EUCAST,False,medium,False
+EUCAST breakpoints v10.0,2,EUCAST,EUCAST BP v10.0,CBP,EUCAST,False,medium,False
+EUCAST breakpoints v12.1 (CLSI M27-Ed5 for combinations not covered),2,CLSI+EUCAST,EUCAST BP v12.1,CBP,CLSI_version_not_stated,True,low,True
+EUCAST proposal,2,EUCAST,,CBP_assumed,EUCAST,False,low,True
+EUCAST v10.0 / ECV,2,EUCAST,EUCAST BP v10.0,CBP+ECV,EUCAST,False,medium,False
+"EUCAST v5.0 (R >0,06 mg/L)",2,EUCAST,EUCAST BP v5.0,CBP,EUCAST,False,medium,False
+EUCAST v9,2,EUCAST,EUCAST BP v9,CBP,EUCAST,False,medium,False
+"EUCAST/author (S<1, R≥1)",2,EUCAST+author_or_other,,CBP_assumed,EUCAST,False,low,True
+Etest (manufacturer); cut-offs of the author,2,author_or_other+manufacturer,,,not_applicable_or_not_reported,False,low,True
+Meis et al./NCCLS M27-A (correlation),2,CLSI+author_or_other,M27-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+NCCLS (M27-A2 cited),2,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS (proposal),2,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+NCCLS (no version); cut-off of the author,2,CLSI+author_or_other,,CBP_assumed,CLSI_version_not_stated,True,low,True
+NCCLS M27 (since 1995),2,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+NCCLS M27-A (cut-off of the author ≤1 µg/mL),2,CLSI+author_or_other,M27-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+NCCLS M27-A (cut-off of the author),2,CLSI+author_or_other,M27-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+NCCLS M27-A modified,2,CLSI,M27-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M27-A2 (cut-offs),2,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M27-P modified,2,CLSI,M27-P,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M44,2,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M44-A (2004),2,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M44-P; CBP NCCLS M27-A,2,CLSI,M27-A; M44-A,CBP,CLSI_historical_pre2012,False,medium,False
+Pfaller et al. 2011 (CLSI),2,CLSI+author_or_other,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+R>1 µg/mL,2,unparsed,,,not_applicable_or_not_reported,False,low,True
+author (R if MIC >1 mg/L),2,author_or_other,,,not_applicable_or_not_reported,False,low,True
+"author (S≤4, I 8–16, R≥32)",2,author_or_other,,,not_applicable_or_not_reported,False,low,True
+criterion of authors,2,author_or_other,,,not_applicable_or_not_reported,False,low,True
+authors' criterion (R >1 µg/mL),2,author_or_other,,,not_applicable_or_not_reported,False,low,True
+EUCAST criterion for C. albicans (cut-offs adapted by the authors),2,EUCAST+author_or_other,,CBP_assumed,EUCAST,False,low,True
+manufacturer criterion (Bio-Rad),2,author_or_other+manufacturer,,,not_applicable_or_not_reported,False,low,True
+criterion of the manufacturer/Kabli,2,author_or_other+manufacturer,,,not_applicable_or_not_reported,False,low,True
+of the author (CLSI cited),2,CLSI+author_or_other,,CBP_assumed,CLSI_version_not_stated,True,low,True
+manufacturer / comparison with NCCLS M27-A,2,CLSI+manufacturer,M27-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CECON manufacturer instructions,2,manufacturer,,,not_applicable_or_not_reported,False,low,True
+"CLSI method (diffusion) / NCCLS criterion; cut-offs of diameter of the author (R ≤9 mm, SDD 10-14 mm, S ≥15 mm)",2,CLSI+author_or_other,,CBP_assumed,CLSI_version_not_stated,True,low,True
+Not specified (CLSI M44-type zones),2,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+Cut-off from the literature (≤1 S),2,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-off of the author (S <0.03),2,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-off of the author ≤1 µg/mL,2,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-offs adapted,2,author_or_other,,,not_applicable_or_not_reported,False,low,True
+arbitrary cut-offs from the literature,2,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-offs of McGinnis and Rinaldi 1991,2,unparsed,,,not_applicable_or_not_reported,False,low,True
+No CBP EUCAST,2,EUCAST,,CBP,EUCAST,False,low,True
+No CBP/ECV,2,not_reported,,CBP+ECV,not_applicable_or_not_reported,False,low,True
+"CBP (S<=2, R>2)",1,unparsed,,CBP,not_applicable_or_not_reported,False,low,True
+CBP CLSI revised,1,CLSI,,CBP,CLSI_version_not_stated,True,low,True
+CLSI revised CBP (S ≤0.25 mg/L),1,CLSI,,CBP,CLSI_version_not_stated,True,low,True
+"CBP S<=0,125 (CLSI M27)",1,CLSI,,CBP,CLSI_version_not_stated,True,low,True
+"CBP S<=0,125, R>=1 (Pfaller 2011)",1,unparsed,,CBP,not_applicable_or_not_reported,False,low,True
+"CBP S≤1, R≥2",1,unparsed,,CBP,not_applicable_or_not_reported,False,low,True
+"CLSI (CBP of the author S≤2, SDD 4, R≥8)",1,CLSI+author_or_other,,CBP,CLSI_version_not_stated,True,low,True
+CLSI (M27),1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI (M27, version not specified); cut-offs S ≤8, SDD 16-32, R ≥64",1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI (Pfaller 2006),1,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+CLSI (Pfaller 2006; S <=8 µg/mL),1,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+CLSI (Pfaller 2010),1,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+"CLSI (R >1, Pfaller criterion)",1,CLSI+author_or_other,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI (S <1, R ≥1)",1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI (S ≤0.12, SDD 0.25-0.5, R ≥1)",1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI (S ≤8 mg/L; non-S ≥16 mg/L),1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI (S ≤8, SDD 16-32, R ≥64)",1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI (S<=1, R>1)",1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI (S≤0,12, SDD 0,25-0,5, R≥1)",1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI (S≤0,125; SDD 0,25-0,5)",1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI (S≤1, R≥2)",1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI (S≤8, SDD 16-32, R≥64)",1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI (Wayne, 2020)",1,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+CLSI (criterion not specified for ketoconazole),1,CLSI+author_or_other,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI (criterion not specified),1,CLSI+author_or_other,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI (not specified); cut-off of the author,1,CLSI+author_or_other,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI (cut-offs species-specific),1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI (ref. [8], document/version not specified); S ≤2, SDD 4, R ≥8 µg/mL",1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI (according to supplement),1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI (no CBP/ECV applied),1,CLSI,,CBP+ECV,CLSI_version_not_stated,True,low,True
+CLSI (no document specified),1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI (no version); cut-off of the author ≥4 µg/mL,1,CLSI+author_or_other,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI (no version); cut-off of the author ≥64 µg/mL,1,CLSI+author_or_other,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI (version not specified, interpretation of the VITEK system)",1,CLSI+manufacturer,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI (version not specified; old CBP),1,CLSI,,CBP,CLSI_version_not_stated,True,low,True
+CLSI (version not identifiable),1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI / NCCLS 2002,1,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+CLSI 2005,1,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+CLSI 2008 (M27-A3),1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI 2008 (S ≤0.12, SDD 0.25-0.5, R ≥1)",1,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+CLSI 2010 species-specific,1,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+CLSI 2012 (M27-S4),1,CLSI,M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+"CLSI 2022 (S ≤0,125, SDD/I 0,25-0,5, R ≥1)",1,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+"CLSI 2022 (S ≤2, SDD 4, R ≥8)",1,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+CLSI 2023,1,CLSI,,CBP_assumed,CLSI_species_specific_2012plus,True,low,True
+"CLSI CBP revised (S≤0.125, R>0.5)",1,CLSI,,CBP,CLSI_version_not_stated,True,low,True
+"CLSI CBP revised (S≤0.25, I 0.5, R≥1)",1,CLSI,,CBP,CLSI_version_not_stated,True,low,True
+"CLSI CBP revised (S≤2, R>4)",1,CLSI,,CBP,CLSI_version_not_stated,True,low,True
+"CLSI ECV (>0,12)",1,CLSI,,ECV,CLSI_version_not_stated,True,low,True
+"CLSI ECV (>0,5)",1,CLSI,,ECV,CLSI_version_not_stated,True,low,True
+CLSI ECV (M27M44S 2022),1,CLSI,M27M44S,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M100 (according to authors),1,CLSI+author_or_other,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI M27 (CBP in force until 2024),1,CLSI,,CBP,CLSI_species_specific_2012plus,True,low,True
+CLSI M27 (cut-off ≥1 R),1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI M27 / M27M44S,1,CLSI,M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27 / M27M44S / M57S,1,CLSI,M27M44S; M57S,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27 / M60-Ed2,1,CLSI,M60 2nd ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27 4th ed. / M59 (ECV 2018),1,CLSI,M27 4th ed; M59,ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27 4th ed./M59 3rd ed. (ECV),1,CLSI,M27 4th ed; M59,ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27 4th ed.; WT UL of Astvad et al. and Desnos-Ollivier et al.,1,CLSI+author_or_other,M27 4th ed,CBP_assumed,CLSI_species_specific_2012plus,False,low,True
+CLSI M27-A (1997); cut-off of the author,1,CLSI+author_or_other,M27-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A / EUCAST 2002,1,CLSI+EUCAST,M27-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A / M27-A2,1,CLSI,M27-A2; M27-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 (CBP from the literature),1,CLSI+author_or_other,M27-A2,CBP,CLSI_historical_pre2012,False,low,True
+CLSI M27-A2 (R >1),1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A2 (S <1 µg/mL, criterion of the author)",1,CLSI+author_or_other,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,low,True
+"CLSI M27-A2 (S ≤8, SDD 16-32, R ≥64)",1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A2 (S<=0.125, I 0.25-0.5, R>=1)",1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A2 (S<=8, I 16-32, R>=64)",1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 (antibiotic medium 3),1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A2 (cut-off ≤1 mg/L, Pfaller)",1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 (amphotericin B method; no cut-off),1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 (cut-off S ≤1 mg/L),1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 (arbitrary cut-off ≤1),1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 (arbitrary cut-off),1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 (cut-offs from Sutton et al. 1998),1,CLSI+author_or_other,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A2 (provisional cut-offs voriconazole),1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 (no cut-off),1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 + cut-offs Pfaller 2006,1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 / M44-A,1,CLSI,M27-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 / Nguyen 1998 (R ≥2),1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 / Pfaller 2006 (R ≥4),1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 modified (AM3),1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A2 modified EUCAST; cut-offs Rex et al.,1,CLSI+EUCAST+author_or_other,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A2; cut-off of the author ≤1 µg/mL,1,CLSI+author_or_other,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,low,True
+"CLSI M27-A3 (CBP 48 h: S<1, I 2, R>=4)",1,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3 (CBP 48 h: S<=8, SDD 16-32, R>=64)",1,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3 (CBP S≤8, SDD 16-32, R≥64)",1,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (CBP revised; ECV 0.06 µg/mL),1,CLSI,M27-A3,CBP+ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (CBP revised; ECV 2 µg/mL),1,CLSI,M27-A3,CBP+ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (R 32 µg/mL),1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (R >1 µg/mL),1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3 (R >1 µg/mL, criterion of the author)",1,CLSI+author_or_other,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3 (R >=1),1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (R >=32),1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (R >=4),1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (R >=64 mg/L),1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (R ≥1 µg/mL),1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3 (S ≤1, R >1)",1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3 (S ≤8, SDD 16-32, R ≥64)",1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (S≤2),1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (cut-off 1 µg/mL),1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (cut-off >1 µg/mL according to Nguyen 1998),1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (cut-off of the author R ≥2),1,CLSI+author_or_other,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3 (cut-off of the author ≥0.5),1,CLSI+author_or_other,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3 (cut-off of the author ≥16),1,CLSI+author_or_other,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3 (cut-off of the author ≥4),1,CLSI+author_or_other,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3 (cut-off of the author: >1 R),1,CLSI+author_or_other,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,low,True
+"CLSI M27-A3 (old cut-offs, R ≥64)",1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (cut-offs),1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (standard no cut-off),1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3 + revised CBP (S≤0.125, SDD 0.25-0.5, R≥1)",1,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3 + revised CBP (S≤2, SDD 4, R≥8)",1,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 + ECV,1,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3 + ECV (≥0,125)",1,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3 + ECV (≥0,5)",1,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 + CLSI cut-offs,1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3 / CBP revised (S≤0.25, R>0.5)",1,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 / ECV M59,1,CLSI,M27-A3; M59,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 / EUCAST E.Def 7.1-7.2,1,CLSI+EUCAST,M27-A3; E.Def 7.1,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3 / M27M44S 3rd ed. (2022),1,CLSI,M27-A3; M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3 / Pfaller 2010,1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 / Pfaller 2011,1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 / CLSI halo cut-offs,1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3 / species-specific cut-offs (S ≤2, SDD 4, R ≥8)",1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 with CBP revised,1,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3/M27-S3 (cut-off of the authors R ≥1),1,CLSI+author_or_other,M27-A3; M27-S3,CBP,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3/M27-S4 (R >4),1,CLSI,M27-A3; M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3/M27-S4 (R >=8),1,CLSI,M27-A3; M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+"CLSI M27-A3/M27-S4 (S ≤2, R ≥8)",1,CLSI,M27-A3; M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3/M27-S4; ECV,1,CLSI,M27-A3; M27-S4,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+"CLSI M27-A3/M27-S4; ECV 0,06",1,CLSI,M27-A3; M27-S4,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+"CLSI M27-A3/M27-S4; ECV 0,125",1,CLSI,M27-A3; M27-S4,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+"CLSI M27-A3/M27-S4; ECV 0,5",1,CLSI,M27-A3; M27-S4,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3/M27-S4; ECV 2,1,CLSI,M27-A3; M27-S4,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3/M27-S4; ECV 2 mg/L,1,CLSI,M27-A3; M27-S4,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3/M59,1,CLSI,M27-A3; M59,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3/S4; CBP M60 (2017),1,CLSI,M27-A3; M27-S4; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3/S4; M27 4th ed.,1,CLSI,M27 4th ed; M27-A3; M27-S4,CBP_assumed,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3; BP CLSI (≥8),1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; BP ≥1 (ref. 72),1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3; CBP CLSI 2012 (S≤2, SDD 4, R≥8)",1,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3; CBP Pfaller & Diekema 2012 (S ≤0,125, R ≥1)",1,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3; CBP Pfaller & Diekema 2012 (S ≤2, SDD 4, R ≥8)",1,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; CBP Pfaller and Diekema 2012,1,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3; CBP S<=2, SDD 4, R>=8",1,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3; CBP S≤0,12, SDD/I 0,25-0,5, R≥1",1,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3; CBP S≤0,25, I 0,5, R≥1",1,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3; CBP S≤2, SDD 4, R≥8",1,CLSI,M27-A3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; CBP/ECV Pfaller and Diekema 2012,1,CLSI,M27-A3,CBP+ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; ECV (>1 µg/mL = resistant),1,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3; ECV 0,5",1,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; ECV 0.5 µg/mL,1,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; ECV 2,1,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; ECV 2 mg/L,1,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; ECV CLSI (0.12),1,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; ECV CLSI (0.5),1,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; ECV CLSI (2),1,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; ECV M57S,1,CLSI,M27-A3; M57S,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; ECV M57S 4th ed.,1,CLSI,M27-A3; M57S,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; ECV Pfaller and Diekema 2012 (>0.5 µg/mL),1,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; M27M44S,1,CLSI,M27-A3; M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3; M27M44S-ED3:2022,1,CLSI,M27-A3; M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3; R >1,1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; R >=1,1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; R >=8,1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; R>1,1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; R>=1,1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI M27-A3; S<=2, SDD 4, R>=8",1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; category of the author,1,CLSI+author_or_other,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3; cut-off of the author,1,CLSI+author_or_other,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3; no-WT ≥0.5 (literature),1,CLSI+author_or_other,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3; cut-off from Mulu et al. 2013,1,CLSI+author_or_other,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3; cut-off from the literature (>0.5 µg/mL),1,CLSI+author_or_other,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3; cut-off from the literature (>1 µg/mL),1,CLSI+author_or_other,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A3; cut-offs of Yang et al.,1,CLSI+author_or_other,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M27-A4 / M27M44S,1,CLSI,M27 4th ed; M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A4 / M27M44S 3rd ed.,1,CLSI,M27 4th ed; M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A4 / M57S ECV,1,CLSI,M27 4th ed; M57S,ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A4/M59 (ECV 0.12),1,CLSI,M27 4th ed; M59,ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A4/M59 (ECV 0.5),1,CLSI,M27 4th ed; M59,ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A4/M59 (ECV 2),1,CLSI,M27 4th ed; M59,ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A4; wtUL of the author,1,CLSI+author_or_other,M27 4th ed,CBP_assumed,CLSI_species_specific_2012plus,False,low,True
+"CLSI M27-E4/M59 (ECV 0,5)",1,CLSI,M59,ECV,CLSI_version_not_stated,True,low,True
+CLSI M27-Ed4 (criterion >1 mg/L = R),1,CLSI+author_or_other,M27 4th ed,CBP_assumed,CLSI_species_specific_2012plus,False,low,True
+CLSI M27-Ed4 (no cut-off),1,CLSI,M27 4th ed,CBP_assumed,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-Ed4/M27-S3,1,CLSI,M27 4th ed; M27-S3,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-S4 (R >=1),1,CLSI,M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+"CLSI M27-S4 (S<=0.25, I 0.5, R>=1)",1,CLSI,M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-S4 / ECV M59,1,CLSI,M27-S4; M59,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+"CLSI M27-S4 / M59 (ECV ≤0,5)",1,CLSI,M27-S4; M59,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-S4 / M59 (ECV ≤2),1,CLSI,M27-S4; M59,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-S4 CBP (R >4),1,CLSI,M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-ed4 / M59 ECV,1,CLSI,M27 4th ed; M59,ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27Ed4 (no cut-off),1,CLSI,M27 4th ed,CBP_assumed,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27Ed4 / M27-S3,1,CLSI,M27 4th ed; M27-S3,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27Ed4 / M27-S3; ECV M59,1,CLSI,M27 4th ed; M27-S3; M59,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27Ed4/M60,1,CLSI,M27 4th ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27Ed4; ECV M59,1,CLSI,M27 4th ed; M59,ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27M44S (2022); R ≥1,1,CLSI,M27M44S,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27M44S 3rd ed. (CBP); CLSI M57S 4th ed. (ECV),1,CLSI,M27M44S; M57S,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27M44S; ECV CLSI,1,CLSI,M27M44S,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+"CLSI M44 (2020); S<=0.12, SDD/I 0.25-0.5, R>=1",1,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI M44 (2020); S<=0.25, I 0.5, R>=1",1,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI M44 (2020); S<=1, R>=2",1,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"CLSI M44 (2020); S<=2, SDD 4, R>=8",1,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44 (official no cut-off),1,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44-A (criterion of the author),1,CLSI+author_or_other,M44-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M44-A/M44-S1,1,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44-A/M44-S1; revised CBP,1,CLSI,M44-A,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M44-A2 (M44-S4),1,CLSI,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44-A2 (ROSCO criterion),1,CLSI+author_or_other+manufacturer,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M44-A2 (halo 15-18),1,CLSI,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44-A2 / M27-A3,1,CLSI,M27-A3; M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M44-A2 / criterion of the manufacturer,1,CLSI+author_or_other+manufacturer,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+CLSI M44-P,1,CLSI,M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M59 (2018) ECV,1,CLSI,M59,ECV,CLSI_species_specific_2012plus,True,medium,False
+CLSI M59 (ECV 2 µg/mL),1,CLSI,M59,ECV,CLSI_version_not_stated,True,low,True
+CLSI M59 2nd ed. (ECV),1,CLSI,M59,ECV,CLSI_version_not_stated,True,low,True
+CLSI M59 2nd ed. (ECV 1 µg/mL),1,CLSI,M59,ECV,CLSI_version_not_stated,True,low,True
+CLSI M59 2nd ed. (ECV 2 µg/mL),1,CLSI,M59,ECV,CLSI_version_not_stated,True,low,True
+CLSI M59 2nd ed. (ECV 2),1,CLSI,M59,ECV,CLSI_version_not_stated,True,low,True
+CLSI M59 ECV (≤2),1,CLSI,M59,ECV,CLSI_version_not_stated,True,low,True
+"CLSI M59-Ed3 ECV 0,5",1,CLSI,M59,ECV,CLSI_version_not_stated,True,low,True
+CLSI M59-Ed3 ECV 2,1,CLSI,M59,ECV,CLSI_version_not_stated,True,low,True
+CLSI M59/EUCAST 2019 (cut-off ≤0.064),1,CLSI+EUCAST,M59,ECV,CLSI_species_specific_2012plus,True,low,True
+CLSI M59/EUCAST 2019 (cut-off ≤0.125),1,CLSI+EUCAST,M59,ECV,CLSI_species_specific_2012plus,True,low,True
+CLSI M60 (2017),1,CLSI,M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+"CLSI M60-Ed2 (S≤0,12, I 0,25-0,5, R≥1); ECV 0,12",1,CLSI,M60 2nd ed; M60,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+"CLSI M60-Ed2 (S≤2, SDD 4, R≥8); ECV 1",1,CLSI,M60 2nd ed; M60,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+CLSI M60/ECV,1,CLSI,M60,CBP+ECV,CLSI_species_specific_2012plus,False,medium,False
+"CLSI species-specific (S ≤0.125, I 0.25-0.5, R ≥1)",1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI species-specific (S ≤0.25, I 0.5, R ≥1)",1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"modified CLSI; R ≥32, I 8-16, S ≤4",1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI; R defined as MIC ≥2,1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+"CLSI; cut-offs Pfaller 2011 (S ≤0.25, I 0.5, R ≥1)",1,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+MIC >1 R (arbitrary),1,unparsed,,,not_applicable_or_not_reported,False,low,True
+MIC ≤1 mg/L susceptible,1,unparsed,,,not_applicable_or_not_reported,False,low,True
+Tentative ECOFF 0.03 (authors),1,author_or_other,,ECV,not_applicable_or_not_reported,False,low,True
+Tentative ECOFF published,1,author_or_other,,ECV,not_applicable_or_not_reported,False,low,True
+ECV (0.12 µg/mL),1,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+ECV (Guangzhou et al. 2013),1,author_or_other,,ECV,not_applicable_or_not_reported,False,low,True
+"ECV (Pfaller 2011), >0.06 = non-WT",1,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+ECV (Xiao et al. 2020),1,author_or_other,,ECV,not_applicable_or_not_reported,False,low,True
+ECV (non-wild ≥0.03 µg/mL),1,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+ECV / R si CMI >1 mg/L,1,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+ECV 0.5 µg/mL (Pfaller 2012),1,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+ECV 2 µg/mL,1,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+"ECV >0,5 mg/L",1,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+ECV >2 mg/L,1,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+ECV CLSI (0.12 µg/mL),1,CLSI,,ECV,CLSI_version_not_stated,True,low,True
+"ECV CLSI (>0,12)",1,CLSI,,ECV,CLSI_version_not_stated,True,low,True
+"ECV CLSI (>0,5)",1,CLSI,,ECV,CLSI_version_not_stated,True,low,True
+ECV CLSI (>2) / R >1,1,CLSI,,ECV,CLSI_version_not_stated,True,low,True
+ECV CLSI 2 µg/mL,1,CLSI,,ECV,CLSI_version_not_stated,True,low,True
+Study Etest ECV (0.03 mg/L); CLSI CBP S≤0.25/R≥1,1,CLSI,,CBP+ECV,CLSI_version_not_stated,True,low,True
+Study Etest ECV (0.06 mg/L); CLSI CBP S≤0.25/R≥1,1,CLSI,,CBP+ECV,CLSI_version_not_stated,True,low,True
+Study Etest ECV (0.25 mg/L); CLSI CBP S≤0.12/R≥1,1,CLSI,,CBP+ECV,CLSI_version_not_stated,True,low,True
+"Etest ECV of the study (0.25 mg/L, after normalization)",1,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+Etest ECV of the study (0.5 mg/L); CLSI CBP S≤0.25/R≥1,1,CLSI,,CBP+ECV,CLSI_version_not_stated,True,low,True
+Study Etest ECV (2 mg/L),1,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+Study Etest ECV (4 mg/L); CLSI CBP S≤2/SDD 4/R≥8,1,CLSI,,CBP+ECV,CLSI_version_not_stated,True,low,True
+ECV Pfaller 2012,1,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+ECV SYO (Espinel-Ingroff 2019),1,manufacturer,,ECV,not_applicable_or_not_reported,False,low,True
+ECV SYO of the author (0.25 µg/mL),1,author_or_other+manufacturer,,ECV,not_applicable_or_not_reported,False,low,True
+ECV SYO of the author (1 µg/mL),1,author_or_other+manufacturer,,ECV,not_applicable_or_not_reported,False,low,True
+ECV SYO of the author (2 µg/mL),1,author_or_other+manufacturer,,ECV,not_applicable_or_not_reported,False,low,True
+ECV SYO of the author (8 µg/mL),1,author_or_other+manufacturer,,ECV,not_applicable_or_not_reported,False,low,True
+"ECV Sensititre YeastOne (ECV 0,25 mg/L)",1,manufacturer,,ECV,not_applicable_or_not_reported,False,low,True
+ECV YeastOne,1,manufacturer,,ECV,not_applicable_or_not_reported,False,low,True
+"ECV YeastOne (≤0,5)",1,manufacturer,,ECV,not_applicable_or_not_reported,False,low,True
+Human CLSI ECV (0.0625 µg/mL),1,CLSI,,ECV,CLSI_version_not_stated,True,low,True
+CLSI human ECV (0.125 µg/mL),1,CLSI,,ECV,CLSI_version_not_stated,True,low,True
+CLSI human ECV (0.5 µg/mL),1,CLSI,,ECV,CLSI_version_not_stated,True,low,True
+Published ECV (Pfaller et al.),1,author_or_other,,ECV,not_applicable_or_not_reported,False,low,True
+Tentative SYO ECV (this study): 0.12 µg/mL,1,manufacturer,,ECV,not_applicable_or_not_reported,False,low,True
+Tentative SYO ECV (this study): 0.25 µg/mL,1,manufacturer,,ECV,not_applicable_or_not_reported,False,low,True
+Tentative SYO ECV (this study): 0.5 µg/mL,1,manufacturer,,ECV,not_applicable_or_not_reported,False,low,True
+Tentative SYO ECV (this study): 1 µg/mL,1,manufacturer,,ECV,not_applicable_or_not_reported,False,low,True
+Tentative SYO ECV (this study): 2 µg/mL,1,manufacturer,,ECV,not_applicable_or_not_reported,False,low,True
+ECV ≤2 mg/L WT,1,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+ECV/literature (no CBP),1,author_or_other,,CBP+ECV,not_applicable_or_not_reported,False,low,True
+ESCMID 2012 (R ≥1 mg/L),1,unparsed,,,not_applicable_or_not_reported,False,low,True
+ESCMID 2012 (R ≥8 mg/L),1,unparsed,,,not_applicable_or_not_reported,False,low,True
+EUCAST (R >0.125),1,EUCAST,,CBP_assumed,EUCAST,False,low,True
+EUCAST (R >1),1,EUCAST,,CBP_assumed,EUCAST,False,low,True
+EUCAST (S <=1/R >1),1,EUCAST,,CBP_assumed,EUCAST,False,low,True
+"EUCAST (S ≤2, I 4, R ≥8)",1,EUCAST,,CBP_assumed,EUCAST,False,low,True
+"EUCAST (S≤0,06, R>0,06)",1,EUCAST,,CBP_assumed,EUCAST,False,low,True
+EUCAST (S≤2/R>4),1,EUCAST,,CBP_assumed,EUCAST,False,low,True
+EUCAST (method) with cut-offs from Rex et al. (R ≥1),1,EUCAST+author_or_other,,CBP_assumed,EUCAST,False,low,True
+EUCAST (method) with cut-offs of Rex et al. (R ≥64),1,EUCAST+author_or_other,,CBP_assumed,EUCAST,False,low,True
+EUCAST (cut-off R >2 mg/L),1,EUCAST,,CBP_assumed,EUCAST,False,low,True
+EUCAST / Russian Recommendations 2024,1,EUCAST,,CBP_assumed,EUCAST,False,low,True
+EUCAST / cut-off S ≤1 mg/L,1,EUCAST,,CBP_assumed,EUCAST,False,low,True
+EUCAST 10.0,1,EUCAST,,CBP_assumed,EUCAST,False,low,True
+"EUCAST 2018 (S ≤1, R >1)",1,EUCAST,,CBP_assumed,EUCAST,False,low,True
+"EUCAST 2019 (S ≤0,064; ECV 0,12)",1,EUCAST,EUCAST BP v0,CBP+ECV,EUCAST,False,medium,False
+"EUCAST 2019 (S ≤0,125; R >0,125)",1,EUCAST,,CBP_assumed,EUCAST,False,low,True
+EUCAST 2019 (S ≤1; ECV 2),1,EUCAST,EUCAST BP v2,CBP+ECV,EUCAST,False,medium,False
+"EUCAST E.Def 7.1 (R >0,12)",1,EUCAST,E.Def 7.1,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.1 (R >1),1,EUCAST,E.Def 7.1,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.1 (method); PC EUCAST technical note fluconazole 2008,1,EUCAST,E.Def 7.1,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.1 (cut-off R >0.5 according to CLSI),1,CLSI+EUCAST,E.Def 7.1,CBP_assumed,CLSI_version_not_stated,True,low,True
+EUCAST E.Def 7.1 (cut-offs of ATB due to absence of EUCAST CBP),1,EUCAST,E.Def 7.1,CBP,EUCAST,False,medium,False
+EUCAST E.Def 7.1; ECOFF EUCAST,1,EUCAST,E.Def 7.1,ECV,EUCAST,False,medium,False
+EUCAST E.Def 7.1; PC CLSI M27-A3,1,CLSI+EUCAST,M27-A3; E.Def 7.1,CBP_assumed,CLSI_historical_pre2012,False,low,True
+EUCAST E.Def 7.1; PC EUCAST,1,EUCAST,E.Def 7.1,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.1; breakpoints CLSI M27-A3,1,CLSI+EUCAST,M27-A3; E.Def 7.1,CBP,CLSI_historical_pre2012,False,low,True
+EUCAST E.Def 7.1; cut-off Nolte 1997 (R >2),1,EUCAST,E.Def 7.1,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.2 (Pfaller CBP),1,EUCAST,E.Def 7.2,CBP,EUCAST,False,medium,False
+"EUCAST E.Def 7.2 (R >0,125)",1,EUCAST,E.Def 7.2,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.2 (R >1),1,EUCAST,E.Def 7.2,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.2 (R >4),1,EUCAST,E.Def 7.2,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.2 (no CBP EUCAST; Pfaller CBP),1,EUCAST,E.Def 7.2,CBP,EUCAST,False,medium,False
+EUCAST E.Def 7.2 (no cut-off),1,EUCAST,E.Def 7.2,CBP_assumed,EUCAST,False,medium,False
+"EUCAST E.Def 7.2 / v6.1 (S≤0,12, R>0,12)",1,EUCAST,E.Def 7.2; EUCAST BP v6.1,CBP,EUCAST,False,medium,False
+"EUCAST E.Def 7.2 / v6.1 (S≤1, R>1)",1,EUCAST,E.Def 7.2; EUCAST BP v6.1,CBP,EUCAST,False,medium,False
+"EUCAST E.Def 7.2 / v6.1 (S≤2, R>4)",1,EUCAST,E.Def 7.2; EUCAST BP v6.1,CBP,EUCAST,False,medium,False
+EUCAST E.Def 7.2; BP v9.0,1,EUCAST,E.Def 7.2; EUCAST BP v9.0,CBP,EUCAST,False,medium,False
+"EUCAST E.Def 7.2; ECOFF 0,125 / wtUL 0,03 mg/L",1,EUCAST,E.Def 7.2,ECV,EUCAST,False,medium,False
+EUCAST E.Def 7.2; wtUL of the author 0.03 mg/L,1,EUCAST+author_or_other,E.Def 7.2,CBP_assumed,EUCAST,False,low,True
+"EUCAST E.Def 7.3 (R CMI >0,25 mg/L)",1,EUCAST,E.Def 7.3,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.3 (R CMI ≥8 mg/L),1,EUCAST,E.Def 7.3,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.3 + CBP EUCAST,1,EUCAST,E.Def 7.3,CBP,EUCAST,False,medium,False
+"EUCAST E.Def 7.3.1 (CBP >0,032)",1,EUCAST,E.Def 7.3.1,CBP,EUCAST,False,medium,False
+"EUCAST E.Def 7.3.1 (ECOFF 0,06)",1,EUCAST,E.Def 7.3.1,ECV,EUCAST,False,medium,False
+EUCAST E.Def 7.3.1 (tentative ECOFF >0.031 mg/L),1,EUCAST,E.Def 7.3.1,ECV,EUCAST,False,medium,False
+"EUCAST E.Def 7.3.1 / ECOFF 0,06",1,EUCAST,E.Def 7.3.1,ECV,EUCAST,False,medium,False
+EUCAST E.Def 7.3.1; ECOFF,1,EUCAST,E.Def 7.3.1,ECV,EUCAST,False,medium,False
+EUCAST E.Def 7.3.1; NWT defined by the author,1,EUCAST+author_or_other,E.Def 7.3.1,CBP_assumed,EUCAST,False,low,True
+EUCAST E.Def 7.3.1; WT-UL own,1,EUCAST+author_or_other,E.Def 7.3.1,CBP_assumed,EUCAST,False,low,True
+EUCAST E.Def 7.3.2; ECOFF of Pfaller 2012 (>1 µg/mL non-wild),1,EUCAST,E.Def 7.3.2,ECV,EUCAST,False,medium,False
+EUCAST E.Def 7.3.2; tentative ECOFF,1,EUCAST,E.Def 7.3.2,ECV,EUCAST,False,medium,False
+EUCAST E.Def 7.3.2; upper limit of the WT population,1,EUCAST,E.Def 7.3.2,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.4 / breakpoints v10.0,1,EUCAST,E.Def 7.4; EUCAST BP v10.0,CBP,EUCAST,False,medium,False
+"EUCAST E.Def 7.4; ECOFF local 0,5 mg/L",1,EUCAST,E.Def 7.4,ECV,EUCAST,False,medium,False
+EUCAST E.Def 7.4; wtUL of the author,1,EUCAST+author_or_other,E.Def 7.4,CBP_assumed,EUCAST,False,low,True
+EUCAST E.Def 9.3 (according to Table 1),1,EUCAST,,CBP_assumed,EUCAST,False,low,True
+EUCAST E.Dis 7.1 (CBP CLSI M27-A2),1,CLSI+EUCAST,M27-A2,CBP,CLSI_historical_pre2012,False,low,True
+EUCAST E.Dis 7.1 (CBP EUCAST 2007),1,EUCAST,,CBP,EUCAST,False,low,True
+"EUCAST EDef 7.1 (CBP S ≤0,125, R >0,125; ECV 0,12 µg/mL)",1,EUCAST,E.Def 7.1; EUCAST BP v0,CBP+ECV,EUCAST,False,medium,False
+"EUCAST EDef 7.1 (CBP S ≤2, R >4; ECV 2 µg/mL)",1,EUCAST,E.Def 7.1; EUCAST BP v2,CBP+ECV,EUCAST,False,medium,False
+"EUCAST EDef 7.1; CBP EUCAST (R >0,12 mg/L)",1,EUCAST,E.Def 7.1,CBP,EUCAST,False,medium,False
+EUCAST EDef 7.1; CBP EUCAST (R >1 mg/L),1,EUCAST,E.Def 7.1,CBP,EUCAST,False,medium,False
+EUCAST EDef 7.1; CBP EUCAST (R >4 mg/L),1,EUCAST,E.Def 7.1,CBP,EUCAST,False,medium,False
+EUCAST EDef 7.2 (laboratory cut-off ≤0.03 mg/L),1,EUCAST,E.Def 7.2,CBP_assumed,EUCAST,False,medium,False
+EUCAST breakpoints (interpretation),1,EUCAST,,CBP,EUCAST,False,low,True
+EUCAST breakpoints v3.0,1,EUCAST,EUCAST BP v3.0,CBP,EUCAST,False,medium,False
+"EUCAST v4.1 (S ≤2, R >4)",1,EUCAST,EUCAST BP v4.1,CBP,EUCAST,False,medium,False
+"EUCAST v5.0 (R >0.06 mg/L) cited, but not interpreted",1,EUCAST,EUCAST BP v5.0,CBP,EUCAST,False,medium,False
+"EUCAST v5.0 (R >0,125 mg/L)",1,EUCAST,EUCAST BP v5.0,CBP,EUCAST,False,medium,False
+"EUCAST v5.0 (R >0,25 mg/L)",1,EUCAST,EUCAST BP v5.0,CBP,EUCAST,False,medium,False
+EUCAST v5.0 (R >1 mg/L),1,EUCAST,EUCAST BP v5.0,CBP,EUCAST,False,medium,False
+EUCAST v5.0 (R >4 mg/L),1,EUCAST,EUCAST BP v5.0,CBP,EUCAST,False,medium,False
+EUCAST v7.0,1,EUCAST,EUCAST BP v7.0,CBP,EUCAST,False,medium,False
+EUCAST v8.0-12.0,1,EUCAST,EUCAST BP v8.0,CBP,EUCAST,False,medium,False
+EUCAST v9.0 (IE),1,EUCAST,EUCAST BP v9.0,CBP,EUCAST,False,medium,False
+EUCAST v9.0 / manufacturer,1,EUCAST+manufacturer,EUCAST BP v9.0,CBP,EUCAST,False,low,True
+EUCAST/CLSI (S≤1/R>1),1,CLSI+EUCAST,,CBP_assumed,CLSI_version_not_stated,True,low,True
+EUCAST/ECOFF provisional (R >0.06),1,EUCAST,,ECV,EUCAST,False,low,True
+Etest (manufacturer),1,manufacturer,,,not_applicable_or_not_reported,False,low,True
+FDA,1,unparsed,,,not_applicable_or_not_reported,False,low,True
+"M27-A2 / criterion of Sanguinetti and White (S≤0.125, SDD 0.25-0.5, R≥1)",1,author_or_other,M27-A2,,CLSI_historical_pre2012,False,low,True
+NCCLS (2004),1,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+"NCCLS (S ≤8, SDD 16-32, R ≥64)",1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+NCCLS (correlation with microdilution),1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+NCCLS 2001,1,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+NCCLS M27-A (cited),1,CLSI,M27-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M27-A (zone correlation),1,CLSI,M27-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M27-A (criterion of the author),1,CLSI+author_or_other,M27-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+NCCLS M27-A (interpretation),1,CLSI,M27-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M27-A (modified),1,CLSI,M27-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"NCCLS M27-A (modified, YNB medium)",1,CLSI,M27-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M27-A / Sutton et al.,1,CLSI+author_or_other,M27-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+"NCCLS M27-A2 (2002), cut-off of the author",1,CLSI+author_or_other,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,low,True
+NCCLS M27-A2 (S≤0.5; >1 probably R),1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+"NCCLS M27-A2 (S<=1, R>=4)",1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M27-A2 (comparison),1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M27-A2 (arbitrary cut-off),1,CLSI,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+NCCLS M27-A2 / Pfaller et al. 2006,1,CLSI+author_or_other,M27-A2,CBP_assumed,CLSI_historical_pre2012,False,low,True
+NCCLS M27-A; Rex et al. (R ≥1),1,CLSI+author_or_other,M27-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+NCCLS M27-A; Rex et al. (R ≥64),1,CLSI+author_or_other,M27-A,CBP_assumed,CLSI_historical_pre2012,False,low,True
+Nguyen et al.,1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+"Nguyen et al. 1998 (S ≤1, I 2, R ≥4 µg/mL)",1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+manufacturer's cut-off (R >1 mg/L),1,manufacturer,,,not_applicable_or_not_reported,False,low,True
+"Pfaller 2006 (S ≤1, I 2, R ≥4)",1,unparsed,,,not_applicable_or_not_reported,False,low,True
+"Pfaller 2011 (S ≤0.25, R ≥1)",1,unparsed,,,not_applicable_or_not_reported,False,low,True
+Pfaller et al. 2006 (S ≤1),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Pfaller and Diekema (S ≤1; R ≥2),1,unparsed,,,not_applicable_or_not_reported,False,low,True
+Cut-off of the author (≥8 mg/L),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+R >2 µg/mL (of the author),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+R ≥64 mg/L,1,unparsed,,,not_applicable_or_not_reported,False,low,True
+R>0.125 µg/mL,1,unparsed,,,not_applicable_or_not_reported,False,low,True
+Russian clinical recommendations v2018-03,1,unparsed,,,not_applicable_or_not_reported,False,low,True
+"Rex et al. 1997 (S ≤0.125, I 0.25-0.5, R ≥1 µg/mL)",1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+S ≤1 µg/mL (literature),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+S ≤4 µg/mL (literature),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+S<=1,1,unparsed,,,not_applicable_or_not_reported,False,low,True
+S≤1 (Sims et al. 2006),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Sheehan et al. 1999 (zones in mm),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+WT ≤1 µg/mL,1,unparsed,,,not_applicable_or_not_reported,False,low,True
+arbitrary (other authors),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+close to NCCLS M23-A,1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+CLSI consensus (S ≤2 mg/L),1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+cut-off >1 mg/L (CLSI 2002),1,CLSI,,CBP_assumed,CLSI_historical_pre2012,True,low,True
+arbitrary cut-off MIC <1,1,unparsed,,,not_applicable_or_not_reported,False,low,True
+cut-off of the author 0.03 µg/mL (C. glabrata CBP),1,author_or_other,,CBP,not_applicable_or_not_reported,False,low,True
+criterion of the authors (>1 mg/L R),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+"criterion of the author (S ≤1, R >2)",1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+criterion of the author (S ≤5),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+"criterion of the author (S ≤8, R >8)",1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+"criterion of the author (zone <7 mm R, 7-12 mm I/SDD, >12 mm S)",1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+criterion Neo-Sensitabs,1,author_or_other+manufacturer,,,not_applicable_or_not_reported,False,low,True
+criterion of the author (S >15 mm; SDD 10-14; R <9),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+criterion of the author (S >16 mm; SDD 10-15; R <9),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+criterion of the author (S >17 mm; SDD 14-16; R <13),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+criterion of the author (S ≥19 mm; SDD 15-18; R ≤14),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+"manufacturer criterion (Rosco): S ≥30 mm, I 23–29 mm, R ≤22 mm",1,author_or_other+manufacturer,,,not_applicable_or_not_reported,False,low,True
+of the author (Badiee and Alborzi 2011; R ≥1),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+of the author (Badiee and Alborzi 2011; R ≥4),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+of the author (Badiee and Alborzi 2011; R ≥64),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+of the author (R >32 µg/mL),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+of the author (R ≥1 µg/mL),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+of the author (R ≥1),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+of the author (R ≥2),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+of the author (no CBP CLSI),1,CLSI+author_or_other,,CBP,CLSI_version_not_stated,True,low,True
+manufacturer (CandiFast),1,manufacturer,,,not_applicable_or_not_reported,False,low,True
+"manufacturer (S ≤4, I 8-32, R >32)",1,manufacturer,,,not_applicable_or_not_reported,False,low,True
+manufacturer (Sensifungidisc),1,manufacturer,,,not_applicable_or_not_reported,False,low,True
+manufacturer / Espinel-Ingroff 2007 (no CBP CLSI),1,CLSI+manufacturer,,CBP,CLSI_historical_pre2012,True,low,True
+manufacturer/author (≤1 µg/mL),1,author_or_other+manufacturer,,,not_applicable_or_not_reported,False,low,True
+manufacturer's guide,1,manufacturer,,,not_applicable_or_not_reported,False,low,True
+manufacturer's instructions (AB BIODISK),1,manufacturer,,,not_applicable_or_not_reported,False,low,True
+manufacturer instructions; EUCAST ECOFF for interpretation,1,EUCAST+manufacturer,,ECV,EUCAST,False,low,True
+"literature (Pfaller 2012), official no CBP",1,author_or_other,,CBP,not_applicable_or_not_reported,False,low,True
+"literature (Pfaller et al., 2012)",1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+"literature (S ≤0.125, IR 0.25-0.5, R ≥1)",1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+"literature (S ≤0.5, R ≥1)",1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+literature/EUCAST (according to Table 6),1,EUCAST+author_or_other,,CBP_assumed,EUCAST,False,low,True
+method of the author,1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+None (method own),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+"Not recorded (S ≤1, I 2, R ≥4)",1,not_reported,,,not_applicable_or_not_reported,False,low,True
+"Not recorded (other species: S ≤0.125, I 0.25-0.5, R ≥1)",1,not_reported,,,not_applicable_or_not_reported,False,low,True
+"Not recorded (other species: S ≤2, SDD 4, R ≥8)",1,not_reported,,,not_applicable_or_not_reported,False,low,True
+not standardized,1,unparsed,,,not_applicable_or_not_reported,False,low,True
+Cut-off >1 (author),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-off from Yang et al. (R ≥2),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-off from the literature (R ≥2),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-off from the literature (S ≤1),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-off from the literature (S ≤16),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-off from literature (R≥0.5),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-off from literature (R≥1),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-off from literature (S ≤1),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-off of the author (<25 mm),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-off of the author (R >1 mg/L),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-off of the author (R >1),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-off of the author (R ≥16),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-off of the author (R ≥2 mg/L),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-off of the author (R ≥2 µg/mL),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-off of the author (S ≤1 µg/mL),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-off of the author (S ≤1; R >1 µg/mL; Pfaller 2003),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-off of the author (reduced susceptibility >2 µg/mL),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-off ≤1 µg/mL (Diekema 2009),1,unparsed,,,not_applicable_or_not_reported,False,low,True
+Cut-offs EUCAST,1,EUCAST,,CBP_assumed,EUCAST,False,low,True
+Cut-offs VITEK 2,1,manufacturer,,,not_applicable_or_not_reported,False,low,True
+adapted cut-offs (Espinel-Ingroff and Guangzhou 2011 and others),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+arbitrary cut-offs of the author,1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-offs of authors (Pujol 2008; Kiraz 2010),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-offs from the literature (R >0.38),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-offs from the literature (R >1),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-offs from the literature (R ≥1),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-offs from the literature (R ≥2),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-offs from the literature (R ≥32),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-offs from the literature (R ≥4),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-offs from the literature (R ≥64),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Cut-offs of the authors (MIC ≥2 = reduced susceptibility/R),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+"Cut-offs of the authors (S ≤8, SDD 16-32, R ≥64)",1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+tentative cut-offs Pfaller et al.,1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+No CBP (S <1 suggested),1,not_reported,,CBP,not_applicable_or_not_reported,False,low,True
+No CBP (n.a.),1,not_reported,,CBP,not_applicable_or_not_reported,False,low,True
+without PC (NCCLS not established),1,CLSI,,CBP_assumed,CLSI_version_not_stated,True,low,True
+without categorization,1,unparsed,,,not_applicable_or_not_reported,False,low,True
+No standard identifiable,1,not_reported,,,not_applicable_or_not_reported,False,low,True
+No cut-off (MIC <1 µg/mL considered S),1,not_reported,,,not_applicable_or_not_reported,False,low,True
+No cut-off defined,1,not_reported,,,not_applicable_or_not_reported,False,low,True
+No cut-off established,1,not_reported,,,not_applicable_or_not_reported,False,low,True
+No cut-off official; tentative resistance limit ≥6.25 µg/mL (literature),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+No cut-off for yeasts,1,not_reported,,,not_applicable_or_not_reported,False,low,True
+No cut-off,1,not_reported,,,not_applicable_or_not_reported,False,low,True
+WT/NWT threshold 0.25 mg/L (Desnos-Ollivier 2022),1,unparsed,,,not_applicable_or_not_reported,False,low,True
+bibliographic threshold (R ≥8),1,unparsed,,,not_applicable_or_not_reported,False,low,True
+threshold of the author (MIC ≥2 elevated),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+"threshold of the author (≥4, Mulu 2013)",1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+local threshold of the author (AM3-MIC ≥0.5 mg/L),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+wtUL of the author (0.03 mg/L),1,author_or_other,,,not_applicable_or_not_reported,False,low,True
+Özçelik et al.,1,author_or_other,,,not_applicable_or_not_reported,False,low,True

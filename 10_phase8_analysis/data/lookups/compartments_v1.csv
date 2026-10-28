@@ -1,0 +1,7 @@
+code,name,short_label
+C1,Human host,Human host
+C2,Animal host,Animal host
+C3,Agroecosystem,Agroecosystem
+C4,Inanimate healthcare environment,Healthcare environment
+C5,Natural environment without agronomic management,Natural environment
+C6,Anthropogenic matrix without attributable azole regimen,Anthropogenic matrix

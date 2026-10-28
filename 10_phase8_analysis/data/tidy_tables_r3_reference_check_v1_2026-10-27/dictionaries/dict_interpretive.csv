@@ -1,0 +1,11 @@
+interp_raw,n_rows,interp_standard,interp_documents,bp_type,flc_regime,version_inferred,parse_confidence,needs_check
+CLSI M27-A3; CLSI M27-S4 breakpoints (2012),20,CLSI,M27-A3; M27-S4,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3,8,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+,4,not_reported,,,,False,high,False
+CLSI M27-A3/M27-S3,2,CLSI,M27-A3; M27-S3,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3/M60 2nd ed.,2,CLSI,M27-A3; M60 2nd ed; M60,CBP,CLSI_species_specific_2012plus,False,medium,False
+CLSI M27-A3; CBP M27-A2,2,CLSI,M27-A3; M27-A2,CBP,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3 (R >1 µg/mL),1,CLSI,M27-A3,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+CLSI M27-A3; ECV,1,CLSI,M27-A3,ECV,CLSI_historical_pre2012,False,medium,False
+CLSI M44-A2,1,CLSI,M44-A2; M44-A,CBP_assumed,CLSI_historical_pre2012,False,medium,False
+revised CLSI CBP (2010),1,CLSI,,CBP,CLSI_historical_pre2012,True,low,True

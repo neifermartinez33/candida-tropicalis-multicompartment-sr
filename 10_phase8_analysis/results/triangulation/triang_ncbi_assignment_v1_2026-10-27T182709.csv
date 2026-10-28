@@ -1,0 +1,1932 @@
+accession,submission,isolate_key,compartment,reads_in_sra,country,year
+SAMN64209596,PRJNA1544115,PRJNA1544115|126,C1,True,Brazil,2024
+SAMN64209559,PRJNA1544115,PRJNA1544115|89,C1,True,Turkey,
+SAMN64209528,PRJNA1544115,PRJNA1544115|58,C1,True,Panama,2020
+SAMN64209509,PRJNA1544115,PRJNA1544115|39,C1,True,Spain,2018
+SAMN64209507,PRJNA1544115,PRJNA1544115|37,C1,True,Germany,
+SAMN64209504,PRJNA1544115,PRJNA1544115|34,C1,True,USA,2018
+SAMN64209502,PRJNA1544115,PRJNA1544115|32,C1,True,Italy,2018
+SAMN64209499,PRJNA1544115,PRJNA1544115|29,C1,True,Hungary,2017
+SAMN64209497,PRJNA1544115,PRJNA1544115|27,C1,True,USA,2017
+SAMN64209496,PRJNA1544115,PRJNA1544115|26,C1,True,Greece,2017
+SAMN64209494,PRJNA1544115,PRJNA1544115|24,C1,True,Italy,2017
+SAMN64209489,PRJNA1544115,PRJNA1544115|19,C1,True,Turkey,2017
+SAMN64209488,PRJNA1544115,PRJNA1544115|18,C1,True,Turkey,2017
+SAMN64209484,PRJNA1544115,PRJNA1544115|14,C1,True,Italy,2017
+SAMN64152194,PRJNA1542592,PRJNA1542592|dct44,C1,True,Ecuador,2020
+SAMN64152193,PRJNA1542592,PRJNA1542592|dct43,C1,True,Ecuador,2020
+SAMN64152192,PRJNA1542592,PRJNA1542592|dct41,C1,True,Ecuador,2020
+SAMN64152191,PRJNA1542592,PRJNA1542592|dct40,C1,True,Ecuador,2020
+SAMN64152190,PRJNA1542592,PRJNA1542592|dct38,C1,True,Ecuador,2020
+SAMN64152189,PRJNA1542592,PRJNA1542592|dct6,C1,True,Ecuador,2019
+SAMN64152188,PRJNA1542592,PRJNA1542592|dct4,C1,True,Ecuador,2019
+SAMN64152187,PRJNA1542592,PRJNA1542592|mct2,C1,True,Ecuador,2019
+SAMN64152186,PRJNA1542592,PRJNA1542592|kct1,C1,True,Ecuador,2019
+SAMN62998826,PRJNA754257,PRJNA754257|u1309,C1,True,India,
+SAMN48434499,PRJNA1260449,PRJNA1260449|cbs 94,C1,True,,1935
+SAMN47619562,PRJNA1170939,PRJNA1170939|lg86,C1,False,USA,2021
+SAMN47234294,PRJNA1232229,PRJNA1232229|c23-3,C1,True,China,2024
+SAMN47234293,PRJNA1232229,PRJNA1232229|c23-2,C1,True,China,2024
+SAMN47234292,PRJNA1232229,PRJNA1232229|c23-1,C1,True,China,2024
+SAMN47234291,PRJNA1232229,PRJNA1232229|dnc-3-3,C1,True,China,2024
+SAMN47234290,PRJNA1232229,PRJNA1232229|dnc-3-2,C1,True,China,2024
+SAMN47234289,PRJNA1232229,PRJNA1232229|dnc-3-1,C1,True,China,2024
+SAMN47234288,PRJNA1232229,PRJNA1232229|dnc-2-3,C1,True,China,2024
+SAMN47234287,PRJNA1232229,PRJNA1232229|dnc-2-2,C1,True,China,2024
+SAMN47234286,PRJNA1232229,PRJNA1232229|dnc-2-1,C1,True,China,2024
+SAMN47234285,PRJNA1232229,PRJNA1232229|dnc-1-3,C1,True,China,2024
+SAMN47234284,PRJNA1232229,PRJNA1232229|dnc-1-2,C1,True,China,2024
+SAMN47234283,PRJNA1232229,PRJNA1232229|dnc-1-1,C1,True,China,2024
+SAMN47234282,PRJNA1232229,PRJNA1232229|dfc-3-3,C1,True,China,2024
+SAMN47234281,PRJNA1232229,PRJNA1232229|dfc-3-2,C1,True,China,2024
+SAMN47234280,PRJNA1232229,PRJNA1232229|dfc-3-1,C1,True,China,2024
+SAMN47234279,PRJNA1232229,PRJNA1232229|dfc-2-3,C1,True,China,2024
+SAMN47234278,PRJNA1232229,PRJNA1232229|dfc-2-2,C1,True,China,2024
+SAMN47234277,PRJNA1232229,PRJNA1232229|dfc-2-1,C1,True,China,2024
+SAMN47234276,PRJNA1232229,PRJNA1232229|dfc-1-3,C1,True,China,2024
+SAMN47234275,PRJNA1232229,PRJNA1232229|dfc-1-2,C1,True,China,2024
+SAMN47234274,PRJNA1232229,PRJNA1232229|dfc-1-1,C1,True,China,2024
+SAMN47234273,PRJNA1232229,PRJNA1232229|flt-3-3,C1,True,China,2024
+SAMN47234272,PRJNA1232229,PRJNA1232229|flt-3-2,C1,True,China,2024
+SAMN47234271,PRJNA1232229,PRJNA1232229|flt-3-1,C1,True,China,2024
+SAMN47234270,PRJNA1232229,PRJNA1232229|flt-2-3,C1,True,China,2024
+SAMN47234269,PRJNA1232229,PRJNA1232229|flt-2-2,C1,True,China,2024
+SAMN47234268,PRJNA1232229,PRJNA1232229|flt-2-1,C1,True,China,2024
+SAMN47234267,PRJNA1232229,PRJNA1232229|flt-1-3,C1,True,China,2024
+SAMN47234266,PRJNA1232229,PRJNA1232229|flt-1-2,C1,True,China,2024
+SAMN47234265,PRJNA1232229,PRJNA1232229|flt-1-1,C1,True,China,2024
+SAMN47234264,PRJNA1232229,PRJNA1232229|hxc-3-3,C1,True,China,2024
+SAMN47234263,PRJNA1232229,PRJNA1232229|hxc-3-2,C1,True,China,2024
+SAMN47234262,PRJNA1232229,PRJNA1232229|hxc-3-1,C1,True,China,2024
+SAMN47234261,PRJNA1232229,PRJNA1232229|hxc-2-3,C1,True,China,2024
+SAMN47234260,PRJNA1232229,PRJNA1232229|hxc-2-2,C1,True,China,2024
+SAMN47234259,PRJNA1232229,PRJNA1232229|hxc-2-1,C1,True,China,2024
+SAMN47234258,PRJNA1232229,PRJNA1232229|hxc-1-3,C1,True,China,2024
+SAMN47234257,PRJNA1232229,PRJNA1232229|hxc-1-2,C1,True,China,2024
+SAMN47234256,PRJNA1232229,PRJNA1232229|hxc-1-1,C1,True,China,2024
+SAMN47229605,PRJNA1232229,PRJNA1232229|c23,C1,True,China,2024
+SAMN47229604,PRJNA1232229,PRJNA1232229|dnc-3,C1,True,China,2024
+SAMN47229603,PRJNA1232229,PRJNA1232229|dnc-2,C1,True,China,2024
+SAMN47229602,PRJNA1232229,PRJNA1232229|dnc-1,C1,True,China,2024
+SAMN47229601,PRJNA1232229,PRJNA1232229|dfc-3,C1,True,China,2024
+SAMN47229600,PRJNA1232229,PRJNA1232229|dfc-2,C1,True,China,2024
+SAMN47229599,PRJNA1232229,PRJNA1232229|dfc-1,C1,True,China,2024
+SAMN47229598,PRJNA1232229,PRJNA1232229|flt-3,C1,True,China,2024
+SAMN47229597,PRJNA1232229,PRJNA1232229|flt-2,C1,True,China,2024
+SAMN47229596,PRJNA1232229,PRJNA1232229|flt-1,C1,True,China,2024
+SAMN47229595,PRJNA1232229,PRJNA1232229|hxc-3,C1,True,China,2024
+SAMN47229594,PRJNA1232229,PRJNA1232229|hxc-2,C1,True,China,2024
+SAMN47229593,PRJNA1232229,PRJNA1232229|hxc-1,C1,True,China,2024
+SAMN39089319,PRJNA1056144,PRJNA1056144|av2,not_allocated,True,,2021
+SAMN39089318,PRJNA1056144,PRJNA1056144|av1,not_allocated,True,,2021
+SAMN28669325,PRJNA842397,PRJNA842397|ascomycota,C1,True,,
+SAMN28669324,PRJNA842397,PRJNA842397|ascomycota,C1,True,,
+SAMN28669275,PRJNA842397,PRJNA842397|ascomycota,C1,True,,
+SAMN28669274,PRJNA842397,PRJNA842397|ascomycota,C1,True,,
+SAMEA112654032,EBI,EBI|12584,not_allocated,True,,
+SAMN16710355,PRJNA675636,PRJNA675636|samn16710355,excluded_laboratory,True,,
+SAMN16710354,PRJNA675636,PRJNA675636|samn16710354,excluded_laboratory,True,,
+SAMN16710353,PRJNA675636,PRJNA675636|samn16710353,excluded_laboratory,True,,
+SAMN16710352,PRJNA675636,PRJNA675636|samn16710352,excluded_laboratory,True,,
+SAMN16710187,PRJNA675631,PRJNA675631|samn16710187,excluded_laboratory,True,,
+SAMN16710172,PRJNA675631,PRJNA675631|samn16710172,excluded_laboratory,True,,
+SAMN13970027,PRJNA604451,PRJNA604451|mya-3404,C1,True,Netherlands,
+SAMN13934278,PRJNA555042,PRJNA555042|cspo,C1,True,,2018
+SAMN02595198,PRJNA236201,PRJNA236201|rna_ct3-2,not_allocated,True,USA,2013
+SAMN02595197,PRJNA236200,PRJNA236200|rna_ct3-1,not_allocated,True,USA,2013
+SAMN02595196,PRJNA236199,PRJNA236199|rna_ct2-2,not_allocated,True,USA,2013
+SAMN02595195,PRJNA236198,PRJNA236198|rna_ct2-1,not_allocated,True,USA,2013
+SAMN02595194,PRJNA236197,PRJNA236197|rna_ct1-2,not_allocated,True,USA,2013
+SAMN02595193,PRJNA236196,PRJNA236196|rna_ct1-1,not_allocated,True,USA,2013
+SAMN55373994,PRJNA1423933,PRJNA1423933|66,C1,False,Lebanon,2016
+SAMN55373993,PRJNA1423933,PRJNA1423933|65,C1,False,Lebanon,2016
+SAMN55373992,PRJNA1423933,PRJNA1423933|63,C1,False,Lebanon,2016
+SAMN55373991,PRJNA1423933,PRJNA1423933|62,C1,False,Lebanon,2016
+SAMN55373990,PRJNA1423933,PRJNA1423933|61,C1,False,Lebanon,2016
+SAMN55373989,PRJNA1423933,PRJNA1423933|60,C1,False,Lebanon,2016
+SAMN55373988,PRJNA1423933,PRJNA1423933|58,C1,False,Lebanon,2016
+SAMN55373987,PRJNA1423933,PRJNA1423933|57,C1,False,Lebanon,2016
+SAMN55373986,PRJNA1423933,PRJNA1423933|54,C1,False,Lebanon,2016
+SAMN55373985,PRJNA1423933,PRJNA1423933|53,C1,False,Lebanon,2016
+SAMN55373984,PRJNA1423933,PRJNA1423933|52,C1,False,Lebanon,2016
+SAMN55373983,PRJNA1423933,PRJNA1423933|50,C1,False,Lebanon,2016
+SAMN55373982,PRJNA1423933,PRJNA1423933|47,C1,False,Lebanon,2016
+SAMN55373981,PRJNA1423933,PRJNA1423933|46,C1,False,Lebanon,2016
+SAMN52943945,PRJNA1354400,PRJNA1354400|dsy1590,C1,True,Switzerland,
+SAMN51885301,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|643/p/21/rna,C1,True,India,2021
+SAMN51885300,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|311/p/20/rna,C1,True,India,2020
+SAMN51885299,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|97/p/22,C1,True,India,2022
+SAMN51885298,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|115/p/18,C1,True,India,2018
+SAMN51885297,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|935/p/18,C1,True,India,2018
+SAMN51885296,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|283/p/21,C1,True,India,2021
+SAMN51885295,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|560/p/21,C1,True,India,2021
+SAMN51885294,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|563/p/21,C1,True,India,2021
+SAMN51885293,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|643/p/21,C1,True,India,2021
+SAMN51885292,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|636/p/21,C1,True,India,2021
+SAMN51885291,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|625/p/21,C1,True,India,2021
+SAMN51885290,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|829/p/21,C1,True,India,2021
+SAMN51885289,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|830/p/21,C1,True,India,2021
+SAMN51885288,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|808/p/21,C1,True,India,2021
+SAMN51885287,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|311/p/20,C1,True,India,2020
+SAMN51885286,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|926/p/15,C1,True,India,2015
+SAMN51885285,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1435/p/17,C1,True,India,2017
+SAMN51885284,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|977/p/17,C1,True,India,2017
+SAMN51885283,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|668/p/17,C1,True,India,2017
+SAMN51885282,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1190/p/15,C1,True,India,2015
+SAMN51885281,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1105/p/15,C1,True,India,2015
+SAMN51885280,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1673/p/18,C1,True,India,2018
+SAMN51885279,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|978/p/17(1),C1,True,India,2017
+SAMN51885278,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|103/p/21,C1,True,India,2021
+SAMN51885277,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|106/p/21,C1,True,India,2021
+SAMN51885276,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|255/p/21,C1,True,India,2021
+SAMN51885275,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|226/p/21,C1,True,India,2021
+SAMN51885274,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|225/p/21,C1,True,India,2021
+SAMN51885273,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|227/p/21,C1,True,India,2021
+SAMN51885272,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|207/p/21,C1,True,India,2021
+SAMN51885271,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|199/p/21,C1,True,India,2021
+SAMN51885270,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|200/p/21,C1,True,India,2021
+SAMN51885269,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|213/p/21,C1,True,India,2021
+SAMN51885268,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|256/p/21,C1,True,India,2021
+SAMN51885267,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|201/p/21,C1,True,India,2021
+SAMN51885266,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|203/p/21,C1,True,India,2021
+SAMN51885265,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|259/p/21,C1,True,India,2021
+SAMN51885264,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|192/p/21,C1,True,India,2021
+SAMN51885263,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|195/p/21,C1,True,India,2021
+SAMN51885262,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|239/p/21,C1,True,India,2021
+SAMN51885261,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|231/p/21,C1,True,India,2021
+SAMN51885260,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|264/p/21,C1,True,India,2021
+SAMN51885259,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|595/p/20,C1,True,India,2020
+SAMN51885258,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|252/p/21,C1,True,India,2021
+SAMN51885257,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|251/p/21,C1,True,India,2021
+SAMN51885256,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|214/p/21,C1,True,India,2021
+SAMN51885255,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|228/p/21,C1,True,India,2021
+SAMN51885254,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|257/p/21,C1,True,India,2021
+SAMN51885253,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1104/p/17,C1,True,India,2017
+SAMN51885252,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1302/p/16,C1,True,India,2016
+SAMN51885251,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|303/p/20,C1,True,India,2020
+SAMN51885250,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|836/p/15,C1,True,India,2015
+SAMN51885249,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|848/p/15,C1,True,India,2015
+SAMN51885248,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|847/p/15,C1,True,India,2015
+SAMN51885247,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|852/p/15,C1,True,India,2015
+SAMN51885246,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|450/p/17,C1,True,India,2017
+SAMN51885245,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|837/p/15,C1,True,India,2015
+SAMN51885244,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|967/p/17,C1,True,India,2017
+SAMN51885243,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1350/p/17,C1,True,India,2017
+SAMN51885242,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1070/p/17,C1,True,India,2017
+SAMN51885241,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1375/p/17,C1,True,India,2017
+SAMN51885240,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|654/p/17,C1,True,India,2017
+SAMN51885239,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1179/p/17,C1,True,India,2017
+SAMN51885238,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|882/p/17,C1,True,India,2017
+SAMN51885237,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|922/p/17,C1,True,India,2017
+SAMN51885236,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1166/p/17/2,C1,True,India,2017
+SAMN51885235,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1164/p/17/2,C1,True,India,2017
+SAMN51885234,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|2304/p/16,C1,True,India,2016
+SAMN51885233,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1833/p/16,C1,True,India,2016
+SAMN51885232,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1436/p/15,C1,True,India,2015
+SAMN51885231,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|2195/p/16,C1,True,India,2016
+SAMN51885230,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1283/p/16,C1,True,India,2016
+SAMN51885229,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1277/p/16,C1,True,India,2016
+SAMN51885228,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1294/p/16,C1,True,India,2016
+SAMN51885227,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1049/p/17,C1,True,India,2017
+SAMN51885226,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|2202/p/16,C1,True,India,2016
+SAMN51885225,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1791/p/16,C1,False,India,2016
+SAMN51885224,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|2185/p/16,C1,True,India,2016
+SAMN51885223,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|2184/p/16,C1,True,India,2016
+SAMN51885222,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|2168/p/16,C1,True,India,2016
+SAMN51885221,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1370/p/17,C1,True,India,2017
+SAMN51885220,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1286/p/17,C1,True,India,2017
+SAMN51885219,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|536/p/17,C1,True,India,2017
+SAMN51885218,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1949/p/16,C1,True,Qatar,2016
+SAMN51885217,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1942/p/16,C1,True,Qatar,2016
+SAMN51885216,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|2272/p/16,C1,True,India,2016
+SAMN51885215,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1374/p/17(1),C1,True,India,2017
+SAMN51885214,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|716/p/16,C1,True,India,2016
+SAMN51885213,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|684/p/16,C1,True,India,2016
+SAMN51885212,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|103/p/18,C1,True,India,2018
+SAMN51885211,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|102/p/18,C1,True,India,2018
+SAMN51885210,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|138/p/17,C1,True,India,2017
+SAMN51885209,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|905/p/17,C1,True,India,2017
+SAMN51885208,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1037/p/17,C1,True,India,2017
+SAMN51885207,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1036/p/17,C1,True,India,2017
+SAMN51885206,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1048/p/17,C1,True,India,2017
+SAMN51885205,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1025/p/17,C1,True,India,2017
+SAMN51885204,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1022/p/17,C1,True,India,2017
+SAMN51885203,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1099/p/17,C1,True,India,2017
+SAMN51885202,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1095/p/17,C1,True,India,2017
+SAMN51885201,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1090/p/17,C1,True,India,2017
+SAMN51885200,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|764/p/15,C1,True,India,2015
+SAMN51885199,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|2629/15,C1,True,India,2015
+SAMN51885198,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|2700/p/16,C1,True,India,2016
+SAMN51885197,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|217/p/14,C1,True,India,2014
+SAMN51885196,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|216/p/14,C1,True,India,2014
+SAMN51885195,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|157/p/17,C1,True,India,2017
+SAMN51885194,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1166/p/17,C1,True,India,2017
+SAMN51885193,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1164/p/17,C1,True,India,2017
+SAMN51885192,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1181/p/17(2),C1,True,India,2017
+SAMN51885191,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|901/p/17,C1,True,India,2017
+SAMN51885190,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|916/p/17(2),C1,True,India,2017
+SAMN51885189,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|928/p/17,C1,True,India,2017
+SAMN51885188,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1442/p/18,C1,True,India,2018
+SAMN51885187,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1466/p/18,C1,True,India,2018
+SAMN51885186,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|729/p/17,C1,True,India,2017
+SAMN51885185,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|731/p/15,C1,True,India,2015
+SAMN51885184,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|v-213,C1,True,India,2017
+SAMN51885183,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|v-182,C1,True,India,2017
+SAMN51885182,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|357/p/17,C1,True,India,2017
+SAMN51885181,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1308/p/16,C1,True,India,2016
+SAMN51885180,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|812/p/17,C1,True,India,2017
+SAMN51885179,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|2198/p/16,C1,True,India,2016
+SAMN51885178,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1421/p/15,C1,True,India,2015
+SAMN51885177,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|493/p/18,C1,True,India,2018
+SAMN51885176,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|691/p/14,C1,True,India,2014
+SAMN51885175,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|954/p/17(1),C1,True,India,2017
+SAMN51885174,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|753/p/17,C1,True,India,2017
+SAMN51885173,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|534/p/17,C1,True,India,2017
+SAMN51885172,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|490/p/16,C1,True,India,2016
+SAMN51885171,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1546/p/16,C1,True,Iran,2016
+SAMN51885170,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|1533/p/16,C1,True,Iran,2016
+SAMN51885169,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|574/p/14,C1,True,India,2014
+SAMN51885168,Vallabhbhai Patel Chest Institute,Vallabhbhai Patel Chest Institute|2411/p/16,C1,True,India,2016
+SAMN44073277,PRJNA1168696,PRJNA1168696|candida,C1,True,Uganda,2021
+SAMN44073276,PRJNA1168696,PRJNA1168696|candida,C1,True,Uganda,2021
+SAMN41186041,PRJNA1107503,PRJNA1107503|v277-51,C1,True,Netherlands,2019
+SAMN41186040,PRJNA1107503,PRJNA1107503|v318-62,C1,True,Netherlands,2020
+SAMN41186039,PRJNA1107503,PRJNA1107503|m034-52,C1,True,Netherlands,2021
+SAMN40572196,PRJNA1090665,PRJNA1090665|v312-42,C1,True,Netherlands,
+SAMN40572195,PRJNA1090665,PRJNA1090665|v277-77,C1,True,Netherlands,
+SAMN40572194,PRJNA1090665,PRJNA1090665|v253-22,C1,True,Netherlands,
+SAMN40572193,PRJNA1090665,PRJNA1090665|v186-48,C1,True,Netherlands,
+SAMN40572192,PRJNA1090665,PRJNA1090665|v160-17,C1,True,Netherlands,
+SAMN40572191,PRJNA1090665,PRJNA1090665|v151-23,C1,True,Netherlands,
+SAMN40572190,PRJNA1090665,PRJNA1090665|v149-70,C1,True,Netherlands,
+SAMN40572189,PRJNA1090665,PRJNA1090665|m041-15,C1,True,Netherlands,
+SAMN40572188,PRJNA1090665,PRJNA1090665|m034-69,C1,True,Netherlands,
+SAMN40572187,PRJNA1090665,PRJNA1090665|m025-18,C1,True,Netherlands,
+SAMN40572186,PRJNA1090665,PRJNA1090665|m011-23,C1,True,Netherlands,
+SAMN40572185,PRJNA1090665,PRJNA1090665|m008-73,C1,True,Netherlands,
+SAMN40572184,PRJNA1090665,PRJNA1090665|m002-62,C1,True,Netherlands,
+SAMN35989853,PRJNA592373,PRJNA592373|ar-01098,C1,True,USA,
+SAMN35989845,PRJNA592373,PRJNA592373|ar-0345,C1,True,USA,
+SAMN30111441,PRJNA865384,PRJNA865384|atcc 13803,C1,True,,
+SAMN27974268,PRJNA833395,PRJNA833395|017,C1,True,Qatar,
+SAMN27974267,PRJNA833395,PRJNA833395|041,C1,True,Qatar,
+SAMN27974266,PRJNA833395,PRJNA833395|131,C1,True,Qatar,
+SAMN27974265,PRJNA833395,PRJNA833395|059,C1,True,Qatar,
+SAMN27974264,PRJNA833395,PRJNA833395|139,C1,True,Qatar,
+SAMN27974263,PRJNA833395,PRJNA833395|yfj002-127,C1,True,Netherlands,
+SAMN27974262,PRJNA833395,PRJNA833395|4,C1,True,Netherlands,
+SAMN27974261,PRJNA833395,PRJNA833395|9031165686,C1,True,Netherlands,
+SAMN27974260,PRJNA833395,PRJNA833395|001,C1,True,Qatar,
+SAMN27974259,PRJNA833395,PRJNA833395|atcc 750,C1,True,Netherlands,
+SAMN13632299,PRJNA596050,PRJNA596050|mya-3404,C1,True,,
+SAMN13632298,PRJNA596050,PRJNA596050|mya-3404,C1,False,,
+SAMN13632276,PRJNA596050,PRJNA596050|mya-3404,C1,True,,
+SAMN08439037,PRJNA432250,PRJNA432250|mya-3404,excluded_laboratory,True,,
+SAMN61410791,PRJNA1489768,PRJNA1489768|mdc4,C1,True,India,2023
+SAMN54542499,PRJNA1400329,PRJNA1400329|ial-01,C1,True,Brazil,2011
+SAMN54542498,PRJNA1400329,PRJNA1400329|ial-01,C1,True,Brazil,2011
+SAMN54542497,PRJNA1400329,PRJNA1400329|ial-01,C1,True,Brazil,2011
+SAMN54542496,PRJNA1400329,PRJNA1400329|ial-01,C1,True,Brazil,2011
+SAMN57562827,Tata Institue for Genetics and Society,Tata Institue for Genetics and Society|staphylococcus aureus mssa,excluded_laboratory,True,India,2024
+SAMN48413243,PRJNA1261104,PRJNA1261104|as_4_d,C6,True,China,2023
+SAMN48413242,PRJNA1261104,PRJNA1261104|wyw_40_b,C5,True,China,2024
+SAMN48413241,PRJNA1261104,PRJNA1261104|as_4_a,C6,True,China,2023
+SAMN48413240,PRJNA1261104,PRJNA1261104|hdl_19_a,C5,True,China,2024
+SAMN48413239,PRJNA1261104,PRJNA1261104|hdl_36_b,C5,True,China,2024
+SAMN48413238,PRJNA1261104,PRJNA1261104|hdl_35_c,C5,True,China,2024
+SAMN48413237,PRJNA1261104,PRJNA1261104|hdl_35_a,C5,True,China,2024
+SAMN48413236,PRJNA1261104,PRJNA1261104|hdl_34_a,C5,True,China,2024
+SAMN48413235,PRJNA1261104,PRJNA1261104|hdl_33_b,C5,True,China,2024
+SAMN48413234,PRJNA1261104,PRJNA1261104|as_3_a,C6,True,China,2023
+SAMN48413233,PRJNA1261104,PRJNA1261104|hdl_33_a,C5,True,China,2024
+SAMN48413232,PRJNA1261104,PRJNA1261104|hdl_32_c,C5,True,China,2024
+SAMN48413231,PRJNA1261104,PRJNA1261104|hdl_32_a,C5,True,China,2024
+SAMN48413230,PRJNA1261104,PRJNA1261104|hdl_30_a,C5,True,China,2024
+SAMN48413229,PRJNA1261104,PRJNA1261104|hdl_24_a,C5,True,China,2024
+SAMN48413228,PRJNA1261104,PRJNA1261104|hdl_23_a,C5,True,China,2024
+SAMN48413227,PRJNA1261104,PRJNA1261104|hdl_22_a,C5,True,China,2024
+SAMN48413226,PRJNA1261104,PRJNA1261104|hdl_21_a,C5,True,China,2024
+SAMN48413225,PRJNA1261104,PRJNA1261104|hdl_20_a,C5,True,China,2024
+SAMN48413224,PRJNA1261104,PRJNA1261104|hdl_18_a,C5,True,China,2024
+SAMN48413223,PRJNA1261104,PRJNA1261104|hdl_17_a,C5,True,China,2024
+SAMN48413222,PRJNA1261104,PRJNA1261104|hdl_16_a,C5,True,China,2024
+SAMN48413221,PRJNA1261104,PRJNA1261104|hdl_15_a,C5,True,China,2024
+SAMN48413220,PRJNA1261104,PRJNA1261104|hdl_13_a,C5,True,China,2024
+SAMN48413219,PRJNA1261104,PRJNA1261104|hdl_12_a,C5,True,China,2024
+SAMN48413218,PRJNA1261104,PRJNA1261104|hdl_11_a,C5,True,China,2024
+SAMN48413217,PRJNA1261104,PRJNA1261104|hdl_10_a,C5,True,China,2024
+SAMN48413216,PRJNA1261104,PRJNA1261104|hdl_8_a,C5,True,China,2024
+SAMN48413215,PRJNA1261104,PRJNA1261104|hdl_7_a,C5,True,China,2024
+SAMN48413214,PRJNA1261104,PRJNA1261104|hdl_5_a,C5,True,China,2024
+SAMN48413213,PRJNA1261104,PRJNA1261104|hdl_3_a,C5,True,China,2024
+SAMN48413212,PRJNA1261104,PRJNA1261104|hdl_2_a,C5,True,China,2024
+SAMN48413211,PRJNA1261104,PRJNA1261104|hdl_1_a,C5,True,China,2024
+SAMN48413210,PRJNA1261104,PRJNA1261104|ydh_35_a,C5,True,China,2024
+SAMN48413209,PRJNA1261104,PRJNA1261104|ydh_34_a,C5,True,China,2024
+SAMN48413208,PRJNA1261104,PRJNA1261104|ww_3_d,C6,True,China,2023
+SAMN48413207,PRJNA1261104,PRJNA1261104|ydh_33_a,C5,True,China,2024
+SAMN48413206,PRJNA1261104,PRJNA1261104|ydh_32_a,C5,True,China,2024
+SAMN48413205,PRJNA1261104,PRJNA1261104|ydh_31_a,C5,True,China,2024
+SAMN48413204,PRJNA1261104,PRJNA1261104|ydh_30_a,C5,True,China,2024
+SAMN48413203,PRJNA1261104,PRJNA1261104|ydh_29_d,C5,True,China,2024
+SAMN48413202,PRJNA1261104,PRJNA1261104|ydh_21_a,C5,True,China,2024
+SAMN48413201,PRJNA1261104,PRJNA1261104|ydh_20_a,C5,True,China,2024
+SAMN48413200,PRJNA1261104,PRJNA1261104|ydh_19_a,C5,True,China,2024
+SAMN48413199,PRJNA1261104,PRJNA1261104|ydh_18_a,C5,True,China,2024
+SAMN48413198,PRJNA1261104,PRJNA1261104|ydh_17_a,C5,True,China,2024
+SAMN48413197,PRJNA1261104,PRJNA1261104|ww_3_b,C6,True,China,2023
+SAMN48413196,PRJNA1261104,PRJNA1261104|ydh_16_a,C5,True,China,2024
+SAMN48413195,PRJNA1261104,PRJNA1261104|wyw_40_a,C5,True,China,2024
+SAMN48413194,PRJNA1261104,PRJNA1261104|wyw_38_b,C5,True,China,2024
+SAMN48413193,PRJNA1261104,PRJNA1261104|wyw_34_a,C5,True,China,2024
+SAMN48413192,PRJNA1261104,PRJNA1261104|wyw_33_a,C5,True,China,2024
+SAMN48413191,PRJNA1261104,PRJNA1261104|hcw_14_a,C5,True,China,2024
+SAMN48413190,PRJNA1261104,PRJNA1261104|hcw_20_a,C5,True,China,2024
+SAMN48413189,PRJNA1261104,PRJNA1261104|hdl_6_a,C5,True,China,2024
+SAMN48413188,PRJNA1261104,PRJNA1261104|hdl_39_a,C5,True,China,2024
+SAMN48413187,PRJNA1261104,PRJNA1261104|ww_1_f,C6,True,China,2023
+SAMN48413186,PRJNA1261104,PRJNA1261104|hdl_38_a,C5,True,China,2024
+SAMN48413185,PRJNA1261104,PRJNA1261104|hdl_37_a,C5,True,China,2024
+SAMN48413184,PRJNA1261104,PRJNA1261104|ydh_27_a,C5,True,China,2024
+SAMN48413183,PRJNA1261104,PRJNA1261104|ydh_24_a,C5,True,China,2024
+SAMN48413182,PRJNA1261104,PRJNA1261104|lmx_10_b,C5,True,China,2024
+SAMN48413181,PRJNA1261104,PRJNA1261104|xlw_11_a,C5,True,China,2024
+SAMN48413180,PRJNA1261104,PRJNA1261104|as_1_1_a,C6,True,China,2023
+SAMN48413179,PRJNA1261104,PRJNA1261104|ww_1_b,C6,True,China,2023
+SAMN19340470,PRJNA732768,PRJNA732768|ibun-090-03567,not_allocated,False,Colombia,2015
+SAMN48360963,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|as_4_d",C6,False,China,2023
+SAMN48360962,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|wyw_40_b",C5,False,China,2024
+SAMN48360961,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|as_4_a",C6,False,China,2023
+SAMN48360960,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_19_a",C5,False,China,2024
+SAMN48360959,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_36_b",C5,False,China,2024
+SAMN48360958,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_35_c",C5,False,China,2024
+SAMN48360957,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_35_a",C5,False,China,2024
+SAMN48360956,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_34_a",C5,False,China,2024
+SAMN48360955,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_33_b",C5,False,China,2024
+SAMN48360954,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|as_3_a",C6,False,China,2023
+SAMN48360953,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_33_a",C5,False,China,2024
+SAMN48360952,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_32_c",C5,False,China,2024
+SAMN48360951,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_32_a",C5,False,China,2024
+SAMN48360950,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_30_a",C5,False,China,2024
+SAMN48360949,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_24_a",C5,False,China,2024
+SAMN48360948,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_23_a",C5,False,China,2024
+SAMN48360947,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_22_a",C5,False,China,2024
+SAMN48360946,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_21_a",C5,False,China,2024
+SAMN48360945,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_20_a",C5,False,China,2024
+SAMN48360944,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_18_a",C5,False,China,2024
+SAMN48360943,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_17_a",C5,False,China,2024
+SAMN48360942,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_16_a",C5,False,China,2024
+SAMN48360941,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_15_a",C5,False,China,2024
+SAMN48360940,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_13_a",C5,False,China,2024
+SAMN48360939,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_12_a",C5,False,China,2024
+SAMN48360938,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_11_a",C5,False,China,2024
+SAMN48360937,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_10_a",C5,False,China,2024
+SAMN48360936,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_8_a",C5,False,China,2024
+SAMN48360935,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_7_a",C5,False,China,2024
+SAMN48360934,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_5_a",C5,False,China,2024
+SAMN48360933,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_3_a",C5,False,China,2024
+SAMN48360932,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_2_a",C5,False,China,2024
+SAMN48360931,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_1_a",C5,False,China,2024
+SAMN48360930,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|ydh_35_a",C5,False,China,2024
+SAMN48360929,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|ydh_34_a",C5,False,China,2024
+SAMN48360928,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|ww_3_d",C6,False,China,2023
+SAMN48360927,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|ydh_33_a",C5,False,China,2024
+SAMN48360926,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|ydh_32_a",C5,False,China,2024
+SAMN48360925,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|ydh_31_a",C5,False,China,2024
+SAMN48360924,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|ydh_30_a",C5,False,China,2024
+SAMN48360923,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|ydh_29_d",C5,False,China,2024
+SAMN48360922,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|ydh_21_a",C5,False,China,2024
+SAMN48360921,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|ydh_20_a",C5,False,China,2024
+SAMN48360920,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|ydh_19_a",C5,False,China,2024
+SAMN48360919,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|ydh_18_a",C5,False,China,2024
+SAMN48360918,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|ydh_17_a",C5,False,China,2024
+SAMN48360917,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|ww_3_b",C6,False,China,2023
+SAMN48360916,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|ydh_16_a",C5,False,China,2024
+SAMN48360915,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|wyw_40_a",C5,False,China,2024
+SAMN48360914,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|wyw_38_b",C5,False,China,2024
+SAMN48360913,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|wyw_34_a",C5,False,China,2024
+SAMN48360912,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|wyw_33_a",C5,False,China,2024
+SAMN48360911,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hcw_14_a",C5,False,China,2024
+SAMN48360910,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hcw_20_a",C5,False,China,2024
+SAMN48360909,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_6_a",C5,False,China,2024
+SAMN48360908,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_39_a",C5,False,China,2024
+SAMN48360907,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|ww_1_f",C6,False,China,2023
+SAMN48360906,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_38_a",C5,False,China,2024
+SAMN48360905,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|hdl_37_a",C5,False,China,2024
+SAMN48360904,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|ydh_27_a",C5,False,China,2024
+SAMN48360903,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|ydh_24_a",C5,False,China,2024
+SAMN48360902,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|lmx_10_b",C5,False,China,2024
+SAMN48360901,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|xlw_11_a",C5,False,China,2024
+SAMN48360900,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|as_1_1_a",C6,False,China,2023
+SAMN48360899,"Institute of Urban Environment, Chinese Academy of Sciences","Institute of Urban Environment, Chinese Academy of Sciences|ww_1_b",C6,False,China,2023
+SAMN54455744,PRJNA1398595,PRJNA1398595|jch-c2,C1,False,China,2024
+SAMN54455743,PRJNA1398595,PRJNA1398595|jch-c1,C1,False,China,2024
+SAMN54455742,PRJNA1398595,PRJNA1398595|jch-b19,C1,False,China,2024
+SAMN54455741,PRJNA1398595,PRJNA1398595|jch-b18,C1,False,China,2024
+SAMN54455740,PRJNA1398595,PRJNA1398595|jch-b17,C1,False,China,2024
+SAMN54455739,PRJNA1398595,PRJNA1398595|jch-b16,C1,False,China,2024
+SAMN54455738,PRJNA1398595,PRJNA1398595|jch-b15,C1,False,China,2024
+SAMN54455737,PRJNA1398595,PRJNA1398595|jch-b14,C1,False,China,2024
+SAMN54455736,PRJNA1398595,PRJNA1398595|jch-b13,C1,False,China,2024
+SAMN54455735,PRJNA1398595,PRJNA1398595|jch-b12,C1,False,China,2024
+SAMN54455734,PRJNA1398595,PRJNA1398595|jch-b11,C1,False,China,2024
+SAMN54455733,PRJNA1398595,PRJNA1398595|jch-b10,C1,False,China,2024
+SAMN54455732,PRJNA1398595,PRJNA1398595|jch-b9,C1,False,China,2024
+SAMN54455731,PRJNA1398595,PRJNA1398595|jch-b8,C1,False,China,2024
+SAMN54455730,PRJNA1398595,PRJNA1398595|jch-b7,C1,False,China,2024
+SAMN54455729,PRJNA1398595,PRJNA1398595|jch-b6,C1,False,China,2024
+SAMN54455728,PRJNA1398595,PRJNA1398595|jch-b5,C1,False,China,2024
+SAMN54455727,PRJNA1398595,PRJNA1398595|jch-b4,C1,False,China,2024
+SAMN54455726,PRJNA1398595,PRJNA1398595|jch-b3,C1,False,China,2024
+SAMN54455725,PRJNA1398595,PRJNA1398595|jch-b2,C1,False,China,2024
+SAMN54455724,PRJNA1398595,PRJNA1398595|jch-b1,C1,False,China,2023
+SAMN54455723,PRJNA1398595,PRJNA1398595|jch-a35,C1,False,China,2023
+SAMN54455722,PRJNA1398595,PRJNA1398595|jch-a34,C1,False,China,2023
+SAMN54455721,PRJNA1398595,PRJNA1398595|jch-a33,C1,False,China,2023
+SAMN54455720,PRJNA1398595,PRJNA1398595|jch-a32,C1,False,China,2023
+SAMN54455719,PRJNA1398595,PRJNA1398595|jch-a31,C1,False,China,2023
+SAMN54455718,PRJNA1398595,PRJNA1398595|jch-a30,C1,False,China,2023
+SAMN54455717,PRJNA1398595,PRJNA1398595|jch-a29,C1,False,China,2023
+SAMN54455716,PRJNA1398595,PRJNA1398595|jch-a28,C1,False,China,2023
+SAMN54455715,PRJNA1398595,PRJNA1398595|jch-a27,C1,False,China,2023
+SAMN54455714,PRJNA1398595,PRJNA1398595|jch-a26,C1,False,China,2023
+SAMN54455713,PRJNA1398595,PRJNA1398595|jch-a25,C1,False,China,2023
+SAMN54455712,PRJNA1398595,PRJNA1398595|jch-a24,C1,False,China,2023
+SAMN54455711,PRJNA1398595,PRJNA1398595|jch-a23,C1,False,China,2023
+SAMN54455710,PRJNA1398595,PRJNA1398595|jch-a22,C1,False,China,2023
+SAMN54455709,PRJNA1398595,PRJNA1398595|jch-a21,C1,False,China,2023
+SAMN54455708,PRJNA1398595,PRJNA1398595|jch-a20,C1,False,China,2023
+SAMN54455707,PRJNA1398595,PRJNA1398595|jch-a19,C1,False,China,2023
+SAMN54455706,PRJNA1398595,PRJNA1398595|jch-a18,C1,False,China,2023
+SAMN54455705,PRJNA1398595,PRJNA1398595|jch-a17,C1,False,China,2023
+SAMN54455704,PRJNA1398595,PRJNA1398595|jch-a16,C1,False,China,2023
+SAMN54455703,PRJNA1398595,PRJNA1398595|jch-a15,C1,False,China,2023
+SAMN54455702,PRJNA1398595,PRJNA1398595|jch-a14,C1,False,China,2023
+SAMN54455701,PRJNA1398595,PRJNA1398595|jch-a13,C1,False,China,2023
+SAMN54455700,PRJNA1398595,PRJNA1398595|jch-a12,C1,False,China,2023
+SAMN54455699,PRJNA1398595,PRJNA1398595|jch-a11,C1,False,China,2023
+SAMN54455698,PRJNA1398595,PRJNA1398595|jch-a10,C1,False,China,2024
+SAMN54455697,PRJNA1398595,PRJNA1398595|jch-a9,C1,False,China,2023
+SAMN54455696,PRJNA1398595,PRJNA1398595|jch-a8,C1,False,China,2023
+SAMN54455695,PRJNA1398595,PRJNA1398595|jch-a7,C1,False,China,2023
+SAMN54455694,PRJNA1398595,PRJNA1398595|jch-a6,C1,False,China,2023
+SAMN54455693,PRJNA1398595,PRJNA1398595|jch-a5,C1,False,China,2023
+SAMN54455692,PRJNA1398595,PRJNA1398595|jch-a4,C1,False,China,2023
+SAMN54455691,PRJNA1398595,PRJNA1398595|jch-a3,C1,False,China,2023
+SAMN54455690,PRJNA1398595,PRJNA1398595|jch-a2,C1,False,China,2023
+SAMN54455689,PRJNA1398595,PRJNA1398595|jch-a1,C1,False,China,2023
+SAMN55359258,Lebanese American University,Lebanese American University|2024_1503,C1,False,Lebanon,2016
+SAMN54346689,PRJNA1395136,PRJNA1395136|samn54346689,excluded_laboratory,True,,
+SAMN54346688,PRJNA1395136,PRJNA1395136|samn54346688,excluded_laboratory,True,,
+SAMN54346687,PRJNA1395136,PRJNA1395136|samn54346687,excluded_laboratory,True,,
+SAMN54346686,PRJNA1395136,PRJNA1395136|samn54346686,excluded_laboratory,True,,
+SAMN54346685,PRJNA1395136,PRJNA1395136|samn54346685,excluded_laboratory,True,,
+SAMN54346684,PRJNA1395136,PRJNA1395136|samn54346684,excluded_laboratory,True,,
+SAMN54346683,PRJNA1395136,PRJNA1395136|samn54346683,excluded_laboratory,True,,
+SAMN54346682,PRJNA1395136,PRJNA1395136|samn54346682,excluded_laboratory,True,,
+SAMN54346681,PRJNA1395136,PRJNA1395136|samn54346681,excluded_laboratory,True,,
+SAMN54346680,PRJNA1395136,PRJNA1395136|samn54346680,excluded_laboratory,True,,
+SAMD00651071,PRJDB8042,PRJDB8042|nbrc 1404,excluded_laboratory,False,Hungary,
+SAMN54375813,PRJNA1185440,PRJNA1185440|fungi,C1,True,United Arab Emirates,2022
+SAMN53736904,PRJNA1376950,PRJNA1376950|candida,C1,True,Egypt,2023
+SAMN53736903,PRJNA1376950,PRJNA1376950|candida,C1,True,Egypt,2023
+SAMN53736902,PRJNA1376950,PRJNA1376950|candida,C1,True,Egypt,2023
+SAMN53736901,PRJNA1376950,PRJNA1376950|candida,C1,True,Egypt,2023
+SAMN53736900,PRJNA1376950,PRJNA1376950|candida,C1,True,Egypt,2023
+SAMN53736899,PRJNA1376950,PRJNA1376950|candida,C1,True,Egypt,2023
+SAMN53736898,PRJNA1376950,PRJNA1376950|candida,C1,True,Egypt,2023
+SAMN53736897,PRJNA1376950,PRJNA1376950|candida,C1,True,Egypt,2023
+SAMN53736896,PRJNA1376950,PRJNA1376950|candida,C1,True,Egypt,2023
+SAMN53736895,PRJNA1376950,PRJNA1376950|candida,C1,True,Egypt,2023
+SAMN50445262,PRJNA1301428,PRJNA1301428|karbala-1-b1,C1,True,Iraq,2024
+SAMN50445123,PRJNA1301428,PRJNA1301428|karbala-1-a1,C1,True,Iraq,2024
+SAMN52642794,PRJNA1342476,PRJNA1342476|yhql385,excluded_laboratory,True,,
+SAMN52642245,PRJNA1342574,PRJNA1342574|yhkb468,excluded_laboratory,True,,
+SAMN52642170,PRJNA1342837,PRJNA1342837|yhql347,excluded_laboratory,True,,
+SAMN52641976,PRJNA1342959,PRJNA1342959|yhkb116,excluded_laboratory,True,,
+SAMN52641914,PRJNA1342478,PRJNA1342478|yhmh255,excluded_laboratory,True,,
+SAMN52641913,PRJNA1342508,PRJNA1342508|yhmh254,excluded_laboratory,True,,
+SAMN52641850,PRJNA1342751,PRJNA1342751|yhmh281,excluded_laboratory,True,,
+SAMN43206678,PRJNA1122128,PRJNA1122128|cc2_5,C1,True,USA,2021
+SAMN43206677,PRJNA1122128,PRJNA1122128|cc2_3,C1,True,USA,2021
+SAMN43206676,PRJNA1122128,PRJNA1122128|cc2_2,C1,True,USA,2021
+SAMN43206675,PRJNA1122128,PRJNA1122128|cc2_1,C1,True,USA,2021
+SAMN43206669,PRJNA1122128,PRJNA1122128|cc22_5,C1,True,USA,2023
+SAMN43206668,PRJNA1122128,PRJNA1122128|cc22_4,C1,True,USA,2023
+SAMN43206667,PRJNA1122128,PRJNA1122128|cc22_3,C1,True,USA,2023
+SAMN43206666,PRJNA1122128,PRJNA1122128|cc22_2,C1,True,USA,2023
+SAMN43206665,PRJNA1122128,PRJNA1122128|cc22_1,C1,True,USA,2023
+SAMN43206501,PRJNA1122128,PRJNA1122128|aa4_5,C1,True,USA,2021
+SAMN43206500,PRJNA1122128,PRJNA1122128|aa4_4,C1,True,USA,2021
+SAMN43206499,PRJNA1122128,PRJNA1122128|aa4_3,C1,True,USA,2021
+SAMN43206498,PRJNA1122128,PRJNA1122128|aa4_2,C1,True,USA,2021
+SAMN43206497,PRJNA1122128,PRJNA1122128|aa4_1,C1,True,USA,2021
+SAMN41217973,PRJNA1107932,PRJNA1107932|ct149,C1,True,Italy,2023
+SAMN41217972,PRJNA1107932,PRJNA1107932|ct151,C1,True,Italy,2023
+SAMN41217971,PRJNA1107932,PRJNA1107932|ct178,C1,True,Italy,2023
+SAMN41217970,PRJNA1107932,PRJNA1107932|ct96,C1,True,Italy,2022
+SAMN41217969,PRJNA1107932,PRJNA1107932|ct190,C1,True,Italy,2023
+SAMN41217968,PRJNA1107932,PRJNA1107932|ct163,C1,True,Italy,2023
+SAMN41217967,PRJNA1107932,PRJNA1107932|ct194,C1,True,Italy,2023
+SAMN41217966,PRJNA1107932,PRJNA1107932|ct13,C1,True,Italy,2018
+SAMN41217965,PRJNA1107932,PRJNA1107932|ct35,C1,True,Italy,2022
+SAMN41217964,PRJNA1107932,PRJNA1107932|ct196,C1,True,Italy,2023
+SAMN41217963,PRJNA1107932,PRJNA1107932|ct143,C1,True,Italy,2021
+SAMN41217962,PRJNA1107932,PRJNA1107932|ct141,C1,True,Italy,2021
+SAMN41217961,PRJNA1107932,PRJNA1107932|ct95,C1,True,Italy,2014
+SAMN41217960,PRJNA1107932,PRJNA1107932|ct86,C1,True,Italy,2014
+SAMN41217959,PRJNA1107932,PRJNA1107932|ct39,C1,True,Italy,2022
+SAMN41217958,PRJNA1107932,PRJNA1107932|ct113,C1,True,Italy,2020
+SAMN41217957,PRJNA1107932,PRJNA1107932|ct37,C1,True,Italy,2021
+SAMN41217956,PRJNA1107932,PRJNA1107932|ct66,C1,True,Italy,2018
+SAMN41217955,PRJNA1107932,PRJNA1107932|ct125,C1,True,Italy,2020
+SAMN41217954,PRJNA1107932,PRJNA1107932|ct19,C1,True,Italy,2018
+SAMN41217953,PRJNA1107932,PRJNA1107932|ct48,C1,True,Italy,2019
+SAMN41217952,PRJNA1107932,PRJNA1107932|ct128,C1,True,Italy,2020
+SAMN41217951,PRJNA1107932,PRJNA1107932|ct38,C1,True,Italy,2022
+SAMN41217950,PRJNA1107932,PRJNA1107932|ct54,C1,True,Italy,2022
+SAMEA118333349,EBI,EBI|samea118333349,excluded_laboratory,True,Singapore,2021
+SAMN48582293,PRJNA1185440,PRJNA1185440|samn48582293,C1,True,United Arab Emirates,2021
+SAMN48581203,PRJNA1185440,PRJNA1185440|samn48581203,C1,True,United Arab Emirates,2021
+SAMN46779465,PRJNA1222326,PRJNA1222326|samn46779465,C5,True,India,2016
+SAMN47572208,PRJNA1241842,PRJNA1241842|37,C6,True,South Africa,2024
+SAMN46978163,PRJNA1227289,PRJNA1227289|jh,C5,True,China,2024
+SAMN46978162,PRJNA1227289,PRJNA1227289|jh,C5,True,China,2024
+SAMN46978161,PRJNA1227289,PRJNA1227289|jh,C5,True,China,2024
+SAMN46978160,PRJNA1227289,PRJNA1227289|jh,C5,True,China,2024
+SAMN46978159,PRJNA1227289,PRJNA1227289|jh,C5,True,China,2024
+SAMN46978158,PRJNA1227289,PRJNA1227289|jh,C5,True,China,2024
+SAMN46973942,PRJNA1227161,PRJNA1227161|zy,C5,True,China,2024
+SAMN46973941,PRJNA1227161,PRJNA1227161|zy,C5,True,China,2024
+SAMN46973940,PRJNA1227161,PRJNA1227161|zy,C5,True,China,2024
+SAMN46973939,PRJNA1227161,PRJNA1227161|zy,C5,True,China,2024
+SAMN46973938,PRJNA1227161,PRJNA1227161|zy,C5,True,China,2024
+SAMN46973937,PRJNA1227161,PRJNA1227161|zy,C5,True,China,2024
+SAMN46968680,PRJNA1226982,PRJNA1226982|zq,C5,True,China,2024
+SAMN46968679,PRJNA1226982,PRJNA1226982|zq,C5,True,China,2024
+SAMN46968678,PRJNA1226982,PRJNA1226982|zq,C5,True,China,2024
+SAMN46863538,PRJNA1224705,PRJNA1224705|zq,C5,False,China,2024
+SAMN46863133,PRJNA1224671,PRJNA1224671|zy,C5,False,China,2024
+SAMN45886514,PRJNA1199723,PRJNA1199723|samn45886514,excluded_laboratory,True,China,2021
+SAMN45884181,PRJNA1199623,PRJNA1199623|970388,C1,True,USA,2016
+SAMN45884179,PRJNA1199623,PRJNA1199623|977041,C1,True,Brazil,2016
+SAMN44420643,PRJNA1177409,PRJNA1177409|slt34,excluded_laboratory,True,China,2018
+SAMN44420642,PRJNA1177409,PRJNA1177409|slt34,excluded_laboratory,True,China,2018
+SAMN44420641,PRJNA1177409,PRJNA1177409|slt34,excluded_laboratory,True,China,2018
+SAMN44420640,PRJNA1177409,PRJNA1177409|slt34,excluded_laboratory,True,China,2018
+SAMN44420639,PRJNA1177409,PRJNA1177409|slt34,excluded_laboratory,True,China,2018
+SAMN44420638,PRJNA1177409,PRJNA1177409|slt34,excluded_laboratory,True,China,2018
+SAMN44420637,PRJNA1177409,PRJNA1177409|atcc 750,excluded_laboratory,True,China,
+SAMN44420636,PRJNA1177409,PRJNA1177409|atcc 750,excluded_laboratory,True,China,
+SAMN44420635,PRJNA1177409,PRJNA1177409|atcc 750,excluded_laboratory,True,China,
+SAMN44420634,PRJNA1177409,PRJNA1177409|atcc 750,excluded_laboratory,True,China,
+SAMN44420633,PRJNA1177409,PRJNA1177409|atcc 750,excluded_laboratory,True,China,
+SAMN44420632,PRJNA1177409,PRJNA1177409|atcc 750,excluded_laboratory,True,China,
+SAMN44355063,PRJNA1175044,PRJNA1175044|slt34,C1,True,China,2018
+SAMN44355062,PRJNA1175044,PRJNA1175044|slt22,C1,True,China,2020
+SAMN44355061,PRJNA1175044,PRJNA1175044|slt21,C1,True,China,2020
+SAMN44355060,PRJNA1175044,PRJNA1175044|slt14,C1,True,China,2021
+SAMN44355059,PRJNA1175044,PRJNA1175044|slt13,C1,True,China,2022
+SAMN44355058,PRJNA1175044,PRJNA1175044|slt9,C1,True,China,2022
+SAMN44355057,PRJNA1175044,PRJNA1175044|atcc 750,C1,True,,
+SAMN44789531,PRJNA990560,PRJNA990560|c155-a7,not_allocated,True,,2024
+SAMN44789530,PRJNA990560,PRJNA990560|c23-a6,not_allocated,True,,2024
+SAMN44789529,PRJNA990560,PRJNA990560|e102-a7,not_allocated,True,,2024
+SAMN44789528,PRJNA990560,PRJNA990560|e57-a7,not_allocated,True,,2024
+SAMN44789527,PRJNA990560,PRJNA990560|e56-a6,not_allocated,True,,2024
+SAMN44676722,PRJNA990560,PRJNA990560|e56-autodip,not_allocated,True,,2023
+SAMN44676721,PRJNA990560,PRJNA990560|c23-autodip,not_allocated,True,,2023
+SAMN44668773,PRJNA990560,PRJNA990560|ct21,not_allocated,True,,2024
+SAMN44668772,PRJNA990560,PRJNA990560|ct20,not_allocated,True,,2024
+SAMN44535666,PRJNA983325,PRJNA983325|rl0135,not_allocated,True,USA,2023
+SAMN44414723,PRJNA1177213,PRJNA1177213|schi0074.s.1,C1,False,Australia,2020
+SAMN44355389,PRJNA1175064,PRJNA1175064|human blood,C1,True,China,2023
+SAMN44355388,PRJNA1175064,PRJNA1175064|human blood,C1,True,China,2023
+SAMN44355387,PRJNA1175064,PRJNA1175064|human blood,C1,True,China,2023
+SAMN44355386,PRJNA1175064,PRJNA1175064|human blood,C1,True,China,2023
+SAMN44355385,PRJNA1175064,PRJNA1175064|human blood,C1,True,China,2023
+SAMN44355384,PRJNA1175064,PRJNA1175064|human blood,C1,True,China,2023
+SAMN44355383,PRJNA1175064,PRJNA1175064|human blood,C1,True,China,2023
+SAMN44355382,PRJNA1175064,PRJNA1175064|human blood,C1,True,China,2023
+SAMN44355381,PRJNA1175064,PRJNA1175064|human blood,C1,True,China,2023
+SAMN44355380,PRJNA1175064,PRJNA1175064|human blood,C1,True,China,2023
+SAMN44355379,PRJNA1175064,PRJNA1175064|human blood,C1,True,China,2023
+SAMN44355378,PRJNA1175064,PRJNA1175064|human blood,C1,True,China,2023
+SAMN30739232,PRJNA878646,PRJNA878646|ctr006,C1,True,Thailand,2020
+SAMN39862242,PRJNA1074527,PRJNA1074527|hapl_id23_086,C1,True,India,2022
+SAMN39862240,PRJNA1074527,PRJNA1074527|hapl_id23_084,C1,True,India,2023
+SAMN39862238,PRJNA1074527,PRJNA1074527|hapl_id23_082,C1,True,India,2023
+SAMN39862198,PRJNA1074527,PRJNA1074527|hapl_id23_041,C1,True,India,2022
+SAMN39862176,PRJNA1074527,PRJNA1074527|hapl_id23_016,C1,True,India,2023
+SAMN39862163,PRJNA1074527,PRJNA1074527|hapl_id23_002,C1,True,India,2022
+SAMD00422774,"Graduate School of Sciences and Technology for Innovation, Department of Biological Chemistry, College of Agriculture, Yamaguchi University","Graduate School of Sciences and Technology for Innovation, Department of Biological Chemistry, College of Agriculture, Yamaguchi University|x-17.2b",not_allocated,True,,
+SAMD00422773,"Graduate School of Sciences and Technology for Innovation, Department of Biological Chemistry, College of Agriculture, Yamaguchi University","Graduate School of Sciences and Technology for Innovation, Department of Biological Chemistry, College of Agriculture, Yamaguchi University|x-17",not_allocated,True,,
+SAMD00412668,"Graduate School of Sciences and Technology for Innovation, Department of Biological Chemistry, College of Agriculture, Yamaguchi University","Graduate School of Sciences and Technology for Innovation, Department of Biological Chemistry, College of Agriculture, Yamaguchi University|x-17.2b",excluded_laboratory,True,,
+SAMD00412667,"Graduate School of Sciences and Technology for Innovation, Department of Biological Chemistry, College of Agriculture, Yamaguchi University","Graduate School of Sciences and Technology for Innovation, Department of Biological Chemistry, College of Agriculture, Yamaguchi University|x-17",excluded_laboratory,True,,
+SAMN40864870,PRJNA990560,PRJNA990560|c155-a6,not_allocated,True,,2022
+SAMN40864869,PRJNA990560,PRJNA990560|c155-a5,not_allocated,True,,2022
+SAMN40864868,PRJNA990560,PRJNA990560|c155-a4,not_allocated,True,,2022
+SAMN40864867,PRJNA990560,PRJNA990560|c155-a3,not_allocated,True,,2022
+SAMN40864866,PRJNA990560,PRJNA990560|c155-a2,not_allocated,True,,2022
+SAMN40864865,PRJNA990560,PRJNA990560|c155-a1,not_allocated,True,,2022
+SAMN40864864,PRJNA990560,PRJNA990560|c23-hap,not_allocated,True,,2022
+SAMN40864863,PRJNA990560,PRJNA990560|c23-a5,not_allocated,True,,2022
+SAMN40864862,PRJNA990560,PRJNA990560|c23-a4,not_allocated,True,,2022
+SAMN40864861,PRJNA990560,PRJNA990560|c23-a3,not_allocated,True,,2022
+SAMN40864860,PRJNA990560,PRJNA990560|c23-a2,not_allocated,True,,2022
+SAMN40864859,PRJNA990560,PRJNA990560|c23-a1,not_allocated,True,,2022
+SAMN40864858,PRJNA990560,PRJNA990560|e102-a6,not_allocated,True,,2022
+SAMN40864857,PRJNA990560,PRJNA990560|e102-a5,not_allocated,True,,2022
+SAMN40864856,PRJNA990560,PRJNA990560|e102-a4,not_allocated,True,,2022
+SAMN40864855,PRJNA990560,PRJNA990560|e102-a3,not_allocated,True,,2022
+SAMN40864854,PRJNA990560,PRJNA990560|e102-a2,not_allocated,True,,2022
+SAMN40864853,PRJNA990560,PRJNA990560|e102-a1,not_allocated,True,,2022
+SAMN40864852,PRJNA990560,PRJNA990560|e57-a6,not_allocated,True,,2022
+SAMN40864851,PRJNA990560,PRJNA990560|e57-a5,not_allocated,True,,2022
+SAMN40864850,PRJNA990560,PRJNA990560|e57-a4,not_allocated,True,,2022
+SAMN40864849,PRJNA990560,PRJNA990560|e57-a3,not_allocated,True,,2022
+SAMN40864848,PRJNA990560,PRJNA990560|e57-a2,not_allocated,True,,2022
+SAMN40864847,PRJNA990560,PRJNA990560|e57-a1,not_allocated,True,,2022
+SAMN40864846,PRJNA990560,PRJNA990560|e56-hap,not_allocated,True,,2022
+SAMN40864845,PRJNA990560,PRJNA990560|e56-a5,not_allocated,True,,2022
+SAMN40864844,PRJNA990560,PRJNA990560|e56-a4,not_allocated,True,,2022
+SAMN40864843,PRJNA990560,PRJNA990560|e56-a3,not_allocated,True,,2022
+SAMN40864842,PRJNA990560,PRJNA990560|e56-a2,not_allocated,True,,2022
+SAMN40864841,PRJNA990560,PRJNA990560|e56-a1,not_allocated,True,,2022
+SAMN36271076,PRJNA990560,PRJNA990560|d3,C1,True,China,2022
+SAMN36271075,PRJNA990560,PRJNA990560|d2,C1,True,China,2022
+SAMN36271074,PRJNA990560,PRJNA990560|d1,C1,True,China,2022
+SAMN36271073,PRJNA990560,PRJNA990560|h3,C1,True,China,2022
+SAMN36271072,PRJNA990560,PRJNA990560|h2,C1,True,China,2022
+SAMN36271071,PRJNA990560,PRJNA990560|h1,C1,True,China,2022
+SAMN34163368,PRJNA955010,PRJNA955010|ctegy36,C1,True,Egypt,2015
+SAMN34163367,PRJNA955010,PRJNA955010|ctegy74,C1,True,Egypt,2015
+SAMN34163366,PRJNA955010,PRJNA955010|ctegy73,C1,True,Egypt,2015
+SAMN34163365,PRJNA955010,PRJNA955010|ctegy72,C1,True,Egypt,2015
+SAMN34163364,PRJNA955010,PRJNA955010|ctegy71,C1,True,Egypt,2015
+SAMN34163363,PRJNA955010,PRJNA955010|ctegy69,C1,True,Egypt,2015
+SAMN34163362,PRJNA955010,PRJNA955010|ctegy68,C1,True,Egypt,2015
+SAMN34163361,PRJNA955010,PRJNA955010|ctegy67,C1,True,Egypt,2015
+SAMN34163360,PRJNA955010,PRJNA955010|ctegy65,C1,True,Egypt,2015
+SAMN34163359,PRJNA955010,PRJNA955010|ctegy63,C1,True,Egypt,2015
+SAMN34163358,PRJNA955010,PRJNA955010|ctegy62,C1,True,Egypt,2015
+SAMN34163357,PRJNA955010,PRJNA955010|ctegy57,C1,True,Egypt,2015
+SAMN34163356,PRJNA955010,PRJNA955010|ctegy56,C1,True,Egypt,2015
+SAMN34163355,PRJNA955010,PRJNA955010|ctegy55,C1,True,Egypt,2015
+SAMN34163354,PRJNA955010,PRJNA955010|ctegy54,C1,True,Egypt,2015
+SAMN34163353,PRJNA955010,PRJNA955010|ctegy52,C1,True,Egypt,2015
+SAMN34163352,PRJNA955010,PRJNA955010|ctegy51,C1,True,Egypt,2015
+SAMN34163351,PRJNA955010,PRJNA955010|ctegy45,C1,True,Egypt,2015
+SAMN34163350,PRJNA955010,PRJNA955010|ctegy44,C1,True,Egypt,2015
+SAMN34163349,PRJNA955010,PRJNA955010|ctegy41,C1,True,Egypt,2015
+SAMN34163348,PRJNA955010,PRJNA955010|ctegy40,C1,True,Egypt,2015
+SAMN34163347,PRJNA955010,PRJNA955010|ctegy37,C1,True,Egypt,2015
+SAMN34163346,PRJNA955010,PRJNA955010|ctegy34,C1,True,Egypt,2015
+SAMN34163345,PRJNA955010,PRJNA955010|ctegy31,C1,True,Egypt,2015
+SAMN34163344,PRJNA955010,PRJNA955010|ctegy30,C1,True,Egypt,2015
+SAMN34163343,PRJNA955010,PRJNA955010|ctegy29,C1,True,Egypt,2015
+SAMN34163342,PRJNA955010,PRJNA955010|ctegy22,C1,True,Egypt,2014
+SAMN34163341,PRJNA955010,PRJNA955010|ctegy21,C1,True,Egypt,2014
+SAMN34163340,PRJNA955010,PRJNA955010|ctegy6,C1,True,Egypt,2014
+SAMN34163339,PRJNA955010,PRJNA955010|ctegy5,C1,True,Egypt,2014
+SAMN34163338,PRJNA955010,PRJNA955010|ctegy4,C1,True,Egypt,2014
+SAMN34163337,PRJNA955010,PRJNA955010|ctegy2,C1,True,Egypt,2014
+SAMN37721090,PRJNA946688,PRJNA946688|v82-10,C1,True,China,2022
+SAMN37721089,PRJNA946688,PRJNA946688|f82-10,C1,True,China,2022
+SAMN40546093,PRJNA1077920,PRJNA1077920|ec_t51,C1,False,Ecuador,2019
+SAMN40546092,PRJNA1077920,PRJNA1077920|ec_t50,C1,False,Ecuador,2019
+SAMN40546091,PRJNA1077920,PRJNA1077920|ec_t49,C1,False,Ecuador,2019
+SAMN40546090,PRJNA1077920,PRJNA1077920|ec_t48,C1,False,Ecuador,2019
+SAMN40546089,PRJNA1077920,PRJNA1077920|ec_t47,C1,False,Ecuador,2019
+SAMN40546088,PRJNA1077920,PRJNA1077920|ec_t46,C1,False,Ecuador,2019
+SAMN40546087,PRJNA1077920,PRJNA1077920|ec_t45,C1,False,Ecuador,2019
+SAMN40546086,PRJNA1077920,PRJNA1077920|ec_t44,C1,False,Ecuador,2019
+SAMN40546085,PRJNA1077920,PRJNA1077920|ec_t43,C1,False,Ecuador,2019
+SAMN40546084,PRJNA1077920,PRJNA1077920|ec_t42,C1,False,Ecuador,2020
+SAMN40546083,PRJNA1077920,PRJNA1077920|ec_t41,C1,False,Ecuador,2020
+SAMN40546082,PRJNA1077920,PRJNA1077920|ec_t40,C1,False,Ecuador,2019
+SAMN40546081,PRJNA1077920,PRJNA1077920|ec_t39,C1,False,Ecuador,2020
+SAMN40546080,PRJNA1077920,PRJNA1077920|ec_t38,C1,False,Ecuador,2019
+SAMN40546079,PRJNA1077920,PRJNA1077920|ec_t37,C1,False,Ecuador,2019
+SAMN40546078,PRJNA1077920,PRJNA1077920|ec_t36,C1,False,Ecuador,2020
+SAMN40546077,PRJNA1077920,PRJNA1077920|ec_t35,C1,False,Ecuador,2019
+SAMN40546076,PRJNA1077920,PRJNA1077920|ec_t34,C1,False,Ecuador,2019
+SAMN40546075,PRJNA1077920,PRJNA1077920|ec_t33,C1,False,Ecuador,2019
+SAMN40546074,PRJNA1077920,PRJNA1077920|ec_t32,C1,False,Ecuador,2019
+SAMN40546073,PRJNA1077920,PRJNA1077920|ec_t31,C1,False,Ecuador,2019
+SAMN40546072,PRJNA1077920,PRJNA1077920|ec_t30,C1,False,Ecuador,2019
+SAMN40546071,PRJNA1077920,PRJNA1077920|ec_t29,C1,False,Ecuador,2019
+SAMN40546070,PRJNA1077920,PRJNA1077920|ec_t28,C1,False,Ecuador,2019
+SAMN40546069,PRJNA1077920,PRJNA1077920|ec_t27,C1,False,Ecuador,2019
+SAMN40546068,PRJNA1077920,PRJNA1077920|ec_t26,C1,False,Ecuador,2019
+SAMN40546067,PRJNA1077920,PRJNA1077920|ec_t25,C1,False,Ecuador,2019
+SAMN40546066,PRJNA1077920,PRJNA1077920|ec_t24,C1,False,Ecuador,2019
+SAMN40546065,PRJNA1077920,PRJNA1077920|ec_t23,C1,False,Ecuador,2019
+SAMN40546064,PRJNA1077920,PRJNA1077920|ec_t22,C1,False,Ecuador,2019
+SAMN40546063,PRJNA1077920,PRJNA1077920|ec_t21,C1,False,Ecuador,2019
+SAMN40546062,PRJNA1077920,PRJNA1077920|ec_t20,C1,False,Ecuador,2020
+SAMN40546061,PRJNA1077920,PRJNA1077920|ec_t19,C1,False,Ecuador,2019
+SAMN40546060,PRJNA1077920,PRJNA1077920|ec_t18,C1,False,Ecuador,2019
+SAMN40546059,PRJNA1077920,PRJNA1077920|ec_t17,C1,False,Ecuador,2019
+SAMN40546058,PRJNA1077920,PRJNA1077920|ec_t16,C1,False,Ecuador,2019
+SAMN40546057,PRJNA1077920,PRJNA1077920|ec_t15,C1,False,Ecuador,2019
+SAMN40546056,PRJNA1077920,PRJNA1077920|ec_t14,C1,False,Ecuador,2019
+SAMN40546055,PRJNA1077920,PRJNA1077920|ec_t13,C1,False,Ecuador,2019
+SAMN40546054,PRJNA1077920,PRJNA1077920|ec_t12,C1,False,Ecuador,2020
+SAMN40546053,PRJNA1077920,PRJNA1077920|ec_t11,C1,False,Ecuador,2019
+SAMN40546052,PRJNA1077920,PRJNA1077920|ec_t10,C1,False,Ecuador,2019
+SAMN40546051,PRJNA1077920,PRJNA1077920|ec_t9,C1,False,Ecuador,2019
+SAMN40546050,PRJNA1077920,PRJNA1077920|ec_t8,C1,False,Ecuador,2019
+SAMN40546049,PRJNA1077920,PRJNA1077920|ec_t7,C1,False,Ecuador,2019
+SAMN40546048,PRJNA1077920,PRJNA1077920|ec_t6,C1,False,Ecuador,2020
+SAMN40546047,PRJNA1077920,PRJNA1077920|ec_t5,C1,False,Ecuador,2019
+SAMN40546046,PRJNA1077920,PRJNA1077920|ec_t4,C1,False,Ecuador,2019
+SAMN40546045,PRJNA1077920,PRJNA1077920|ec_t3,C1,False,Ecuador,2019
+SAMN40546044,PRJNA1077920,PRJNA1077920|ec_t2,C1,False,Ecuador,2019
+SAMN40546043,PRJNA1077920,PRJNA1077920|ec_t1,C1,False,Ecuador,2019
+SAMN37933136,PRJNA1031262,PRJNA1031262|cow milk,C2,True,China,2018
+SAMN28449655,PRJNA838569,PRJNA838569|mya-3404,not_allocated,True,,
+SAMEA7387915,EBI,EBI|2018-f7-47,C1,True,Denmark,2018
+SAMEA7387881,EBI,EBI|2018-f1-188-a,C1,True,Denmark,2018
+SAMEA2061177,EBI,EBI|samea2061177,excluded_laboratory,True,,
+SAMN25146058,PRJNA799141,PRJNA799141|unkonw,C6,True,China,2021
+SAMN32529368,PRJNA917213,PRJNA917213|candida tropicalis shc-03,not_allocated,True,China,
+SAMN32529367,PRJNA917213,PRJNA917213|candida tropicalis shc-03,not_allocated,True,China,
+SAMN32529366,PRJNA917213,PRJNA917213|candida tropicalis shc-03,not_allocated,True,China,
+SAMN32529365,PRJNA917213,PRJNA917213|candida tropicalis shc-03,not_allocated,True,China,
+SAMN32529364,PRJNA917213,PRJNA917213|candida tropicalis shc-03,not_allocated,True,China,
+SAMN32529363,PRJNA917213,PRJNA917213|candida tropicalis shc-03,not_allocated,True,China,
+SAMN32529362,PRJNA917213,PRJNA917213|candida tropicalis shc-03,not_allocated,True,China,
+SAMN32529361,PRJNA917213,PRJNA917213|candida tropicalis shc-03,not_allocated,True,China,
+SAMN32529360,PRJNA917213,PRJNA917213|candida tropicalis shc-03,not_allocated,True,China,
+SAMN32529359,PRJNA917213,PRJNA917213|candida tropicalis shc-03,not_allocated,True,China,
+SAMN32529358,PRJNA917213,PRJNA917213|candida tropicalis shc-03,not_allocated,True,China,
+SAMN32529357,PRJNA917213,PRJNA917213|candida tropicalis shc-03,not_allocated,True,China,
+SAMN32529356,PRJNA917213,PRJNA917213|candida tropicalis shc-03,not_allocated,True,China,
+SAMN32529355,PRJNA917213,PRJNA917213|candida tropicalis shc-03,not_allocated,True,China,
+SAMN29793677,PRJNA859658,PRJNA859658|e132,C5,True,China,2020
+SAMN29793676,PRJNA859658,PRJNA859658|e131,C5,True,China,2020
+SAMN29793675,PRJNA859658,PRJNA859658|e130,C5,True,China,2020
+SAMN29793674,PRJNA859658,PRJNA859658|e128,C5,True,China,2020
+SAMN29793673,PRJNA859658,PRJNA859658|e127,C5,True,China,2020
+SAMN29793672,PRJNA859658,PRJNA859658|e126,C5,True,China,2020
+SAMN29793671,PRJNA859658,PRJNA859658|e125,C5,True,China,2020
+SAMN29793670,PRJNA859658,PRJNA859658|e124,C5,True,China,2020
+SAMN29793669,PRJNA859658,PRJNA859658|e123,C5,True,China,2020
+SAMN29793668,PRJNA859658,PRJNA859658|e122,C5,True,China,2020
+SAMN29793667,PRJNA859658,PRJNA859658|e121,C5,True,China,2020
+SAMN29793666,PRJNA859658,PRJNA859658|e120,C5,True,China,2020
+SAMN29793665,PRJNA859658,PRJNA859658|e119,C5,True,China,2020
+SAMN29793664,PRJNA859658,PRJNA859658|e118,C5,True,China,2020
+SAMN29793663,PRJNA859658,PRJNA859658|e117,C5,True,China,2020
+SAMN29793662,PRJNA859658,PRJNA859658|e116,C5,True,China,2020
+SAMN29793661,PRJNA859658,PRJNA859658|e115,C5,True,China,2020
+SAMN29793660,PRJNA859658,PRJNA859658|e114,C5,True,China,2020
+SAMN29793659,PRJNA859658,PRJNA859658|e113,C5,True,China,2020
+SAMN29793658,PRJNA859658,PRJNA859658|e108,C5,True,China,2020
+SAMN29793657,PRJNA859658,PRJNA859658|e107,C5,True,China,2020
+SAMN29793656,PRJNA859658,PRJNA859658|e106,C5,True,China,2020
+SAMN29793655,PRJNA859658,PRJNA859658|e105,C5,True,China,2020
+SAMN29793654,PRJNA859658,PRJNA859658|e104,C5,True,China,2020
+SAMN29793653,PRJNA859658,PRJNA859658|e103,C5,True,China,2020
+SAMN29793652,PRJNA859658,PRJNA859658|e102,C5,True,China,2020
+SAMN29793651,PRJNA859658,PRJNA859658|e101,C5,True,China,2020
+SAMN29793650,PRJNA859658,PRJNA859658|e100,C5,True,China,2020
+SAMN29793649,PRJNA859658,PRJNA859658|e99,C5,True,China,2020
+SAMN29793648,PRJNA859658,PRJNA859658|e98,C5,True,China,2020
+SAMN29793647,PRJNA859658,PRJNA859658|e96,C5,True,China,2020
+SAMN29793646,PRJNA859658,PRJNA859658|e95,C5,True,China,2020
+SAMN29793645,PRJNA859658,PRJNA859658|e94,C5,True,China,2020
+SAMN29793644,PRJNA859658,PRJNA859658|e93,C5,True,China,2020
+SAMN29793643,PRJNA859658,PRJNA859658|e92,C5,True,China,2020
+SAMN29793642,PRJNA859658,PRJNA859658|e91,C5,True,China,2020
+SAMN29793641,PRJNA859658,PRJNA859658|e88,C5,True,China,2020
+SAMN29793640,PRJNA859658,PRJNA859658|e87,C5,True,China,2020
+SAMN29793639,PRJNA859658,PRJNA859658|e86,C5,True,China,2020
+SAMN29793638,PRJNA859658,PRJNA859658|e85,C5,True,China,2020
+SAMN29793637,PRJNA859658,PRJNA859658|e84,C5,True,China,2020
+SAMN29793636,PRJNA859658,PRJNA859658|e83,C5,True,China,2020
+SAMN29793635,PRJNA859658,PRJNA859658|e82,C5,True,China,2020
+SAMN29793634,PRJNA859658,PRJNA859658|e81,C5,True,China,2020
+SAMN29793633,PRJNA859658,PRJNA859658|e80,C5,True,China,2020
+SAMN29793632,PRJNA859658,PRJNA859658|e79,C5,True,China,2020
+SAMN29793631,PRJNA859658,PRJNA859658|e78,C5,True,China,2020
+SAMN29793630,PRJNA859658,PRJNA859658|e77,C5,True,China,2020
+SAMN29793629,PRJNA859658,PRJNA859658|e76,C5,True,China,2020
+SAMN29793628,PRJNA859658,PRJNA859658|e75,C5,True,China,2020
+SAMN29793627,PRJNA859658,PRJNA859658|e74,C5,True,China,2020
+SAMN29793626,PRJNA859658,PRJNA859658|e73,C5,True,China,2020
+SAMN29793625,PRJNA859658,PRJNA859658|e72,C5,True,China,2020
+SAMN29793624,PRJNA859658,PRJNA859658|e71,C5,True,China,2020
+SAMN29793623,PRJNA859658,PRJNA859658|e70,C5,True,China,2020
+SAMN29793622,PRJNA859658,PRJNA859658|e69,C5,True,China,2020
+SAMN29793621,PRJNA859658,PRJNA859658|e68,C5,True,China,2020
+SAMN29793620,PRJNA859658,PRJNA859658|e67,C5,True,China,2020
+SAMN29793619,PRJNA859658,PRJNA859658|e66,C5,True,China,2020
+SAMN29793618,PRJNA859658,PRJNA859658|e65,C5,True,China,2020
+SAMN29793617,PRJNA859658,PRJNA859658|e63,C5,True,China,2020
+SAMN29793616,PRJNA859658,PRJNA859658|e62,C5,True,China,2020
+SAMN29793615,PRJNA859658,PRJNA859658|e61,C5,True,China,2020
+SAMN29793614,PRJNA859658,PRJNA859658|e60,C5,True,China,2020
+SAMN29793613,PRJNA859658,PRJNA859658|e59,C5,True,China,2020
+SAMN29793612,PRJNA859658,PRJNA859658|e57,C5,True,China,2020
+SAMN29793611,PRJNA859658,PRJNA859658|e56,C5,True,China,2020
+SAMN29793610,PRJNA859658,PRJNA859658|e55,C5,True,China,2020
+SAMN29793609,PRJNA859658,PRJNA859658|e54,C5,True,China,2020
+SAMN29793608,PRJNA859658,PRJNA859658|e53,C5,True,China,2020
+SAMN29793607,PRJNA859658,PRJNA859658|e52,C5,True,China,2020
+SAMN29793606,PRJNA859658,PRJNA859658|e51,C5,True,China,2020
+SAMN29793605,PRJNA859658,PRJNA859658|e50,C5,True,China,2020
+SAMN29793604,PRJNA859658,PRJNA859658|e49,C5,True,China,2020
+SAMN29793603,PRJNA859658,PRJNA859658|e48,C5,True,China,2020
+SAMN29793602,PRJNA859658,PRJNA859658|e47,C5,True,China,2020
+SAMN29793601,PRJNA859658,PRJNA859658|e46,C5,True,China,2020
+SAMN29793600,PRJNA859658,PRJNA859658|e45,C5,True,China,2020
+SAMN29793599,PRJNA859658,PRJNA859658|e44,C5,True,China,2020
+SAMN29793598,PRJNA859658,PRJNA859658|e43,C5,True,China,2020
+SAMN29793597,PRJNA859658,PRJNA859658|e42,C5,True,China,2020
+SAMN29793596,PRJNA859658,PRJNA859658|e41,C5,True,China,2020
+SAMN29793595,PRJNA859658,PRJNA859658|e40,C5,True,China,2020
+SAMN29793594,PRJNA859658,PRJNA859658|e39,C5,True,China,2020
+SAMN29793593,PRJNA859658,PRJNA859658|e38,C5,True,China,2020
+SAMN29793592,PRJNA859658,PRJNA859658|e37,C5,True,China,2020
+SAMN29793591,PRJNA859658,PRJNA859658|e36,C5,True,China,2020
+SAMN29793590,PRJNA859658,PRJNA859658|e35,C5,True,China,2020
+SAMN29793589,PRJNA859658,PRJNA859658|e34,C5,True,China,2020
+SAMN29793588,PRJNA859658,PRJNA859658|e33,C5,True,China,2020
+SAMN29793587,PRJNA859658,PRJNA859658|e32,C5,True,China,2020
+SAMN29793586,PRJNA859658,PRJNA859658|e31,C5,True,China,2020
+SAMN29793585,PRJNA859658,PRJNA859658|e30,C5,True,China,2020
+SAMN29793584,PRJNA859658,PRJNA859658|e29,C5,True,China,2020
+SAMN29793583,PRJNA859658,PRJNA859658|e28,C5,True,China,2020
+SAMN29793582,PRJNA859658,PRJNA859658|e27,C5,True,China,2020
+SAMN29793581,PRJNA859658,PRJNA859658|e26,C5,True,China,2020
+SAMN29793580,PRJNA859658,PRJNA859658|e25,C5,True,China,2020
+SAMN29793579,PRJNA859658,PRJNA859658|e24,C5,True,China,2020
+SAMN29793578,PRJNA859658,PRJNA859658|e23,C5,True,China,2020
+SAMN29793577,PRJNA859658,PRJNA859658|e22,C5,True,China,2020
+SAMN29793576,PRJNA859658,PRJNA859658|e21,C5,True,China,2020
+SAMN29793575,PRJNA859658,PRJNA859658|e20,C5,True,China,2020
+SAMN29793574,PRJNA859658,PRJNA859658|e19,C5,True,China,2020
+SAMN29793573,PRJNA859658,PRJNA859658|e18,C5,True,China,2020
+SAMN29793572,PRJNA859658,PRJNA859658|e17,C5,True,China,2020
+SAMN29793571,PRJNA859658,PRJNA859658|e16,C5,True,China,2020
+SAMN29793570,PRJNA859658,PRJNA859658|e15,C5,True,China,2020
+SAMN29793569,PRJNA859658,PRJNA859658|e14,C5,True,China,2020
+SAMN29793568,PRJNA859658,PRJNA859658|e13,C5,True,China,2020
+SAMN29793567,PRJNA859658,PRJNA859658|e12,C5,True,China,2020
+SAMN29793566,PRJNA859658,PRJNA859658|e10,C5,True,China,2020
+SAMN29793565,PRJNA859658,PRJNA859658|e7,C5,True,China,2020
+SAMN29793564,PRJNA859658,PRJNA859658|e5,C5,True,China,2020
+SAMN29793563,PRJNA859658,PRJNA859658|e4,C5,True,China,2020
+SAMN29793562,PRJNA859658,PRJNA859658|c217,C1,True,China,2019
+SAMN29793561,PRJNA859658,PRJNA859658|c216,C1,True,China,2019
+SAMN29793560,PRJNA859658,PRJNA859658|c215,C1,True,China,2019
+SAMN29793559,PRJNA859658,PRJNA859658|c214,C1,True,China,2019
+SAMN29793558,PRJNA859658,PRJNA859658|c213,C1,True,China,2019
+SAMN29793557,PRJNA859658,PRJNA859658|c212,C1,True,China,2019
+SAMN29793556,PRJNA859658,PRJNA859658|c211,C1,True,China,2019
+SAMN29793555,PRJNA859658,PRJNA859658|c210,C1,True,China,2019
+SAMN29793554,PRJNA859658,PRJNA859658|c209,C1,True,China,2019
+SAMN29793553,PRJNA859658,PRJNA859658|c208,C1,True,China,2019
+SAMN29793552,PRJNA859658,PRJNA859658|c204,C1,True,China,2019
+SAMN29793551,PRJNA859658,PRJNA859658|c203,C1,True,China,2019
+SAMN29793550,PRJNA859658,PRJNA859658|c202,C1,True,China,2019
+SAMN29793549,PRJNA859658,PRJNA859658|c201,C1,True,China,2019
+SAMN29793548,PRJNA859658,PRJNA859658|c199,C1,True,China,2019
+SAMN29793547,PRJNA859658,PRJNA859658|c198,C1,True,China,2019
+SAMN29793546,PRJNA859658,PRJNA859658|c197,C1,True,China,2019
+SAMN29793545,PRJNA859658,PRJNA859658|c194,C1,True,China,2019
+SAMN29793544,PRJNA859658,PRJNA859658|c192,C1,True,China,2019
+SAMN29793543,PRJNA859658,PRJNA859658|c189,C1,True,China,2019
+SAMN29793542,PRJNA859658,PRJNA859658|c188,C1,True,China,2019
+SAMN29793541,PRJNA859658,PRJNA859658|c181,C1,True,China,2019
+SAMN29793540,PRJNA859658,PRJNA859658|c173,C1,True,China,2019
+SAMN29793539,PRJNA859658,PRJNA859658|c171,C1,True,China,2019
+SAMN29793538,PRJNA859658,PRJNA859658|c170,C1,True,China,2019
+SAMN29793537,PRJNA859658,PRJNA859658|c169,C1,True,China,2019
+SAMN29793536,PRJNA859658,PRJNA859658|c166,C1,True,China,2019
+SAMN29793535,PRJNA859658,PRJNA859658|c165,C1,True,China,2019
+SAMN29793534,PRJNA859658,PRJNA859658|c160,C1,True,China,2019
+SAMN29793533,PRJNA859658,PRJNA859658|c159,C1,True,China,2019
+SAMN29793532,PRJNA859658,PRJNA859658|c158,C1,True,China,2019
+SAMN29793531,PRJNA859658,PRJNA859658|c157,C1,True,China,2019
+SAMN29793530,PRJNA859658,PRJNA859658|c156,C1,True,China,2019
+SAMN29793529,PRJNA859658,PRJNA859658|c155,C1,True,China,2019
+SAMN29793528,PRJNA859658,PRJNA859658|c154,C1,True,China,2019
+SAMN29793527,PRJNA859658,PRJNA859658|c153,C1,True,China,2019
+SAMN29793526,PRJNA859658,PRJNA859658|c147,C1,True,China,2019
+SAMN29793525,PRJNA859658,PRJNA859658|c143,C1,True,China,2019
+SAMN29793524,PRJNA859658,PRJNA859658|c140,C1,True,China,2019
+SAMN29793523,PRJNA859658,PRJNA859658|c138,C1,True,China,2019
+SAMN29793522,PRJNA859658,PRJNA859658|c132,C1,True,China,2019
+SAMN29793521,PRJNA859658,PRJNA859658|c131,C1,True,China,2019
+SAMN29793520,PRJNA859658,PRJNA859658|c130,C1,True,China,2019
+SAMN29793519,PRJNA859658,PRJNA859658|c128,C1,True,China,2019
+SAMN29793518,PRJNA859658,PRJNA859658|c127,C1,True,China,2019
+SAMN29793517,PRJNA859658,PRJNA859658|c124,C1,True,China,2019
+SAMN29793516,PRJNA859658,PRJNA859658|c121,C1,True,China,2019
+SAMN29793515,PRJNA859658,PRJNA859658|c119,C1,True,China,2019
+SAMN29793514,PRJNA859658,PRJNA859658|c112,C1,True,China,2019
+SAMN29793513,PRJNA859658,PRJNA859658|c111,C1,True,China,2019
+SAMN29793512,PRJNA859658,PRJNA859658|c110,C1,True,China,2019
+SAMN29793511,PRJNA859658,PRJNA859658|c108,C1,True,China,2019
+SAMN29793510,PRJNA859658,PRJNA859658|c107,C1,True,China,2019
+SAMN29793509,PRJNA859658,PRJNA859658|c106,C1,True,China,2019
+SAMN29793508,PRJNA859658,PRJNA859658|c104,C1,True,China,2019
+SAMN29793507,PRJNA859658,PRJNA859658|c103,C1,True,China,2019
+SAMN29793506,PRJNA859658,PRJNA859658|c102,C1,True,China,2019
+SAMN29793505,PRJNA859658,PRJNA859658|c99,C1,True,China,2019
+SAMN29793504,PRJNA859658,PRJNA859658|c97,C1,True,China,2019
+SAMN29793503,PRJNA859658,PRJNA859658|c96,C1,True,China,2019
+SAMN29793502,PRJNA859658,PRJNA859658|c95,C1,True,China,2019
+SAMN29793501,PRJNA859658,PRJNA859658|c94,C1,True,China,2019
+SAMN29793500,PRJNA859658,PRJNA859658|c91,C1,True,China,2019
+SAMN29793499,PRJNA859658,PRJNA859658|c90,C1,True,China,2019
+SAMN29793498,PRJNA859658,PRJNA859658|c89,C1,True,China,2019
+SAMN29793497,PRJNA859658,PRJNA859658|c88,C1,True,China,2019
+SAMN29793496,PRJNA859658,PRJNA859658|c87,C1,True,China,2019
+SAMN29793495,PRJNA859658,PRJNA859658|c84,C1,True,China,2019
+SAMN29793494,PRJNA859658,PRJNA859658|c76,C1,True,China,2019
+SAMN29793493,PRJNA859658,PRJNA859658|c74,C1,True,China,2019
+SAMN29793492,PRJNA859658,PRJNA859658|c70,C1,True,China,2019
+SAMN29793491,PRJNA859658,PRJNA859658|c65,C1,True,China,2019
+SAMN29793490,PRJNA859658,PRJNA859658|c62,C1,True,China,2019
+SAMN29793489,PRJNA859658,PRJNA859658|c61,C1,True,China,2019
+SAMN29793488,PRJNA859658,PRJNA859658|c60,C1,True,China,2019
+SAMN29793487,PRJNA859658,PRJNA859658|c59,C1,True,China,2019
+SAMN29793486,PRJNA859658,PRJNA859658|c56,C1,True,China,2019
+SAMN29793485,PRJNA859658,PRJNA859658|c51,C1,True,China,2019
+SAMN29793484,PRJNA859658,PRJNA859658|c50,C1,True,China,2019
+SAMN29793483,PRJNA859658,PRJNA859658|c49,C1,True,China,2019
+SAMN29793482,PRJNA859658,PRJNA859658|c48,C1,True,China,2019
+SAMN29793481,PRJNA859658,PRJNA859658|c47,C1,True,China,2019
+SAMN29793480,PRJNA859658,PRJNA859658|c44,C1,True,China,2019
+SAMN29793479,PRJNA859658,PRJNA859658|c43,C1,True,China,2019
+SAMN29793478,PRJNA859658,PRJNA859658|c42,C1,True,China,2019
+SAMN29793477,PRJNA859658,PRJNA859658|c41,C1,True,China,2019
+SAMN29793476,PRJNA859658,PRJNA859658|c40,C1,True,China,2019
+SAMN29793475,PRJNA859658,PRJNA859658|c39,C1,True,China,2019
+SAMN29793474,PRJNA859658,PRJNA859658|c38,C1,True,China,2017
+SAMN29793473,PRJNA859658,PRJNA859658|c37,C1,True,China,2017
+SAMN29793472,PRJNA859658,PRJNA859658|c36,C1,True,China,2017
+SAMN29793471,PRJNA859658,PRJNA859658|c35,C1,True,China,2017
+SAMN29793470,PRJNA859658,PRJNA859658|c34,C1,True,China,2017
+SAMN29793469,PRJNA859658,PRJNA859658|c33,C1,True,China,2017
+SAMN29793468,PRJNA859658,PRJNA859658|c32,C1,True,China,2017
+SAMN29793467,PRJNA859658,PRJNA859658|c31,C1,True,China,2017
+SAMN29793466,PRJNA859658,PRJNA859658|c30,C1,True,China,2017
+SAMN29793465,PRJNA859658,PRJNA859658|c29,C1,True,China,2017
+SAMN29793464,PRJNA859658,PRJNA859658|c28,C1,True,China,2017
+SAMN29793463,PRJNA859658,PRJNA859658|c27,C1,True,China,2017
+SAMN29793462,PRJNA859658,PRJNA859658|c26,C1,True,China,2017
+SAMN29793461,PRJNA859658,PRJNA859658|c25,C1,True,China,2019
+SAMN29793460,PRJNA859658,PRJNA859658|c24,C1,True,China,2019
+SAMN29793459,PRJNA859658,PRJNA859658|c23,C1,True,China,2019
+SAMN29793458,PRJNA859658,PRJNA859658|c22,C1,True,China,2019
+SAMN29793457,PRJNA859658,PRJNA859658|c21,C1,True,China,2019
+SAMN29793456,PRJNA859658,PRJNA859658|c20,C1,True,China,2019
+SAMN29793455,PRJNA859658,PRJNA859658|c19,C1,True,China,2019
+SAMN29793454,PRJNA859658,PRJNA859658|c18,C1,True,China,2019
+SAMN29793453,PRJNA859658,PRJNA859658|c17,C1,True,China,2019
+SAMN29793452,PRJNA859658,PRJNA859658|c16,C1,True,China,2019
+SAMN29793451,PRJNA859658,PRJNA859658|c15,C1,True,China,2019
+SAMN29793450,PRJNA859658,PRJNA859658|c14,C1,True,China,2019
+SAMN29793449,PRJNA859658,PRJNA859658|c13,C1,True,China,2019
+SAMN29793448,PRJNA859658,PRJNA859658|c12,C1,True,China,2019
+SAMN29793447,PRJNA859658,PRJNA859658|c11,C1,True,China,2019
+SAMN29793446,PRJNA859658,PRJNA859658|c10,C1,True,China,2019
+SAMN29793445,PRJNA859658,PRJNA859658|c9,C1,True,China,2019
+SAMN29793444,PRJNA859658,PRJNA859658|c7,C1,True,China,2019
+SAMN29793443,PRJNA859658,PRJNA859658|c5,C1,True,China,2019
+SAMN29793442,PRJNA859658,PRJNA859658|c4,C1,True,China,2019
+SAMN29793441,PRJNA859658,PRJNA859658|c3,C1,True,China,2019
+SAMN29793440,PRJNA859658,PRJNA859658|c2,C1,True,China,2019
+SAMN29793439,PRJNA859658,PRJNA859658|c1,C1,True,China,2019
+SAMN33328172,PRJNA926612,PRJNA926612|child,C1,True,USA,2018
+SAMN33328171,PRJNA926612,PRJNA926612|child,C1,True,USA,2018
+SAMN33328094,PRJNA926612,PRJNA926612|adult,C1,True,USA,2019
+SAMN33328064,PRJNA926612,PRJNA926612|child,C1,True,USA,2019
+SAMN33327963,PRJNA926612,PRJNA926612|child,C1,True,USA,2018
+SAMEA112654062,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654061,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654060,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654059,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654058,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654057,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654056,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654055,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654054,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654053,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654052,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654051,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654050,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654049,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654048,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654047,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654046,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654045,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654044,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654043,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654042,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654041,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654040,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654039,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654038,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654037,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654036,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654035,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654034,EBI,EBI|12584,not_allocated,True,,
+SAMEA112654033,EBI,EBI|12584,not_allocated,True,,
+SAMN36792970,PRJNA1000249,PRJNA1000249|myct-1862-2021,C1,True,Malaysia,2021
+SAMN36792969,PRJNA1000249,PRJNA1000249|myct-0825-2021,C1,True,Malaysia,2021
+SAMN36792968,PRJNA1000249,PRJNA1000249|myct-2752-2021,C1,True,Malaysia,2021
+SAMN36792967,PRJNA1000249,PRJNA1000249|myct-0997-2021,C1,True,Malaysia,2021
+SAMN36792966,PRJNA1000249,PRJNA1000249|myct-0816-2021,C1,True,Malaysia,2021
+SAMN36792965,PRJNA1000249,PRJNA1000249|myct-0644-2021,C1,True,Malaysia,2021
+SAMN36792964,PRJNA1000249,PRJNA1000249|myct-2728-2021,C1,True,Malaysia,2021
+SAMN36792963,PRJNA1000249,PRJNA1000249|myct-2423-2021,C1,True,Malaysia,2021
+SAMN36792962,PRJNA1000249,PRJNA1000249|myct-2184-2021,C1,True,Malaysia,2021
+SAMN36792961,PRJNA1000249,PRJNA1000249|myct-2085-2021,C1,True,Malaysia,2021
+SAMN36792960,PRJNA1000249,PRJNA1000249|myct-2043-2021,C1,True,Malaysia,2021
+SAMN36792959,PRJNA1000249,PRJNA1000249|myct-1957-2021,C1,True,Malaysia,2021
+SAMN36792958,PRJNA1000249,PRJNA1000249|myct-1956-2021,C1,True,Malaysia,2021
+SAMN36792957,PRJNA1000249,PRJNA1000249|myct-1733-2021,C1,True,Malaysia,2021
+SAMN36792956,PRJNA1000249,PRJNA1000249|myct-1551-2021,C1,True,Malaysia,2021
+SAMN36792955,PRJNA1000249,PRJNA1000249|myct-1531-2021,C1,True,Malaysia,2021
+SAMN36792954,PRJNA1000249,PRJNA1000249|myct-1405-2021,C1,True,Malaysia,2021
+SAMN36792953,PRJNA1000249,PRJNA1000249|myct-1368-2021,C1,True,Malaysia,2021
+SAMN36792952,PRJNA1000249,PRJNA1000249|myct-1211-2021,C1,True,Malaysia,2021
+SAMN36792951,PRJNA1000249,PRJNA1000249|myct-1000-2021,C1,True,Malaysia,2021
+SAMN36792950,PRJNA1000249,PRJNA1000249|myct-0618-2021,C1,True,Malaysia,2021
+SAMN36792949,PRJNA1000249,PRJNA1000249|myct-0121-2021,C1,True,Malaysia,2021
+SAMN36792948,PRJNA1000249,PRJNA1000249|myct-2250-2020,C1,True,Malaysia,2020
+SAMN36792947,PRJNA1000249,PRJNA1000249|myct-2012-2020,C1,True,Malaysia,2020
+SAMN36777410,PRJNA1000740,PRJNA1000740|2016_ct 3,C1,False,China,2016
+SAMN36777409,PRJNA1000740,PRJNA1000740|2016_ct 2,C1,False,China,2016
+SAMN36777408,PRJNA1000740,PRJNA1000740|2016_ct 1,C1,False,China,2016
+SAMN36777407,PRJNA1000740,PRJNA1000740|2015_ct 2,C1,False,China,2015
+SAMN36777406,PRJNA1000740,PRJNA1000740|2015_ct 1,C1,False,China,2015
+SAMN33948108,PRJNA949610,PRJNA949610|samn33948108,not_allocated,True,China,2020
+SAMN33948107,PRJNA949610,PRJNA949610|samn33948107,not_allocated,True,China,2020
+SAMN33948106,PRJNA949610,PRJNA949610|samn33948106,not_allocated,True,China,2020
+SAMN33948105,PRJNA949610,PRJNA949610|samn33948105,not_allocated,True,China,2020
+SAMN33948104,PRJNA949610,PRJNA949610|samn33948104,not_allocated,True,China,2020
+SAMN33948103,PRJNA949610,PRJNA949610|samn33948103,not_allocated,True,China,2020
+SAMN33948102,PRJNA949610,PRJNA949610|samn33948102,not_allocated,True,China,2020
+SAMN33948101,PRJNA949610,PRJNA949610|samn33948101,not_allocated,True,China,2020
+SAMN33948100,PRJNA949610,PRJNA949610|samn33948100,not_allocated,True,China,2020
+SAMN33975777,PRJNA950111,PRJNA950111|samn33975777,not_allocated,True,,
+SAMN28669633,PRJNA842397,PRJNA842397|ascomycota,C1,True,Colombia,2012
+SAMN28669632,PRJNA842397,PRJNA842397|ascomycota,C1,True,Colombia,2012
+SAMN28669327,PRJNA842397,PRJNA842397|ascomycota,C1,True,Colombia,2012
+SAMN28669326,PRJNA842397,PRJNA842397|ascomycota,C1,True,Colombia,2012
+SAMN33828070,PRJNA946688,PRJNA946688|cdcf4164,C1,True,China,2014
+SAMN33828069,PRJNA946688,PRJNA946688|cdcf4162,C1,True,China,2014
+SAMN33828068,PRJNA946688,PRJNA946688|cdcf4084,C1,True,China,2016
+SAMN33828067,PRJNA946688,PRJNA946688|cdcf3994,C1,True,China,2015
+SAMN33828066,PRJNA946688,PRJNA946688|cdcf3992,C1,True,China,2015
+SAMN33828065,PRJNA946688,PRJNA946688|cdcf3984,C1,True,China,2015
+SAMN33828064,PRJNA946688,PRJNA946688|cdcf3946,C1,True,China,2015
+SAMN33828063,PRJNA946688,PRJNA946688|cdcf3682,C1,True,China,2016
+SAMN33828062,PRJNA946688,PRJNA946688|cdcf3442,C1,True,China,2016
+SAMN33828061,PRJNA946688,PRJNA946688|cdcf3440,C1,True,China,2016
+SAMN33828060,PRJNA946688,PRJNA946688|cdcf3356,C1,True,China,2016
+SAMN33828059,PRJNA946688,PRJNA946688|cdcf4106,C1,True,China,2012
+SAMN33828058,PRJNA946688,PRJNA946688|cdcf4104,C1,True,China,2012
+SAMN33828057,PRJNA946688,PRJNA946688|cdcf4030,C1,True,China,2015
+SAMN33828056,PRJNA946688,PRJNA946688|cdcf3974,C1,True,China,2015
+SAMN33828055,PRJNA946688,PRJNA946688|cdcf3972,C1,True,China,2015
+SAMN33828054,PRJNA946688,PRJNA946688|cdcf3564,C1,True,China,2015
+SAMN33828053,PRJNA946688,PRJNA946688|cdcf3256,C1,True,China,2016
+SAMN33828052,PRJNA946688,PRJNA946688|cdcf3232,C1,True,China,2015
+SAMN33828051,PRJNA946688,PRJNA946688|cdcf4038,C1,True,China,2015
+SAMN33828050,PRJNA946688,PRJNA946688|cdcf4036,C1,True,China,2015
+SAMN33828049,PRJNA946688,PRJNA946688|cdcf3904,C1,True,China,2014
+SAMN33828048,PRJNA946688,PRJNA946688|cdcf3902,C1,True,China,2014
+SAMN33828047,PRJNA946688,PRJNA946688|cdcf3900,C1,True,China,2014
+SAMN33828046,PRJNA946688,PRJNA946688|cdcf3844,C1,True,China,2015
+SAMN33828045,PRJNA946688,PRJNA946688|cdcf3842,C1,True,China,2015
+SAMN33828044,PRJNA946688,PRJNA946688|cdcf3840,C1,True,China,2015
+SAMN33828043,PRJNA946688,PRJNA946688|cdcf3756,C1,True,China,2015
+SAMN33828042,PRJNA946688,PRJNA946688|cdcf3754,C1,True,China,2015
+SAMN33828041,PRJNA946688,PRJNA946688|cdcf3752,C1,True,China,2015
+SAMN33828040,PRJNA946688,PRJNA946688|cdcf3750,C1,True,China,2015
+SAMN33828039,PRJNA946688,PRJNA946688|cdcf3748,C1,True,China,2015
+SAMN33828038,PRJNA946688,PRJNA946688|cdcf3364,C1,True,China,2014
+SAMN33828037,PRJNA946688,PRJNA946688|cdcf3310,C1,True,China,2013
+SAMN33828036,PRJNA946688,PRJNA946688|cdcf3308,C1,True,China,2013
+SAMN33828035,PRJNA946688,PRJNA946688|cdcf3196,C1,True,China,2015
+SAMN33828034,PRJNA946688,PRJNA946688|cdcf3130,C1,True,China,2015
+SAMN33828033,PRJNA946688,PRJNA946688|cdcf4132,C1,True,China,2014
+SAMN33828032,PRJNA946688,PRJNA946688|cdcf3884,C1,True,China,2016
+SAMN33828031,PRJNA946688,PRJNA946688|cdcf3882,C1,True,China,2016
+SAMN33828030,PRJNA946688,PRJNA946688|cdcf3880,C1,True,China,2016
+SAMN33828029,PRJNA946688,PRJNA946688|cdcf3784,C1,True,China,2016
+SAMN33828028,PRJNA946688,PRJNA946688|cdcf3782,C1,True,China,2015
+SAMN33828027,PRJNA946688,PRJNA946688|cdcf3780,C1,True,China,2015
+SAMN33828026,PRJNA946688,PRJNA946688|cdcf3730,C1,True,China,2015
+SAMN33828025,PRJNA946688,PRJNA946688|cdcf3600,C1,True,China,2014
+SAMN33828024,PRJNA946688,PRJNA946688|cdcf3486,C1,True,China,2015
+SAMN33828023,PRJNA946688,PRJNA946688|cdcf3476,C1,True,China,2015
+SAMN33828022,PRJNA946688,PRJNA946688|cdcf3474,C1,True,China,2015
+SAMN33828021,PRJNA946688,PRJNA946688|cdcf3430,C1,True,China,2015
+SAMN33828020,PRJNA946688,PRJNA946688|cdcf3428,C1,True,China,2015
+SAMN33828019,PRJNA946688,PRJNA946688|cdcf3328,C1,True,China,2015
+SAMN33828018,PRJNA946688,PRJNA946688|cdcf3710,C1,True,China,2013
+SAMN33828017,PRJNA946688,PRJNA946688|cdcf3708,C1,True,China,2013
+SAMN33828016,PRJNA946688,PRJNA946688|cdcf3296,C1,True,China,2015
+SAMN33828015,PRJNA946688,PRJNA946688|cdcf4130,C1,True,China,2014
+SAMN33828014,PRJNA946688,PRJNA946688|cdcf4128,C1,True,China,2014
+SAMN33828013,PRJNA946688,PRJNA946688|cdcf4024,C1,True,China,2014
+SAMN33828012,PRJNA946688,PRJNA946688|cdcf3950,C1,True,China,2014
+SAMN33828011,PRJNA946688,PRJNA946688|cdcf3948,C1,True,China,2014
+SAMN33828010,PRJNA946688,PRJNA946688|cdcf3930,C1,True,China,2016
+SAMN33828009,PRJNA946688,PRJNA946688|cdcf3826,C1,True,China,2016
+SAMN33828008,PRJNA946688,PRJNA946688|cdcf3790,C1,True,China,2015
+SAMN33828007,PRJNA946688,PRJNA946688|cdcf3712,C1,True,China,2014
+SAMN33828006,PRJNA946688,PRJNA946688|cdcf3650,C1,True,China,2014
+SAMN33828005,PRJNA946688,PRJNA946688|cdcf3586,C1,True,China,2014
+SAMN33828004,PRJNA946688,PRJNA946688|cdcf3492,C1,True,China,2014
+SAMN33828003,PRJNA946688,PRJNA946688|cdcf3724,C1,True,China,2015
+SAMN33828002,PRJNA946688,PRJNA946688|cdcf3722,C1,True,China,2015
+SAMN33828001,PRJNA946688,PRJNA946688|cdcf3648,C1,True,China,2014
+SAMN33828000,PRJNA946688,PRJNA946688|cdcf3646,C1,True,China,2014
+SAMN33827999,PRJNA946688,PRJNA946688|cdcf3636,C1,True,China,2014
+SAMN33827998,PRJNA946688,PRJNA946688|cdcf3634,C1,True,China,2014
+SAMN33827997,PRJNA946688,PRJNA946688|cdcf3470,C1,True,China,2015
+SAMN33827996,PRJNA946688,PRJNA946688|cdcf3468,C1,True,China,2015
+SAMN33827995,PRJNA946688,PRJNA946688|cdcf3358,C1,True,China,2016
+SAMN33827994,PRJNA946688,PRJNA946688|cdcf3334,C1,True,China,2015
+SAMN33827993,PRJNA946688,PRJNA946688|cdcf3332,C1,True,China,2015
+SAMN33827992,PRJNA946688,PRJNA946688|cdcf4028,C1,True,China,2014
+SAMN33827991,PRJNA946688,PRJNA946688|cdcf4026,C1,True,China,2014
+SAMN33827990,PRJNA946688,PRJNA946688|cdcf3996,C1,True,China,2015
+SAMN33827989,PRJNA946688,PRJNA946688|cdcf3978,C1,True,China,2014
+SAMN33827988,PRJNA946688,PRJNA946688|cdcf3976,C1,True,China,2014
+SAMN33827987,PRJNA946688,PRJNA946688|cdcf3876,C1,True,China,2015
+SAMN33827986,PRJNA946688,PRJNA946688|cdcf3832,C1,True,China,2016
+SAMN33827985,PRJNA946688,PRJNA946688|cdcf3830,C1,True,China,2016
+SAMN33827984,PRJNA946688,PRJNA946688|cdcf3828,C1,True,China,2015
+SAMN33827983,PRJNA946688,PRJNA946688|cdcf3788,C1,True,China,2015
+SAMN33827982,PRJNA946688,PRJNA946688|cdcf3776,C1,True,China,2016
+SAMN33827981,PRJNA946688,PRJNA946688|cdcf3774,C1,True,China,2016
+SAMN33827980,PRJNA946688,PRJNA946688|cdcf3732,C1,True,China,2015
+SAMN33827979,PRJNA946688,PRJNA946688|cdcf3652,C1,True,China,2014
+SAMN33827978,PRJNA946688,PRJNA946688|cdcf3612,C1,True,China,2014
+SAMN33827977,PRJNA946688,PRJNA946688|cdcf3610,C1,True,China,2014
+SAMN33827976,PRJNA946688,PRJNA946688|cdcf3418,C1,True,China,2015
+SAMN33827975,PRJNA946688,PRJNA946688|cdcf3348,C1,True,China,2014
+SAMN33827974,PRJNA946688,PRJNA946688|cdcf3346,C1,True,China,2014
+SAMN33827973,PRJNA946688,PRJNA946688|cdcf4088,C1,True,China,2016
+SAMN33827972,PRJNA946688,PRJNA946688|cdcf4086,C1,True,China,2016
+SAMN33827971,PRJNA946688,PRJNA946688|cdcf4076,C1,True,China,2016
+SAMN33827970,PRJNA946688,PRJNA946688|cdcf4042,C1,True,China,2015
+SAMN33827969,PRJNA946688,PRJNA946688|cdcf4006,C1,True,China,2015
+SAMN33827968,PRJNA946688,PRJNA946688|cdcf4002,C1,True,China,2013
+SAMN33827967,PRJNA946688,PRJNA946688|cdcf3726,C1,True,China,2016
+SAMN33827966,PRJNA946688,PRJNA946688|cdcf3706,C1,True,China,2011
+SAMN33827965,PRJNA946688,PRJNA946688|cdcf3640,C1,True,China,2016
+SAMN33827964,PRJNA946688,PRJNA946688|cdcf3638,C1,True,China,2016
+SAMN33827963,PRJNA946688,PRJNA946688|cdcf3590,C1,True,China,2013
+SAMN33827962,PRJNA946688,PRJNA946688|cdcf3354,C1,True,China,2016
+SAMN33827961,PRJNA946688,PRJNA946688|cdcf4070,C1,True,China,2014
+SAMN33827960,PRJNA946688,PRJNA946688|cdcf3720,C1,True,China,2015
+SAMN33827959,PRJNA946688,PRJNA946688|cdcf3718,C1,True,China,2015
+SAMN33827958,PRJNA946688,PRJNA946688|cdcf3624,C1,True,China,2014
+SAMN33827957,PRJNA946688,PRJNA946688|cdcf3622,C1,True,China,2014
+SAMN33827956,PRJNA946688,PRJNA946688|cdcf3592,C1,True,China,2015
+SAMN33827955,PRJNA946688,PRJNA946688|cdcf3518,C1,True,China,2015
+SAMN33827954,PRJNA946688,PRJNA946688|cdcf3516,C1,True,China,2015
+SAMN33827953,PRJNA946688,PRJNA946688|cdcf3514,C1,True,China,2015
+SAMN33827952,PRJNA946688,PRJNA946688|cdcf3512,C1,True,China,2015
+SAMN33827951,PRJNA946688,PRJNA946688|cdcf3458,C1,True,China,2015
+SAMN33827950,PRJNA946688,PRJNA946688|cdcf3406,C1,True,China,2014
+SAMN33827949,PRJNA946688,PRJNA946688|cdcf3404,C1,True,China,2014
+SAMN33827948,PRJNA946688,PRJNA946688|cdcf3990,C1,True,China,2015
+SAMN33827947,PRJNA946688,PRJNA946688|cdcf3988,C1,True,China,2015
+SAMN33827946,PRJNA946688,PRJNA946688|cdcf3964,C1,True,China,2015
+SAMN33827945,PRJNA946688,PRJNA946688|cdcf3962,C1,True,China,2015
+SAMN33827944,PRJNA946688,PRJNA946688|cdcf3960,C1,True,China,2015
+SAMN33827943,PRJNA946688,PRJNA946688|cdcf3958,C1,True,China,2015
+SAMN33827942,PRJNA946688,PRJNA946688|cdcf3936,C1,True,China,2015
+SAMN33827941,PRJNA946688,PRJNA946688|cdcf3562,C1,True,China,2015
+SAMN33827940,PRJNA946688,PRJNA946688|cdcf3560,C1,True,China,2015
+SAMN33827939,PRJNA946688,PRJNA946688|cdcf3558,C1,True,China,2015
+SAMN33827938,PRJNA946688,PRJNA946688|cdcf3556,C1,True,China,2015
+SAMN33827937,PRJNA946688,PRJNA946688|cdcf3544,C1,True,China,2015
+SAMN33827936,PRJNA946688,PRJNA946688|cdcf3542,C1,True,China,2015
+SAMN33827935,PRJNA946688,PRJNA946688|cdcf3540,C1,True,China,2015
+SAMN33827934,PRJNA946688,PRJNA946688|cdcf3538,C1,True,China,2015
+SAMN33827933,PRJNA946688,PRJNA946688|cdcf3536,C1,True,China,2015
+SAMN33827932,PRJNA946688,PRJNA946688|cdcf3534,C1,True,China,2015
+SAMN33827931,PRJNA946688,PRJNA946688|cdcf3532,C1,True,China,2015
+SAMN33827930,PRJNA946688,PRJNA946688|cdcf3528,C1,True,China,2015
+SAMN33827929,PRJNA946688,PRJNA946688|cdcf4098,C1,True,China,2012
+SAMN33827928,PRJNA946688,PRJNA946688|cdcf4096,C1,True,China,2012
+SAMN33827927,PRJNA946688,PRJNA946688|cdcf4014,C1,True,China,2015
+SAMN33827926,PRJNA946688,PRJNA946688|cdcf3940,C1,True,China,2013
+SAMN33827925,PRJNA946688,PRJNA946688|cdcf3938,C1,True,China,2013
+SAMN33827924,PRJNA946688,PRJNA946688|cdcf3794,C1,True,China,2014
+SAMN33827923,PRJNA946688,PRJNA946688|cdcf3792,C1,True,China,2014
+SAMN33827922,PRJNA946688,PRJNA946688|cdcf3674,C1,True,China,2015
+SAMN33827921,PRJNA946688,PRJNA946688|cdcf3654,C1,True,China,2014
+SAMN33827920,PRJNA946688,PRJNA946688|cdcf3632,C1,True,China,2013
+SAMN33827919,PRJNA946688,PRJNA946688|cdcf3630,C1,True,China,2013
+SAMN33827918,PRJNA946688,PRJNA946688|cdcf3628,C1,True,China,2013
+SAMN33827917,PRJNA946688,PRJNA946688|cdcf3626,C1,True,China,2013
+SAMN33827916,PRJNA946688,PRJNA946688|cdcf3588,C1,True,China,2013
+SAMN33827915,PRJNA946688,PRJNA946688|cdcf4102,C1,True,China,2015
+SAMN33827914,PRJNA946688,PRJNA946688|cdcf4034,C1,True,China,2015
+SAMN33827913,PRJNA946688,PRJNA946688|cdcf4032,C1,True,China,2015
+SAMN33827912,PRJNA946688,PRJNA946688|cdcf4000,C1,True,China,2015
+SAMN33827911,PRJNA946688,PRJNA946688|cdcf3998,C1,True,China,2015
+SAMN33827910,PRJNA946688,PRJNA946688|cdcf3970,C1,True,China,2015
+SAMN33827909,PRJNA946688,PRJNA946688|cdcf3966,C1,True,China,2015
+SAMN33827908,PRJNA946688,PRJNA946688|cdcf3552,C1,True,China,2015
+SAMN33827907,PRJNA946688,PRJNA946688|cdcf3550,C1,True,China,2015
+SAMN33827906,PRJNA946688,PRJNA946688|cdcf3392,C1,True,China,2016
+SAMN33827905,PRJNA946688,PRJNA946688|cdcf3386,C1,True,China,2016
+SAMN33827904,PRJNA946688,PRJNA946688|cdcf3968,C1,True,China,2015
+SAMN33827903,PRJNA946688,PRJNA946688|cdcf3838,C1,True,China,2015
+SAMN33827902,PRJNA946688,PRJNA946688|cdcf3812,C1,True,China,2015
+SAMN33827901,PRJNA946688,PRJNA946688|cdcf3810,C1,True,China,2015
+SAMN33827900,PRJNA946688,PRJNA946688|cdcf3778,C1,True,China,2016
+SAMN33827899,PRJNA946688,PRJNA946688|cdcf3226,C1,True,China,2016
+SAMN33827898,PRJNA946688,PRJNA946688|cdcf3220,C1,True,China,2016
+SAMN33827897,PRJNA946688,PRJNA946688|cdcf3200,C1,True,China,2015
+SAMN33827896,PRJNA946688,PRJNA946688|cdcf3194,C1,True,China,2014
+SAMN33827895,PRJNA946688,PRJNA946688|cdcf4124,C1,True,China,2016
+SAMN33827894,PRJNA946688,PRJNA946688|cdcf3834,C1,True,China,2016
+SAMN33827893,PRJNA946688,PRJNA946688|cdcf4074,C1,True,China,2014
+SAMN33827892,PRJNA946688,PRJNA946688|cdcf4072,C1,True,China,2014
+SAMN33827891,PRJNA946688,PRJNA946688|cdcf3986,C1,True,China,2014
+SAMN33827890,PRJNA946688,PRJNA946688|cdcf3944,C1,True,China,2014
+SAMN33827889,PRJNA946688,PRJNA946688|cdcf3942,C1,True,China,2014
+SAMN33827888,PRJNA946688,PRJNA946688|cdcf3772,C1,True,China,2014
+SAMN33827887,PRJNA946688,PRJNA946688|cdcf3770,C1,True,China,2014
+SAMN33827886,PRJNA946688,PRJNA946688|cdcf3768,C1,True,China,2014
+SAMN33827885,PRJNA946688,PRJNA946688|cdcf3766,C1,True,China,2014
+SAMN33827884,PRJNA946688,PRJNA946688|cdcf3764,C1,True,China,2014
+SAMN33827883,PRJNA946688,PRJNA946688|cdcf9501,C1,True,China,2013
+SAMN33827882,PRJNA946688,PRJNA946688|cdcf9500,C1,True,China,2013
+SAMN33827881,PRJNA946688,PRJNA946688|cdcf9499,C1,True,China,2013
+SAMN33827880,PRJNA946688,PRJNA946688|cdcf9498,C1,True,China,2013
+SAMN33827879,PRJNA946688,PRJNA946688|cdcf9497,C1,True,China,2013
+SAMN33827878,PRJNA946688,PRJNA946688|cdcf9496,C1,True,China,2012
+SAMN33827877,PRJNA946688,PRJNA946688|cdcf9495,C1,True,China,2012
+SAMN33827876,PRJNA946688,PRJNA946688|cdcf9494,C1,True,China,2012
+SAMN33827875,PRJNA946688,PRJNA946688|cdcf9493,C1,True,China,2012
+SAMN33827874,PRJNA946688,PRJNA946688|cdcf9492,C1,True,China,2011
+SAMN33827873,PRJNA946688,PRJNA946688|cdcf9491,C1,True,China,2011
+SAMN33827872,PRJNA946688,PRJNA946688|cdcf9490,C1,True,China,2011
+SAMN33827871,PRJNA946688,PRJNA946688|cdcf9489,C1,True,China,2010
+SAMN33827870,PRJNA946688,PRJNA946688|cdcf9487,C1,True,China,2010
+SAMN33827869,PRJNA946688,PRJNA946688|cdcf9486,C1,True,China,2009
+SAMN33827868,PRJNA946688,PRJNA946688|cdcf9485,C1,True,China,2009
+SAMN33827867,PRJNA946688,PRJNA946688|cdcf4082,C1,True,China,2016
+SAMN33827866,PRJNA946688,PRJNA946688|cdcf4080,C1,True,China,2015
+SAMN33827865,PRJNA946688,PRJNA946688|cdcf4078,C1,True,China,2014
+SAMN33827864,PRJNA946688,PRJNA946688|cdcf3700,C1,True,China,2015
+SAMN33827863,PRJNA946688,PRJNA946688|cdcf3698,C1,True,China,2015
+SAMN33827862,PRJNA946688,PRJNA946688|cdcf3696,C1,True,China,2014
+SAMN33827861,PRJNA946688,PRJNA946688|cdcf3694,C1,True,China,2014
+SAMN33827860,PRJNA946688,PRJNA946688|cdcf3644,C1,True,China,2015
+SAMN33827859,PRJNA946688,PRJNA946688|cdcf3642,C1,True,China,2015
+SAMN33827858,PRJNA946688,PRJNA946688|cdcf3608,C1,True,China,2014
+SAMN33827857,PRJNA946688,PRJNA946688|cdcf3606,C1,True,China,2014
+SAMN33827856,PRJNA946688,PRJNA946688|cdcf3462,C1,True,China,2015
+SAMN33827855,PRJNA946688,PRJNA946688|cdcf3460,C1,True,China,2015
+SAMN33827854,PRJNA946688,PRJNA946688|cdcf3422,C1,True,China,2015
+SAMN33827853,PRJNA946688,PRJNA946688|cdcf3420,C1,True,China,2015
+SAMN33827852,PRJNA946688,PRJNA946688|cdcf3350,C1,True,China,2015
+SAMN33827851,PRJNA946688,PRJNA946688|cdcf3190,C1,True,China,2015
+SAMN33827850,PRJNA946688,PRJNA946688|cdcf3188,C1,True,China,2015
+SAMN33827849,PRJNA946688,PRJNA946688|cdcf3178,C1,True,China,2015
+SAMN33827848,PRJNA946688,PRJNA946688|cdcf3170,C1,True,China,2015
+SAMN33827847,PRJNA946688,PRJNA946688|cdcf3162,C1,True,China,2015
+SAMN33827846,PRJNA946688,PRJNA946688|cdcf3160,C1,True,China,2014
+SAMN33827845,PRJNA946688,PRJNA946688|cdcf3154,C1,True,China,2014
+SAMN33827844,PRJNA946688,PRJNA946688|cdcf3152,C1,True,China,2014
+SAMN33827843,PRJNA946688,PRJNA946688|cdcf4158,C1,True,China,2016
+SAMN33827842,PRJNA946688,PRJNA946688|cdcf4156,C1,True,China,2015
+SAMN33827841,PRJNA946688,PRJNA946688|cdcf4154,C1,True,China,2015
+SAMN33827840,PRJNA946688,PRJNA946688|cdcf4152,C1,True,China,2015
+SAMN33827839,PRJNA946688,PRJNA946688|cdcf4150,C1,True,China,2014
+SAMN33827838,PRJNA946688,PRJNA946688|cdcf3824,C1,True,China,2015
+SAMN33827837,PRJNA946688,PRJNA946688|cdcf3822,C1,True,China,2015
+SAMN33827836,PRJNA946688,PRJNA946688|cdcf3820,C1,True,China,2015
+SAMN33827835,PRJNA946688,PRJNA946688|cdcf3818,C1,True,China,2015
+SAMN33827834,PRJNA946688,PRJNA946688|cdcf3762,C1,True,China,2015
+SAMN33827833,PRJNA946688,PRJNA946688|cdcf3760,C1,True,China,2015
+SAMN33827832,PRJNA946688,PRJNA946688|cdcf3758,C1,True,China,2015
+SAMN33827831,PRJNA946688,PRJNA946688|cdcf3742,C1,True,China,2016
+SAMN33827830,PRJNA946688,PRJNA946688|cdcf3740,C1,True,China,2015
+SAMN33827829,PRJNA946688,PRJNA946688|cdcf3728,C1,True,China,2016
+SAMN33827828,PRJNA946688,PRJNA946688|cdcf3680,C1,True,China,2015
+SAMN33827827,PRJNA946688,PRJNA946688|cdcf3678,C1,True,China,2014
+SAMN33827826,PRJNA946688,PRJNA946688|cdcf3510,C1,True,China,2015
+SAMN33827825,PRJNA946688,PRJNA946688|cdcf3508,C1,True,China,2015
+SAMN33827824,PRJNA946688,PRJNA946688|cdcf3480,C1,True,China,2014
+SAMN33827823,PRJNA946688,PRJNA946688|cdcf3478,C1,True,China,2014
+SAMN33827822,PRJNA946688,PRJNA946688|cdcf3454,C1,True,China,2014
+SAMN33827821,PRJNA946688,PRJNA946688|cdcf3452,C1,True,China,2014
+SAMN33827820,PRJNA946688,PRJNA946688|cdcf3450,C1,True,China,2014
+SAMN33827819,PRJNA946688,PRJNA946688|cdcf3382,C1,True,China,2015
+SAMN33827818,PRJNA946688,PRJNA946688|cdcf3366,C1,True,China,2014
+SAMN33827817,PRJNA946688,PRJNA946688|cdcf3344,C1,True,China,2014
+SAMN33827816,PRJNA946688,PRJNA946688|cdcf3672,C1,True,China,2016
+SAMN33827815,PRJNA946688,PRJNA946688|cdcf3670,C1,True,China,2016
+SAMN33827814,PRJNA946688,PRJNA946688|cdcf3668,C1,True,China,2016
+SAMN33827813,PRJNA946688,PRJNA946688|cdcf3666,C1,True,China,2016
+SAMN33827812,PRJNA946688,PRJNA946688|cdcf3594,C1,True,China,2016
+SAMN33827811,PRJNA946688,PRJNA946688|cdcf3384,C1,True,China,2016
+SAMN33827810,PRJNA946688,PRJNA946688|cdcf3144,C1,True,China,2016
+SAMN33827809,PRJNA946688,PRJNA946688|cdcf3736,C1,True,China,2015
+SAMN33827808,PRJNA946688,PRJNA946688|cdcf3734,C1,True,China,2015
+SAMN33827807,PRJNA946688,PRJNA946688|cdcf3716,C1,True,China,2014
+SAMN33827806,PRJNA946688,PRJNA946688|cdcf3714,C1,True,China,2014
+SAMN33827805,PRJNA946688,PRJNA946688|cdcf3598,C1,True,China,2015
+SAMN33827804,PRJNA946688,PRJNA946688|cdcf3596,C1,True,China,2015
+SAMN33827803,PRJNA946688,PRJNA946688|cdcf3502,C1,True,China,2015
+SAMN33827802,PRJNA946688,PRJNA946688|cdcf3490,C1,True,China,2014
+SAMN33827801,PRJNA946688,PRJNA946688|cdcf3488,C1,True,China,2014
+SAMN33827800,PRJNA946688,PRJNA946688|cdcf3438,C1,True,China,2015
+SAMN33827799,PRJNA946688,PRJNA946688|cdcf3436,C1,True,China,2015
+SAMN33827798,PRJNA946688,PRJNA946688|cdcf3432,C1,True,China,2015
+SAMN33827797,PRJNA946688,PRJNA946688|cdcf3388,C1,True,China,2016
+SAMN33827796,PRJNA946688,PRJNA946688|cdcf3934,C1,True,China,2015
+SAMN33827795,PRJNA946688,PRJNA946688|cdcf3890,C1,True,China,2015
+SAMN33827794,PRJNA946688,PRJNA946688|cdcf3888,C1,True,China,2015
+SAMN33827793,PRJNA946688,PRJNA946688|cdcf3856,C1,True,China,2016
+SAMN33827792,PRJNA946688,PRJNA946688|cdcf3854,C1,True,China,2015
+SAMN33827791,PRJNA946688,PRJNA946688|cdcf3852,C1,True,China,2015
+SAMN33827790,PRJNA946688,PRJNA946688|cdcf3850,C1,True,China,2015
+SAMN33827789,PRJNA946688,PRJNA946688|cdcf3848,C1,True,China,2015
+SAMN33827788,PRJNA946688,PRJNA946688|cdcf3846,C1,True,China,2015
+SAMN33827787,PRJNA946688,PRJNA946688|cdcf3806,C1,True,China,2014
+SAMN33827786,PRJNA946688,PRJNA946688|cdcf3738,C1,True,China,2016
+SAMN33827785,PRJNA946688,PRJNA946688|cdcf3526,C1,True,China,2015
+SAMN33827784,PRJNA946688,PRJNA946688|cdcf3524,C1,True,China,2015
+SAMN33827783,PRJNA946688,PRJNA946688|cdcf3504,C1,True,China,2015
+SAMN33827782,PRJNA946688,PRJNA946688|cdcf3500,C1,True,China,2015
+SAMN33827781,PRJNA946688,PRJNA946688|cdcf3498,C1,True,China,2015
+SAMN33827780,PRJNA946688,PRJNA946688|cdcf3496,C1,True,China,2015
+SAMN33827779,PRJNA946688,PRJNA946688|cdcf3390,C1,True,China,2016
+SAMN33827778,PRJNA946688,PRJNA946688|cdcf3380,C1,True,China,2015
+SAMN33827777,PRJNA946688,PRJNA946688|cdcf3378,C1,True,China,2015
+SAMN33827776,PRJNA946688,PRJNA946688|cdcf3376,C1,True,China,2015
+SAMN33827775,PRJNA946688,PRJNA946688|cdcf4046,C1,True,China,2015
+SAMN33827774,PRJNA946688,PRJNA946688|cdcf4044,C1,True,China,2015
+SAMN33827773,PRJNA946688,PRJNA946688|cdcf3982,C1,True,China,2015
+SAMN33827772,PRJNA946688,PRJNA946688|cdcf3892,C1,True,China,2015
+SAMN33827771,PRJNA946688,PRJNA946688|cdcf3864,C1,True,China,2016
+SAMN33827770,PRJNA946688,PRJNA946688|cdcf3862,C1,True,China,2016
+SAMN33827769,PRJNA946688,PRJNA946688|cdcf3860,C1,True,China,2016
+SAMN33827768,PRJNA946688,PRJNA946688|cdcf3858,C1,True,China,2016
+SAMN33827767,PRJNA946688,PRJNA946688|cdcf3804,C1,True,China,2014
+SAMN33827766,PRJNA946688,PRJNA946688|cdcf3802,C1,True,China,2014
+SAMN33827765,PRJNA946688,PRJNA946688|cdcf3800,C1,True,China,2014
+SAMN33827764,PRJNA946688,PRJNA946688|cdcf3796,C1,True,China,2014
+SAMN33827763,PRJNA946688,PRJNA946688|cdcf3520,C1,True,China,2014
+SAMN33827762,PRJNA946688,PRJNA946688|cdcf3352,C1,True,China,2016
+SAMN33827761,PRJNA946688,PRJNA946688|cdcf4048,C1,True,China,2015
+SAMN33827760,PRJNA946688,PRJNA946688|cdcf4040,C1,True,China,2015
+SAMN33827759,PRJNA946688,PRJNA946688|cdcf4010,C1,True,China,2015
+SAMN33827758,PRJNA946688,PRJNA946688|cdcf3980,C1,True,China,2015
+SAMN33827757,PRJNA946688,PRJNA946688|cdcf3912,C1,True,China,2015
+SAMN33827756,PRJNA946688,PRJNA946688|cdcf3910,C1,True,China,2015
+SAMN33827755,PRJNA946688,PRJNA946688|cdcf3908,C1,True,China,2015
+SAMN33827754,PRJNA946688,PRJNA946688|cdcf3620,C1,True,China,2014
+SAMN33827753,PRJNA946688,PRJNA946688|cdcf3618,C1,True,China,2014
+SAMN33827752,PRJNA946688,PRJNA946688|cdcf3466,C1,True,China,2016
+SAMN33827751,PRJNA946688,PRJNA946688|cdcf3464,C1,True,China,2016
+SAMN33827750,PRJNA946688,PRJNA946688|cdcf3398,C1,True,China,2016
+SAMN33827749,PRJNA946688,PRJNA946688|cdcf3396,C1,True,China,2016
+SAMN33827748,PRJNA946688,PRJNA946688|cdcf9523,C1,True,China,2012
+SAMN33827747,PRJNA946688,PRJNA946688|cdcf9522,C1,True,China,2013
+SAMN33827746,PRJNA946688,PRJNA946688|cdcf9521,C1,True,China,2012
+SAMN33827745,PRJNA946688,PRJNA946688|cdcf9520,C1,True,China,2012
+SAMN33827744,PRJNA946688,PRJNA946688|cdcf9519,C1,True,China,2012
+SAMN33827743,PRJNA946688,PRJNA946688|cdcf9518,C1,True,China,2013
+SAMN33827742,PRJNA946688,PRJNA946688|cdcf9517,C1,True,China,2012
+SAMN33827741,PRJNA946688,PRJNA946688|cdcf9516,C1,True,China,2012
+SAMN33827740,PRJNA946688,PRJNA946688|cdcf9515,C1,True,China,2012
+SAMN33827739,PRJNA946688,PRJNA946688|cdcf9514,C1,True,China,2011
+SAMN33827738,PRJNA946688,PRJNA946688|cdcf9513,C1,True,China,2011
+SAMN33827737,PRJNA946688,PRJNA946688|cdcf9512,C1,True,China,2011
+SAMN33827736,PRJNA946688,PRJNA946688|cdcf9511,C1,True,China,2011
+SAMN33827735,PRJNA946688,PRJNA946688|cdcf9510,C1,True,China,2010
+SAMN33827734,PRJNA946688,PRJNA946688|cdcf9509,C1,True,China,2010
+SAMN33827733,PRJNA946688,PRJNA946688|cdcf9508,C1,True,China,2010
+SAMN33827732,PRJNA946688,PRJNA946688|cdcf9507,C1,True,China,2010
+SAMN33827731,PRJNA946688,PRJNA946688|cdcf9506,C1,True,China,2010
+SAMN33827730,PRJNA946688,PRJNA946688|cdcf9505,C1,True,China,2009
+SAMN33827729,PRJNA946688,PRJNA946688|cdcf9504,C1,True,China,2009
+SAMN33827728,PRJNA946688,PRJNA946688|cdcf9503,C1,True,China,2009
+SAMN33827727,PRJNA946688,PRJNA946688|cdcf9502,C1,True,China,2009
+SAMN33827726,PRJNA946688,PRJNA946688|cdcf4094,C1,True,China,2015
+SAMN33827725,PRJNA946688,PRJNA946688|cdcf4092,C1,True,China,2015
+SAMN33827724,PRJNA946688,PRJNA946688|cdcf4090,C1,True,China,2015
+SAMN33827723,PRJNA946688,PRJNA946688|cdcf3872,C1,True,China,2015
+SAMN33827722,PRJNA946688,PRJNA946688|cdcf3870,C1,True,China,2015
+SAMN33827721,PRJNA946688,PRJNA946688|cdcf3868,C1,True,China,2015
+SAMN33827720,PRJNA946688,PRJNA946688|cdcf3866,C1,True,China,2015
+SAMN33827719,PRJNA946688,PRJNA946688|cdcf3686,C1,True,China,2016
+SAMN33827718,PRJNA946688,PRJNA946688|cdcf3676,C1,True,China,2015
+SAMN33827717,PRJNA946688,PRJNA946688|cdcf3584,C1,True,China,2016
+SAMN33827716,PRJNA946688,PRJNA946688|cdcf3582,C1,True,China,2016
+SAMN33827715,PRJNA946688,PRJNA946688|cdcf3580,C1,True,China,2016
+SAMN33827714,PRJNA946688,PRJNA946688|cdcf3578,C1,True,China,2016
+SAMN33827713,PRJNA946688,PRJNA946688|cdcf3554,C1,True,China,2015
+SAMN33827712,PRJNA946688,PRJNA946688|cdcf3530,C1,True,China,2015
+SAMN33827711,PRJNA946688,PRJNA946688|cdcf3484,C1,True,China,2014
+SAMN33827710,PRJNA946688,PRJNA946688|cdcf3482,C1,True,China,2014
+SAMN33827709,PRJNA946688,PRJNA946688|cdcf3374,C1,True,China,2014
+SAMN33827708,PRJNA946688,PRJNA946688|cdcf3372,C1,True,China,2014
+SAMN33827707,PRJNA946688,PRJNA946688|cdcf3330,C1,True,China,2014
+SAMN33827706,PRJNA946688,PRJNA946688|cdcf4148,C1,True,China,2011
+SAMN33827705,PRJNA946688,PRJNA946688|cdcf4146,C1,True,China,2011
+SAMN33827704,PRJNA946688,PRJNA946688|cdcf4144,C1,True,China,2011
+SAMN33827703,PRJNA946688,PRJNA946688|cdcf4140,C1,True,China,2014
+SAMN33827702,PRJNA946688,PRJNA946688|cdcf4138,C1,True,China,2011
+SAMN33827701,PRJNA946688,PRJNA946688|cdcf4136,C1,True,China,2011
+SAMN33827700,PRJNA946688,PRJNA946688|cdcf4134,C1,True,China,2011
+SAMN33827699,PRJNA946688,PRJNA946688|cdcf3954,C1,True,China,2011
+SAMN33827698,PRJNA946688,PRJNA946688|cdcf3886,C1,True,China,2011
+SAMN33827697,PRJNA946688,PRJNA946688|cdcf3878,C1,True,China,2016
+SAMN33827696,PRJNA946688,PRJNA946688|cdcf3746,C1,True,China,2016
+SAMN33827695,PRJNA946688,PRJNA946688|cdcf3744,C1,True,China,2011
+SAMN33827694,PRJNA946688,PRJNA946688|cdcf3446,C1,True,China,2015
+SAMN33827693,PRJNA946688,PRJNA946688|cdcf3414,C1,True,China,2012
+SAMN33827692,PRJNA946688,PRJNA946688|cdcf3362,C1,True,China,2015
+SAMN33827691,PRJNA946688,PRJNA946688|cdcf4160,C1,True,China,2013
+SAMN33827690,PRJNA946688,PRJNA946688|cdcf4100,C1,True,China,2015
+SAMN33827689,PRJNA946688,PRJNA946688|cdcf3956,C1,True,China,2015
+SAMN33827688,PRJNA946688,PRJNA946688|cdcf3952,C1,True,China,2013
+SAMN33827687,PRJNA946688,PRJNA946688|cdcf3692,C1,True,China,2014
+SAMN33827686,PRJNA946688,PRJNA946688|cdcf3690,C1,True,China,2014
+SAMN33827685,PRJNA946688,PRJNA946688|cdcf3684,C1,True,China,2016
+SAMN33827684,PRJNA946688,PRJNA946688|cdcf3656,C1,True,China,2014
+SAMN33827683,PRJNA946688,PRJNA946688|cdcf3614,C1,True,China,2014
+SAMN33827682,PRJNA946688,PRJNA946688|cdcf3548,C1,True,China,2015
+SAMN33827681,PRJNA946688,PRJNA946688|cdcf3546,C1,True,China,2015
+SAMN33827680,PRJNA946688,PRJNA946688|cdcf3456,C1,True,China,2014
+SAMN33827679,PRJNA946688,PRJNA946688|cdcf9484,C1,True,China,2012
+SAMN33827678,PRJNA946688,PRJNA946688|cdcf9483,C1,True,China,2013
+SAMN33827677,PRJNA946688,PRJNA946688|cdcf9482,C1,True,China,2012
+SAMN33827676,PRJNA946688,PRJNA946688|cdcf9481,C1,True,China,2013
+SAMN33827675,PRJNA946688,PRJNA946688|cdcf9480,C1,True,China,2013
+SAMN33827674,PRJNA946688,PRJNA946688|cdcf9479,C1,True,China,2013
+SAMN33827673,PRJNA946688,PRJNA946688|cdcf9478,C1,True,China,2013
+SAMN33827672,PRJNA946688,PRJNA946688|cdcf9477,C1,True,China,2012
+SAMN33827671,PRJNA946688,PRJNA946688|cdcf9476,C1,True,China,2012
+SAMN33827670,PRJNA946688,PRJNA946688|cdcf9475,C1,True,China,2012
+SAMN33827669,PRJNA946688,PRJNA946688|cdcf9474,C1,True,China,2010
+SAMN33827668,PRJNA946688,PRJNA946688|cdcf9473,C1,True,China,2010
+SAMN33827667,PRJNA946688,PRJNA946688|cdcf9472,C1,True,China,2010
+SAMN33827666,PRJNA946688,PRJNA946688|cdcf9471,C1,True,China,2009
+SAMN33827665,PRJNA946688,PRJNA946688|cdcf7114,C1,True,China,2013
+SAMN33827664,PRJNA946688,PRJNA946688|cdcf7113,C1,True,China,2013
+SAMN33827663,PRJNA946688,PRJNA946688|cdcf4122,C1,True,China,2016
+SAMN33827662,PRJNA946688,PRJNA946688|cdcf4120,C1,True,China,2015
+SAMN33827661,PRJNA946688,PRJNA946688|cdcf4118,C1,True,China,2015
+SAMN33827660,PRJNA946688,PRJNA946688|cdcf4116,C1,True,China,2015
+SAMN33827659,PRJNA946688,PRJNA946688|cdcf4114,C1,True,China,2015
+SAMN33827658,PRJNA946688,PRJNA946688|cdcf4112,C1,True,China,2015
+SAMN33827657,PRJNA946688,PRJNA946688|cdcf4110,C1,True,China,2015
+SAMN33827656,PRJNA946688,PRJNA946688|cdcf4108,C1,True,China,2014
+SAMN33827655,PRJNA946688,PRJNA946688|cdcf4068,C1,True,China,2016
+SAMN33827654,PRJNA946688,PRJNA946688|cdcf4066,C1,True,China,2015
+SAMN33827653,PRJNA946688,PRJNA946688|cdcf4064,C1,True,China,2016
+SAMN33827652,PRJNA946688,PRJNA946688|cdcf4062,C1,True,China,2015
+SAMN33827651,PRJNA946688,PRJNA946688|cdcf4060,C1,True,China,2015
+SAMN33827650,PRJNA946688,PRJNA946688|cdcf4058,C1,True,China,2015
+SAMN33827649,PRJNA946688,PRJNA946688|cdcf4056,C1,True,China,2015
+SAMN33827648,PRJNA946688,PRJNA946688|cdcf4054,C1,True,China,2016
+SAMN33827647,PRJNA946688,PRJNA946688|cdcf4052,C1,True,China,2016
+SAMN33827646,PRJNA946688,PRJNA946688|cdcf4050,C1,True,China,2015
+SAMN33827645,PRJNA946688,PRJNA946688|cdcf4020,C1,True,China,2015
+SAMN33827644,PRJNA946688,PRJNA946688|cdcf4018,C1,True,China,2015
+SAMN33827643,PRJNA946688,PRJNA946688|cdcf4016,C1,True,China,2014
+SAMN33827642,PRJNA946688,PRJNA946688|cdcf3932,C1,True,China,2016
+SAMN33827641,PRJNA946688,PRJNA946688|cdcf3928,C1,True,China,2016
+SAMN33827640,PRJNA946688,PRJNA946688|cdcf3924,C1,True,China,2016
+SAMN33827639,PRJNA946688,PRJNA946688|cdcf3918,C1,True,China,2016
+SAMN33827638,PRJNA946688,PRJNA946688|cdcf3916,C1,True,China,2016
+SAMN33827637,PRJNA946688,PRJNA946688|cdcf3836,C1,True,China,2015
+SAMN33827636,PRJNA946688,PRJNA946688|cdcf3816,C1,True,China,2015
+SAMN33827635,PRJNA946688,PRJNA946688|cdcf3814,C1,True,China,2015
+SAMN33827634,PRJNA946688,PRJNA946688|cdcf3704,C1,True,China,2015
+SAMN33827633,PRJNA946688,PRJNA946688|cdcf3702,C1,True,China,2015
+SAMN33827632,PRJNA946688,PRJNA946688|cdcf3572,C1,True,China,2015
+SAMN33827631,PRJNA946688,PRJNA946688|cdcf3570,C1,True,China,2015
+SAMN33827630,PRJNA946688,PRJNA946688|cdcf3566,C1,True,China,2015
+SAMN33827629,PRJNA946688,PRJNA946688|cdcf3426,C1,True,China,2015
+SAMN33827628,PRJNA946688,PRJNA946688|cdcf3424,C1,True,China,2015
+SAMN33827627,PRJNA946688,PRJNA946688|cdcf3410,C1,True,China,2015
+SAMN33827626,PRJNA946688,PRJNA946688|cdcf3408,C1,True,China,2015
+SAMN33827625,PRJNA946688,PRJNA946688|cdcf3394,C1,True,China,2016
+SAMN33827624,PRJNA946688,PRJNA946688|cdcf3370,C1,True,China,2015
+SAMN33827623,PRJNA946688,PRJNA946688|cdcf3342,C1,True,China,2015
+SAMN33827622,PRJNA946688,PRJNA946688|cdcf3340,C1,True,China,2015
+SAMN33827621,PRJNA946688,PRJNA946688|cdcf3338,C1,True,China,2015
+SAMN30111448,PRJNA865384,PRJNA865384|mb21022330,C1,True,Australia,2021
+SAMN30111447,PRJNA865384,PRJNA865384|mb21023723,C1,True,Australia,2021
+SAMN30111446,PRJNA865384,PRJNA865384|mb21025303,C1,True,Australia,2021
+SAMN30111445,PRJNA865384,PRJNA865384|20-008-0094,C1,True,Australia,2020
+SAMN30111444,PRJNA865384,PRJNA865384|20-008-0093,C1,True,Australia,2020
+SAMN30111443,PRJNA865384,PRJNA865384|19-5326-037-0003,C1,True,Australia,2014
+SAMN30111442,PRJNA865384,PRJNA865384|19-5326-037-0002,C1,True,Australia,2014
+SAMN30111440,PRJNA865384,PRJNA865384|19-008-0091,C1,True,Australia,2001
+SAMN30111439,PRJNA865384,PRJNA865384|19-008-0090,C1,True,Australia,2004
+SAMN30111438,PRJNA865384,PRJNA865384|19-008-0089,C1,True,Australia,2003
+SAMN30111437,PRJNA865384,PRJNA865384|19-008-0088,C1,True,Australia,2003
+SAMN30111436,PRJNA865384,PRJNA865384|19-008-0086,C1,True,Australia,2001
+SAMN30111435,PRJNA865384,PRJNA865384|19-008-0085,C1,True,Australia,2004
+SAMN30111434,PRJNA865384,PRJNA865384|19-008-0084,C1,True,Australia,2003
+SAMN30111433,PRJNA865384,PRJNA865384|19-008-0083,C1,True,Australia,2003
+SAMN30111432,PRJNA865384,PRJNA865384|19-008-0082,C1,True,Australia,2004
+SAMN30111431,PRJNA865384,PRJNA865384|19-008-0081,C1,True,Australia,2004
+SAMN30111430,PRJNA865384,PRJNA865384|19-008-0080,C1,True,Australia,2001
+SAMN30111429,PRJNA865384,PRJNA865384|19-008-0079,C1,True,Australia,2002
+SAMN30111428,PRJNA865384,PRJNA865384|19-008-0078,C1,True,Australia,2004
+SAMN30111427,PRJNA865384,PRJNA865384|19-008-0077,C1,True,Australia,2003
+SAMN30111426,PRJNA865384,PRJNA865384|19-008-0076,C1,True,Australia,2001
+SAMN30111425,PRJNA865384,PRJNA865384|19-008-0075,C1,True,Australia,2002
+SAMN30111424,PRJNA865384,PRJNA865384|19-008-0073,C1,True,Australia,2003
+SAMN30111423,PRJNA865384,PRJNA865384|19-008-0072,C1,True,Australia,2003
+SAMN30111422,PRJNA865384,PRJNA865384|19-008-0071,C1,True,Australia,2004
+SAMN30111421,PRJNA865384,PRJNA865384|19-008-0070,C1,True,Australia,2004
+SAMN30111420,PRJNA865384,PRJNA865384|19-008-0069,C1,True,Australia,2003
+SAMN30111419,PRJNA865384,PRJNA865384|19-008-0068,C1,True,Australia,2001
+SAMN30111418,PRJNA865384,PRJNA865384|19-008-0067,C1,True,Australia,2001
+SAMN30111417,PRJNA865384,PRJNA865384|19-008-0066,C1,True,Australia,2004
+SAMN30111416,PRJNA865384,PRJNA865384|19-008-0065,C1,True,Australia,2003
+SAMN30111415,PRJNA865384,PRJNA865384|19-008-0064,C1,True,Australia,2003
+SAMN30111414,PRJNA865384,PRJNA865384|19-008-0063,C1,True,Australia,2004
+SAMN30111413,PRJNA865384,PRJNA865384|19-008-0062,C1,True,Australia,2002
+SAMN30111412,PRJNA865384,PRJNA865384|19-008-0061,C1,True,Australia,2004
+SAMN30111411,PRJNA865384,PRJNA865384|19-008-0060,C1,True,Australia,2004
+SAMN30111410,PRJNA865384,PRJNA865384|19-008-0059,C1,True,Australia,2015
+SAMN30111409,PRJNA865384,PRJNA865384|19-008-0058,C1,True,Australia,2015
+SAMN30111408,PRJNA865384,PRJNA865384|19-008-0057,C1,True,Australia,2015
+SAMN30111407,PRJNA865384,PRJNA865384|19-008-0056,C1,True,Australia,2014
+SAMN30111406,PRJNA865384,PRJNA865384|19-008-0055,C1,True,Australia,2016
+SAMN30111405,PRJNA865384,PRJNA865384|19-008-0054,C1,True,Australia,2015
+SAMN30111404,PRJNA865384,PRJNA865384|19-008-0053,C1,True,Australia,2014
+SAMN30111403,PRJNA865384,PRJNA865384|19-008-0052,C1,True,Australia,2014
+SAMN30111402,PRJNA865384,PRJNA865384|19-008-0051,C1,True,Australia,2014
+SAMN30111401,PRJNA865384,PRJNA865384|19-008-0050,C1,True,Australia,2014
+SAMN30111400,PRJNA865384,PRJNA865384|19-008-0049,C1,True,Australia,2015
+SAMN30111399,PRJNA865384,PRJNA865384|19-008-0048,C1,True,Australia,2015
+SAMN30111398,PRJNA865384,PRJNA865384|19-008-0047,C1,True,Australia,2015
+SAMN30111397,PRJNA865384,PRJNA865384|19-008-0046,C1,True,Australia,2015
+SAMN30111396,PRJNA865384,PRJNA865384|19-008-0045,C1,True,Australia,2015
+SAMN30111395,PRJNA865384,PRJNA865384|19-008-0044,C1,True,Australia,2015
+SAMN30111394,PRJNA865384,PRJNA865384|19-008-0043,C1,True,Australia,2015
+SAMN30111393,PRJNA865384,PRJNA865384|19-008-0042,C1,True,Australia,2015
+SAMN30111392,PRJNA865384,PRJNA865384|19-008-0040,C1,True,Australia,2014
+SAMN30111391,PRJNA865384,PRJNA865384|19-008-0039,C1,True,Australia,2014
+SAMN30111390,PRJNA865384,PRJNA865384|19-008-0036,C1,True,Australia,2010
+SAMN30111389,PRJNA865384,PRJNA865384|19-008-0035,C1,True,Australia,2017
+SAMN30111388,PRJNA865384,PRJNA865384|19-008-0034,C1,True,Australia,2016
+SAMN30111387,PRJNA865384,PRJNA865384|19-008-0033,C1,True,Australia,2015
+SAMN30111386,PRJNA865384,PRJNA865384|19-008-0032,C1,True,Australia,2016
+SAMN30111385,PRJNA865384,PRJNA865384|19-008-0031,C1,True,Australia,2018
+SAMN30111384,PRJNA865384,PRJNA865384|19-008-0030,C1,True,Australia,2018
+SAMN30111383,PRJNA865384,PRJNA865384|19-008-0029,C1,True,Australia,2018
+SAMN30111382,PRJNA865384,PRJNA865384|19-008-0028,C1,True,Australia,2016
+SAMN30111381,PRJNA865384,PRJNA865384|19-008-0027,C1,True,Australia,2016
+SAMN30111380,PRJNA865384,PRJNA865384|19-008-0026,C1,True,Australia,2016
+SAMN30111379,PRJNA865384,PRJNA865384|19-008-0025,C1,True,Australia,2010
+SAMN30111378,PRJNA865384,PRJNA865384|19-008-0024,C1,True,Australia,2010
+SAMN30111377,PRJNA865384,PRJNA865384|19-008-0022,C1,True,Australia,2019
+SAMN30111376,PRJNA865384,PRJNA865384|19-008-0021,C1,True,Australia,2012
+SAMN30111375,PRJNA865384,PRJNA865384|19-008-0020,C1,True,Singapore,
+SAMN30111374,PRJNA865384,PRJNA865384|19-008-0019,C1,True,Singapore,
+SAMN30111373,PRJNA865384,PRJNA865384|19-008-0018,C1,True,Singapore,
+SAMN30111372,PRJNA865384,PRJNA865384|19-008-0017,C1,True,Singapore,
+SAMN30111371,PRJNA865384,PRJNA865384|19-008-0016,C1,True,Singapore,
+SAMN30111370,PRJNA865384,PRJNA865384|19-008-0015,C1,True,Singapore,
+SAMN30111369,PRJNA865384,PRJNA865384|19-008-0008,C1,True,Singapore,
+SAMN30111368,PRJNA865384,PRJNA865384|19-008-0007,C1,True,Singapore,
+SAMN30111367,PRJNA865384,PRJNA865384|19-008-0006,C1,True,Singapore,
+SAMN30111366,PRJNA865384,PRJNA865384|19-008-0005,C1,True,Singapore,
+SAMN15033202,PRJNA635394,PRJNA635394|samn15033202,excluded_laboratory,True,,
+SAMN15033201,PRJNA635394,PRJNA635394|samn15033201,excluded_laboratory,True,,
+SAMN15033200,PRJNA635394,PRJNA635394|samn15033200,excluded_laboratory,True,,
+SAMN15033199,PRJNA635394,PRJNA635394|samn15033199,excluded_laboratory,True,,
+SAMN31778221,PRJNA902913,PRJNA902913|z68,C3,False,China,2018
+SAMN28991344,PRJNA848263,PRJNA848263|t_21_7,C1,True,Singapore,2021
+SAMN28991343,PRJNA848263,PRJNA848263|t_21_6,C1,True,Singapore,2021
+SAMN28991342,PRJNA848263,PRJNA848263|t_21_5,C1,True,Singapore,2021
+SAMN28991341,PRJNA848263,PRJNA848263|t_21_4,C1,True,Singapore,2021
+SAMN28991340,PRJNA848263,PRJNA848263|t_21_3,C1,True,Singapore,2021
+SAMN28991339,PRJNA848263,PRJNA848263|t_21_2,C1,True,Singapore,2021
+SAMN28991338,PRJNA848263,PRJNA848263|t_21_1,C1,True,Singapore,2021
+SAMN28991337,PRJNA848263,PRJNA848263|t_20_9,C1,True,Singapore,2020
+SAMN28991336,PRJNA848263,PRJNA848263|t_20_8,C1,True,Singapore,2020
+SAMN28991335,PRJNA848263,PRJNA848263|t_20_7,C1,True,Singapore,2020
+SAMN28991334,PRJNA848263,PRJNA848263|t_20_6,C1,True,Singapore,2020
+SAMN28991333,PRJNA848263,PRJNA848263|t_20_5,C1,True,Singapore,2020
+SAMN28991332,PRJNA848263,PRJNA848263|t_20_4,C1,True,Singapore,2020
+SAMN28991331,PRJNA848263,PRJNA848263|t_20_3,C1,True,Singapore,2020
+SAMN28991330,PRJNA848263,PRJNA848263|t_20_2,C1,True,Singapore,2020
+SAMN28991329,PRJNA848263,PRJNA848263|t_20_12,C1,True,Singapore,2020
+SAMN28991328,PRJNA848263,PRJNA848263|t_20_11,C1,True,Singapore,2020
+SAMN28991327,PRJNA848263,PRJNA848263|t_20_10,C1,True,Singapore,2020
+SAMN28991326,PRJNA848263,PRJNA848263|t_20_1,C1,True,Singapore,2020
+SAMN28991325,PRJNA848263,PRJNA848263|t_19_9,C1,True,Singapore,2019
+SAMN28991324,PRJNA848263,PRJNA848263|t_19_8,C1,True,Singapore,2019
+SAMN28991323,PRJNA848263,PRJNA848263|t_19_7,C1,True,Singapore,2019
+SAMN28991322,PRJNA848263,PRJNA848263|t_19_6,C1,True,Singapore,2019
+SAMN28991321,PRJNA848263,PRJNA848263|t_19_5,C1,True,Singapore,2019
+SAMN28991320,PRJNA848263,PRJNA848263|t_19_4,C1,True,Singapore,2019
+SAMN28991319,PRJNA848263,PRJNA848263|t_19_3,C1,True,Singapore,2019
+SAMN28991318,PRJNA848263,PRJNA848263|t_19_2,C1,True,Singapore,2019
+SAMN28991317,PRJNA848263,PRJNA848263|t_19_17,C1,True,Singapore,2019
+SAMN28991316,PRJNA848263,PRJNA848263|t_19_16,C1,True,Singapore,2019
+SAMN28991315,PRJNA848263,PRJNA848263|t_19_15,C1,True,Singapore,2019
+SAMN28991314,PRJNA848263,PRJNA848263|t_19_14,C1,True,Singapore,2019
+SAMN28991313,PRJNA848263,PRJNA848263|t_19_13,C1,True,Singapore,2019
+SAMN28991312,PRJNA848263,PRJNA848263|t_19_12,C1,True,Singapore,2019
+SAMN28991311,PRJNA848263,PRJNA848263|t_19_11,C1,True,Singapore,2019
+SAMN28991310,PRJNA848263,PRJNA848263|t_19_10,C1,True,Singapore,2019
+SAMN28991309,PRJNA848263,PRJNA848263|t_19_1,C1,True,Singapore,2019
+SAMN28991308,PRJNA848263,PRJNA848263|t_18_9,C1,True,Singapore,2018
+SAMN28991307,PRJNA848263,PRJNA848263|t_18_8,C1,True,Singapore,2018
+SAMN28991306,PRJNA848263,PRJNA848263|t_18_7,C1,True,Singapore,2018
+SAMN28991305,PRJNA848263,PRJNA848263|t_18_6,C1,True,Singapore,2018
+SAMN28991304,PRJNA848263,PRJNA848263|t_18_5,C1,True,Singapore,2018
+SAMN28991303,PRJNA848263,PRJNA848263|t_18_4,C1,True,Singapore,2018
+SAMN28991302,PRJNA848263,PRJNA848263|t_18_3,C1,True,Singapore,2018
+SAMN28991301,PRJNA848263,PRJNA848263|t_18_2,C1,True,Singapore,2018
+SAMN28991300,PRJNA848263,PRJNA848263|t_18_17,C1,True,Singapore,2018
+SAMN28991299,PRJNA848263,PRJNA848263|t_18_16,C1,True,Singapore,2018
+SAMN28991298,PRJNA848263,PRJNA848263|t_18_15,C1,True,Singapore,2018
+SAMN28991297,PRJNA848263,PRJNA848263|t_18_14,C1,True,Singapore,2018
+SAMN28991296,PRJNA848263,PRJNA848263|t_18_13,C1,True,Singapore,2018
+SAMN28991295,PRJNA848263,PRJNA848263|t_18_12,C1,True,Singapore,2018
+SAMN28991294,PRJNA848263,PRJNA848263|t_18_11,C1,True,Singapore,2018
+SAMN28991293,PRJNA848263,PRJNA848263|t_18_10,C1,True,Singapore,2018
+SAMN28991292,PRJNA848263,PRJNA848263|t_18_1,C1,True,Singapore,2018
+SAMN20341472,PRJNA736342,PRJNA736342|nrrl y-12968,excluded_laboratory,True,USA,2016
+SAMN29417535,PRJNA854064,PRJNA854064|microbe,C1,True,China,2021
+SAMN29417527,PRJNA854064,PRJNA854064|microbe,C1,True,China,2021
+SAMN29417524,PRJNA854064,PRJNA854064|microbe,C1,True,China,2021
+SAMN29417502,PRJNA854064,PRJNA854064|microbe,C1,True,China,2021
+SAMN29417495,PRJNA854064,PRJNA854064|microbe,C1,True,China,2021
+SAMN29417486,PRJNA854064,PRJNA854064|microbe,C1,True,China,2021
+SAMN29417485,PRJNA854064,PRJNA854064|microbe,C1,True,China,2021
+SAMN29417481,PRJNA854064,PRJNA854064|microbe,C1,True,China,2021
+SAMN29417475,PRJNA854064,PRJNA854064|microbe,C1,True,China,2021
+SAMN28157788,PRJNA836349,PRJNA836349|jy101,excluded_laboratory,True,India,2016
+SAMN28173959,PRJNA836795,PRJNA836795|cbw-2,C6,False,China,2020
+SAMN27963559,PRJNA833221,PRJNA833221|m3302a,C1,False,China,2019
+SAMN27963558,PRJNA833221,PRJNA833221|f1002b,C1,False,China,2019
+SAMN27963557,PRJNA833221,PRJNA833221|pf3311,C1,False,China,2019
+SAMN27963556,PRJNA833221,PRJNA833221|y3313,C1,False,China,2019
+SAMN27963555,PRJNA833221,PRJNA833221|y1033a,C1,False,China,2019
+SAMN27963554,PRJNA833221,PRJNA833221|pl3312,C1,False,China,2019
+SAMN27571773,PRJNA826536,PRJNA826536|tobacco leaf,excluded_laboratory,True,China,2020
+SAMN27571772,PRJNA826536,PRJNA826536|tobacco leaf,excluded_laboratory,True,China,2020
+SAMN26866042,PRJNA818506,PRJNA818506|zd-3,C3,False,,2006
+SAMN24813447,PRJNA796126,PRJNA796126|candida tropicalis gy8,excluded_laboratory,True,China,2018
+SAMN24813446,PRJNA796126,PRJNA796126|candida tropicalis gy8,excluded_laboratory,True,China,2018
+SAMN24813445,PRJNA796126,PRJNA796126|candida tropicalis gy8,excluded_laboratory,True,China,2018
+SAMN24813444,PRJNA796126,PRJNA796126|candida tropicalis gy8,excluded_laboratory,True,China,2018
+SAMN24813443,PRJNA796126,PRJNA796126|candida tropicalis gy8,excluded_laboratory,True,China,2018
+SAMN24813442,PRJNA796126,PRJNA796126|candida tropicalis gy8,excluded_laboratory,True,China,2018
+SAMN24867159,PRJNA796491,PRJNA796491|pny,C6,False,China,2013
+SAMN20856455,PRJNA754257,PRJNA754257|u1360,C1,True,India,2018
+SAMN20856454,PRJNA754257,PRJNA754257|u1179,C1,True,India,2018
+SAMN20856453,PRJNA754257,PRJNA754257|u873,C1,True,India,2018
+SAMN20856452,PRJNA754257,PRJNA754257|c4,C1,True,India,2018
+SAMEA9114839,EBI,EBI|clinical isolate #12584,not_allocated,True,,
+SAMEA9114838,EBI,EBI|clinical isolate #12584,excluded_laboratory,True,,
+SAMEA9114837,EBI,EBI|clinical isolate #12584,excluded_laboratory,True,,
+SAMEA9114836,EBI,EBI|clinical isolate #12584,excluded_laboratory,True,,
+SAMEA9114835,EBI,EBI|clinical isolate #12584,excluded_laboratory,True,,
+SAMEA9114834,EBI,EBI|clinical isolate #12584,excluded_laboratory,True,,
+SAMEA9114833,EBI,EBI|clinical isolate #12584,excluded_laboratory,True,,
+SAMEA9114832,EBI,EBI|clinical isolate #12584,excluded_laboratory,True,,
+SAMEA9114831,EBI,EBI|clinical isolate #12584,excluded_laboratory,True,,
+SAMN19111484,PRJNA729165,PRJNA729165|shc-03,not_allocated,True,China,2016
+SAMN19111290,PRJNA729165,PRJNA729165|shc-03,not_allocated,False,China,2016
+SAMN19111289,PRJNA729165,PRJNA729165|shc-03,not_allocated,False,China,2016
+SAMN16710340,PRJNA675636,PRJNA675636|samn16710340,excluded_laboratory,True,,
+SAMN16710339,PRJNA675636,PRJNA675636|samn16710339,excluded_laboratory,True,,
+SAMN16710338,PRJNA675636,PRJNA675636|samn16710338,excluded_laboratory,True,,
+SAMN16710337,PRJNA675636,PRJNA675636|samn16710337,excluded_laboratory,True,,
+SAMN16710157,PRJNA675631,PRJNA675631|samn16710157,excluded_laboratory,True,,
+SAMN16710156,PRJNA675631,PRJNA675631|samn16710156,excluded_laboratory,True,,
+SAMN16710129,PRJNA675631,PRJNA675631|samn16710129,excluded_laboratory,True,,
+SAMN16710127,PRJNA675631,PRJNA675631|samn16710127,excluded_laboratory,True,,
+SAMN16710122,PRJNA675631,PRJNA675631|samn16710122,excluded_laboratory,True,,
+SAMN16710120,PRJNA675631,PRJNA675631|samn16710120,excluded_laboratory,True,,
+SAMN16710116,PRJNA675631,PRJNA675631|samn16710116,excluded_laboratory,True,,
+SAMN16710108,PRJNA675631,PRJNA675631|samn16710108,excluded_laboratory,True,,
+SAMN16710103,PRJNA675631,PRJNA675631|samn16710103,excluded_laboratory,True,,
+SAMN16710102,PRJNA675631,PRJNA675631|samn16710102,excluded_laboratory,True,,
+SAMN16710101,PRJNA675631,PRJNA675631|samn16710101,excluded_laboratory,True,,
+SAMN16710100,PRJNA675631,PRJNA675631|samn16710100,excluded_laboratory,True,,
+SAMN13389495,PRJNA591802,PRJNA591802|shc-03,excluded_laboratory,True,China,2016
+SAMN13389494,PRJNA591802,PRJNA591802|shc-03,excluded_laboratory,True,China,2016
+SAMN13389493,PRJNA591802,PRJNA591802|shc-03,excluded_laboratory,True,China,2016
+SAMN13389492,PRJNA591802,PRJNA591802|shc-03,excluded_laboratory,True,China,2016
+SAMN13389491,PRJNA591802,PRJNA591802|shc-03,excluded_laboratory,True,China,2016
+SAMN13389490,PRJNA591802,PRJNA591802|shc-03,excluded_laboratory,True,China,2016
+SAMN13389489,PRJNA591802,PRJNA591802|shc-03,excluded_laboratory,True,China,2016
+SAMN13389488,PRJNA591802,PRJNA591802|shc-03,excluded_laboratory,True,China,2016
+SAMN13389487,PRJNA591802,PRJNA591802|shc-03,excluded_laboratory,True,China,2016
+SAMN13389486,PRJNA591802,PRJNA591802|shc-03,excluded_laboratory,True,China,2016
+SAMN13389485,PRJNA591802,PRJNA591802|shc-03,excluded_laboratory,True,China,2016
+SAMN13389484,PRJNA591802,PRJNA591802|shc-03,excluded_laboratory,True,China,2016
+SAMN13017397,PRJNA577038,PRJNA577038|human+dsm4959,excluded_laboratory,True,Germany,2018
+SAMN13017396,PRJNA577038,PRJNA577038|human+dsm4959,excluded_laboratory,True,Germany,2018
+SAMN13017395,PRJNA577038,PRJNA577038|human+dsm4959,excluded_laboratory,True,Germany,2018
+SAMN13017394,PRJNA577038,PRJNA577038|dsm 4959,not_allocated,True,Germany,2017
+SAMN13017393,PRJNA577038,PRJNA577038|dsm 4959,not_allocated,True,Germany,2017
+SAMN13017392,PRJNA577038,PRJNA577038|human+dsm4959,excluded_laboratory,True,Germany,2017
+SAMN13017391,PRJNA577038,PRJNA577038|human+dsm4959,excluded_laboratory,True,Germany,2017
+SAMN13017390,PRJNA577038,PRJNA577038|human+dsm4959,excluded_laboratory,True,Germany,2017
+SAMN13017389,PRJNA577038,PRJNA577038|human+dsm4959,excluded_laboratory,True,Germany,2017
+SAMN13017388,PRJNA577038,PRJNA577038|human+dsm4959,excluded_laboratory,True,Germany,2017
+SAMN13017387,PRJNA577038,PRJNA577038|human+dsm4959,excluded_laboratory,True,Germany,2017
+SAMN13017386,PRJNA577038,PRJNA577038|human+dsm4959,excluded_laboratory,True,Germany,2017
+SAMN13017385,PRJNA577038,PRJNA577038|human+dsm4959,excluded_laboratory,True,Germany,2017
+SAMN13017384,PRJNA577038,PRJNA577038|human+dsm4959,excluded_laboratory,True,Germany,2017
+SAMN13017383,PRJNA577038,PRJNA577038|human+dsm4959,excluded_laboratory,True,Germany,2017
+SAMN13017382,PRJNA577038,PRJNA577038|human+dsm4959,excluded_laboratory,True,Germany,2017
+SAMN13017381,PRJNA577038,PRJNA577038|human+dsm4959,excluded_laboratory,True,Germany,2017
+SAMN13017380,PRJNA577038,PRJNA577038|dsm 4959,not_allocated,True,Germany,2017
+SAMN13017379,PRJNA577038,PRJNA577038|dsm 4959,not_allocated,True,Germany,2017
+SAMN13017378,PRJNA577038,PRJNA577038|dsm 4959,not_allocated,True,Germany,2017
+SAMN13017377,PRJNA577038,PRJNA577038|dsm 4959,not_allocated,True,Germany,2017
+SAMN09426209,PRJNA476120,PRJNA476120|samn09426209,excluded_laboratory,True,Brazil,2017
+SAMN09426208,PRJNA476120,PRJNA476120|samn09426208,excluded_laboratory,True,Brazil,2017
+SAMN09426207,PRJNA476120,PRJNA476120|samn09426207,excluded_laboratory,True,Brazil,2017
+SAMN09426206,PRJNA476120,PRJNA476120|samn09426206,excluded_laboratory,True,Brazil,2017
+SAMN08225153,University of Aberystwyth,University of Aberystwyth|y6604,C2,False,United Kingdom,2009
+SAMN03003723,PRJNA259321,PRJNA259321|ps2,not_allocated,False,India,2005
+SAMN07160466,Rehman Medical Institute,Rehman Medical Institute|mya-3404,excluded_laboratory,False,Pakistan,2016
+SAMN16435814,PRJNA604451,PRJNA604451|ucd497,C5,True,Ireland,2019
+SAMN16435813,PRJNA604451,PRJNA604451|ucd495,C5,True,Ireland,2019
+SAMN16435812,PRJNA604451,PRJNA604451|ucd422,C5,True,Ireland,2019
+SAMN16435811,PRJNA604451,PRJNA604451|ucd146,C5,True,Ireland,2017
+SAMN16435810,PRJNA604451,PRJNA604451|cas10-2044,C1,True,USA,2016
+SAMN16435809,PRJNA604451,PRJNA604451|cas10-2014,C1,True,USA,2016
+SAMN16435808,PRJNA604451,PRJNA604451|cas10-1991,C1,True,USA,2016
+SAMN16435807,PRJNA604451,PRJNA604451|cas10-1899,C1,True,USA,2016
+SAMN16435806,PRJNA604451,PRJNA604451|cas10-1897,C1,True,USA,2016
+SAMN16435805,PRJNA604451,PRJNA604451|cas10-1879,C1,True,USA,2016
+SAMN16435804,PRJNA604451,PRJNA604451|cas10-1859,C1,True,USA,2016
+SAMN16435803,PRJNA604451,PRJNA604451|cas10-1853,C1,True,USA,2016
+SAMN16435802,PRJNA604451,PRJNA604451|cas10-1835,C1,True,USA,2016
+SAMN16435801,PRJNA604451,PRJNA604451|cas10-1821,C1,True,USA,2016
+SAMN16435800,PRJNA604451,PRJNA604451|cas09-1073,C1,True,USA,2016
+SAMN16435799,PRJNA604451,PRJNA604451|cas09-1057,C1,True,USA,2016
+SAMN16435798,PRJNA604451,PRJNA604451|cas09-1012,C1,True,USA,2016
+SAMN16435797,PRJNA604451,PRJNA604451|cas09-1009,C1,True,USA,2016
+SAMN16435796,PRJNA604451,PRJNA604451|cas09-1008,C1,True,USA,2016
+SAMN16435795,PRJNA604451,PRJNA604451|cas09-0967,C1,True,USA,2016
+SAMN16435794,PRJNA604451,PRJNA604451|cas09-0858,C1,True,USA,2016
+SAMN16435793,PRJNA604451,PRJNA604451|cas09-0851,C1,True,USA,2016
+SAMN16435792,PRJNA604451,PRJNA604451|cas09-0848,C1,True,USA,2016
+SAMN16435791,PRJNA604451,PRJNA604451|cas09-0757,C1,True,USA,2016
+SAMN16435790,PRJNA604451,PRJNA604451|cas08-0239,C1,True,USA,2016
+SAMN16435789,PRJNA604451,PRJNA604451|cas08-0201,C1,True,USA,2016
+SAMN16435788,PRJNA604451,PRJNA604451|cas08-0200,C1,True,USA,2016
+SAMN16435787,PRJNA604451,PRJNA604451|cas08-0196,C1,True,USA,2016
+SAMN16435786,PRJNA604451,PRJNA604451|cas08-0195,C1,True,USA,2016
+SAMN16435785,PRJNA604451,PRJNA604451|cas08-0106,C1,True,USA,2016
+SAMN16435784,PRJNA604451,PRJNA604451|cas08-0102,C1,True,USA,2016
+SAMN16435783,PRJNA604451,PRJNA604451|cas08-0098,C1,True,USA,2016
+SAMN16435782,PRJNA604451,PRJNA604451|cas08-0093,C1,True,USA,2016
+SAMN16435781,PRJNA604451,PRJNA604451|cas08-0047,C1,True,USA,2016
+SAMN16435780,PRJNA604451,PRJNA604451|dsm4959 (c8),C1,True,Germany,2016
+SAMN16435779,PRJNA604451,PRJNA604451|yhmh 296,C5,True,USA,2016
+SAMN16435778,PRJNA604451,PRJNA604451|yhmh 255,C5,True,USA,2016
+SAMN16435777,PRJNA604451,PRJNA604451|yhmh 263,C5,True,USA,2016
+SAMN16435776,PRJNA604451,PRJNA604451|yhmh 262,C5,True,USA,2016
+SAMN16435775,PRJNA604451,PRJNA604451|yhmh 254,C5,True,USA,2016
+SAMN16435774,PRJNA604451,PRJNA604451|yhmh 234,C5,True,USA,2016
+SAMN16435773,PRJNA604451,PRJNA604451|yhkb 116,C5,True,USA,2016
+SAMN16435772,PRJNA604451,PRJNA604451|cl9760,C1,True,Spain,2016
+SAMN16435771,PRJNA604451,PRJNA604451|cl9727,C1,True,Spain,2016
+SAMN16435770,PRJNA604451,PRJNA604451|cl9858,C1,True,Spain,2016
+SAMN16435769,PRJNA604451,PRJNA604451|cl9763,C1,True,Spain,2016
+SAMN16435768,PRJNA604451,PRJNA604451|cl9649,C1,True,Spain,2016
+SAMN16435767,PRJNA604451,PRJNA604451|cl9624,C1,True,Spain,2016
+SAMN16435766,PRJNA604451,PRJNA604451|cl9863,C1,True,Spain,2016
+SAMN16435765,PRJNA604451,PRJNA604451|cl9714,C1,True,Spain,2016
+SAMN16435764,PRJNA604451,PRJNA604451|cl9768,C1,True,Spain,2016
+SAMN16435763,PRJNA604451,PRJNA604451|cl9658,C1,True,Spain,2016
+SAMN16435762,PRJNA604451,PRJNA604451|cl9609,C1,True,Spain,2016
+SAMN16435761,PRJNA604451,PRJNA604451|cl9620,C1,True,Spain,2016
+SAMN16435760,PRJNA604451,PRJNA604451|8809,C1,True,Spain,2016
+SAMN16435759,PRJNA604451,PRJNA604451|8638,C1,True,Spain,2016
+SAMN16435758,PRJNA604451,PRJNA604451|8550,C1,True,Spain,2016
+SAMN16435757,PRJNA604451,PRJNA604451|8590,C1,True,Spain,2016
+SAMN16435756,PRJNA604451,PRJNA604451|1257,C1,True,Spain,2016
+SAMN16435755,PRJNA604451,PRJNA604451|8759,C1,True,Spain,2016
+SAMN16435754,PRJNA604451,PRJNA604451|8193,C1,True,Spain,2016
+SAMN16435753,PRJNA604451,PRJNA604451|8311,C1,True,Spain,2016
+SAMN16435752,PRJNA604451,PRJNA604451|8517,C1,True,Spain,2016
+SAMN16435751,PRJNA604451,PRJNA604451|cay3763,C1,True,Colombia,2016
+SAMN16435750,PRJNA604451,PRJNA604451|cay3764,C1,True,Colombia,2016
+SAMN16435749,PRJNA604451,PRJNA604451|cay3741,C1,True,Netherlands,2016
+SAMN16435748,PRJNA604451,PRJNA604451|cay2597,C1,True,Colombia,2016
+SAMN16435747,PRJNA604451,PRJNA604451|2015#18,C3,True,India,2016
+SAMN16435746,PRJNA604451,PRJNA604451|sjh2016 ct09,C1,True,Ireland,2016
+SAMN16435745,PRJNA604451,PRJNA604451|sjh2015 ct08,C1,True,Ireland,2016
+SAMN16435744,PRJNA604451,PRJNA604451|sjh2015 ct07,C1,True,Ireland,2016
+SAMN16435743,PRJNA604451,PRJNA604451|sjh2015 ct06,C1,True,Ireland,2016
+SAMN16435742,PRJNA604451,PRJNA604451|sjh2015 ct05,C1,True,Ireland,2016
+SAMN16435741,PRJNA604451,PRJNA604451|sjh2015 ct04,C1,True,Ireland,2016
+SAMN16435740,PRJNA604451,PRJNA604451|sjh2014 ct03,C1,True,Ireland,2016
+SAMN16435739,PRJNA604451,PRJNA604451|sjh2014 ct02,C1,True,Ireland,2016
+SAMN16435738,PRJNA604451,PRJNA604451|sjh2014 ct01,C1,True,Ireland,2016
+SAMN16773550,PRJNA677457,PRJNA677457|yhkb469,excluded_laboratory,True,,
+SAMN16773549,PRJNA677456,PRJNA677456|yhkb300,excluded_laboratory,True,,
+SAMN16772936,PRJNA677459,PRJNA677459|yhmh234,excluded_laboratory,True,,
+SAMN16772935,PRJNA677458,PRJNA677458|yhkb84,excluded_laboratory,True,,
+SAMN14290052,PRJNA610214,PRJNA610214|sp4501,C1,True,Canada,2018
+SAMN14290051,PRJNA610214,PRJNA610214|sp4433,C1,True,Canada,2018
+SAMN14290050,PRJNA610214,PRJNA610214|sp4785,C1,True,Canada,2018
+SAMN14290049,PRJNA610214,PRJNA610214|sp4694,C1,True,Canada,2018
+SAMN13164882,PRJNA580634,PRJNA580634|e0,excluded_laboratory,True,,
+SAMN13164866,PRJNA580639,PRJNA580639|es5,excluded_laboratory,True,,
+SAMN13164865,PRJNA580638,PRJNA580638|e5,excluded_laboratory,True,,
+SAMN13164858,PRJNA580636,PRJNA580636|e2,excluded_laboratory,True,,
+SAMN13164829,PRJNA580635,PRJNA580635|e1,excluded_laboratory,True,,
+SAMN13164828,PRJNA580637,PRJNA580637|e3,excluded_laboratory,True,,
+SAMN13173496,PRJNA583364,PRJNA583364|e4,excluded_laboratory,True,,
+SAMN13172775,PRJNA583366,PRJNA583366|es5,excluded_laboratory,True,,
+SAMN13172604,PRJNA583365,PRJNA583365|e5,excluded_laboratory,True,,
+SAMN13172322,PRJNA583362,PRJNA583362|e1,excluded_laboratory,True,,
+SAMN13172247,PRJNA583363,PRJNA583363|e2,excluded_laboratory,True,,
+SAMN13172603,PRJNA583361,PRJNA583361|e0,excluded_laboratory,True,,
+SAMN12110378,NCBI,NCBI|samn12110378,not_allocated,True,,
+SAMN12280584,PRJNA554699,PRJNA554699|ely184,excluded_laboratory,True,,
+SAMN12280583,PRJNA554699,PRJNA554699|ely184,excluded_laboratory,True,,
+SAMN12280582,PRJNA554699,PRJNA554699|ely184,excluded_laboratory,True,,
+SAMN12280581,PRJNA554699,PRJNA554699|ely184,excluded_laboratory,True,,
+SAMN12280576,PRJNA554699,PRJNA554699|ely5,excluded_laboratory,True,,
+SAMN12280575,PRJNA554699,PRJNA554699|ely5,excluded_laboratory,True,,
+SAMN12280574,PRJNA554699,PRJNA554699|ely5,excluded_laboratory,True,,
+SAMN12280573,PRJNA554699,PRJNA554699|ely5,excluded_laboratory,True,,
+SAMN09091434,PRJNA467610,PRJNA467610|samn09091434,not_allocated,True,,
+SAMN09091433,PRJNA467610,PRJNA467610|samn09091433,not_allocated,True,,
+SAMN09091432,PRJNA467610,PRJNA467610|samn09091432,not_allocated,True,,
+SAMN09091431,PRJNA467610,PRJNA467610|samn09091431,not_allocated,True,,
+SAMN09091430,PRJNA467610,PRJNA467610|samn09091430,not_allocated,True,,
+SAMN09091429,PRJNA467610,PRJNA467610|samn09091429,not_allocated,True,,
+SAMN09091428,PRJNA467610,PRJNA467610|samn09091428,not_allocated,True,,
+SAMN09091427,PRJNA467610,PRJNA467610|samn09091427,not_allocated,True,,
+SAMN09091426,PRJNA467610,PRJNA467610|samn09091426,not_allocated,True,,
+SAMN09091425,PRJNA467610,PRJNA467610|samn09091425,not_allocated,True,,
+SAMN09091424,PRJNA467610,PRJNA467610|samn09091424,not_allocated,True,,
+SAMN09091423,PRJNA467610,PRJNA467610|samn09091423,not_allocated,True,,
+SAMN09091422,PRJNA467610,PRJNA467610|samn09091422,not_allocated,True,,
+SAMN09091421,PRJNA467610,PRJNA467610|samn09091421,not_allocated,True,,
+SAMN09091420,PRJNA467610,PRJNA467610|samn09091420,not_allocated,True,,
+SAMN09091419,PRJNA467610,PRJNA467610|samn09091419,not_allocated,True,,
+SAMN09091418,PRJNA467610,PRJNA467610|samn09091418,not_allocated,True,,
+SAMN09091417,PRJNA467610,PRJNA467610|samn09091417,not_allocated,True,,
+SAMN10791103,PRJNA516547,PRJNA516547|mya-3404,C5,True,Pakistan,2014
+SAMN10782657,PRJNA516110,PRJNA516110|mya-3404,C5,False,Pakistan,2014
+SAMN07421864,PRJNA396167,PRJNA396167|samn07421864,excluded_laboratory,True,,
+SAMN07421863,PRJNA396167,PRJNA396167|samn07421863,excluded_laboratory,True,,
+SAMN07421862,PRJNA396167,PRJNA396167|samn07421862,excluded_laboratory,True,,
+SAMN07421861,PRJNA396167,PRJNA396167|samn07421861,excluded_laboratory,True,,
+SAMN07421860,PRJNA396167,PRJNA396167|samn07421860,excluded_laboratory,True,,
+SAMN07421859,PRJNA396167,PRJNA396167|samn07421859,excluded_laboratory,True,,
+SAMN02595066,PRJNA236151,PRJNA236151|samn02595066,not_allocated,True,,
+SAMN05728716,Jiangsu University,Jiangsu University|no.1254,excluded_laboratory,True,China,2016
+SAMN05728715,Jiangsu University,Jiangsu University|no.1254,excluded_laboratory,True,China,2016
+SAMN05728714,Jiangsu University,Jiangsu University|no.1254,excluded_laboratory,True,China,2016
+SAMN05728713,Jiangsu University,Jiangsu University|no.1254,excluded_laboratory,True,China,2016
+SAMN05728712,Jiangsu University,Jiangsu University|no.1254,excluded_laboratory,True,China,2016
+SAMN05004672,PRJNA321836,PRJNA321836|jx1012,excluded_laboratory,True,,
+SAMN05004671,PRJNA321836,PRJNA321836|jx1012,not_allocated,True,,
+SAMN05004670,PRJNA321836,PRJNA321836|jx1012,not_allocated,True,,
+SAMN05712371,PRJNA340314,PRJNA340314|no.1254,not_allocated,True,China,2016
+SAMN05728711,Jiangsu University,Jiangsu University|no.1254,excluded_laboratory,True,China,2016
+SAMN05728426,PRJNA340314,PRJNA340314|no.1254,not_allocated,False,China,2016
+SAMN04102707,PRJNA296710,PRJNA296710|samn04102707,excluded_laboratory,True,,
+SAMN04102706,PRJNA296710,PRJNA296710|samn04102706,excluded_laboratory,True,,
+SAMN04866664,KRIBB,KRIBB|h5343,not_allocated,False,,1986
+SAMN01057388,Biochemical laboratory,Biochemical laboratory|cbs 94,excluded_laboratory,False,,
+SAMN01057387,Biochemical laboratory,Biochemical laboratory|cbs 94,excluded_laboratory,False,,
+SAMN00178059,Genoscope - Centre National de Sequencage,Genoscope - Centre National de Sequencage|cbs 94,not_allocated,False,,
+SAMN00178058,Genoscope - Centre National de Sequencage,Genoscope - Centre National de Sequencage|cbs 94,not_allocated,False,,
+SAMN02650963,PRJNA238598,PRJNA238598|121,not_allocated,False,China,2009
+SAMN02953608,PRJNA13675,PRJNA13675|mya-3404,excluded_laboratory,False,,
+SAMN02140346,194439,194439|my1012,excluded_laboratory,True,,
+SAMN01922344,PRJNA184888,PRJNA184888|adl-339,not_allocated,True,,
+SAMN01906735,M S University of Baroda,M S University of Baroda|ps-2,not_allocated,False,,
+SAMN01906733,M S University of Baroda,M S University of Baroda|a-13,not_allocated,False,,
+SAMN44115007,PRJNA1170939,PRJNA1170939|lg86_bin1,C1,True,USA,2021
+SAMN44115006,PRJNA1170939,PRJNA1170939|lg52_bin4,C1,True,USA,2021

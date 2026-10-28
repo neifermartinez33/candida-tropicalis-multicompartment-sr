@@ -1,0 +1,5 @@
+20260928T233749Z  cli=2.1.284 (Claude Code)  model=claude-sonnet-5  batch=40  pending=77603   (test, MAX_BATCHES=2)
+20260928T234524Z  cli=2.1.284 (Claude Code)  model=claude-sonnet-5  batch=40  pending=77523   (stopped by hand after 2 batches)
+20260928T235100Z  cli=2.1.284 (Claude Code)  model=claude-sonnet-5  batch=40  pending=77443
+20260929T190533Z  cli=2.1.284 (Claude Code)  model=claude-sonnet-5  batch=40  pending=36191
+20260930T114538Z  cli=2.1.284 (Claude Code)  model=claude-sonnet-5  batch=40  pending=33

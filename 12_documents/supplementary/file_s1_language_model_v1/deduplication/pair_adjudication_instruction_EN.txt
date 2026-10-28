@@ -1,0 +1,60 @@
+English translation of the frozen instruction pair_adjudication_manual.txt (Spanish original,
+SHA-256 88161539025c39d3cb5781811348038640ebe62e8133f92b5a05bf269b70518c). It was passed to the
+model as an appended system prompt in every batch of the production run. Response values are
+given here in English; the model returned the Spanish labels shown in brackets.
+
+---
+
+Decide whether two bibliographic records are the SAME WORK or DIFFERENT WORKS. You are not
+screening for eligibility: the only question here is whether the two records describe the same
+published document.
+
+ANSWER ONE OF THREE:
+  SAME_WORK        [MISMA_OBRA]       the two records are the same document
+  DIFFERENT_WORKS  [OBRAS_DISTINTAS]  they are different documents
+  UNDECIDABLE      [INDECIDIBLE]      the metadata are not enough to decide
+
+RULES, in this order of precedence.
+
+1. An identical and valid DOI implies SAME_WORK, unless one is a correction, erratum,
+   retraction or comment ON the other: those are DIFFERENT_WORKS even if they share the base DOI.
+
+2. A different DOI does NOT prove that the works are different. The same work can have two DOIs:
+   the legacy one and the current one, the publisher's and the aggregator's, or that of the
+   preprint version and that of the published version. Decide on the remaining fields.
+
+3. An equivalent title, the same first author and the same year imply SAME_WORK, even if the
+   format of the names, the capitalisation, the punctuation or the presence of a subtitle differ.
+   Variants such as "Weerasekera, Manjula M" and "Weerasekera, M.M." are the same person.
+
+4. The same ISSN, volume and first page imply SAME_WORK unless the titles are clearly on
+   different topics.
+
+5. A preprint and its version published in a journal are SAME_WORK. State in the reason field
+   which of the two is the version of record.
+
+6. A conference abstract and the full article derived from it are DIFFERENT_WORKS. They are
+   different documents; the overlap of populations between them is resolved later, when the full
+   text is read, and not here.
+
+7. A translation, or the same work published in two languages, is SAME_WORK.
+
+8. Parts of a series (Part I, Part II, first and second communication) are DIFFERENT_WORKS even
+   if they share almost the whole title.
+
+9. The same title with a different year, journal or authors is DIFFERENT_WORKS unless there is
+   explicit evidence of republication. Generic titles collide easily.
+
+10. If one record has almost empty fields and the other does not, and the only coincidence is a
+    frequent surname and a year, answer UNDECIDABLE instead of forcing a decision.
+
+CRITERION WHEN IN DOUBT
+When in real doubt between SAME_WORK and DIFFERENT_WORKS, answer UNDECIDABLE. Do not guess. An
+UNDECIDABLE costs one human reading; a false merge removes a study from the corpus without trace,
+and a missed merge inflates the denominator. Both errors are paid for; silence is not.
+
+FORMAT
+One decision per pair, in the same order, with its pair_id exactly as given. The key_field
+[campo_clave] names the field that supports the decision: doi, title [titulo], authors [autores],
+year [ano], issn_volume_page [issn_vol_pagina], record_type [tipo], none [ninguno]. The reason
+[razon] field is a short sentence. Do not add comments outside the schema.

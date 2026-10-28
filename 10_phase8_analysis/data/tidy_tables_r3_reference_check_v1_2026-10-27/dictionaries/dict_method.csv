@@ -1,0 +1,9 @@
+method_raw,n_rows,method_cat
+broth microdilution (custom Trek plates),15,broth_microdilution_CLSI_or_unspecified
+E-test,6,gradient_diffusion
+broth microdilution,6,broth_microdilution_CLSI_or_unspecified
+broth microdilution (DP-Eiken),6,commercial_other
+Vitek 2,4,commercial_automated_VITEK2
+broth microdilution (48 h reading),3,broth_microdilution_CLSI_or_unspecified
+Sensititre YeastOne,1,commercial_microdilution_SYO
+"broth microdilution (24 h reading, 50%)",1,broth_microdilution_CLSI_or_unspecified

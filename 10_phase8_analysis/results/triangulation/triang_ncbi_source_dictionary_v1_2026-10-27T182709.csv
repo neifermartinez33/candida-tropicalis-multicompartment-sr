@@ -1,0 +1,323 @@
+isolation_source,host,environment,sample_type,title_if_no_source,compartment,rule,biosamples
+,Homo sapiens,,whole organism,,C1,human host,16
+wound secretion,Homo sapiens,,,,C1,human host,1
+urine,Homo sapiens,,,,C1,human host,124
+bronchial lavage,Homo sapiens,,,,C1,human host,1
+blood,Homo sapiens,,,,C1,human host,190
+tracheal aspirate,Homo sapiens,,,,C1,human host,13
+,Homo sapiens,Laboratory environment,,,C1,human host,1
+duodenum; brain-dead organ donor,Homo sapiens,human gastrointestinal tract,,,C1,human host,2
+,Homo sapiens,,,,C1,human host,99
+,,,,Yeast,not_allocated,no usable source field,2
+Human lung,Homo sapiens,,Whole organism,,C1,human host,4
+,,,,#12584,not_allocated,no usable source field,1
+,,,,Ct_untagged_rpmi-1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_untagged_rpmi-2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_untagged_spglu-1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_untagged_spglu-2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_untagged_hom-2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_untagged_hom-1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,Homo sapiens,,Fungal culture,,C1,human host,1
+,Homo sapiens,,culture,,C1,human host,1
+,,,,Sample from Candida tropicalis RNA_Ct3-2,not_allocated,no usable source field,1
+,,,,Sample from Candida tropicalis RNA_Ct3-1,not_allocated,no usable source field,1
+,,,,Sample from Candida tropicalis RNA_Ct2-2,not_allocated,no usable source field,1
+,,,,Sample from Candida tropicalis RNA_Ct2-1,not_allocated,no usable source field,1
+,,,,Sample from Candida tropicalis RNA_Ct1-2,not_allocated,no usable source field,1
+,,,,Sample from Candida tropicalis RNA_Ct1-1,not_allocated,no usable source field,1
+hospitalized patient,Homo sapiens,,,,C1,human host,14
+oral infection,Homo sapiens,,,,C1,human host,1
+sputum,Homo sapiens,,,,C1,human host,57
+SubClv and LH,Homo sapiens,,,,C1,human host,1
+ET secretion,Homo sapiens,,,,C1,human host,5
+Pus,Homo sapiens,,,,C1,human host,1
+CSF,Homo sapiens,,,,C1,human host,1
+TT secretion,Homo sapiens,,,,C1,human host,1
+Nail,Homo sapiens,,,,C1,human host,1
+ET aspirate,Homo sapiens,,,,C1,human host,3
+BAL,Homo sapiens,,,,C1,human host,5
+Vulvovaginal swab,Homo sapiens,,,,C1,human host,2
+Oropharyngeal,Homo sapiens,,,,C1,human host,2
+Lungs,Homo sapiens,,,,C1,human host,1
+Oral cancer patients,Homo sapiens,,,,C1,human host,1
+Flagged Blood culture bottle,Homo sapiens,,,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+WWTP aerobic sludge,,,,,C6,source matches C6 rule,8
+seawater,,,,,C5,source matches C5 rule,104
+freshwater,,,,,C5,source matches C5 rule,32
+WWTP influent,,,,,C6,source matches C6 rule,8
+,,,cell culture,Microbe sample from Candida tropicalis,not_allocated,no usable source field,8
+Pharyngeal Swab,Homo sapiens,,,,C1,human host,1
+bile,Homo sapiens,,,,C1,human host,3
+Secretion,Homo sapiens,,,,C1,human host,2
+Catheter,Homo sapiens,,,,C1,human host,4
+"Wound, surgical",Homo sapiens,,,,C1,human host,1
+hospital,Homo sapiens,,,,C1,human host,11
+,,,,"JCM1541, control, rep2",excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,"JCM1541, NaDCA 0.1%, rep2",excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,"A, control, rep2",excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,"A, NaDCA0.1%, rep2",excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,"8, control, rep2",excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,"8, NaDCA0.1%, rep2",excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,"1712, control, rep2",excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,"1712, NaDCA0.1%, rep2",excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,"1822, control, rep2",excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,"1822, NaDCA0.1%, rep2",excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,Human,,Candida tropicalis NBRC 1404,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,Homo sapiens,Eastern Mediterranean Region (EMR),,,C1,human host,3
+Mouth,Homo sapiens,,,,C1,human host,2
+,,,,Candida tropicalis yHQL385 Resequencing,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis yHKB468 Resequencing,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis yHQL347 Resequencing,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis yHKB116 Resequencing,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis yHMH255 Resequencing,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis yHMH254 Resequencing,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis yHMH281 Resequencing,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+wound,Homo sapiens,,,,C1,human host,1
+Oral swab,Homo sapiens,,,,C1,human host,1
+CVC,Homo sapiens,,,,C1,human host,6
+,,,,Neat-YPD-B2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+soil,,,,,C5,source matches C5 rule,4
+wastewater treatment plant effluent,,,,,C6,source matches C6 rule,1
+marine sediment,,,cell culture,,C5,source matches C5 rule,17
+Tissue,Homo sapiens,,metagenomic assembly,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,Patient with candidemia,,SLT34 cell culture treated replication 3,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,Patient with candidemia,,SLT34 cell culture treated replication 2,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,Patient with candidemia,,SLT34 cell culture treated replication 1,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,Patient with candidemia,,SLT34 cell culture replication 3,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,Patient with candidemia,,SLT34 cell culture replication 2,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,Patient with candidemia,,SLT34 cell culture replication 1,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,Control cell culture treated replication 3,Microbe sample from Candida tropicalis,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,Control cell culture treated replication 2,Microbe sample from Candida tropicalis,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,Control cell culture treated replication 1,Microbe sample from Candida tropicalis,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,Control cell culture replication 3,Microbe sample from Candida tropicalis,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,Control cell culture replication 2,Microbe sample from Candida tropicalis,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,Control cell culture replication 1,Microbe sample from Candida tropicalis,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+Patient with candidemia,,,Whole organism,,C1,human clinical source,6
+Patient with bronchomycosis,,,Whole organism,,C1,human clinical source,1
+,,,,WGS of Candida tropicalis,not_allocated,no usable source field,39
+culture,,,culture,,not_allocated,no usable source field,1
+human,,,cell culture,,C1,human clinical source,12
+stool,Homo sapiens,,,,C1,human host,1
+clinical isolate,Homo sapiens,,,,C1,human host,6
+,,,,C. tropicalis X-17.2b Genome,not_allocated,no usable source field,1
+,,,,C. tropicalis X-17 Genome,not_allocated,no usable source field,1
+,,,,C. tropicalis X-17.2b RNAseq,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,C. tropicalis X-17 RNAseq,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+ETT,Homo sapiens,,,,C1,human host,2
+clinical,Homo sapiens,,,,C1,human host,457
+Injury,Homo sapiens,,,,C1,human host,3
+bronchoalveolar lavage,Homo sapiens,,,,C1,human host,4
+Peritoneal Wash,Homo sapiens,,,,C1,human host,2
+Mastitis cow,,,tissue sample,,C2,source matches C2 rule,1
+,,,,Pathogen: clinical or host-associated sample from Candida tropicalis,not_allocated,no usable source field,1
+Oral cavity,Homo sapiens,,,,C1,human host,2
+,,,,Sample from Candida tropicalis CBS 94,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+local street soil,,,cell culture,,C6,source matches C6 rule,1
+,,,cell culture,G60,not_allocated,no usable source field,1
+,,,cell culture,CK,not_allocated,no usable source field,1
+,,,cell culture,T12,not_allocated,no usable source field,1
+,,,cell culture,T11,not_allocated,no usable source field,1
+,,,cell culture,T10,not_allocated,no usable source field,1
+,,,cell culture,T09,not_allocated,no usable source field,1
+,,,cell culture,T08,not_allocated,no usable source field,1
+,,,cell culture,T07,not_allocated,no usable source field,1
+,,,cell culture,T06,not_allocated,no usable source field,1
+,,,cell culture,T05,not_allocated,no usable source field,1
+,,,cell culture,T04,not_allocated,no usable source field,1
+,,,cell culture,T03,not_allocated,no usable source field,1
+,,,cell culture,T02,not_allocated,no usable source field,1
+,,,cell culture,T01,not_allocated,no usable source field,1
+Beach soil,,,,,C5,source matches C5 rule,62
+Mudbank soil,,,,,C5,source matches C5 rule,10
+mangrove soil,,,,,C5,source matches C5 rule,7
+Wetland soil,,,,,C5,source matches C5 rule,3
+Riverside soil,,,,,C5,source matches C5 rule,2
+Herbaceous plant,,,,,C5,source matches C5 rule,5
+saltern soil,,,,,C5,source matches C5 rule,1
+Benthos,,,,,C5,source matches C5 rule,3
+Oropharynx (including sputum/BAL/swab),Homo sapiens,,,,C1,human host,91
+feces,Homo sapiens,,,,C1,human host,22
+Vaginal secretions,Homo sapiens,,,,C1,human host,1
+saliva,Homo sapiens,,Whole organism,,C1,human host,5
+,,,,T41,not_allocated,no usable source field,1
+,,,,T40,not_allocated,no usable source field,1
+,,,,T39,not_allocated,no usable source field,1
+,,,,T38,not_allocated,no usable source field,1
+,,,,T37,not_allocated,no usable source field,1
+,,,,T36,not_allocated,no usable source field,1
+,,,,T35,not_allocated,no usable source field,1
+,,,,T34,not_allocated,no usable source field,1
+,,,,T33,not_allocated,no usable source field,1
+,,,,T32,not_allocated,no usable source field,1
+,,,,T31,not_allocated,no usable source field,1
+,,,,T30,not_allocated,no usable source field,1
+,,,,T29,not_allocated,no usable source field,1
+,,,,T28,not_allocated,no usable source field,1
+,,,,T27,not_allocated,no usable source field,1
+,,,,T26,not_allocated,no usable source field,1
+,,,,T25,not_allocated,no usable source field,1
+,,,,T24,not_allocated,no usable source field,1
+,,,,T23,not_allocated,no usable source field,1
+,,,,T22,not_allocated,no usable source field,1
+,,,,T21,not_allocated,no usable source field,1
+,,,,T20,not_allocated,no usable source field,1
+,,,,T19,not_allocated,no usable source field,1
+,,,,T18,not_allocated,no usable source field,1
+,,,,T17,not_allocated,no usable source field,1
+,,,,T16,not_allocated,no usable source field,1
+,,,,T15,not_allocated,no usable source field,1
+,,,,T14,not_allocated,no usable source field,1
+,,,,T13,not_allocated,no usable source field,1
+,,,,T12,not_allocated,no usable source field,1
+Knee Aspirate,Homo sapiens,,,,C1,human host,1
+body fluid,Homo sapiens,,,,C1,human host,1
+Pleural Fluid,Homo sapiens,,,,C1,human host,1
+Broncheol Alveolar Lavage (BAL),Homo sapiens,,,,C1,human host,1
+,,,cell culture,Y3,not_allocated,no usable source field,1
+,,,cell culture,Y2,not_allocated,no usable source field,1
+,,,cell culture,Y1,not_allocated,no usable source field,1
+,,,cell culture,T3,not_allocated,no usable source field,1
+,,,cell culture,T2,not_allocated,no usable source field,1
+,,,cell culture,T1,not_allocated,no usable source field,1
+,,,cell culture,ck3,not_allocated,no usable source field,1
+,,,cell culture,ck2,not_allocated,no usable source field,1
+,,,cell culture,ck1,not_allocated,no usable source field,1
+,,,isolate,Microbe sample from Candida tropicalis,not_allocated,no usable source field,1
+Larynx,Homo sapiens,,Whole organism,,C1,human host,4
+,,,C. tropicalis MYA-3404 + M. musculus,Ct_mac_1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,C. tropicalis MYA-3404 + M. musculus,Ct_mac_2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,C. tropicalis MYA-3404,Ct_only_1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,C. tropicalis MYA-3404,Ct_only_2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+decayed pear,,,cell culture,,C3,source matches C3 rule,1
+blood,Homo sapiens,,Isolate,,C1,human host,53
+NRRL Collection,,,cell culture,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+Urinary tract,Homo sapiens,,,,C1,human host,9
+soil,,Yeast isolated from soil,metagenomic assembly,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,sludge,,MIGS Eukaryotic sample from Candida tropicalis,C6,source matches C6 rule,1
+feces,Homo sapiens,hunan feces,,,C1,human host,6
+leaf,Tobacco,,Metagenomic assembly,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",2
+,,cotton planting soil,,MIGS Eukaryotic sample from Candida tropicalis,C3,source matches C3 rule,1
+culture with phenol as only carbon source,,,cell culture,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",3
+culture with PDB medium,,,cell culture,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",3
+Wastewater treatment plant,,Wastewater treatment plant,,,C6,source matches C6 rule,1
+,,,,Parent,not_allocated,no usable source field,1
+,,,,Adaptor-#9,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Adaptor-#7,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Adaptor-#5,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Adaptor-#3,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Adaptor-#18,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Adaptor-#14,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Adaptor-#13,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Adaptor-#10,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+pit mud,,,Cells,,not_allocated,source outside the compartment definitions or not a single source,3
+,,,,Ct_Ndt80_rpmi-1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_Ndt80_rpmi-2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_Ndt80_spglu-1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_Ndt80_spglu-2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_Tec1_hom-1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_Tec1_hom-2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_Bcr1_hom-1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_Bcr1_hom-2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_Brg1_hom-1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_Brg1_hom-2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_Efg1_hom-1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_Efg1_hom-2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_Ndt80_hom-1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_Ndt80_hom-2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_Rob1_hom-1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_Rob1_hom-2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+2.0 g/l phenol replicate3,,,Cells,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+2.0 g/l phenol replicate2,,,Cells,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+2.0 g/l phenol replicate1,,,Cells,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+1.0 g/l phenol replicate3,,,Cells,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+1.0 g/l phenol replicate2,,,Cells,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+1.0 g/l phenol replicate1,,,Cells,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+0.5 g/l phenol replicate3,,,Cells,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+0.5 g/l phenol replicate2,,,Cells,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+0.5 g/l phenol replicate1,,,Cells,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+0.0 g/l phenol replicate3,,,Cells,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+0.0 g/l phenol replicate2,,,Cells,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+0.0 g/l phenol replicate1,,,Cells,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,mixed culture,Microbe sample from Candida tropicalis,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",15
+Fermentation tank Sample P time 8,,,whole organism,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+Fermentation tank Sample P time 0,,,whole organism,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+Fermentation tank Sample C time 8,,,whole organism,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+Fermentation tank Sample C time 0,,,whole organism,,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+Fallen timber,Melanotus villosus,,pure population,,C2,host or source matches C2 rule,1
+Neera,,,,,not_allocated,source outside the compartment definitions or not a single source,1
+soil,,,Fungal culture,,C5,source matches C5 rule,11
+clinical,,,Fungal culture,,C1,human clinical source,65
+Coconut,,,Fungal culture,,C3,source matches C3 rule,1
+,,,,Candida tropicalis yHKB469 Resequencing,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis yHKB300 Resequencing,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis yHMH234 Resequencing,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis yHKB84 Resequencing,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+Peritoneal,Homo sapiens,,,,C1,human host,2
+,,,,Candida tropicalis E0 Resequencing - v2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis ES5 Resequencing - v2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis E5 Resequencing - v2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis E2 Resequencing - v2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis E1 Resequencing - v2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis E3 Resequencing - v2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis E4 Resequencing,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis ES5 Resequencing,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis E5 Resequencing,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis E1 Resequencing,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis E2 Resequencing,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis E0 Resequencing,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Sample from Candida tropicalis,not_allocated,no usable source field,1
+,,,,tetO-CtUME6 +Dox rep. #1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,tetO-CtUME6 -Dox rep. #1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,tetO-CtUME6 +Dox rep. #2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,tetO-CtUME6 -Dox rep. #2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,CtWT +Dox rep. #1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,CtWT -Dox rep. #1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,CtWT +Dox rep. #2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,CtWT -Dox rep. #2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Ct_1_0,not_allocated,no usable source field,1
+,,,,Ct_1_120,not_allocated,no usable source field,1
+,,,,Ct_1_15,not_allocated,no usable source field,1
+,,,,Ct_1_240,not_allocated,no usable source field,1
+,,,,Ct_1_30,not_allocated,no usable source field,1
+,,,,Ct_1_60,not_allocated,no usable source field,1
+,,,,Ct_2_0,not_allocated,no usable source field,1
+,,,,Ct_2_120,not_allocated,no usable source field,1
+,,,,Ct_2_15,not_allocated,no usable source field,1
+,,,,Ct_2_240,not_allocated,no usable source field,1
+,,,,Ct_2_30,not_allocated,no usable source field,1
+,,,,Ct_2_60,not_allocated,no usable source field,1
+,,,,Ct_3_0,not_allocated,no usable source field,1
+,,,,Ct_3_120,not_allocated,no usable source field,1
+,,,,Ct_3_15,not_allocated,no usable source field,1
+,,,,Ct_3_240,not_allocated,no usable source field,1
+,,,,Ct_3_30,not_allocated,no usable source field,1
+,,,,Ct_3_60,not_allocated,no usable source field,1
+,,,,QS-PH5-2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,QS-PH7-1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,QS-PH7-2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,QS-PH8-1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,QS-PH8-2,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,QS-PH5-1,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,yeast,Whole organism,Identification of centromeres in Candida tropicalis,not_allocated,no usable source field,1
+,,,Cell culture,B4_C.tropicalis_treated with ultrasound,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,Cell culture,B3_C.tropicalis_treated with ultrasound,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,Cell culture,B1_C.tropicalis_treated with ultrasound,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,Cell culture,A3_C.tropicalis_untreated with ultrasound,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,Cell culture,A2_C.tropicalis_untreated with ultrasound,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,JX1012-Opaque,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,JX1012-Gray,not_allocated,no usable source field,1
+,,,,JX1012-White,not_allocated,no usable source field,1
+,,,Cell culture,A1_C.tropicalis_untreated with ultrasound,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,cell culture,Microbe sample from Candida tropicalis Sample_A2,not_allocated,no usable source field,1
+,,,,1374 wor1 GlcNAc,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,1374 wor1 Glu,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+"soil, sea sediments, faeces (suggesting it is either a colonizer of the human gut, or found in foods)","marine fish, marine algae, various fruits, human",,,,not_allocated,source outside the compartment definitions or not a single source,1
+,,,,Candida tropicalis suppression subtractive Library (positive),excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Candida tropicalis suppression subtractive Library (reverse),excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,XBD0AA,not_allocated,no usable source field,1
+,,,,BD0AA,not_allocated,no usable source field,1
+,,,,Microbe sample for  Candida tropicalis,not_allocated,no usable source field,1
+,,,,Sample from Candida tropicalis MYA-3404,excluded_laboratory,"laboratory-derived sample, reference strain or metagenome",1
+,,,,Generic sample from Candida tropicalis ADL-339,not_allocated,no usable source field,1
+,,,,Generic sample from Candida tropicalis,not_allocated,no usable source field,2
+lower jejunum; brain-dead organ donor,Homo sapiens,human gastrointestinal tract,,,C1,human host,1

@@ -1,0 +1,27 @@
+{
+ "script": "make_rob_fullpass_books.py",
+ "run_time": "2026-10-22T09:48:17-05:00",
+ "python": "3.12.15",
+ "openpyxl": "3.1.5",
+ "seed": 21102027,
+ "n_pass": 904,
+ "reviewers": [
+  "reviewer_1",
+  "reviewer_2"
+ ],
+ "eligible_total": 1104,
+ "calibration_excluded": 200,
+ "calibration_key": "09_phase7_risk_of_bias/rob_cal1_sample_2026-10-22T094816.csv",
+ "order_md5": "3db19748b4a7ce4da0d396002a2b39fd",
+ "inputs": {
+  "10_phase8_analysis/data/analysis_dataset_v1_2026-10-20/studies.csv": "0868cfeab00d5ea1a13f03dc47129a3a",
+  "07_phase5_full_text_screening/pdf_md5_n5939_2026-10-20.txt": "8fa3b770665d9afc715c40c59c0d3d6b",
+  "09_phase7_risk_of_bias/rob_manual_v2_2026-10-21.md": "c24727a765015e0f0b4c66d7ff444ef1",
+  "09_phase7_risk_of_bias/rob_cal1_sample_2026-10-22T094816.csv": "5ee0413b79a333038dca2c6d33c5fa64"
+ },
+ "outputs": {
+  "rob_pass_reviewer_1_2026-10-22T094817.xlsx": "5778186dba78447c76951f70595e0762",
+  "rob_pass_reviewer_2_2026-10-22T094817.xlsx": "05f522c3c170a4516fedde9069a7e226",
+  "rob_pass_sample_2026-10-22T094817.csv": "87714c2d2983d82c2e36d988c679229f"
+ }
+}

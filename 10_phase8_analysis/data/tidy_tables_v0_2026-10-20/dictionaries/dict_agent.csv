@@ -1,0 +1,94 @@
+agent_raw,n_rows,agent_std,agent_class,per_agent,rule
+fluconazole,1967,fluconazole,triazole,True,exact
+amphotericin B,1349,amphotericin B,polyene,True,exact
+voriconazole,1164,voriconazole,triazole,True,exact
+itraconazole,834,itraconazole,triazole,True,exact
+caspofungin,673,caspofungin,echinocandin,True,exact
+5-flucytosine,518,flucytosine,pyrimidine analogue,True,exact
+micafungin,491,micafungin,echinocandin,True,exact
+anidulafungin,327,anidulafungin,echinocandin,True,exact
+posaconazole,266,posaconazole,triazole,True,exact
+ketoconazole,254,ketoconazole,imidazole,True,exact
+nystatin,192,nystatin,polyene,True,exact
+clotrimazole,120,clotrimazole,imidazole,True,exact
+miconazole,120,miconazole,imidazole,True,exact
+isavuconazole,36,isavuconazole,triazole,True,exact
+econazole,27,econazole,imidazole,True,exact
+terbinafine,27,terbinafine,allylamine,True,exact
+ibrexafungerp,9,ibrexafungerp,triterpenoid,True,exact
+echinocandins (not specified),7,echinocandin class (aggregated),echinocandin,False,pattern
+luliconazole,5,luliconazole,imidazole,True,exact
+agricultural azole: difenoconazole,4,difenoconazole,agricultural azole,True,exact
+agricultural azole: tebuconazole,4,tebuconazole,agricultural azole,True,exact
+agricultural azole: triadimenol,4,triadimenol,agricultural azole,True,exact
+echinocandins (caspofungin/micafungin),4,echinocandin class (aggregated),echinocandin,False,pattern
+rezafungin,4,rezafungin,echinocandin,True,exact
+MXP-4509 (triazole experimental nanoformulado),3,experimental compound,experimental,False,pattern
+liposomal amphotericin B,3,amphotericin B liposomal,polyene,True,exact
+ciclopirox,3,ciclopirox,hydroxypyridone,True,exact
+griseofulvin,3,griseofulvin,other,True,exact
+ravuconazole,3,ravuconazole,triazole,True,exact
+azoles (not disaggregated),2,azole class (aggregated),azole,False,pattern
+azoles (not specified),2,azole class (aggregated),azole,False,pattern
+bifonazole,2,bifonazole,imidazole,True,exact
+butoconazole,2,butoconazole,imidazole,True,exact
+"echinocandins (any: anidulafungin, caspofungin or micafungin)",2,echinocandin class (aggregated),echinocandin,False,pattern
+echinocandins (not specified),2,echinocandin class (aggregated),echinocandin,False,pattern
+echinocandins (not specified),2,echinocandin class (aggregated),echinocandin,False,pattern
+fenticonazole,2,fenticonazole,imidazole,True,exact
+ibrexafungerp (SCY-078),2,ibrexafungerp,triterpenoid,True,exact
+natamycin,2,natamycin,polyene,True,exact
+sertaconazole,2,sertaconazole,imidazole,True,exact
+tioconazole,2,tioconazole,imidazole,True,exact
+DO870 (investigational triazole),1,experimental compound,experimental,False,pattern
+FC (fusidic acid according to authors; possible 5-flucytosine),1,unclear (FC),unclear,False,pattern
+amorolfine,1,amorolfine,morpholine,True,exact
+amphotericin B (liposomal),1,amphotericin B liposomal,polyene,True,exact
+amphotericin B lipid complex,1,amphotericin B lipid complex,polyene,True,exact
+amphotericin B methyl ester,1,amphotericin B methyl ester,polyene,True,exact
+cholesteryl amphotericin B sulphate (ABCD),1,amphotericin B colloidal dispersion,polyene,True,exact
+common antifungals (not specified in the text; Table S4),1,aggregated or unspecified,aggregated,False,pattern
+antifungals (not specified),1,aggregated or unspecified,aggregated,False,pattern
+"azole (class, any azole)",1,azole class (aggregated),azole,False,pattern
+azole (isoconazole),1,isoconazole,imidazole,True,exact
+"azole (≥1 of fluconazole, itraconazole, ketoconazole)",1,azole class (aggregated),azole,False,pattern
+agricultural azole,1,agricultural azole (unspecified),agricultural azole,False,pattern
+azole experimental (ATTAF-1),1,experimental compound,experimental,False,pattern
+azole experimental (ATTAF-2),1,experimental compound,experimental,False,pattern
+"azole experimental (SHR8008/oteseconazole, VT-1161)",1,oteseconazole,tetrazole,True,exact
+"azoles (pooled: fluconazole, clotrimazole, itraconazole, ketoconazole)",1,azole class (aggregated),azole,False,pattern
+"azoles (clotrimazole/miconazole, aggregated)",1,azole class (aggregated),azole,False,pattern
+azoles (any),1,azole class (aggregated),azole,False,pattern
+azoles (not specified),1,azole class (aggregated),azole,False,pattern
+"azoles (≥1 of fluconazole, voriconazole, itraconazole, posaconazole, isavuconazole)",1,azole class (aggregated),azole,False,pattern
+azoles and amphotericin B (panel not specified per antifungal),1,azole class (aggregated),azole,False,pattern
+cilofungin,1,cilofungin,echinocandin,True,exact
+cilofungin (echinocandins),1,cilofungin,echinocandin,True,exact
+chlorhexidine,1,chlorhexidine,antiseptic,True,exact
+chlorhexidine (antiseptic),1,chlorhexidine,antiseptic,True,exact
+efinaconazole,1,efinaconazole,triazole,True,exact
+echinocandins (at least one),1,echinocandin class (aggregated),echinocandin,False,pattern
+echinocandins (caspofungin/micafungin),1,echinocandin class (aggregated),echinocandin,False,pattern
+echinocandins (class),1,echinocandin class (aggregated),echinocandin,False,pattern
+echinocandins (anidulafungin/caspofungin/micafungin),1,echinocandin class (aggregated),echinocandin,False,pattern
+echinocandins (anidulafungin/micafungin),1,echinocandin class (aggregated),echinocandin,False,pattern
+echinocandins (not specified),1,echinocandin class (aggregated),echinocandin,False,pattern
+"echinocandins (≥1 of anidulafungin, caspofungin, micafungin)",1,echinocandin class (aggregated),echinocandin,False,pattern
+fluconazole + voriconazole + itraconazole (resistance to all 3 azoles),1,azole class (aggregated),azole,False,pattern
+isoconazole,1,isoconazole,imidazole,True,exact
+manogepix,1,manogepix,Gwt1 inhibitor,True,exact
+manogepix (APX001A),1,manogepix,Gwt1 inhibitor,True,exact
+"multidrug resistance (≥4 of 11 antifungals: nystatin, amphotericin B, 5-flucytosine, econazole, ketoconazole, clotrimazole, miconazole, itraconazole, voriconazole, fluconazole 16 and 64)",1,azole class (aggregated),azole,False,pattern
+nystatin liposomal,1,nystatin liposomal,polyene,True,exact
+nitroxoline,1,nitroxoline,other,True,exact
+Not specified,1,aggregated or unspecified,aggregated,False,pattern
+Not specified (E-test/Sensititre YeastOne panel),1,aggregated or unspecified,aggregated,False,pattern
+"oteseconazole (VT-1161/SHR8008, tetrazole)",1,oteseconazole,tetrazole,True,exact
+other 5 antifungals not specified (AST-YS07 card),1,aggregated or unspecified,aggregated,False,pattern
+oxiconazole,1,oxiconazole,imidazole,True,exact
+parconazole,1,parconazole,imidazole,True,exact
+azole cross-resistance (FLU+VOR+ITR+POS),1,azole class (aggregated),azole,False,pattern
+tavaborole,1,tavaborole,oxaborole,True,exact
+terconazole,1,terconazole,triazole,True,exact
+triazoles (not specified),1,azole class (aggregated),azole,False,pattern
+boric acid,1,boric acid,other,True,exact
