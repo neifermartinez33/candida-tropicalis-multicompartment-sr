@@ -10,14 +10,15 @@ are kept outside the deposit by the review team.
 | Step | Model | Interface | Dates (UTC) | Instruction in this folder | SHA-256 of the original |
 |---|---|---|---|---|---|
 | Deduplication: classification of 77,603 candidate pairs | Claude Sonnet 5 (`claude-sonnet-5`), Anthropic | Claude Code 2.1.284, non-interactive mode (`claude -p --model claude-sonnet-5`), instruction as appended system prompt, output constrained by a JSON schema, batches of 40 pairs | 2026-09-28 to 2026-09-30 | `deduplication/pair_adjudication_instruction_EN.txt`, `deduplication/pair_schema_EN.json` | `88161539025c39d3cb5781811348038640ebe62e8133f92b5a05bf269b70518c` (instruction), `3710ec8003108ce3c2b7cea9d72739bfa0cd97432bd60902b058b9fa3448f80d` (schema) |
-| Full-text screening | Claude Opus 5.5 (`claude-opus-5-5`), Anthropic | Claude Code sessions, one batch of reports per session | 2026-10-19 | `full_text/full_text_screening_instruction_EN.md` | `22bb72d4bcf14fb477008d00cbf1c124973cfab59926f2b31446fff4e7f2dd5c` |
-| Data extraction | Claude Opus 5.5 (`claude-opus-5-5`), Anthropic | Claude Code sessions, one batch of reports per session | 2026-10-19 to 2026-10-20 | `full_text/data_extraction_instruction_EN.md` | `a87f47fed9302e25e0dee9db67a24442a2caf0cfd981d2e5da5cfcd1767f9dca` |
-| Full-text screening and data extraction of the 16 retrieved reports of the reference-list check (round 3) | Claude Opus 5.5 (`claude-opus-5-5`), Anthropic | Claude Code subagents, one for screening and one for extraction | 2026-10-27 | the two instructions above, unchanged (only the file locations differed) | `22bb72d4bcf14fb477008d00cbf1c124973cfab59926f2b31446fff4e7f2dd5c` (screening), `a87f47fed9302e25e0dee9db67a24442a2caf0cfd981d2e5da5cfcd1767f9dca` (extraction) |
-| Proposals on the 316 doubtful reports | Claude Opus 5.5 (`claude-opus-5-5`), Anthropic | nine independent sessions | 2026-10-20 | `07_phase5_full_text_screening/doubtful_review_2026-10-20/instructions_frozen_2026-10-20.md` (in the project) | `414197ed3dca1abc3adea85a575f3ff7fe523be910f2565048f187854921258f` |
+| Full-text screening | Claude Opus 5.5 (`claude-opus-5-5`), Anthropic | Claude Code 2.1.302, one batch of reports per session | 2026-10-19 | `full_text/full_text_screening_instruction_EN.md` | `22bb72d4bcf14fb477008d00cbf1c124973cfab59926f2b31446fff4e7f2dd5c` |
+| Data extraction | Claude Opus 5.5 (`claude-opus-5-5`), Anthropic | Claude Code 2.1.302, one batch of reports per session | 2026-10-19 to 2026-10-20 | `full_text/data_extraction_instruction_EN.md` | `a87f47fed9302e25e0dee9db67a24442a2caf0cfd981d2e5da5cfcd1767f9dca` |
+| Full-text screening and data extraction of the 16 retrieved reports of the reference-list check (round 3) | Claude Opus 5.5 (`claude-opus-5-5`), Anthropic | Claude Code 2.1.310, subagents, one for screening and one for extraction | 2026-10-27 | the two instructions above, unchanged (only the file locations differed) | `22bb72d4bcf14fb477008d00cbf1c124973cfab59926f2b31446fff4e7f2dd5c` (screening), `a87f47fed9302e25e0dee9db67a24442a2caf0cfd981d2e5da5cfcd1767f9dca` (extraction) |
+| Proposals on the 316 doubtful reports | Claude Opus 5.5 (`claude-opus-5-5`), Anthropic | Claude Code 2.1.302, nine independent sessions | 2026-10-20 | `07_phase5_full_text_screening/doubtful_review_2026-10-20/instructions_frozen_2026-10-20.md` (in the project) | `414197ed3dca1abc3adea85a575f3ff7fe523be910f2565048f187854921258f` |
 
 Before the deduplication run, Claude Sonnet 5 and Claude Opus 5.5 were both run on a development
 set of 300 pairs labelled by one reviewer; the production run used Claude Sonnet 5. The model
-identifier recorded for each production decision is the one returned by the service.
+identifier recorded for each production decision is the one returned by the service. The client
+version of each step is the one recorded in the session transcripts of those dates.
 
 ## Deduplication files
 
