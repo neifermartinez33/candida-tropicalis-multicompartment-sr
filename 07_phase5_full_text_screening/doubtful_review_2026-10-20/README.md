@@ -38,3 +38,10 @@ page, table) for the two registered reviewers, who decide in
 | NOT_RETRIEVED | 108 | PDF of another work (81) or partial (27); counts as not retrieved, not as excluded |
 | REMAINS_EXCLUDED | 58 | EC2 22, EC3 14, EC7 8, EC1 4, EC12 4, EC4 2, EC13 2, EC2 and EC3 2 |
 | NOT_DETERMINABLE | 0 | |
+
+## Correction of 2026-10-28
+
+The headers `decision_reviewer_1` and `decision_reviewer_2` of the Review sheet (and of the CSV) were
+inverted with respect to the reviewer prefix written in each cell (`reviewer_1: …`, `reviewer_2: …`);
+the headers were swapped so that each column carries the decisions of the reviewer named in its cells.
+The decisions themselves were not changed.

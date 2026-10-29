@@ -1,0 +1,19 @@
+Cohen's kappa of the two-reader title and abstract screening (phase 4). 2026-10-28 22:30, Colombia time.
+
+Source of the counts: team member, from the Rayyan conflicts view, before conflict resolution. The per-reader decisions were not exported before the conflicts
+were resolved; the deposited exports hold only the resolved decisions (22,203 works of the frame,
+9808 included). The counts below total 22403 records, 200 more than the 22,203 works of the frame
+prepared on 2026-10-14; the difference equals the 200 calibration works, which the two readers had
+also decided (calibration_CAL1_final_decisions.csv). "Maybe" counts as inclusion.
+
+                    reviewer_1 includes  reviewer_1 excludes  total reviewer_2
+  reviewer_2 includes           8752           1248          10000
+  reviewer_2 excludes            848          11555          12403
+  total reviewer_1              9600          12803          22403
+
+Observed agreement: 0.906 (20307 of 22403). Agreement expected by chance: 0.508.
+Cohen's kappa: 0.810. 95 % CI: 0.802 to 0.818 (asymptotic standard error of Fleiss, Cohen and Everitt, 1969).
+Discrepancies: 2096 (9.4 %; reviewer_1 includes and reviewer_2 excludes: 848; reviewer_1 excludes and reviewer_2 includes: 1248),
+resolved by consensus of the pair or by the block arbiter (screening_plan_2026-10-13.md).
+
+Script: compute_screening_agreement_from_counts.py
