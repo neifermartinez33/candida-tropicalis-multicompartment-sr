@@ -152,8 +152,8 @@ M0150,O06564,C1,others,other_or_multiple,,,False,False,False,increased rhodamine
 M0151,O07997,C1,FKS1,FKS1,S645P,,False,False,False,"S→P in hot spot 1 (equivalent to S645P of C. albicans), heterozygous",mutation,4.0,2.0,2.0,0.0,Sanger sequencing of FKS1,isolates T3 and T19; examined: 3 resistant + 1 susceptible (T7) in addition to ATCC 750; biphasic kinetics of glucan synthase,INCLUDE,DOUBTFUL,,pending
 M0152,O07997,C1,FKS1,FKS1,F641L,,False,False,False,"F→L in hot spot 1 (equivalent to C. albicans F641L), homozygous",mutation,4.0,1.0,1.0,0.0,Sanger sequencing of FKS1,isolate T26,INCLUDE,DOUBTFUL,,pending
 M0153,R01880,C1,FKS1,FKS1,S645F,,False,False,False,S645F,mutation,,1.0,,,"sequencing (previously published, refs 15-16)","isolate selected for being an fks mutant; MIC CAS 0.5, MCF 1, ANF 2",DOUBTFUL,NO,,pending
-M0154,R01880,C1,FKS1,FKS1,F641L,,False,False,False,F641L,mutation,,1.0,,,"sequencing (previously published, refs 15-16)","CMI CAS 0,125, MCF 0,125, ANF 0,062",DOUBTFUL,NO,,pending
-M0155,R01880,C1,FKS1,FKS1,R647G,,False,False,False,R647G,mutation,,1.0,,,"sequencing (previously published, refs 15-16)","CMI CAS 0,125, MCF 0,25, ANF 0,062",DOUBTFUL,NO,,pending
+M0154,R01880,C1,FKS1,FKS1,F641L,,False,False,False,F641L,mutation,,1.0,,,"sequencing (previously published, refs 15-16)","MIC CAS 0.125, MCF 0.125, ANF 0.062",DOUBTFUL,NO,,pending
+M0155,R01880,C1,FKS1,FKS1,R647G,,False,False,False,R647G,mutation,,1.0,,,"sequencing (previously published, refs 15-16)","MIC CAS 0.125, MCF 0.25, ANF 0.062",DOUBTFUL,NO,,pending
 M0156,O01176,C2,ERG11,ERG11,,T225C; G264A; G1362A; T1554C,False,False,False,"4 silent mutations (T225C, G264A, G1362A, T1554C)",mutation,8.0,8.0,4.0,4.0,Sanger sequencing,No amino acid change; identical in pre and post isolates; authors consider them not responsible for the resistance.,INCLUDE,NO,,pending
 M0157,O01176,C2,ERG3,ERG3,,,False,False,False,insertion of 2 bp (GG) at positions 1130-1131 with frameshift from amino acid 378,mutation,8.0,3.0,3.0,0.0,Sanger sequencing,"New mutation in isolates #6–8 (after amphotericin B); the first resistant isolate (#5) had ERG3 wild, so the authors consider it unlikely as the cause.",INCLUDE,NO,,pending
 M0158,O12134,C1,ERG11,ERG11,Y132F; S154F,,True,False,False,Y132F + S154F,mutation,17.0,8.0,8.0,0.0,Sanger sequencing of ERG11,"all with fluconazole MIC ≥16 (R); only 2 of the 8 homozygotes; the 17 examined are non-susceptible to fluconazole (4 SDD, 13 R)",DOUBTFUL,DOUBTFUL,,pending
@@ -406,13 +406,13 @@ M0404,O13651,C1,FLU1,FLU1,,,False,False,False,Gene presence,other,,,,,WGS,Respon
 M0405,O13651,C1,CDR1,CDR1,,,False,False,False,Gene presence,other,,,,,WGS,Gene presence (no mutation or overexpression); n not reported; also ADA2,DOUBTFUL,NO,,pending
 M0406,R05646,C1,ERG11,ERG11,Y132F,,False,False,False,Y132F,mutation,39.0,22.0,22.0,0.0,Sanger sequencing,22/27 resistant (81.48%); MIC 32-512 mg/L; almost always together with S154F,INCLUDE,NO,,pending
 M0407,R05646,C1,ERG11,ERG11,S154F,,False,False,False,S154F,mutation,39.0,21.0,21.0,0.0,Sanger sequencing,21/27 resistant (77.78%); MIC 32-512 mg/L,INCLUDE,NO,,pending
-M0408,R05646,C1,ERG11,ERG11,Y257H,,False,False,False,Y257H,mutation,39.0,1.0,1.0,0.0,Sanger sequencing,CMI 32 mg/L,INCLUDE,NO,,pending
-M0409,R05646,C1,UPC2,UPC2,A251T,,False,False,False,A251T,mutation,39.0,3.0,3.0,0.0,Sanger sequencing,CMI 32-256 mg/L,INCLUDE,NO,,pending
-M0410,R05646,C1,UPC2,UPC2,Q289L,,False,False,False,Q289L,mutation,39.0,2.0,2.0,0.0,Sanger sequencing,CMI 32-256 mg/L,INCLUDE,NO,,pending
-M0411,R05646,C1,UPC2,UPC2,S279E,,False,False,False,S279E (not previously described),mutation,39.0,1.0,1.0,0.0,Sanger sequencing,CMI 128 mg/L,INCLUDE,NO,,pending
-M0412,R05646,C1,UPC2,UPC2,Q313H,,False,False,False,Q313H (not previously described),mutation,39.0,1.0,1.0,0.0,Sanger sequencing,CMI 128 mg/L,INCLUDE,NO,,pending
+M0408,R05646,C1,ERG11,ERG11,Y257H,,False,False,False,Y257H,mutation,39.0,1.0,1.0,0.0,Sanger sequencing,MIC 32 mg/L,INCLUDE,NO,,pending
+M0409,R05646,C1,UPC2,UPC2,A251T,,False,False,False,A251T,mutation,39.0,3.0,3.0,0.0,Sanger sequencing,MIC 32-256 mg/L,INCLUDE,NO,,pending
+M0410,R05646,C1,UPC2,UPC2,Q289L,,False,False,False,Q289L,mutation,39.0,2.0,2.0,0.0,Sanger sequencing,MIC 32-256 mg/L,INCLUDE,NO,,pending
+M0411,R05646,C1,UPC2,UPC2,S279E,,False,False,False,S279E (not previously described),mutation,39.0,1.0,1.0,0.0,Sanger sequencing,MIC 128 mg/L,INCLUDE,NO,,pending
+M0412,R05646,C1,UPC2,UPC2,Q313H,,False,False,False,Q313H (not previously described),mutation,39.0,1.0,1.0,0.0,Sanger sequencing,MIC 128 mg/L,INCLUDE,NO,,pending
 M0413,R05646,C1,ERG3,ERG3,S112G,,False,False,False,S112G (not previously described),mutation,39.0,,5.0,,Sanger sequencing,5/27 resistant (MIC 32-256); also detected in susceptible (number not reported),INCLUDE,NO,,pending
-M0414,R05646,C1,ERG3,ERG3,A48S,,False,False,False,A48S (not previously described),mutation,39.0,1.0,1.0,0.0,Sanger sequencing,CMI 64 mg/L,INCLUDE,NO,,pending
+M0414,R05646,C1,ERG3,ERG3,A48S,,False,False,False,A48S (not previously described),mutation,39.0,1.0,1.0,0.0,Sanger sequencing,MIC 64 mg/L,INCLUDE,NO,,pending
 M0415,R05646,C1,ERG11,ERG11,,,False,False,False,overexpression (~2×; 14.48 vs 7.109),overexpression,39.0,,,,"RT-qPCR (2^-ΔΔCt, ACT1)","Higher mean expression in non-susceptible (n=28) than in susceptible (n=11), p=0.003 (abstract) / 0.03 (text)",INCLUDE,NO,,pending
 M0416,R05646,C1,UPC2,UPC2,,,False,False,False,overexpression (~2.3×; 1.922 vs 0.832),overexpression,39.0,,,,RT-qPCR,"Non-susceptible vs susceptible, p=0.04",INCLUDE,NO,,pending
 M0417,R05646,C1,MRR1,MRR1,,,False,False,False,underexpression (0.903 vs 1.347),other,39.0,,,,RT-qPCR,"Lower in non-susceptible isolates, p=0.007; MDR1, CDR1, CDR2, CDR3, ERG3, CYTb without difference",INCLUDE,NO,,pending
@@ -572,7 +572,7 @@ M0570,O04077,C1,UPC2,UPC2,,,False,False,False,UPC2-1029,mutation,109.0,3.0,,,MAL
 M0571,O04077,C1,ERG11,ERG11,,,False,False,False,ERG11-433,mutation,109.0,2.0,,,MALDI-TOF MS (multi-SNP panel) with Sanger confirmation,"Data from the response to reviewers (revised manuscript, lines 162-163); the authors state that all isolates with mutations were azole resistant, but without denominators of resistant ones. Nucleotide change not specified.",DOUBTFUL,NO,,pending
 M0572,R08440,C1,ERG11,ERG11,,,False,False,False,Gene presence detected by qualitative PCR,other,5.0,0.0,0.0,0.0,Qualitative PCR (published primers),'None of the C. tropicalis isolates were positive for the Erg11 gene'; not mutation detection; 2 of the 5 isolates were R to fluconazole,INCLUDE,YES,,pending
 M0573,R08547,C1,FKS1,FKS1,,,False,False,False,"F641 (HS1, start)",mutation,10.0,2.0,2.0,0.0,Sanger sequencing of FKS hotspots,Associated with ibrexafungerp MIC 4->4 mg/L,INCLUDE,DOUBTFUL,,pending
-M0574,R08547,C1,FKS1,FKS1,,,False,False,False,"S645 (HS1, center)",mutation,10.0,7.0,7.0,0.0,Sanger sequencing of FKS hotspots,"CMI ibrexafungerp 0.12->4 mg/L, MG 1.35",INCLUDE,DOUBTFUL,,pending
+M0574,R08547,C1,FKS1,FKS1,,,False,False,False,"S645 (HS1, center)",mutation,10.0,7.0,7.0,0.0,Sanger sequencing of FKS hotspots,"MIC ibrexafungerp 0.12->4 mg/L, MG 1.35",INCLUDE,DOUBTFUL,,pending
 M0575,R08547,C1,FKS1,FKS1,L642Y; D648Y,,True,False,False,"L642Y + D648Y (HS1, start and end)",mutation,10.0,1.0,1.0,0.0,Sanger sequencing of FKS hotspots,Double mutation in one isolate (counted as D648 in the results count),INCLUDE,DOUBTFUL,,pending
 M0576,O17723,C1,ERG11,ERG11,,,False,False,False,overexpression 18.0× after exposure to fluconazole,overexpression,1.0,1.0,1.0,0.0,"RT-qPCR (2^-ΔΔCt, ACT1)","Isolate NOS-092-Ct (central venous catheter, septic patient), FLZ-R; inducible expression vs. drug-free control",INCLUDE,YES,,pending
 M0577,O17723,C1,MDR1,MDR1,,,False,False,False,reduced expression 0.23× after exposure to fluconazole,other,1.0,0.0,0.0,0.0,"RT-qPCR (2^-ΔΔCt, ACT1)",Same isolate NOS-092-Ct; without overexpression (underexpression),INCLUDE,YES,,pending

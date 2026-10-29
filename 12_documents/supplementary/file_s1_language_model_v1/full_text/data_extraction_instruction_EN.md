@@ -3,8 +3,8 @@
 English translation of the instruction given to the language model for data extraction (Spanish
 original `INSTRUCCIONES_EXTRACCION.md`, SHA-256
 a87f47fed9302e25e0dee9db67a24442a2caf0cfd981d2e5da5cfcd1767f9dca). Field names and response values
-are kept as in the original, with their English meaning in brackets, because they are the keys of
-the model output.
+are given in English, with the column names of the deposited extraction workbook; the literal keys
+and values of the original, which are those the model wrote, are listed in the table at the end.
 
 **Title:** *Multicompartment distribution and dynamics of the antifungal resistome of Candida
 tropicalis, with emphasis on the azole-resistant clade 4.*
@@ -17,89 +17,78 @@ You are a data extractor. For each assigned article read the full text in `criba
 text with Read (in parts if it is long); use Grep to locate tables and terms ("tropicalis",
 "Table", "MIC", "resistant", "ERG11", "MLST", "clade"). Extract ONLY data on *Candida tropicalis*
 (not on other species). Do not invent: if a piece of information is not there, use null. If you
-convert percentages into absolute numbers, say so in `nota` [note] ("calculated from %").
+convert percentages into absolute numbers, say so in `note` ("calculated from %").
 
 ## What to extract
 
-### 1. `estudio` [study] (one object)
-- `decision_final` [final decision]: "INCLUIR" | "EXCLUIR" | "DUDOSO" [include | exclude | doubtful]:
-  confirm or correct the screening decision after reading the full text; if you change it, explain
-  why in `motivo_cambio` [reason for change].
-- `diseno` [design]: cross-sectional, cohort, surveillance, outbreak, case series, case report,
-  experimental with field isolates...
-- `pais` [country] (list), `region_ciudad` [region or city], `entorno` [setting] (e.g. tertiary
-  hospital, ICU, poultry farm, orchard, river, treatment plant).
-- `multicentrico` [multicentre] (SI/NO), `n_centros` [number of centres].
-- `periodo_inicio`, `periodo_fin` [start and end of period] (year of isolate collection; null if not stated).
-- `compartimentos` [compartments] (list C1–C6, see below) and `fuentes_detalle` [source details]
-  (text: type of sample by compartment).
-- `poblacion` [population] (e.g. oncology patients, neonates, poultry) and `infeccion_tipo`
-  [infection type] (invasive / non-invasive / colonisation / environmental).
+### 1. `study` (one object)
+- `decision_final`: "INCLUDE" | "EXCLUDE" | "DOUBTFUL": confirm or correct the screening decision
+  after reading the full text; if you change it, explain why in `change_reason`.
+- `design`: cross-sectional, cohort, surveillance, outbreak, case series, case report, experimental
+  with field isolates...
+- `country` (list), `region_city`, `environment` [setting] (e.g. tertiary hospital, ICU, poultry farm,
+  orchard, river, treatment plant).
+- `multicentre` (YES/NO), `n_centres`.
+- `period_start`, `period_end` (year of isolate collection; null if not stated).
+- `compartments` (list C1–C6, see below) and `source_details` (text: type of sample by compartment).
+- `population` (e.g. oncology patients, neonates, poultry) and `infection_type` (invasive /
+  non-invasive / colonisation / environmental).
 - `n_tropicalis_total` (number of *C. tropicalis* isolates) and `n_candida_total` (all *Candida*, if stated).
-- `metodo_identificacion` [identification method] (phenotypic / chromogenic / API / Vitek /
-  MALDI-TOF / ITS or D1/D2 sequencing / PCR).
-- `metodo_sensibilidad` [susceptibility method] (CLSI microdilution, EUCAST, Sensititre YeastOne,
-  Vitek 2, E-test, disc diffusion, ATB Fungus...).
-- `norma_documento` and `norma_version` [standard document and version] (e.g. CLSI M27-A3 + M27-S4;
-  M60 1st ed.; EUCAST E.Def 7.3.2 / breakpoints v10), `tipo_punto_corte` [breakpoint type]
-  (clinical CBP / ECV-ECOFF / author-defined).
-- `exposicion_azoles` [azole exposure]: documented prior exposure to azoles (fluconazole prophylaxis
-  or treatment in patients; use of agricultural azole fungicides, such as tebuconazole,
-  propiconazole or difenoconazole, in the environment; none; not stated). Describe briefly.
-- `fungicidas_agricolas_probados` [agricultural fungicides tested]: if susceptibility to
-  agricultural azoles was tested, which ones.
-- `ic8` (SI/NO): standard and version identifiable, or individual MICs or their distribution reported.
-- `apto_metaanalisis` [eligible for meta-analysis] (SI/NO/DUDOSO): IC4 with denominators by
-  antifungal agent + IC8.
-- `confianza` [confidence] (high/medium/low) and `observaciones` [observations] (limitations, biases,
-  ambiguous data).
+- `identification_method` (phenotypic / chromogenic / API / Vitek / MALDI-TOF / ITS or D1/D2
+  sequencing / PCR).
+- `susceptibility_method` (CLSI microdilution, EUCAST, Sensititre YeastOne, Vitek 2, E-test, disc
+  diffusion, ATB Fungus...).
+- `standard_document` and `standard_version` (e.g. CLSI M27-A3 + M27-S4; M60 1st ed.; EUCAST E.Def
+  7.3.2 / breakpoints v10), `breakpoint_type` (clinical CBP / ECV-ECOFF / author-defined).
+- `azole_exposure`: documented prior exposure to azoles (fluconazole prophylaxis or treatment in
+  patients; use of agricultural azole fungicides, such as tebuconazole, propiconazole or
+  difenoconazole, in the environment; none; not stated). Describe briefly.
+- `agricultural_fungicides_tested`: if susceptibility to agricultural azoles was tested, which ones.
+- `ic8` (YES/NO): standard and version identifiable, or individual MICs or their distribution reported.
+- `meta_analysis_eligible` (YES/NO/DOUBTFUL): IC4 with denominators by antifungal agent + IC8.
+- `confidence` (high/medium/low) and `comments` (limitations, biases, ambiguous data).
 
-### 2. `resistencia` [resistance] (list; one row per compartment × source × period × antifungal agent)
+### 2. `resistance` (list; one row per compartment × source × period × antifungal agent)
 For each antifungal agent tested on *C. tropicalis*:
-`compartimento` [compartment], `fuente` [source] (e.g. blood, urine, vagina, bird faeces, soil),
-`periodo` [period] (if the article stratifies by year or period; otherwise null), `antifungico`
-[antifungal agent] (in Spanish: fluconazol, voriconazol, itraconazol, posaconazol, isavuconazol,
-ketoconazol, miconazol, clotrimazol, anfotericina B, caspofungina, micafungina, anidulafungina,
-5-flucitosina, nistatina, terbinafina, azol agrícola...), `metodo` [method], `norma` [standard],
-`n_probados` [tested], `n_S`, `n_SDD_I` (susceptible dose-dependent or intermediate), `n_R`, `n_NWT`
-(non-wild-type by ECV), `cmi_rango` [MIC range], `cmi50`, `cmi90`, `cmi_mg` [geometric mean MIC],
-`unidad` [unit] (µg/mL), `nota` [note].
+`compartment`, `source` (e.g. blood, urine, vagina, bird faeces, soil), `period` (if the article
+stratifies by year or period; otherwise null), `antifungal` (fluconazole, voriconazole,
+itraconazole, posaconazole, isavuconazole, ketoconazole, miconazole, clotrimazole, amphotericin B,
+caspofungin, micafungin, anidulafungin, 5-flucytosine, nystatin, terbinafine, agricultural azole...),
+`method`, `standard`, `n_tested`, `n_S`, `n_SDD_I` (susceptible dose-dependent or intermediate),
+`n_R`, `n_NWT` (non-wild-type by ECV), `mic_range`, `mic50`, `mic90`, `mic_gm` (geometric mean MIC),
+`unit` (µg/mL), `note`.
 If the article gives only % and the denominator, calculate the counts. If isolates from several
-compartments are reported together without separation, use `compartimento` = "mixto" [mixed] and
-explain it in `nota`. If individual MICs per isolate are reported, summarise them (range, MIC50/90)
-and write "individual MICs" in `nota`.
+compartments are reported together without separation, use `compartment` = "mixed" and explain it in
+`note`. If individual MICs per isolate are reported, summarise them (range, MIC50/90) and write
+"individual MICs" in `note`.
 
 ### 3. `molecular` (list; one row per compartment × gene × alteration)
 Resistance determinants: mutations and overexpression.
-`compartimento`, `gen` [gene] (ERG11, ERG3, ERG5, UPC2, TAC1, MRR1, CDR1, CDR2, MDR1, FKS1, FKS2,
-others), `alteracion` [alteration] (e.g. Y132F, S154F, Y257H, G464S, aneuploidy, 4× overexpression,
-loss of heterozygosity), `tipo` [type] (mutation / overexpression / other), `n_examinados` [examined],
-`n_con_alteracion` [with the alteration], `n_resistentes_con_alteracion` [resistant with the
-alteration], `n_sensibles_con_alteracion` [susceptible with the alteration], `metodo` (Sanger
-sequencing, WGS, qRT-PCR...), `nota`.
+`compartment`, `gene` (ERG11, ERG3, ERG5, UPC2, TAC1, MRR1, CDR1, CDR2, MDR1, FKS1, FKS2, others),
+`alteration` (e.g. Y132F, S154F, Y257H, G464S, aneuploidy, 4× overexpression, loss of
+heterozygosity), `type` (mutation / overexpression / other), `n_examined`, `n_with_alteration`,
+`n_resistant_with_alteration`, `n_susceptible_with_alteration`, `method` (Sanger sequencing, WGS,
+qRT-PCR...), `note`.
 
-### 4. `genotipo` [genotype] (list; one row per compartment × genetic type)
-`compartimento`, `metodo` (MLST, microsatellites, WGS/SNP, RAPD, PFGE...), `n_tipificados` [typed],
-`tipo` [type] (DST/ST/genotype/clade/cluster/clonal complex exactly as reported by the authors),
-`n_aislados` [isolates], `n_resistentes_azoles` [azole-resistant isolates of that type],
-`clado_reportado` [reported clade] (literal text: e.g. "clade 4", "cluster 4", "CC2",
-"fluconazole-resistant clone", "genotype XYZ"), `nota`.
+### 4. `genotype` (list; one row per compartment × genetic type)
+`compartment`, `method` (MLST, microsatellites, WGS/SNP, RAPD, PFGE...), `n_typed`, `type`
+(DST/ST/genotype/clade/cluster/clonal complex exactly as reported by the authors), `n_isolates`,
+`n_azole_resistant` (azole-resistant isolates of that type), `reported_clade` (literal text: e.g.
+"clade 4", "cluster 4", "CC2", "fluconazole-resistant clone", "genotype XYZ"), `note`.
 
-### 5. `clado4` [clade 4] (one object)
+### 5. `clade4` (one object)
 Emphasis of the title: the azole-resistant MLST clade or cluster of *C. tropicalis* (described
 mainly in China and Taiwan, also in isolates from animals, fruit and soil).
-- `menciona` [mentions] (SI/NO): the article identifies isolates belonging to clade 4, to a
-  cluster, clone or DST explicitly associated with azole resistance, or discusses that clade.
-- `n_aislados_clado4` [clade 4 isolates], `n_resistentes_azoles_clado4` [azole-resistant clade 4
-  isolates], `compartimentos_clado4` [clade 4 compartments] (list), `dst_st` (list of DST/ST
-  assigned by the authors to the clade or clone).
-- `evidencia` [evidence] (short verbatim quotation) and `nota`.
+- `mentions` (YES/NO): the article identifies isolates belonging to clade 4, to a cluster, clone or
+  DST explicitly associated with azole resistance, or discusses that clade.
+- `n_clade4_isolates`, `n_azole_resistant_clade4`, `compartments_clade4` (list), `dst_st` (list of
+  DST/ST assigned by the authors to the clade or clone).
+- `evidence` (short verbatim quotation) and `note`.
 
-### 6. `dinamica` [dynamics] (list; only if the article reports change over time)
+### 6. `dynamics` (list; only if the article reports change over time)
 Trends over time, by compartment and antifungal agent:
-`compartimento`, `antifungico` (or "prevalence of *C. tropicalis*"), `periodo`, `n_probados`, `n_R`
-(or n with the event), `descripcion` [description] (e.g. "fluconazole R rose from 5% (2010-12) to
-20% (2016-18)").
+`compartment`, `antifungal` (or "prevalence of *C. tropicalis*"), `period`, `n_tested`, `n_R` (or n
+with the event), `description` (e.g. "fluconazole R rose from 5% (2010-12) to 20% (2016-18)").
 
 ## Compartments
 C1 human (invasive or non-invasive clinical, colonisation, carriage in exposed healthy people) ·
@@ -113,7 +102,32 @@ Write with Write a JSON file (a list; one object per article in the order of the
 given:
 ```json
 [{"stem": "...", "idx": 0, "id": "O04261",
-  "estudio": {...}, "resistencia": [...], "molecular": [...], "genotipo": [...],
-  "clado4": {...}, "dinamica": [...]}]
+  "study": {...}, "resistance": [...], "molecular": [...], "genotype": [...],
+  "clade4": {...}, "dynamics": [...]}]
 ```
-Valid JSON; numbers as integers or decimals (not text); empty lists when there are no data; text in Spanish.
+Valid JSON; numbers as integers or decimals (not text); empty lists when there are no data. The
+original asked for text in Spanish; the model outputs were translated into English for the deposit,
+except verbatim quotations, which keep the language of the article.
+
+## Keys and values of the original instruction
+
+| In this document | In the original (written by the model) |
+|---|---|
+| YES / NO / DOUBTFUL | SI / NO / DUDOSO |
+| INCLUDE / EXCLUDE / DOUBTFUL | INCLUIR / EXCLUIR / DUDOSO |
+| "mixed" | "mixto" |
+| `study`, `resistance`, `genotype`, `clade4`, `dynamics` | `estudio`, `resistencia`, `genotipo`, `clado4`, `dinamica` |
+| `change_reason`, `design`, `country`, `region_city`, `environment` | `motivo_cambio`, `diseno`, `pais`, `region_ciudad`, `entorno` |
+| `multicentre`, `n_centres`, `period_start`, `period_end` | `multicentrico`, `n_centros`, `periodo_inicio`, `periodo_fin` |
+| `compartments`, `source_details`, `population`, `infection_type` | `compartimentos`, `fuentes_detalle`, `poblacion`, `infeccion_tipo` |
+| `identification_method`, `susceptibility_method` | `metodo_identificacion`, `metodo_sensibilidad` |
+| `standard_document`, `standard_version`, `breakpoint_type` | `norma_documento`, `norma_version`, `tipo_punto_corte` |
+| `azole_exposure`, `agricultural_fungicides_tested` | `exposicion_azoles`, `fungicidas_agricolas_probados` |
+| `meta_analysis_eligible`, `confidence`, `comments` | `apto_metaanalisis`, `confianza`, `observaciones` |
+| `compartment`, `source`, `period`, `antifungal`, `method`, `standard`, `note` | `compartimento`, `fuente`, `periodo`, `antifungico` (names in Spanish), `metodo`, `norma`, `nota` |
+| `n_tested`, `mic_range`, `mic50`, `mic90`, `mic_gm`, `unit` | `n_probados`, `cmi_rango`, `cmi50`, `cmi90`, `cmi_mg`, `unidad` |
+| `gene`, `alteration`, `type`, `n_examined` | `gen`, `alteracion`, `tipo`, `n_examinados` |
+| `n_with_alteration`, `n_resistant_with_alteration`, `n_susceptible_with_alteration` | `n_con_alteracion`, `n_resistentes_con_alteracion`, `n_sensibles_con_alteracion` |
+| `n_typed`, `n_isolates`, `n_azole_resistant`, `reported_clade` | `n_tipificados`, `n_aislados`, `n_resistentes_azoles`, `clado_reportado` |
+| `mentions`, `n_clade4_isolates`, `n_azole_resistant_clade4`, `compartments_clade4`, `evidence` | `menciona`, `n_aislados_clado4`, `n_resistentes_azoles_clado4`, `compartimentos_clado4`, `evidencia` |
+| `description` | `descripcion` |

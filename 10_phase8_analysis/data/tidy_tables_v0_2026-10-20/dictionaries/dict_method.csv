@@ -358,7 +358,7 @@ MBEC50/MBEC80 in biofilm (XTT),2,biofilm_susceptibility_not_resistance
 Sensititre YeastOne YO-10 (microdilution),2,commercial_microdilution_SYO
 VITEK 2C / microdilution,2,commercial_automated_VITEK2
 Vitek,2,commercial_automated_VITEK2
-Vitek 2 (CMI automatizada),2,commercial_automated_VITEK2
+Vitek 2 (automated MIC),2,commercial_automated_VITEK2
 Vitek 2 / Etest / MTS / Sensititre YeastOne / EUCAST microdilution,2,commercial_microdilution_SYO
 agar diffusion (own method),2,disk_diffusion
 Disk diffusion (2009-2014) + Sensititre YeastOne (2014-2018),2,commercial_microdilution_SYO

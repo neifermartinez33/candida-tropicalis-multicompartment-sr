@@ -46,6 +46,7 @@
 *.ris
 /04_phase2_calibration/results/calibration_CAL1_discrepancies.csv
 /04_phase2_calibration/results/calibration_CAL1_consensus.xlsx
+/04_phase2_calibration/results/calibration_CAL1_consensus_adjusted.xlsx
 /08_phase6_data_extraction/verification/round2_2026-10-24/make_verification_books_v1_2026-10-24T180801.json
 # never
 __pycache__/

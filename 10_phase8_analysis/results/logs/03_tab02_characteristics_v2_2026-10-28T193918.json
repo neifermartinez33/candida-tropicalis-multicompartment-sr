@@ -1,0 +1,61 @@
+{
+ "script": "03_tab02_characteristics_v2.py",
+ "mode": "FINAL",
+ "run_time": "2026-10-28T19:39:18-05:00",
+ "python": "3.12.15",
+ "pandas": "3.0.6",
+ "xlsxwriter": "3.2.9",
+ "inputs": {
+  "studies": {
+   "path": "10_phase8_analysis/data/analysis_dataset_v3_2026-10-28T193035/studies.csv",
+   "md5": "2d6b552567e6662891c71f80f0e8cd39"
+  },
+  "ast": {
+   "path": "10_phase8_analysis/data/analysis_dataset_v3_2026-10-28T193035/ast.csv",
+   "md5": "71a43a6aa8dcde1951c027eed164fbd7"
+  },
+  "molecular": {
+   "path": "10_phase8_analysis/data/analysis_dataset_v3_2026-10-28T193035/molecular.csv",
+   "md5": "afbb2893b1a4921d13215fcc704770ad"
+  },
+  "genotypes": {
+   "path": "10_phase8_analysis/data/analysis_dataset_v3_2026-10-28T193035/genotypes.csv",
+   "md5": "f7fdee5e5ba5eaa57b97fe235dc2ffd7"
+  },
+  "lookup": {
+   "path": "10_phase8_analysis/data/lookups/compartments_v1.csv",
+   "md5": "acbd2e7549ac4c1ea175abe558f6effd"
+  },
+  "ec12": {
+   "path": "10_phase8_analysis/results/ec12_collections_v2_2026-10-28T193046.csv",
+   "md5": "1fe86eab32fe9bfbd457af5669a23eb0"
+  }
+ },
+ "allocation": {
+  "isolate_groups_multicompartment_v1_2026-10-21.xlsx": "a5acfa0e39d74c57ab09e536630707e6",
+  "isolate_groups_multicompartment_v2_2026-10-24T180814.xlsx": "5b609110e2467c1dedd6ae61fce6d2dd",
+  "isolate_groups_multicompartment_v3_2026-10-26.xlsx": "b67c32e04dde79229fe8479c549ed6de"
+ },
+ "outputs": {
+  "tab02_characteristics_v2_2026-10-28T193918.xlsx": "ce6f2dcb760a5435de06b2ebc45a49db",
+  "tab02_characteristics_v2_2026-10-28T193918.csv": "041e4d45491a742cf6236f4bc8e5524e",
+  "collection_compartment_v2_2026-10-28T193918.csv": "818eee3ee23477d3022ee0fc71cbb255"
+ },
+ "collections": 3000,
+ "reports": 3235,
+ "collections_by_column": {
+  "C1": 2796,
+  "C2": 127,
+  "C3": 21,
+  "C4": 22,
+  "C5": 24,
+  "C6": 32,
+  "not_allocated": 7,
+  "ALL": 3000
+ },
+ "status_counts": {
+  "single": 2953,
+  "allocated": 69,
+  "not_separable": 7
+ }
+}

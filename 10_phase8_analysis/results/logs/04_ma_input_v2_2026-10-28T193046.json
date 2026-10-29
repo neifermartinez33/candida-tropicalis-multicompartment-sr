@@ -1,0 +1,153 @@
+{
+ "script": "04_ma_input_v2.py",
+ "mode": "FINAL",
+ "run_time": "2026-10-28T19:30:46-05:00",
+ "python": "3.12.15",
+ "pandas": "3.0.6",
+ "inputs": {
+  "rules": {
+   "path": "10_phase8_analysis/analysis_rules_v4_2026-10-24.md",
+   "md5": "a2e7e7b72e3731c398e1cb0486626b9d"
+  },
+  "decisions": {
+   "path": "10_phase8_analysis/team_decisions_2026-10-24.md",
+   "md5": "3bd875e45cbdb4b35ec2bd78eef029eb"
+  },
+  "matrix": {
+   "path": "10_phase8_analysis/applicability/cbp_applicability_v1_2026-10-24.csv",
+   "md5": "e27852232d0573c859d9c8c3af8610c7"
+  },
+  "studies": {
+   "path": "10_phase8_analysis/data/analysis_dataset_v3_2026-10-28T193035/studies.csv",
+   "md5": "2d6b552567e6662891c71f80f0e8cd39"
+  },
+  "ast": {
+   "path": "10_phase8_analysis/data/analysis_dataset_v3_2026-10-28T193035/ast.csv",
+   "md5": "71a43a6aa8dcde1951c027eed164fbd7"
+  },
+  "merges": {
+   "path": "10_phase8_analysis/data/analysis_dataset_v3_2026-10-28T193035/collection_merges.csv",
+   "md5": "a5944d6a47e61f62b15cc6c7ab12e139"
+  },
+  "candidates": {
+   "path": "10_phase8_analysis/data/tidy_tables_v0_2026-10-20/collection_candidates.csv",
+   "md5": "f593c437b564bc7643663942623c0c16"
+  },
+  "reports": {
+   "path": "10_phase8_analysis/data/tidy_tables_v0_2026-10-20/reports.csv",
+   "md5": "396c2811aa51b064c9611a63b3f7add0"
+  },
+  "reports_r3": {
+   "path": "10_phase8_analysis/data/tidy_tables_r3_reference_check_v1_2026-10-27/reports.csv",
+   "md5": "969e962478763500d4fafad06257eb05"
+  }
+ },
+ "outputs": {
+  "ma_input_v2_2026-10-28T193046.csv": "1691408ffa5dca38d1d54446aac7d136",
+  "ma_strata_v2_2026-10-28T193046.csv": "f1d640db48968cf147a8784e6174fd6e",
+  "ec12_collections_v2_2026-10-28T193046.csv": "1fe86eab32fe9bfbd457af5669a23eb0",
+  "ar10_sums_v2_2026-10-28T193046.csv": "d2cf63dd2de8029bff3dda7dbf3a5526",
+  "verification_coverage_v2_2026-10-28T193046.csv": "0446f0ea651e2553dd5729d4fd633d40"
+ },
+ "excluded_rows_by_reason": {
+  "AR9 biofilm or undeclared method": 11,
+  "R: version_not_inferable": 256,
+  "R: D4 NO (CLSI M44-A)": 215,
+  "R: D4 NO (CLSI M27-A2)": 131,
+  "R: D4 NO (CLSI M27-A3)": 129,
+  "R: D4 NO (CLSI M27-S4)": 110,
+  "R: author_breakpoint": 110,
+  "R: D4 NS_only (CLSI M27-A3)": 109,
+  "R: D4 NO (CLSI M44-A2)": 105,
+  "R: mixed_standard": 84,
+  "NWT: ecv_source_not_identifiable": 66,
+  "R: D4 NO (CLSI M60)": 59,
+  "R: Rule 4 (no version and no MIC)": 54,
+  "R: D4 NO (CLSI M27-A)": 48,
+  "R: D4 NO (CLSI M27 4th ed)": 38,
+  "R: D4 NO (CLSI M27-S3)": 27,
+  "R: D4 UNVERIFIED (CLSI M44 3rd ed)": 21,
+  "R: D4 NS_only (CLSI M27-S3)": 20,
+  "R: D4 NO (CLSI CLSI_SS, by years: M44 3rd ed)": 19,
+  "R: D4 UNVERIFIED (CLSI M60_disk)": 18,
+  "R: D4 NO (CLSI M27M44S)": 17,
+  "R: D4 UNVERIFIED (CLSI CLSI_SS, by years: M44 3rd ed)": 16,
+  "R: D4 NO (CLSI CLSI_SS, by years: M27-S4)": 16,
+  "R: D4 UNVERIFIED (EUCAST by years (pre-4.1))": 15,
+  "R: D4 NO (CLSI M60 2nd ed)": 14,
+  "R: D4 NO (CLSI M44-S3)": 14,
+  "NWT: no_ecv_for_agent": 13,
+  "R: D4 NO (CLSI CLSI_pre2012, by years: M44-A2,M44-S3)": 12,
+  "R: D4 NO (CLSI CLSI_pre2012, by years: M44-S3)": 12,
+  "R: D4 NO (CLSI M44 3rd ed)": 11,
+  "R: D4 NO (CLSI CLSI_SS, by years: M60,M27 4th ed)": 8,
+  "R: D4 AMBIGUOUS (EUCAST by years (the cells in force (4.1,5.0,6.1,7.0,pre-4.1) difieren))": 7,
+  "R: D4 NS_only (CLSI M44-A2)": 6,
+  "R: D4 NO (CLSI CLSI_pre2012, by years: M27-A2)": 6,
+  "R: D4 NO (CLSI CLSI_SS, by years: M27M44S)": 5,
+  "R: D4 NO (CLSI CLSI_SS, by years: M60 2nd ed,M27M44S)": 5,
+  "R: D4 NO (CLSI CLSI_pre2012, by years: M44-A,M44-A2,M44-S3)": 5,
+  "R: D4 AMBIGUOUS (EUCAST by years (the cells in force (4.1,pre-4.1) difieren))": 5,
+  "R: D4 NO (CLSI M60_disk)": 5,
+  "R: D4 NO (CLSI CLSI_pre2012, by years: M27-S3)": 5,
+  "R: D4 NO (declared breakpoints without a document of the regime with a breakpoint)": 5,
+  "R: D4 IE (EUCAST v10.0)": 4,
+  "R: D4 NO (CLSI CLSI_pre2012, by years: M44-A)": 4,
+  "R: D4 NO (EUCAST by years (pre-4.1))": 4,
+  "R: D4 AMBIGUOUS (EUCAST by years (the cells in force (4.1,5.0,6.1,7.0,8.0,pre-4.1) difieren))": 4,
+  "R: D4 NO (CLSI M27-P)": 4,
+  "R: D4 IE (EUCAST by years (9.0,10.0))": 3,
+  "R: D4 IE (EUCAST v7.0)": 3,
+  "R: D4 AMBIGUOUS (EUCAST by years (the cells in force (4.1,5.0,6.1,pre-4.1) difieren))": 3,
+  "NWT: mixed_standard": 3,
+  "R: D4 NO (EUCAST by years (9.0,10.0))": 2,
+  "R: D4 NO (EUCAST by years (10.0))": 2,
+  "R: D4 AMBIGUOUS (CLSI CLSI_pre2012, by years: the cells in force (M44-A,M44-A2,M44-S3) difieren)": 2,
+  "R: D4 NO (EUCAST by years (8.0))": 2,
+  "R: D4 NO (CLSI CLSI_pre2012, by years: M27-A2,M27-A3,M27-S3)": 2,
+  "R: D4 NS_only (CLSI CLSI_pre2012, by years: M27-S3)": 2,
+  "R: D4 NO (EUCAST by years (8.1,9.0))": 2,
+  "R: D4 NO (EUCAST by years (8.0,8.1,9.0))": 2,
+  "R: D4 IE (EUCAST by years (8.0,8.1,9.0))": 2,
+  "R: D4 NO (CLSI CLSI_pre2012, by years: M27-P,M27-T)": 2,
+  "R: D4 IE (EUCAST by years (7.0,8.0))": 2,
+  "R: D4 NO (CLSI CLSI_pre2012, by years: M27-A)": 2,
+  "R: D4 NS_only (CLSI CLSI_pre2012, by years: M27-A3,M27-S3)": 2,
+  "R: D4 NO (EUCAST by years (9.0))": 1,
+  "R: D4 IE (EUCAST by years (9.0))": 1,
+  "R: D4 NO (EUCAST v5.0)": 1,
+  "R: D4 NO (EUCAST v7.0)": 1,
+  "R: D4 NO (EUCAST v9.0)": 1,
+  "R: D4 AMBIGUOUS (EUCAST by years (the cells in force (10.0,11.0,12.0) difieren))": 1,
+  "R: D4 NO (CLSI M27-T)": 1,
+  "R: D4 NO (EUCAST v8.0)": 1,
+  "R: D4 IE (EUCAST v8.0)": 1,
+  "R: D4 NO (EUCAST by years (10.0,11.0,12.0))": 1,
+  "R: D4 AMBIGUOUS (CLSI CLSI_pre2012, by years: the cells in force (M27-A2,M27-A3,M27-S3) difieren)": 1,
+  "R: D4 AMBIGUOUS (EUCAST by years (the cells in force (10.0,11.0,12.0,12.1) difieren))": 1,
+  "R: D4 NO (CLSI CLSI_SS, by years: M60,M27 4th ed,M60 2nd ed)": 1,
+  "R: D4 NO (CLSI CLSI_pre2012, by years: M27-A,M27-A2)": 1,
+  "R: D4 NO (EUCAST by years (10.0,11.0))": 1,
+  "R: D4 NO (CLSI CLSI_pre2012, by years: M27-A3,M27-S3)": 1,
+  "R: D4 NO (EUCAST v11.0)": 1,
+  "R: D4 NO (EUCAST v10.0)": 1,
+  "R: D4 NS_only (CLSI CLSI_pre2012, by years: M44-S3)": 1,
+  "R: D4 UNVERIFIED (EUCAST v11.0)": 1
+ },
+ "rows": 2816,
+ "rows_sel_main": 2762,
+ "rows_sel_all": 2814,
+ "main_rows": 2496,
+ "ar10_sums": 28,
+ "collections_with_2plus_reports": 118,
+ "reports_in_them": 353,
+ "round2_merges": 222,
+ "strata": 68,
+ "strata_meeting_minimum": 31,
+ "strata_meeting_minimum_by_compartment": {
+  "C1": 24,
+  "C2": 4,
+  "C6": 3
+ },
+ "unverified_main_rows_in_AR12_strata": 0
+}

@@ -902,7 +902,7 @@ ECV (Guangzhou et al. 2013),1,author_or_other,,ECV,not_applicable_or_not_reporte
 "ECV (Pfaller 2011), >0.06 = non-WT",1,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
 ECV (Xiao et al. 2020),1,author_or_other,,ECV,not_applicable_or_not_reported,False,low,True
 ECV (non-wild ≥0.03 µg/mL),1,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
-ECV / R si CMI >1 mg/L,1,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
+ECV / R if MIC >1 mg/L,1,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
 ECV 0.5 µg/mL (Pfaller 2012),1,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
 ECV 2 µg/mL,1,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
 "ECV >0,5 mg/L",1,ECV_source_not_stated,,ECV,not_applicable_or_not_reported,False,low,True
@@ -979,8 +979,8 @@ EUCAST E.Def 7.2 (no cut-off),1,EUCAST,E.Def 7.2,CBP_assumed,EUCAST,False,medium
 EUCAST E.Def 7.2; BP v9.0,1,EUCAST,E.Def 7.2; EUCAST BP v9.0,CBP,EUCAST,False,medium,False
 "EUCAST E.Def 7.2; ECOFF 0,125 / wtUL 0,03 mg/L",1,EUCAST,E.Def 7.2,ECV,EUCAST,False,medium,False
 EUCAST E.Def 7.2; wtUL of the author 0.03 mg/L,1,EUCAST+author_or_other,E.Def 7.2,CBP_assumed,EUCAST,False,low,True
-"EUCAST E.Def 7.3 (R CMI >0,25 mg/L)",1,EUCAST,E.Def 7.3,CBP_assumed,EUCAST,False,medium,False
-EUCAST E.Def 7.3 (R CMI ≥8 mg/L),1,EUCAST,E.Def 7.3,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.3 (R MIC >0.25 mg/L),1,EUCAST,E.Def 7.3,CBP_assumed,EUCAST,False,medium,False
+EUCAST E.Def 7.3 (R MIC ≥8 mg/L),1,EUCAST,E.Def 7.3,CBP_assumed,EUCAST,False,medium,False
 EUCAST E.Def 7.3 + CBP EUCAST,1,EUCAST,E.Def 7.3,CBP,EUCAST,False,medium,False
 "EUCAST E.Def 7.3.1 (CBP >0,032)",1,EUCAST,E.Def 7.3.1,CBP,EUCAST,False,medium,False
 "EUCAST E.Def 7.3.1 (ECOFF 0,06)",1,EUCAST,E.Def 7.3.1,ECV,EUCAST,False,medium,False

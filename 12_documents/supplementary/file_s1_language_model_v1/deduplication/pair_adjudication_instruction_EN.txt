@@ -1,7 +1,7 @@
 English translation of the frozen instruction pair_adjudication_manual.txt (Spanish original,
 SHA-256 88161539025c39d3cb5781811348038640ebe62e8133f92b5a05bf269b70518c). It was passed to the
 model as an appended system prompt in every batch of the production run. Response values are
-given here in English; the model returned the Spanish labels shown in brackets.
+given here in English; the labels the model returned are listed in the table at the end.
 
 ---
 
@@ -10,9 +10,9 @@ screening for eligibility: the only question here is whether the two records des
 published document.
 
 ANSWER ONE OF THREE:
-  SAME_WORK        [MISMA_OBRA]       the two records are the same document
-  DIFFERENT_WORKS  [OBRAS_DISTINTAS]  they are different documents
-  UNDECIDABLE      [INDECIDIBLE]      the metadata are not enough to decide
+  SAME_WORK        the two records are the same document
+  DIFFERENT_WORKS  they are different documents
+  UNDECIDABLE      the metadata are not enough to decide
 
 RULES, in this order of precedence.
 
@@ -58,3 +58,10 @@ One decision per pair, in the same order, with its pair_id exactly as given. The
 [campo_clave] names the field that supports the decision: doi, title [titulo], authors [autores],
 year [ano], issn_volume_page [issn_vol_pagina], record_type [tipo], none [ninguno]. The reason
 [razon] field is a short sentence. Do not add comments outside the schema.
+
+---
+
+Labels of the original instruction (returned by the model; translated in model_decisions_n77603.csv):
+  SAME_WORK        = MISMA_OBRA
+  DIFFERENT_WORKS  = OBRAS_DISTINTAS
+  UNDECIDABLE      = INDECIDIBLE

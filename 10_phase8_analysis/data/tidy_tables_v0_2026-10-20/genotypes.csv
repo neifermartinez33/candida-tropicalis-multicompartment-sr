@@ -570,7 +570,7 @@ G0568,O10968,C1,MALDI-TOF MS (dendrograma MSP),other,18.0,Cluster 3,,3.0,,Cluste
 G0569,O10968,C1,MALDI-TOF MS (dendrograma MSP),other,18.0,not pooled,,6.0,,,False,MALDI-TOF clusters not comparable with MLST clades; the resistant isolate is not assigned to a cluster in the global analysis,INCLUDE,pending
 G0570,O13089,C1,RAPD,other,20.0,not reported (RAPD profiles pooled by species),,20.0,,,False,Principal coordinates analysis on 200 isolates (20 C. tropicalis); intraspecies genotypes are not described,INCLUDE,pending
 G0571,O01571,C1,MLST,MLST,50.0,21 DSTs (8 new); MLST Group I,98,13.0,,"MLST Group I (DST 98, 140 in eBURST cluster 2)",False,"Group I: 8 DST, 13 isolates; azole resistance by group not detailed (only 1 non-S to voriconazole in the entire study)",INCLUDE,pending
-G0572,O01571,C1,MLST,MLST,50.0,MLST group II,164; 169,26.0,0.0,"MLST Group II (incluye DST164 eBURST cluster 17; DST169,170,174,177 eBURST cluster 8)",False,8 DST; all S to fluconazole,INCLUDE,pending
+G0572,O01571,C1,MLST,MLST,50.0,MLST group II,164; 169,26.0,0.0,"MLST Group II (includes DST164 eBURST cluster 17; DST169,170,174,177 eBURST cluster 8)",False,8 DST; all S to fluconazole,INCLUDE,pending
 G0573,O01571,C1,MLST,MLST,50.0,DST164,164; 164,,0.0,DST164 (clone associated with high flucytosine MICs),False,"at least 16 isolates (16/17 non-susceptible to 5-FC) from patients P1,P4,P7,P10; P1 with 12 DST164 isolates; exact n not recovered",INCLUDE,pending
 G0574,O01571,C1,MLST,MLST,50.0,MLST group III,134,11.0,,"MLST Group III (DST 134,175,178,203 in eBURST cluster 1)",False,5 DST,INCLUDE,pending
 G0575,O01571,C1,PFGE (NaeI),other,50.0,43 genotypes; 6 clusters (A-F) and 3 minor groups,,50.0,,,False,significant PFGE-DST correlation,INCLUDE,pending

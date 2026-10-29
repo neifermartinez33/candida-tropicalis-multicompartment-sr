@@ -22,7 +22,7 @@ identifier recorded for each production decision is the one returned by the serv
 ## Deduplication files
 
 - `pair_adjudication_instruction_EN.txt`: the instruction, with the response labels of the original
-  in brackets.
+  listed at the end.
 - `pair_schema_EN.json`: the output schema, with field names and labels in English.
 - `model_decisions_n77603.csv`: one row per candidate pair with the model decision (`SAME_WORK`,
   `DIFFERENT_WORKS`, `UNDECIDABLE`), the field that supported it, the batch, the model identifier
@@ -40,6 +40,7 @@ audited by random samples (200 merged pairs and 1000 non-merged pairs).
 ## Full-text files
 
 - `full_text_screening_instruction_EN.md` and `data_extraction_instruction_EN.md`: the instructions,
-  with the field names of the model output kept as in the original and their meaning in brackets.
+  with the field names and values in English, as in the deposited workbooks, and a table of the
+  literal keys and values of the original at the end of each file.
   The resulting screening and extraction records are `07_phase5_full_text_screening/full_text_screening.xlsx`
   and `08_phase6_data_extraction/data_extraction_tropicalis.xlsx`.

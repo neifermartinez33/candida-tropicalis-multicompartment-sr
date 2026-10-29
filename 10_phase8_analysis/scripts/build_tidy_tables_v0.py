@@ -57,6 +57,7 @@ def period_from_text(p):
 
 WRONG_PDF = r"does not correspond|corresponds to another|another article|another document|wrong pdf|mistaken pdf|downloaded full text corresponds|is not the article|writing manual|style manual|statute|bylaws"
 TABLES_MISSING = r"not in the text|not extracted|absent in the text|absent from the text|not legible|illegible|unreadable|scanned"
+NOTE_FLAGS = "07_phase5_full_text_screening/pdf_status_note_flags_2026-10-20.csv"
 PARTIAL_TEXT = r"only contains|contains only|only available|only the first|only the diagram|only the annex|only the appendix|review report"
 
 def main():
@@ -66,13 +67,25 @@ def main():
     ap.add_argument("--pdf-groups", required=True)
     ap.add_argument("--truncated", required=True)
     ap.add_argument("--doubtful-review", default=None)
+    # (2026-10-28) the PDF flags read from the extraction notes were computed on 2026-10-20 on the original (Spanish)
+    # notes; the notes were later translated and the patterns no longer give the same flags, so the frozen flags are used
+    ap.add_argument("--note-flags", default=NOTE_FLAGS if os.path.exists(NOTE_FLAGS) else None)
     ap.add_argument("--out", required=True)
     a = ap.parse_args()
     os.makedirs(a.out, exist_ok=True)
 
     scr = pd.read_excel(a.screening, sheet_name="All")
     ec12 = pd.read_excel(a.screening, sheet_name="Possible duplicates EC12")
-    X = pd.read_excel(a.extraction, sheet_name=None)
+    # "None" is a value written by the extraction (the translation of "Ninguno"), not a missing cell: pandas reads it as
+    # missing by default, so it is removed from the missing-value strings (2026-10-28)
+    na = ["", "#N/A", "#N/A N/A", "#NA", "-1.#IND", "-1.#QNAN", "-NaN", "-nan", "1.#IND", "1.#QNAN", "<NA>", "N/A", "NA",
+          "NULL", "NaN", "n/a", "nan", "null"]
+    X = pd.read_excel(a.extraction, sheet_name=None, keep_default_na=False, na_values=na)
+    # (2026-10-28) the extraction matrix was translated: English column names, the Spanish ones are still accepted
+    ren = {"antifungico": "antifungal", "cmi50": "mic50", "cmi90": "mic90", "cmi_mg": "mic_gm", "multicentrico": "multicentre",
+           "clado4": "clade4", "gen": "gene", "n_tipificados": "n_typed"}
+    for sh in ("Studies", "Resistance", "Molecular", "Genotype", "Dynamics"):
+        X[sh] = X[sh].rename(columns=ren)
     est, res, mol, gen = X["Studies"], X["Resistance"], X["Molecular"], X["Genotype"]
     grp = pd.read_csv(a.pdf_groups)
     trunc = set(pd.read_csv(a.truncated)["ID"])
@@ -105,9 +118,14 @@ def main():
     rep["pdf_identical_title_similarity"] = [x[2] for x in sh]
     notes = (rep["change_reason"].fillna("") + " || " + rep["comments"].fillna("")).str.lower()
     rep["pdf_truncated"] = rep["ID"].isin(trunc)
-    rep["pdf_wrong_per_notes"] = notes.str.contains(WRONG_PDF, regex=True)
-    rep["tables_missing_per_notes"] = notes.str.contains(TABLES_MISSING, regex=True)
-    rep["partial_text_per_notes"] = notes.str.contains(PARTIAL_TEXT, regex=True)
+    if a.note_flags:
+        fl = pd.read_csv(a.note_flags).set_index("report_id")
+        for c in ("pdf_wrong_per_notes", "tables_missing_per_notes", "partial_text_per_notes"):
+            rep[c] = rep["ID"].map(fl[c]).fillna(False).astype(bool)
+    else:
+        rep["pdf_wrong_per_notes"] = notes.str.contains(WRONG_PDF, regex=True)
+        rep["tables_missing_per_notes"] = notes.str.contains(TABLES_MISSING, regex=True)
+        rep["partial_text_per_notes"] = notes.str.contains(PARTIAL_TEXT, regex=True)
     def pdf_status(r):
         if r.pdf_truncated: return "truncated"
         if r.pdf_wrong_per_notes: return "wrong_document_per_notes"
@@ -148,7 +166,7 @@ def main():
         "extraction_decision": rep["decision_final"], "extraction_change_reason": rep["change_reason"],
         "extraction_ma": rep["meta_analysis_eligible"], "extraction_ic8": rep["ic8"], "extraction_confidence": rep["confidence"],
         "design_raw": rep["design"], "setting_raw": rep["environment"], "programme_institution_raw": rep["Programme/institution"],
-        "multicentre_raw": rep["multicentrico"], "n_centres": rep["n_centres"],
+        "multicentre_raw": rep["multicentre"], "n_centres": rep["n_centres"],
         "country_raw": rep["country"], "country_iso3": rep["country_iso3"], "who_region": rep["who_region"],
         "multinational": rep["multinational"], "country_inferred_flag": rep["country_inferred_flag"],
         "region_city_raw": rep["region_city"], "period_start": rep["period_start"], "period_end": rep["period_end"],
@@ -158,7 +176,7 @@ def main():
         "ast_method_raw": rep["susceptibility_method"], "interp_document_raw": rep["standard_document"],
         "interp_version_raw": rep["standard_version"], "breakpoint_type_raw": rep["breakpoint_type"],
         "azole_exposure_raw": rep["azole_exposure"], "agricultural_azoles_tested_raw": rep["agricultural_fungicides_tested"],
-        "clade4_mentioned": rep["clado4"], "n_rows_ast": rep["resistance_rows"], "n_rows_molecular": rep["molecular_rows"],
+        "clade4_mentioned": rep["clade4"], "n_rows_ast": rep["resistance_rows"], "n_rows_molecular": rep["molecular_rows"],
         "n_rows_genotype": rep["genotype_rows"], "extraction_notes": rep["comments"],
     })
     for c in ["doubtful_review_verdict", "doubtful_review_ec", "doubtful_review_pdf_matches", "doubtful_review_pdf_is", "doubtful_review_confidence"]:
@@ -178,7 +196,7 @@ def main():
     pst = dict(zip(reports.report_id, reports.pdf_status))
     rows = []
     for i, r in res.reset_index(drop=True).iterrows():
-        agent_std, agent_class, per_agent, agent_rule = D.map_agent(nn(r["antifungico"]))
+        agent_std, agent_class, per_agent, agent_rule = D.map_agent(nn(r["antifungal"]))
         ip = D.parse_interpretive(nn(r["standard"]), nn(yr.get(r["ID"])))
         p0, p1 = period_from_text(nn(r["period"]))
         if p0 is None:
@@ -196,11 +214,11 @@ def main():
         rows.append({
             "ast_row_id": f"A{i+1:05d}", "report_id": r["ID"], "compartment": nn(r["compartment"]),
             "source_raw": nn(r["source"]), "period_raw": nn(r["period"]), "period_start": p0, "period_end": p1,
-            "agent_raw": nn(r["antifungico"]), "agent_std": agent_std, "agent_class": agent_class, "per_agent": per_agent,
+            "agent_raw": nn(r["antifungal"]), "agent_std": agent_std, "agent_class": agent_class, "per_agent": per_agent,
             "method_raw": nn(r["method"]), "method_cat": D.map_method(nn(r["method"])),
             "interp_raw": nn(r["standard"]), **ip,
             "n_tested": n, "n_S": sS, "n_SDD_I": sI, "n_R": sR, "n_NWT": nwt, "category_check": chk,
-            "mic_range": nn(r["mic_range"]), "mic50": nn(r["cmi50"]), "mic90": nn(r["cmi90"]), "mic_gm": nn(r["cmi_mg"]),
+            "mic_range": nn(r["mic_range"]), "mic50": nn(r["mic50"]), "mic90": nn(r["mic90"]), "mic_gm": nn(r["mic_gm"]),
             "unit": nn(r["unit"]), "note_raw": nn(r["note"]),
             "extraction_decision": dec.get(r["ID"]), "extraction_ma_row": nn(r["Eligible for MA"]), "pdf_status": pst.get(r["ID"]),
         })
@@ -223,9 +241,9 @@ def main():
     # ---------------------------------------------------------------- molecular
     mrows = []
     for i, r in mol.reset_index(drop=True).iterrows():
-        pdx = D.parse_determinants(nn(r["gen"]), nn(r["alteration"]))
+        pdx = D.parse_determinants(nn(r["gene"]), nn(r["alteration"]))
         mrows.append({"mol_row_id": f"M{i+1:04d}", "report_id": r["ID"], "compartment": nn(r["compartment"]),
-                      "gene_raw": nn(r["gen"]), **pdx, "alteration_raw": nn(r["alteration"]),
+                      "gene_raw": nn(r["gene"]), **pdx, "alteration_raw": nn(r["alteration"]),
                       "mechanism_raw": nn(r["type"]), "n_examined": nn(r["n_examined"]), "n_with": nn(r["n_with_alteration"]),
                       "n_R_with": nn(r["n_resistant_with_alteration"]), "n_S_with": nn(r["n_susceptible_with_alteration"]),
                       "method_raw": nn(r["method"]), "note_raw": nn(r["note"]),
@@ -243,7 +261,7 @@ def main():
         dst = re.findall(r"DST\s?(\d+)", t)
         clade4 = bool(re.search(r"clad[eo] ?4\b|clade iv|\bazr\b", t, re.I)) and not re.search(r"non-?clade 4|not clade 4|no clade 4", t, re.I)
         grows.append({"geno_row_id": f"G{i+1:04d}", "report_id": r["ID"], "compartment": nn(r["compartment"]),
-                      "method_raw": nn(r["method"]), "scheme": scheme, "n_typed": nn(r["n_tipificados"]),
+                      "method_raw": nn(r["method"]), "scheme": scheme, "n_typed": nn(r["n_typed"]),
                       "type_raw": nn(r["type"]), "dst_list": "; ".join(dst) or None, "n_isolates": nn(r["n_isolates"]),
                       "n_azole_R": nn(r["n_azole_resistant"]), "lineage_label_reported": nn(r["reported_clade"]),
                       "clade4_reported": clade4, "note_raw": nn(r["note"]),
@@ -252,11 +270,11 @@ def main():
 
     # ------------------------------------------------------------- dynamics (raw)
     dyn = X["Dynamics"].copy()
-    dyn["row_type"] = np.where(dyn["antifungico"].astype(str).str.contains("prevalencia", case=False),
+    dyn["row_type"] = np.where(dyn["antifungal"].astype(str).str.contains("prevalen", case=False),
                                "species_prevalence_not_an_outcome", "resistance_by_period_to_merge_into_ast")
-    dyn["agent_std"] = [D.map_agent(nn(v))[0] for v in dyn["antifungico"]]
+    dyn["agent_std"] = [D.map_agent(nn(v))[0] for v in dyn["antifungal"]]
     dyn["extraction_decision"] = dyn["ID"].map(dec)
-    dyn = dyn.rename(columns={"ID": "report_id", "compartment": "compartment", "antifungico": "agent_raw",
+    dyn = dyn.rename(columns={"ID": "report_id", "compartment": "compartment", "antifungal": "agent_raw",
                               "period": "period_raw", "n_tested": "n_tested", "description": "description_raw"})
     dyn[["report_id", "compartment", "row_type", "agent_raw", "agent_std", "period_raw", "n_tested", "n_R",
          "description_raw", "extraction_decision"]].to_csv(os.path.join(a.out, "dynamics_raw.csv"), index=False)
@@ -286,7 +304,7 @@ def main():
 
     # -------------------------------------------------------------- dictionaries
     dd = os.path.join(a.out, "dictionaries"); os.makedirs(dd, exist_ok=True)
-    ag = res["antifungico"].dropna().astype(str).value_counts().rename_axis("agent_raw").reset_index(name="n_rows").sort_values(["n_rows", "agent_raw"], ascending=[False, True], ignore_index=True)
+    ag = res["antifungal"].dropna().astype(str).value_counts().rename_axis("agent_raw").reset_index(name="n_rows").sort_values(["n_rows", "agent_raw"], ascending=[False, True], ignore_index=True)
     ag[["agent_std", "agent_class", "per_agent", "rule"]] = ag["agent_raw"].apply(lambda x: pd.Series(D.map_agent(x)))
     ag.to_csv(os.path.join(dd, "dict_agent.csv"), index=False)
     me = res["method"].fillna("").astype(str).value_counts().rename_axis("method_raw").reset_index(name="n_rows").sort_values(["n_rows", "method_raw"], ascending=[False, True], ignore_index=True)

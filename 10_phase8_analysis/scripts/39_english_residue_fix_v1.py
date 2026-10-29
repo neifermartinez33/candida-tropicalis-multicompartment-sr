@@ -43,7 +43,7 @@ RULES = [(re.compile(r"(\d+)\s*\.?\s*ª"), ordinal),
          # (2026-10-28) residue found while preparing the second article (genotype, molecular and source fields)
          (re.compile(r"\b([Cc])lados\b"), r"\1lades"), (re.compile(r"\b([Cc])lado\b"), r"\1lade"),
          (re.compile(r"\bfilogenia bayesiana\b"), "Bayesian phylogeny"), (re.compile(r"\bfilogenia ML\b"), "ML phylogeny"),
-         (re.compile(r"\bfilogenia\b"), "phylogeny"), (re.compile(r"\bGrupo (\d+) eBURST\b"), r"eBURST group \1")]
+         (re.compile(r"\bfilogenia\b"), "phylogeny"), (re.compile(r"\bprevalencia de\b"), "prevalence of"), (re.compile(r"\bGrupo (\d+) eBURST\b"), r"eBURST group \1")]
 # conjunctions only in columns of methods, criteria and places, never in names of institutions
 LISTS = re.compile(r"^(species_id_raw|ast_method_raw|method_raw|interp_raw|region_city_raw|identification_method|"
                    r"susceptibility_method|method|standard|region_city|Identification|Susceptibility method|"

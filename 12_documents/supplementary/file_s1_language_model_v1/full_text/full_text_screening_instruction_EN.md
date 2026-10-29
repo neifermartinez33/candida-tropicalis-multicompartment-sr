@@ -3,8 +3,8 @@
 English translation of the instruction given to the language model for full-text screening
 (Spanish original `INSTRUCCIONES_CRIBADO.md`, SHA-256
 22bb72d4bcf14fb477008d00cbf1c124973cfab59926f2b31446fff4e7f2dd5c). Field names and response values
-are kept as in the original, with their English meaning in brackets, because they are the keys of
-the model output.
+are given in English, with the names used in the deposited screening workbook; the literal keys and
+values of the original, which are those the model wrote, are listed in the table at the end.
 
 ---
 
@@ -70,7 +70,7 @@ antifungal agent, and IC8. Those that meet the general rule but not IC8 are incl
 - EC11 Computational or in silico contribution only, without isolates.
 - EC12 Cohorts or collections duplicated or overlapping between publications of the same
   surveillance programme, institution and period. (Do NOT exclude for EC12 here: only fill in
-  `programa_institucion` and `periodo` so that it can be detected later.)
+  `programme_institution` and `period` so that it can be detected later.)
 - EC13 Systematic reviews, meta-analyses, narrative reviews, clinical guidelines, editorials,
   letters and commentaries without primary data; conference abstracts without extractable data.
   Preprints are NOT excluded.
@@ -81,13 +81,13 @@ IC3 or IC4). EC6 applies only when the study reports susceptibility results with
 criterion and without MICs.
 
 ## Decision
-- INCLUIR [INCLUDE]: meets the inclusion rule and no exclusion applies (except EC5/EC12).
-- EXCLUIR [EXCLUDE]: at least one exclusion clearly applies or a mandatory IC clearly fails. State
-  in `motivo_principal` [main reason] the most decisive code (priority: EC13, EC10, EC11, EC9, EC8,
-  EC1, EC7, EC3, EC4, EC2, EC6).
-- DUDOSO [DOUBTFUL]: the information does not allow a decision (for example a PDF without text,
-  illegible tables, ambiguous criterion). Explain what is missing in `notas` [notes].
-Be rigorous and do not invent: if a piece of information is not there, mark it "NO" or "DUDOSO";
+- INCLUDE: meets the inclusion rule and no exclusion applies (except EC5/EC12).
+- EXCLUDE: at least one exclusion clearly applies or a mandatory IC clearly fails. State in
+  `main_reason` the most decisive code (priority: EC13, EC10, EC11, EC9, EC8, EC1, EC7, EC3, EC4,
+  EC2, EC6).
+- DOUBTFUL: the information does not allow a decision (for example a PDF without text, illegible
+  tables, ambiguous criterion). Explain what is missing in `notes`.
+Be rigorous and do not invent: if a piece of information is not there, mark it "NO" or "DOUBTFUL";
 do not assume it.
 
 ## Output
@@ -98,31 +98,49 @@ order) at the path you are given. Fields of each object:
 {
   "stem": "file name without .md",
   "idx": 0, "id": "O04261",
-  "IC1": "SI|NO|DUDOSO", "IC2": "...", "IC3": "...", "IC4": "...", "IC5": "...", "IC6": "...", "IC7": "...", "IC8": "...",
+  "IC1": "YES|NO|DOUBTFUL", "IC2": "...", "IC3": "...", "IC4": "...", "IC5": "...", "IC6": "...", "IC7": "...", "IC8": "...",
   "EC": ["EC1"],
-  "decision": "INCLUIR|EXCLUIR|DUDOSO",
-  "motivo_principal": "EC13 | or a short phrase",
-  "metaanalisis": "SI|NO|DUDOSO",
-  "compartimentos": ["C1"],
-  "fuente": "e.g. blood cultures from ICU patients",
-  "pais": ["India"],
-  "tipo_estudio": "e.g. retrospective cross-sectional",
-  "metodo_identificacion": "e.g. CHROMagar + MALDI-TOF",
-  "metodo_sensibilidad": "e.g. broth microdilution",
-  "norma_version": "e.g. CLSI M27-A3 / M27-S4",
-  "antifungicos": ["fluconazol", "voriconazol"],
-  "n_aislados_tropicalis": 25,
+  "decision": "INCLUDE|EXCLUDE|DOUBTFUL",
+  "main_reason": "EC13 | or a short phrase",
+  "meta_analysis": "YES|NO|DOUBTFUL",
+  "compartments": ["C1"],
+  "source": "e.g. blood cultures from ICU patients",
+  "country": ["India"],
+  "study_type": "e.g. retrospective cross-sectional",
+  "identification_method": "e.g. CHROMagar + MALDI-TOF",
+  "susceptibility_method": "e.g. broth microdilution",
+  "standard_version": "e.g. CLSI M27-A3 / M27-S4",
+  "antifungals": ["fluconazole", "voriconazole"],
+  "n_tropicalis_isolates": 25,
   "molecular": "e.g. ERG11 Y132F; MLST; clade 4, or empty",
-  "programa_institucion": "e.g. SENTRY; Hospital X",
-  "periodo": "2015-2017",
-  "evidencia": "short verbatim quotations supporting the decision (max. 400 characters)",
-  "notas": "short"
+  "programme_institution": "e.g. SENTRY; Hospital X",
+  "period": "2015-2017",
+  "evidence": "short verbatim quotations supporting the decision (max. 400 characters)",
+  "notes": "short"
 }
 ```
-[SI = yes; metaanalisis = eligible for meta-analysis; compartimentos = compartments; fuente = source;
-pais = country; tipo_estudio = study type; metodo_identificacion = identification method;
-metodo_sensibilidad = susceptibility method; norma_version = standard and version; antifungicos =
-antifungal agents; n_aislados_tropicalis = number of *C. tropicalis* isolates; programa_institucion =
-programme or institution; periodo = period; evidencia = evidence; notas = notes.]
-Free text in Spanish. `n_aislados_tropicalis` is an integer or null. Use valid JSON (double quotes,
-no comments).
+The original asked for free text in Spanish; the model outputs were translated into English for the
+deposit, except verbatim quotations, which keep the language of the article. `n_tropicalis_isolates`
+is an integer or null. Use valid JSON (double quotes, no comments).
+
+## Keys and values of the original instruction
+
+| In this document | In the original (written by the model) |
+|---|---|
+| YES / NO / DOUBTFUL | SI / NO / DUDOSO |
+| INCLUDE / EXCLUDE / DOUBTFUL | INCLUIR / EXCLUIR / DUDOSO |
+| `main_reason` | `motivo_principal` |
+| `meta_analysis` | `metaanalisis` |
+| `compartments` | `compartimentos` |
+| `source` | `fuente` |
+| `country` | `pais` |
+| `study_type` | `tipo_estudio` |
+| `identification_method` | `metodo_identificacion` |
+| `susceptibility_method` | `metodo_sensibilidad` |
+| `standard_version` | `norma_version` |
+| `antifungals` | `antifungicos` (names in Spanish, e.g. fluconazol, voriconazol) |
+| `n_tropicalis_isolates` | `n_aislados_tropicalis` |
+| `programme_institution` | `programa_institucion` |
+| `period` | `periodo` |
+| `evidence` | `evidencia` |
+| `notes` | `notas` |

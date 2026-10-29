@@ -1,0 +1,13 @@
+{
+  "script": "39_english_residue_fix_v1.py",
+  "mode": "FINAL",
+  "run_time": "2026-10-28T19:16:36-05:00",
+  "python": "3.14.6",
+  "inputs": {},
+  "outputs": {
+    "08_phase6_data_extraction/data_extraction_tropicalis.xlsx": "17b44b430e9b7f1193a321fb2c3a5460"
+  },
+  "cells_changed": {
+    "08_phase6_data_extraction/data_extraction_tropicalis.xlsx": 70
+  }
+}
