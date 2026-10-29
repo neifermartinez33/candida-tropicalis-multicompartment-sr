@@ -1,0 +1,29 @@
+{
+  "script": "40_tabS15_human_model_agreement_v1.py",
+  "mode": "FINAL",
+  "run_time": "2026-10-29T10:00:22-05:00",
+  "python": "3.14.6",
+  "inputs": {
+    "07_phase5_full_text_screening/full_text_screening.xlsx": "0351630d39bb225038b0425b08aa1dc7",
+    "07_phase5_full_text_screening/doubtful_review_2026-10-20/full_text_doubtful_review_2026-10-20.xlsx": "96e7d95248d055a75cd08193aa963b9d",
+    "06_phase4_title_abstract_screening/rayyan_exports/screening_agreement_two_readers_20261028_223035.txt": "3adcde5ea5c8a2a9ee1afd559ef963bd",
+    "04_phase2_calibration/results/calibration_kappa_CAL1_20261016_150217.txt": "caf46388e912e50a911fa19563ce8cb0",
+    "10_phase8_analysis/results/ma_input_v2_2026-10-28T193046.csv": "1691408ffa5dca38d1d54446aac7d136",
+    "08_phase6_data_extraction/verification/round2_2026-10-24/r2_b08_agreement_2026-10-26T112820.json": "cd2d0c59d48bd43e71dd22266077e0b4",
+    "08_phase6_data_extraction/verification/round2_2026-10-24/r2_b08_key.csv": "2776e64fdd4e96d1e207fb09aad006ca",
+    "08_phase6_data_extraction/verification/round2_2026-10-24/r2_b08b_arbitration.xlsx": "1026e205582dd349061f70228fc9ae17",
+    "08_phase6_data_extraction/verification/round2_2026-10-24/r2_b09_extraction_exclusions.xlsx": "bfa3c81f5213148895b9bc4b23a515ce",
+    "08_phase6_data_extraction/verification/round2_2026-10-24/r2_b02_rows.xlsx": "0f0f3817d579f1822da9c12184564663",
+    "08_phase6_data_extraction/verification/round2_2026-10-24/r2_b11_new_ast_rows.xlsx": "0b3aa6a9811d975f784a8027c67a9f4a",
+    "08_phase6_data_extraction/verification/round2_2026-10-24/r2_b03_collection_pairs.xlsx": "c94aead9c41ac6a65628b77f2206347e",
+    "08_phase6_data_extraction/verification/round2_2026-10-24/r2_b04_ar20_rows.xlsx": "a9f40ad6cb6f4a2e45fe2cd1fa705066",
+    "08_phase6_data_extraction/verification/round2_2026-10-24/r2_b05_species_id.xlsx": "3eff12ec475a74e0fde52f0fcbef8c6b",
+    "08_phase6_data_extraction/verification/round2_2026-10-24/r2_b07_allocation_c5.xlsx": "2ff423ef28f8673f421661ecc6083a24"
+  },
+  "outputs": {
+    "12_documents/supplementary/tables/tabS15_human_model_agreement_v1_2026-10-29T100022.csv": "9fbe42ca44b8b0c2c7e2635d216dc9e7",
+    "12_documents/supplementary/tables/tabS15_human_model_agreement_v1_2026-10-29T100022.xlsx": "accb7ca19b70d597bb91d4b064b58a07"
+  },
+  "human_decisions_total": 60539,
+  "rows": 9
+}
