@@ -5,6 +5,34 @@ PROSPERO **CRD420261486387**, registered 2026-09-13. Data and code deposit: http
 GIIM, Universidad de Córdoba (Montería, Colombia). First review of the series;
 *Acinetobacter baumannii* follows with the same skeleton as a sibling folder.
 
+## Status, 2026-10-30
+
+FINAL run of the analysis chain after round 4 (re-reading of the full-text exclusions, rows of the reports added at the
+arbitration, correction of RB5 and RB6). Current dataset `10_phase8_analysis/data/analysis_dataset_v3_2026-10-30T133231`,
+meta-analysis input `10_phase8_analysis/results/ma_input_v2_2026-10-30T133242.csv`.
+
+| PRISMA quantity | n |
+|---|---|
+| Records screened | 22,403 |
+| Reports assessed for eligibility (search) | 5,757 |
+| Reports not retrieved (search) | 4,141 |
+| Reports excluded after assessment (search) | 2,477 |
+| Reports identified from the reference lists of four previous reviews | 23 (7 not retrieved, 4 excluded, 12 included) |
+| Reports of included studies | 3,292 |
+| Studies included (independent collections) | 3,056 |
+| Collections contributing to a pooled estimate | 894 |
+
+- Reproducibility check on 2026-10-30: the chain was run from a clean copy holding only the files of this folder, without the
+  RIS file, from `build_analysis_dataset_v3.py` to the manuscripts. Datasets, results, tables, Figure 3 and the Word text came
+  out identical to the deposited ones; the sensitivity refits differ by at most 1e-13.
+- Manuscripts: `12_documents/manuscript/v4_2026-10-30/plantilla/`, on the journal template.
+- Corrections after the FINAL run: RB5 and RB6 read from the verified rows for 36 reports, Table 2 with the corrected species
+  identification, Table S13 with a Summary sheet, Table S14 without the Wanfang_Data row, and Table S17 added. This is release 1.1.0.
+- Manuscript drafts and the scripts that edit them are not in the repository; the scripts of the analysis chain, tables and
+  figures are.
+- Superseded outputs, provisional runs, record exports and copies of full texts (1,660 files) moved out of the project to the
+  project archive, same relative paths, with a manifest (path, MD5, reason). Nothing was deleted.
+
 ## Status, 2026-10-28
 
 FINAL run of the analysis chain with the reference-list check (round 3) completed. Current dataset

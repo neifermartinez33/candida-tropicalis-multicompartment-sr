@@ -1,0 +1,30 @@
+{
+ "script": "48_b16_add_d4_and_check_v1.py",
+ "run_time": "2026-10-30T12:10:12",
+ "checked_by": "claude-opus-5-5",
+ "verified_by_reviewers": false,
+ "inputs": {
+  "08_phase6_data_extraction/verification/round4_2026-10-30/r4_b16_new_rows.xlsx": "6a5617f37ac11061b4e278e395210b3e",
+  "10_phase8_analysis/data/analysis_dataset_v3_2026-10-28T193035/studies.csv": "2d6b552567e6662891c71f80f0e8cd39",
+  "08_phase6_data_extraction/verification/round2_2026-10-24/r2_b08b_arbitration.xlsx": "1026e205582dd349061f70228fc9ae17"
+ },
+ "outputs": {
+  "08_phase6_data_extraction/verification/round4_2026-10-30/r4_b16_new_rows_v2.xlsx": "feeb94f3e18fa05adfb209b5bdc01cd7"
+ },
+ "counts": {
+  "reports": 15,
+  "rows": 53,
+  "rows_R": 33,
+  "rows_R_with_events": 10,
+  "ar20_yes": [
+   "O06294",
+   "O10550",
+   "O10851"
+  ]
+ },
+ "numbers_not_found_in_pdf_text": {
+  "M0032": [
+   "03"
+  ]
+ }
+}

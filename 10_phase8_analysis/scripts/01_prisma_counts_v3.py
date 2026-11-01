@@ -116,6 +116,8 @@ def main():
     provisional = "--provisional" in sys.argv[1:]
     if not os.path.isdir("10_phase8_analysis"):
         sys.exit("Run from the project root")
+    if not os.path.exists(IN["ris"]):   # (2026-10-30) the RIS is not in the public repository: its extract stands in, also in the log
+        IN["ris"] = RIS_FIELDS
     for k, p in IN.items():
         if not os.path.exists(p):
             sys.exit(f"Missing input {k}: {p}")
@@ -150,13 +152,14 @@ def main():
     checks["identified_minus_removed_equals_screened"] = identified - identical - c_dup == c_scr
 
     # 2. Title and abstract
-    exports = sorted(f for f in os.listdir(RAYYAN_DIR) if f.lower().endswith(".csv"))
+    # (2026-10-30) customizations_log.csv, added on 2026-10-29, is the audit log of the labels, not the export of decisions
+    exports = sorted(f for f in os.listdir(RAYYAN_DIR) if f.lower().endswith(".csv") and f != "customizations_log.csv")
     if len(exports) != 1:
         sys.exit(f"Expected a single CSV in {RAYYAN_DIR}, found {len(exports)}")
     f_ray = os.path.join(RAYYAN_DIR, exports[0])
     ray = pd.read_csv(f_ray, encoding="utf-8-sig")
     ray = ray[ray["key"] == "included"].sort_values("article_id")
-    if os.path.exists(IN["ris"]):
+    if IN["ris"].endswith(".ris"):
         screen_ids = [ln[16:].strip() for ln in open(IN["ris"], encoding="utf-8", errors="replace")
                       if ln.startswith("N1  - SCREEN_ID ")]
     else:  # (2026-10-28) the RIS is not in the public repository; same identifiers, same order
@@ -235,7 +238,9 @@ def main():
     e5_nr = int((e5.decision == "NOT_RETRIEVED").sum())
     b02 = rd[rd.source == "B02"]
     b02_nr = int((b02.decision == "NOT_RETRIEVED").sum())   # (2026-10-26) PDF of another work found in B02
-    not_retrieved = not_obtained + truncated + wrong_doc + dub_nr + e5_nr + b02_nr
+    r4 = rd[rd.source == "rescreen_b15_2026_10_29"]     # (2026-10-30) round 4: re-reading of the exclusions (workbook B15)
+    r4_nr = int((r4.decision == "NOT_RETRIEVED").sum())
+    not_retrieved = not_obtained + truncated + wrong_doc + dub_nr + e5_nr + b02_nr + r4_nr
     add("retrieval", "wrong_or_truncated", "Full text was another work or truncated", truncated + wrong_doc,
         IN["build_v2"], "PDF of another work or truncated, among extraction inclusions")
     add("retrieval", "doubtful_not_retrieved", "Doubtful reports without the correct full text", dub_nr,
@@ -244,6 +249,8 @@ def main():
         IN_V3["report_decisions"], "B09: NOT_RETRIEVED")
     add("retrieval", "verification_not_retrieved", "Reports whose full text was another work, found at row verification",
         b02_nr, IN_V3["report_decisions"], "B02: NOT_RETRIEVED")
+    add("retrieval", "rescreen_not_retrieved", "Excluded reports whose full text was another work, found at the re-reading",
+        r4_nr, IN_V3["report_decisions"], "B15: NOT_RETRIEVED")
     add("retrieval", "not_retrieved", "Reports not retrieved", not_retrieved, IN["ft"], "sum of the lines above")
     to_screen = lambda i: i if str(i).startswith("O") else r_to_screen.get(i, "")  # noqa: E731
     nr = ([{"id": i, "screen_id": i, "cause": "not_obtained"} for i in sorted(sought - obtained)]
@@ -253,7 +260,9 @@ def main():
           + [{"id": i, "screen_id": to_screen(i), "cause": "extraction_not_retrieved"}
              for i in sorted(e5.report_id[e5.decision == "NOT_RETRIEVED"])]
           + [{"id": i, "screen_id": to_screen(i), "cause": "verification_not_retrieved"}
-             for i in sorted(b02.report_id[b02.decision == "NOT_RETRIEVED"])])
+             for i in sorted(b02.report_id[b02.decision == "NOT_RETRIEVED"])]
+          + [{"id": i, "screen_id": to_screen(i), "cause": "rescreen_not_retrieved"}
+             for i in sorted(r4.report_id[r4.decision == "NOT_RETRIEVED"])])
     nr = pd.DataFrame(nr)
     # in provisional mode, sought - obtained also carries the candidate records of the undecided ambiguous R
     checks["not_retrieved_list_matches"] = (len(nr) == not_retrieved + (len(unmatched) if provisional else 0)
@@ -273,7 +282,13 @@ def main():
     arb = rd[rd.source == "B08"]          # exits by arbitration (entries by arbitration do not subtract here)
     counts = reasons.code.value_counts().to_dict()
     st = pd.read_csv(IN_V3["studies"], low_memory=False)
-    revived = set(st.study_id[st.entry_route == "blind_sample_arbitration"])
+    revived = set(st.study_id[st.entry_route.isin(["blind_sample_arbitration", "rescreen_b15_2026_10_29"])])
+    revived |= set(r4.report_id[r4.decision == "NOT_RETRIEVED"])
+    # the confirmed exclusions of B15 keep the report and take the code that the reviewers recorded
+    r4_ec = r4[r4.decision == "EXCLUSION_CONFIRMED"].set_index("report_id").ec.dropna().to_dict()
+    new_code = reasons.ID.map(r4_ec)
+    reasons["code"] = new_code.fillna(reasons.code)
+    counts = reasons.code.value_counts().to_dict()
     for sid in revived & set(reasons.ID):
         c = reasons.loc[reasons.ID == sid, "code"].iloc[0]
         counts[c] -= 1

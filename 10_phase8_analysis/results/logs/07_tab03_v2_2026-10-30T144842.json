@@ -1,0 +1,18 @@
+{
+ "script": "07_tab03_v2.py",
+ "mode": "FINAL",
+ "run_time": "2026-10-30T14:48:42-05:00",
+ "python": "3.12.15",
+ "inputs": {
+  "10_phase8_analysis/analysis_rules_v4_2026-10-24.md": "a2e7e7b72e3731c398e1cb0486626b9d",
+  "10_phase8_analysis/results/ma_results_v3_2026-10-30T134047.csv": "80a0608a6c803bd04292dad4eaf6f200",
+  "10_phase8_analysis/results/ma_strata_v2_2026-10-30T133242.csv": "581c0ff8e12dce0b4da30467a79ab2f5"
+ },
+ "outputs": {
+  "tab03_c1_resistance_v2_2026-10-30T144842.xlsx": "08400ef109e2f47798f11a7bd70f6501",
+  "tab03_c1_resistance_v2_2026-10-30T144842.csv": "f049c41543d6ff1aa2f793f7a656fe29"
+ },
+ "c1_strata_in_table": 24,
+ "c1_pooled": 23,
+ "c1_below_minimum": 11
+}

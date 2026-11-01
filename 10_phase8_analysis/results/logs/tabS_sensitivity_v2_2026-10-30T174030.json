@@ -1,0 +1,53 @@
+{
+ "script": "11_tabS_sensitivity_v2.py",
+ "mode": "FINAL",
+ "run_time": "2026-10-30T17:40:30-05:00",
+ "python": "3.12.15",
+ "inputs": {
+  "10_phase8_analysis/analysis_rules_v4_2026-10-24.md": "a2e7e7b72e3731c398e1cb0486626b9d",
+  "10_phase8_analysis/results/ma_results_v3_2026-10-30T134047.csv": "80a0608a6c803bd04292dad4eaf6f200",
+  "10_phase8_analysis/results/ma_input_v2_2026-10-30T133242.csv": "5083a51cf209160dcaa03eb99a1e8695",
+  "10_phase8_analysis/results/ma_sensitivity_refit_v3_2026-10-30T174028.csv": "4c450aee4428e53d98cc0b9d6fd618ef",
+  "10_phase8_analysis/results/ma_sensitivity_contrast_v3_2026-10-30T144827.csv": "cce5c1e93d8a4f26571b57ed052f5981"
+ },
+ "outputs": {
+  "tabS04_sensitivity_refit_v2_2026-10-30T174030.xlsx": "8e5071d518b7f98ae9b4fe2faafdb8fa",
+  "tabS04_sensitivity_refit_v2_2026-10-30T174030.csv": "d854c85c41c2235454a33255b26a8c33",
+  "tabS05_sensitivity_contrast_v2_2026-10-30T174030.xlsx": "a5c9621ea5c29c0bf218cc74ee11534e",
+  "tabS05_sensitivity_contrast_v2_2026-10-30T174030.csv": "a91ca5f7b1c3cdc531e572f571236526"
+ },
+ "rows": {
+  "tabS04": 280,
+  "tabS05": 65
+ },
+ "s4_counts": {
+  "no_strata": 1,
+  "SA2": 31,
+  "SA3": 31,
+  "SA9": 31,
+  "SA10a": 31,
+  "not_pooled_in_main": 9,
+  "SA10b_zero": 7,
+  "SA10b": 31,
+  "SA11": 31,
+  "SX1": 31,
+  "SX2": 31,
+  "SX3": 31
+ },
+ "s5_counts": {
+  "shared_cells": 7,
+  "shared_cells_estimated": 6,
+  "SA4_R": 7,
+  "estimated": 22,
+  "SA4_NWT": 8,
+  "SA7": 6,
+  "SA8": 32,
+  "SA5": 12
+ },
+ "s5_cells_with_one_level_not_listed": {
+  "SA4_R": 18,
+  "SA4_NWT": 9,
+  "SA7": 23,
+  "SA8": 36
+ }
+}

@@ -9,6 +9,11 @@ Round 3 (2026-10-27): reports found by checking the reference lists of four prev
 verification workbook r3_b14 (decisions per report, per AST row and same-collection pairs), with their extraction
 in tidy_tables_r3_reference_check_v1_2026-10-27; they go through the same functions as the round-2 extra reports.
 
+Round 4 (2026-10-30): re-reading of the full-text exclusions with susceptibility terms (workbook B15): its inclusions
+enter with the data read by the reviewers, its NOT_RETRIEVED leave the assessed reports, and the rows of the reports
+added to the meta-analysis come from workbook B16, which also holds the rows of the 7 reports of team decision D4.
+Rows of B16 count as verified only with the code of a reviewer, not with that of the language model.
+
 Modes:
   no option       FINAL. If a mandatory decision is missing, it stops and writes the list of pending ones.
   --provisional   Where the decision is missing it uses the proposal in the workbook. The output folder and every
@@ -66,6 +71,11 @@ R3_TIDY = "10_phase8_analysis/data/tidy_tables_r3_reference_check_v1_2026-10-27"
 R3_XLSX = "08_phase6_data_extraction/reference_check_2026-10-27/data_extraction_r3_v1_2026-10-27T192604.xlsx"
 R3_ROUTE = "reference_check_2026_10_27"
 R3_OK = {"INCLUDE_MA", "INCLUDE_SQ1", "EXCLUDE", "NOT_RETRIEVED"}
+R4_B15 = "07_phase5_full_text_screening/rescreen_ast_2026-10-29/r4_b15_ast_exclusions_rescreen_v2.xlsx"
+R4_B16 = "08_phase6_data_extraction/verification/round4_2026-10-30/r4_b16_new_rows_v2.xlsx"
+R4_ROUTE = "rescreen_b15_2026_10_29"
+R4_LM = "claude-opus-5-5"                       # code in column reviewer of the rows checked by the language model
+R4_PAIRS = [("O17938", "O12680")]               # D5: SENTRY Europe 1997 belongs to COL_O02615
 OUT_BASE = "10_phase8_analysis/data"
 EC_RE = re.compile(r"\bEC(1[0-3]|[1-9])\b", re.I)
 DUB_OK = {"ENTERS_REVIEW_AND_MA", "ENTERS_REVIEW", "REMAINS_EXCLUDED", "NOT_RETRIEVED", "NOT_DETERMINABLE"}
@@ -425,6 +435,61 @@ def b11_rows(ledger, dub_ma_ids):
     return out
 
 
+def r4_decisions():
+    """Round 4: decision of the reviewers for each report of workbook B15."""
+    b = read_book(R4_B15, "reports")
+    return {r["study_id"]: {"decision": txt(r["decision"]), "ec": txt(r.get("ec_code")), "row": r} for r in b.to_dict("records")}
+
+
+def r4_new_reports(b15, ids, ledger):
+    """Report rows of the inclusions of B15: compartment, n, country and year as read by the reviewers; identification,
+    period and design from the full-text screening sheet; label from the first author of the record."""
+    ft = pd.read_excel(FT_SHEET, sheet_name="All", dtype=object).set_index("ID")
+    au = first_authors(sorted(ids))
+    ov = {}
+    for k in sorted(ids):
+        r, f = b15[k]["row"], ft.loc[k] if k in ft.index else pd.Series(dtype=object)
+        country, comp = txt(r.get("country")), txt(r.get("compartments")).replace(";", ",")
+        n, year = pd.to_numeric(r.get("n_tropicalis"), errors="coerce"), pd.to_numeric(r.get("year"), errors="coerce")
+        surname = au[k].split(",")[0].strip()
+        missing = [c for c, v in (("country", country), ("compartments", comp), ("n_tropicalis", n), ("year", year),
+                                  ("first author", surname)) if v in ("", None) or (isinstance(v, float) and pd.isna(v))]
+        if missing:
+            sys.exit(f"Workbook B15, {k}: inclusion without {missing}")
+        iso, reg, multi, _, _ = Dct.map_country(re.sub(r"\s*\([^)]*\)", "", country).strip().replace("USA", "United States"))
+        if not iso and not multi:
+            sys.exit(f"Workbook B15, {k}: unrecognized country: {country!r}")
+        yrs = re.findall(r"(?:19|20)\d{2}", txt(f.get("Period")))
+        ov[k] = {"study_label": f"{surname} {int(year)}", "year": float(year), "title": txt(r.get("title")) or None,
+                 "journal": txt(r.get("journal")) or None, "doi": txt(r.get("doi")) or None,
+                 "pdf_file": txt(r.get("pdf_file")) or None, "country_raw": country,
+                 "country_iso3": ";".join(iso) if iso else None, "who_region": reg, "multinational": bool(multi),
+                 "country_inferred_flag": False, "compartments_raw": comp, "n_tropicalis_total": float(n),
+                 "period_start": float(yrs[0]) if yrs else None, "period_end": float(yrs[-1]) if yrs else None,
+                 "design_raw": txt(f.get("Study type")) or None, "species_id_raw": txt(f.get("Identification")) or None,
+                 "pdf_status": "read_in_round4_rescreen", "extraction_decision": "INCLUDE",
+                 "n_rows_ast": 0, "n_rows_molecular": 0, "n_rows_genotype": 0}
+    return ov
+
+
+def r4_rows(ledger):
+    """Rows of workbook B16 and the reports with AR20 accepted by the team (D5)."""
+    out = []
+    for r in read_book(R4_B16, "rows").to_dict("records"):
+        v = txt(r.get("row_action"))
+        if v not in ("CONFIRM", "CORRECT"):
+            continue
+        g = lambda k, d: txt(r.get(k)) or d  # noqa: E731
+        ev = g("n_events_v", r["n_events"])
+        out.append({"row_id": r["new_row_id"], "study_id": r["report_id"], "compartment": g("compartment_v", r["compartment"]),
+                    "agent": r["agent"], "outcome": r["outcome"], "n_tested": int(float(g("n_tested_v", r["n_tested"]))),
+                    "n_events": None if V.is_blank(ev) else int(float(ev)), "interp_raw": g("criterion_v", r["criterion_raw"]),
+                    "method": g("method_v", r["method"]), "from_proposal": txt(r.get("reviewer")) in ("", R4_LM),
+                    "reviewer": txt(r.get("reviewer")), "page": f"{g('page_or_table', r.get('location'))}: {txt(r.get('reader_text'))}"})
+    ar20 = {r["report_id"] for r in read_book(R4_B16, "reports").to_dict("records") if txt(r.get("ar20_decision")) == "YES"}
+    return out, ar20
+
+
 # ------------------------------------------------------------------------------- build
 def r3_decisions(ledger):
     """Round 3: decisions per report, per AST row and per same-collection pair (workbook r3_b14)."""
@@ -524,6 +589,8 @@ def main():
     dub_ma = {k for k, v in dub.items() if v["decision"] == "ENTERS_REVIEW_AND_MA"}
     new_rows = b11_rows(L, dub_ma)
     r3 = r3_decisions(L)
+    b15 = r4_decisions()
+    r4_new, r4_ar20 = r4_rows(L)
 
     pend = pd.DataFrame(L.pending, columns=["book", "key", "missing", "proposal_used"])
     counts["pending decisions"] = pend.groupby("book").size().to_dict()
@@ -537,19 +604,24 @@ def main():
     in_dub = {k for k, v in dub.items() if v["decision"] in ("ENTERS_REVIEW", "ENTERS_REVIEW_AND_MA")}
     in_500 = {k for k, v in e500.items() if v["decision"] in ("INCLUDE_SQ1", "INCLUDE_MA")}
     in_arb = {k for k, v in arb.items() if v["decision"] == "INCLUDE"} - set(st.study_id)
-    extra_ids = (in_dub | in_500 | in_arb) - set(st.study_id)
+    in_b15 = {k for k, v in b15.items() if v["decision"] in ("INCLUDE_SQ1", "INCLUDE_MA")}
+    for name, other in (("doubtful", dub), ("B09", e500), ("arbitration", in_arb)):
+        if in_b15 & set(other):
+            sys.exit(f"B15 inclusions already decided in {name}: {sorted(in_b15 & set(other))}")
+    extra_ids = (in_dub | in_500 | in_arb | in_b15) - set(st.study_id)
     ov = b09_overrides(e500, t["rep"], L)
     for k, d in b09_transcription(e500).items():
         ov.setdefault(k, {}).update({c: v for c, v in d.items() if c not in ov.get(k, {})})
     counts["B09 inclusions with transcribed comment data"] = len(b09_transcription(e500))
     ov_arb = arbitration_new_reports(in_arb, t["rep"], L)
     ov.update(ov_arb)
+    ov.update(r4_new_reports(b15, in_b15, L))
     counts["arbitration inclusions without extraction (data from B08 and from screening)"] = len(ov_arb)
     x = C.extra_reports(t, extra_ids, overrides=ov)
     counts["reports with B09 data (assigned PDF of another work)"] = sorted(ov)
     xm = C.mechanical(x, x["_rep"]) if len(x["studies"]) else None
     route = {**{k: "doubtful_2026_10_20" for k in in_dub}, **{k: "extraction_exclusion_review" for k in in_500},
-             **{k: "blind_sample_arbitration" for k in in_arb}}
+             **{k: "blind_sample_arbitration" for k in in_arb}, **{k: R4_ROUTE for k in in_b15}}
     counts["extra reports requested"] = len(extra_ids)
     counts["extra reports that pass the v1 filter"] = 0 if xm is None else len(xm["studies"])
     counts["extra reports discarded by the v1 filter"] = sorted(x["_dropped"])
@@ -598,12 +670,28 @@ def main():
             L.change("B11", r["row_id"], "row", None, "added", "CONFIRM/CORRECT", r["reviewer"],
                      used_proposal=r["from_proposal"])
     counts["B11 rows added"] = int(len(nb))
+    # 3 ter. round 4: rows of workbook B16, with the columns of B11
+    if r4_new:
+        nb4 = b11_to_ast([r if r["n_events"] is not None else {**r, "n_events": np.nan} for r in r4_new], st).drop(columns=["year_tmp"])
+        nb4 = nb4[nb4.study_id.isin(set(st.study_id))]
+        nb4["origin"] = "B16"
+        nb4["note_raw"] = nb4.note_raw.str.replace(r"^B11 ", "B16 ", regex=True)
+        a = pd.concat([a, nb4], ignore_index=True)
+        for r in r4_new:
+            L.change("B16", r["row_id"], "row", None, "added", "CONFIRM/CORRECT", r["reviewer"], used_proposal=r["from_proposal"])
+    counts["B16 rows added"] = len(r4_new)
+    merges = pd.concat([merges, pd.DataFrame([{"pair_id": f"R4_{i+1}", "report_a": p, "report_b": q, "decision": "YES",
+                                               "from_proposal": "NO", "reviewer": "D5 2026-10-30"}
+                                              for i, (p, q) in enumerate(R4_PAIRS)])], ignore_index=True)
 
     # 3 bis. round 3: reports of the reference-list check, through the same functions as the round-2 extra reports
     xm3 = None
     if r3 is not None:
         ids3 = {k for k, v in r3["reports"].items() if v["decision"] in ("INCLUDE_MA", "INCLUDE_SQ1")}
-        t3 = C.load_tidy(R3_TIDY, R3_XLSX)
+        # (2026-10-30) the workbook of round 3 is no longer on disk; of it only sheet Clade 4 was read, with no rows for these reports
+        t3 = C.load_tidy(R3_TIDY, R3_XLSX if os.path.exists(R3_XLSX) else C.XLSX)
+        if not os.path.exists(R3_XLSX):
+            t3["c4"] = t3["c4"].iloc[0:0]
         x3 = C.extra_reports(t3, ids3, prefix="R3_")
         xm3 = C.mechanical(x3, x3["_rep"]) if len(x3["studies"]) else None
         counts["round 3 reports entering"] = 0 if xm3 is None else len(xm3["studies"])
@@ -725,11 +813,13 @@ def main():
 
     # 6. rules on the rows already corrected
     a = C.apply_row_rules(a, st)
+    for rid in a.row_id[a.study_id.isin(r4_ar20)]:
+        ar20[rid] = {"reason": "phenotype_selected", "reviewer": "D5 2026-10-30", "from_proposal": False}
     a["ar20_excluded"] = np.where(a.row_id.isin(ar20), "YES", "NO")
     a["ar20_reason"] = a.row_id.map({k: v["reason"] for k, v in ar20.items()})
     for rid, v in ar20.items():
         L.change("B04", rid, "ar20_excluded", "NO", "YES", v["reason"], v["reviewer"], used_proposal=v["from_proposal"])
-    rev = {k for k, v in row_dec.items() if v["reviewed"]} | {r["row_id"] for r in new_rows if not r["from_proposal"]}
+    rev = {k for k, v in row_dec.items() if v["reviewed"]} | {r["row_id"] for r in new_rows + r4_new if not r["from_proposal"]}
     if r3 is not None:
         rev |= {k for k, v in r3["rows"].items() if not v["from_proposal"]}
     a["verified"] = np.where(a.row_id.isin(rev), "YES", "NO")
@@ -806,6 +896,9 @@ def main():
             dec = {"INCLUDE_MA": "INCLUDED", "INCLUDE_SQ1": "INCLUDED", "EXCLUDE": "EXCLUDED"}.get(v["decision"], v["decision"])
             rd.append({"report_id": k, "source": R3_ROUTE, "decision": dec, "ec": v["ec"],
                        "in_v3": "YES" if k in keep else "NO", "from_proposal": "YES" if v["from_proposal"] else "NO"})
+    for k, v in b15.items():
+        rd.append({"report_id": k, "source": R4_ROUTE, "decision": v["decision"], "ec": v["ec"],
+                   "in_v3": "YES" if k in keep else "NO", "from_proposal": "NO"})
     rd = pd.DataFrame(rd)
     counts["reports of the extraction flow discarded by the v1 filter"] = len(x["_dropped"])
 
@@ -827,8 +920,8 @@ def main():
     for n, df in files.items():
         df.to_csv(os.path.join(out, n), index=False)
     inputs = [C.XLSX, C.EC2_DEC, DUB, DECISIONS] + [f"{C.TIDY}/{f}" for f in ("reports.csv", "ast.csv", "molecular.csv", "genotypes.csv")] \
-        + [p for p in BOOK.values()] + ([B08_ARB] if os.path.exists(B08_ARB) else []) \
-        + ([r3["path"], R3_XLSX] + [f"{R3_TIDY}/{f}" for f in ("reports.csv", "ast.csv")] if r3 is not None else [])
+        + [p for p in BOOK.values()] + ([B08_ARB] if os.path.exists(B08_ARB) else []) + [R4_B15, R4_B16] \
+        + ([r3["path"]] + ([R3_XLSX] if os.path.exists(R3_XLSX) else []) + [f"{R3_TIDY}/{f}" for f in ("reports.csv", "ast.csv")] if r3 is not None else [])
     log = {"script": os.path.basename(__file__), "mode": "PROVISIONAL" if provisional else "FINAL",
            "run_time": datetime.now().astimezone().isoformat(timespec="seconds"),
            "python": sys.version.split()[0], "pandas": pd.__version__,

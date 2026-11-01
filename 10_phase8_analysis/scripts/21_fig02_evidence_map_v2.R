@@ -24,8 +24,12 @@ font <- fig_font()
 res <- "10_phase8_analysis/results"
 PROV <- "--provisional" %in% commandArgs(trailingOnly = TRUE)
 TAG <- if (PROV) "_PROVISIONAL" else ""
+# (2026-10-30) --es: labels in Spanish and non-breaking space as thousands separator, for the Spanish manuscript
+ES <- "--es" %in% commandArgs(trailingOnly = TRUE)
+L <- function(en, es) if (ES) es else en
 files <- sort(Sys.glob(file.path(res, "collection_compartment_v2_*.csv")))
 files <- files[grepl("_PROVISIONAL\\.csv$", files) == PROV]
+TAG <- paste0(TAG, if (ES) "_es" else "")
 if (length(files) == 0) stop("There is no allocation: run 03_tab02_characteristics_v2.py first", if (PROV) " --provisional" else "")
 src <- files[length(files)]
 t2_log <- file.path(res, "logs", sub("^collection_compartment_v2_", "03_tab02_characteristics_v2_",
@@ -39,15 +43,18 @@ st <- read.csv(studies_csv, stringsAsFactors = FALSE, na.strings = "")
 lk <- read.csv(lookup_csv, stringsAsFactors = FALSE)
 
 rows <- c(lk$code, "not_allocated")
-row_lab <- c(paste(lk$code, lk$short_label), "Not allocated")
+row_lab <- c(paste(lk$code, L(lk$short_label, c("Hospedador humano", "Hospedador animal", "Agroecosistema", "Entorno sanitario",
+                                                "Ambiente natural", "Matriz antropog\u00e9nica"))), L("Not allocated", "Sin asignar"))
 reg <- c("AFR", "AMR", "EMR", "EUR", "SEAR", "WPR", "MULTI")
-reg_lab <- c("African", "Americas", "Eastern\nMediterranean", "European", "South-East\nAsia",
-             "Western\nPacific", "Multi-\nnational")
+reg_lab <- L(c("African", "Americas", "Eastern\nMediterranean", "European", "South-East\nAsia",
+               "Western\nPacific", "Multi-\nnational"),
+             c("\u00c1frica", "Am\u00e9ricas", "Mediterr\u00e1neo\nOriental", "Europa", "Asia\nSudoriental",
+               "Pac\u00edfico\nOccidental", "Multi-\nnacional"))
 comp_col <- setNames(c("#F8766D", "#B79F00", "#00BA38", "#00BFC4", "#619CFF", "#F564E3", "grey60"),
                      row_lab)  # ggplot2 default hue palette, as in the reference figures
 map_pal <- c("#27CEC6", "#54EC95", "#7AF964", "#B4F53F", "#DED937", "#F7B336", "#F78121",
              "#E45310", "#C82600")  # colour bar of Figure 3 of the reference article
-fmt <- function(x) ifelse(abs(x) >= 1e4, formatC(x, big.mark = ",", format = "d"), formatC(x, format = "d"))  # MDPI: thousands separator only from five digits (2026-10-27)
+fmt <- function(x) ifelse(abs(x) >= 1e4, formatC(x, big.mark = if (ES) intToUtf8(160) else ",", format = "d"), formatC(x, format = "d"))  # MDPI: thousands separator only from five digits (2026-10-27)
 
 # same counts as Table 2: stop if the assignment and the Table 2 log of that run disagree
 n_rows <- vapply(rows, function(r) as.numeric(sum(asg$column == r)), numeric(1))
@@ -83,7 +90,7 @@ b$label <- ifelse(b$reports > 0, sprintf("%s\n(%s)", fmt(b$reports), fmt(b$isola
 b$text_col <- ifelse(!is.na(b$fill) & b$fill >= 500, "white", "black")
 b$row_code <- b$row
 b$region_code <- b$region
-b$row <- factor(b$row, levels = rev(c(rows, "ALL")), labels = rev(c(row_lab, "All collections")))
+b$row <- factor(b$row, levels = rev(c(rows, "ALL")), labels = rev(c(row_lab, L("All collections", "Todas las colecciones"))))
 b$region <- factor(b$region, levels = reg, labels = reg_lab)
 
 base <- theme(text = element_text(family = font, colour = "black"),
@@ -101,9 +108,9 @@ pA <- ggplot(a, aes(x = reports, y = row)) +
             size.unit = "pt", family = font, fontface = "bold") +
   scale_fill_manual(values = comp_col, guide = "none") +
   scale_x_continuous(labels = fmt, expand = expansion(mult = c(0, 0.38))) +
-  labs(x = expression(bold("Collections, ") * bolditalic(n)), y = NULL, tag = "A",
-       title = paste0("Independent collections by compartment of recovery", if (PROV) " [PROVISIONAL]" else ""),
-       subtitle = "Bar labels: collections (isolates of the representative report)") +
+  labs(x = if (ES) expression(bold("Colecciones, ") * bolditalic(n)) else expression(bold("Collections, ") * bolditalic(n)), y = NULL, tag = "A",
+       title = paste0(L("Independent collections by compartment of recovery", "Colecciones independientes por compartimento de recuperaci\u00f3n"), if (PROV) " [PROVISIONAL]" else ""),
+       subtitle = L("Bar labels: collections (isolates of the representative report)", "Etiquetas: colecciones (aislados del informe representativo)")) +
   theme_classic(base_size = 10, base_family = font) + base +
   theme(axis.title.x = element_text(face = "bold", size = 10),
         axis.line = element_line(linewidth = 0.4))
@@ -118,13 +125,13 @@ pB <- ggplot(b, aes(x = region, y = row)) +
   scale_colour_identity() +
   scale_fill_gradientn(colours = map_pal, transform = "log10", limits = c(1, max(b$reports)),
                        breaks = brk, labels = fmt,
-                       na.value = "grey85", name = expression(bold("Collections, ") * bolditalic(n))) +
+                       na.value = "grey85", name = if (ES) expression(bold("Colecciones, ") * bolditalic(n)) else expression(bold("Collections, ") * bolditalic(n))) +
   scale_x_discrete(position = "top", expand = c(0, 0)) +
   scale_y_discrete(expand = c(0, 0)) +
   guides(fill = guide_colourbar(theme = theme(legend.key.width = unit(2.2, "in"),
                                               legend.key.height = unit(0.12, "in")))) +
-  labs(x = NULL, y = NULL, tag = "B", title = "Collections by compartment and WHO region",
-       subtitle = "Cells: collections (isolates); grey: none") +
+  labs(x = NULL, y = NULL, tag = "B", title = L("Collections by compartment and WHO region", "Colecciones por compartimento y regi\u00f3n de la OMS"),
+       subtitle = L("Cells: collections (isolates); grey: none", "Celdas: colecciones (aislados); gris: ninguna")) +
   theme_minimal(base_size = 10, base_family = font) + base +
   theme(panel.grid = element_blank(), axis.ticks = element_blank(),
         axis.text.x.top = element_text(size = 8.5, lineheight = 0.9, vjust = 0),

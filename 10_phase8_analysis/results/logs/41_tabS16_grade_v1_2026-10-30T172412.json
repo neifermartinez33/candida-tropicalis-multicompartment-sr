@@ -1,0 +1,28 @@
+{
+  "script": "41_tabS16_grade_v1.py",
+  "mode": "FINAL",
+  "run_time": "2026-10-30T17:24:12-05:00",
+  "python": "3.12.15",
+  "inputs": {
+    "10_phase8_analysis/results/ma_results_v3_2026-10-30T134047.csv": "80a0608a6c803bd04292dad4eaf6f200",
+    "10_phase8_analysis/results/ma_input_v2_2026-10-30T133242.csv": "5083a51cf209160dcaa03eb99a1e8695",
+    "09_phase7_risk_of_bias/results/rob_assessment_v2_2026-10-30T172326.csv": "0252b0f19cecce71772ae90295c59f79"
+  },
+  "outputs": {
+    "12_documents/supplementary/tables/tabS16_grade_v1_2026-10-30T172412.xlsx": "330b90bd99916cb2284d3dbda9d05fc9",
+    "12_documents/supplementary/tables/tabS16_grade_v1_2026-10-30T172412.csv": "1b1eecdcbaf99df0bd568b3aca1d2ba9"
+  },
+  "thresholds": {
+    "rob_high_share": 0.5,
+    "pi_serious": 50,
+    "pi_very": 75,
+    "min_isolates": 300
+  },
+  "strata": 27,
+  "certainty": {
+    "High": 2,
+    "Moderate": 8,
+    "Low": 7,
+    "Very low": 10
+  }
+}

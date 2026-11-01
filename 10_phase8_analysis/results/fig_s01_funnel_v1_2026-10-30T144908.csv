@@ -1,0 +1,23 @@
+"compartment","agent","outcome","regime_stratum","k_collections","isolates","p_marginal"
+"C1","amphotericin B","NWT","ECV_CLSI",96,10505,0.0110908023055989
+"C1","fluconazole","NWT","ECV_CLSI",11,3746,0.207157132906919
+"C1","flucytosine","NWT","ECV_CLSI",22,2004,0.0420311607930614
+"C1","itraconazole","NWT","ECV_CLSI",65,9247,0.182270100080148
+"C1","posaconazole","NWT","ECV_CLSI",44,5220,0.360395582614981
+"C1","voriconazole","NWT","ECV_CLSI",13,3578,0.270369555860239
+"C1","amphotericin B","R","EUCAST",57,1412,0.0273359704941271
+"C1","anidulafungin","R","CLSI_SS",123,9241,0.0236494689281581
+"C1","anidulafungin","R","EUCAST",36,948,0.111301043179629
+"C1","caspofungin","R","CLSI_SS",189,10171,0.022070522462649
+"C1","fluconazole","R","CLSI_SS+EUCAST",412,27195,0.174245083916638
+"C1","fluconazole","R","CLSI_pre2012",408,11530,0.178894955069028
+"C1","flucytosine","R","CLSI_pre2012",93,2868,0.0697547566324202
+"C1","itraconazole","R","CLSI_pre2012",157,4363,0.186051986927038
+"C1","itraconazole","R","EUCAST",16,298,0.339809557044212
+"C1","micafungin","R","CLSI_SS",157,10362,0.0190352683071604
+"C1","posaconazole","R","EUCAST",21,1053,0.397474193756824
+"C1","voriconazole","R","CLSI_SS",275,21541,0.136513551495354
+"C1","voriconazole","R","CLSI_pre2012",122,4014,0.176406181184416
+"C1","voriconazole","R","EUCAST",39,1631,0.132300208453107
+"C2","fluconazole","R","CLSI_SS+EUCAST",11,208,0.435752475186766
+"C2","itraconazole","R","CLSI_pre2012",16,220,0.459000267045703

@@ -1,0 +1,55 @@
+{
+  "script": "45_qba_missed_reports_v2.R",
+  "run_time": "2026-10-30T145039",
+  "n_unread": 1045,
+  "n_sim": 1000,
+  "seed": 20261029,
+  "strata": 27,
+  "refit_max_difference": 4.44089209850063e-16,
+  "largest_change_by_model_and_scenario": [
+    {
+      "rate_model": "empirical",
+      "scenario": "exchangeable",
+      "change_pp_p97.5": 4.967,
+      "change_pp_max_abs": 11.416
+    },
+    {
+      "rate_model": "pessimistic",
+      "scenario": "exchangeable",
+      "change_pp_p97.5": 11.416,
+      "change_pp_max_abs": 15.591
+    },
+    {
+      "rate_model": "empirical",
+      "scenario": "high",
+      "change_pp_p97.5": 5.414,
+      "change_pp_max_abs": 7.437
+    },
+    {
+      "rate_model": "pessimistic",
+      "scenario": "high",
+      "change_pp_p97.5": 9.605,
+      "change_pp_max_abs": 15.224
+    },
+    {
+      "rate_model": "empirical",
+      "scenario": "low",
+      "change_pp_p97.5": 13.15,
+      "change_pp_max_abs": 19.789
+    },
+    {
+      "rate_model": "pessimistic",
+      "scenario": "low",
+      "change_pp_p97.5": 15.901,
+      "change_pp_max_abs": 25.715
+    }
+  ],
+  "inputs": {
+    "10_phase8_analysis/results/ma_input_v2_2026-10-30T133242.csv": "5083a51cf209160dcaa03eb99a1e8695",
+    "10_phase8_analysis/results/ma_results_v3_2026-10-30T134047.csv": "80a0608a6c803bd04292dad4eaf6f200"
+  },
+  "outputs": {
+    "qba_missed_reports_v2_2026-10-30T145039.csv": "0790c91330b34b035c8a3d1a29fe8be5",
+    "qba_missed_reports_v2_2026-10-30T145039_sims.csv": "ef026f3fd8995e491629065478bcfa50"
+  }
+}

@@ -1,0 +1,25 @@
+{
+ "script": "47_make_b16_new_rows_v1.py",
+ "run_time": "2026-10-30T12:05:14",
+ "proposed_by": {
+  "model": "claude-opus-5-5",
+  "client": "Claude Code 2.1.314",
+  "date": "2026-10-30",
+  "instruction": "12_documents/supplementary/file_s1_language_model_v1/full_text/data_extraction_instruction_EN.md"
+ },
+ "inputs": {
+  "07_phase5_full_text_screening/rescreen_ast_2026-10-29/r4_b15_ast_exclusions_rescreen_v2.xlsx": "45b139f9bc9068e4e47875c9c49a06c5"
+ },
+ "outputs": {
+  "08_phase6_data_extraction/verification/round4_2026-10-30/r4_b16_new_rows.xlsx": "6a5617f37ac11061b4e278e395210b3e"
+ },
+ "counts": {
+  "reports": 8,
+  "rows": 33,
+  "rows_R": 17,
+  "rows_MIC_only": 16,
+  "molecular": 5,
+  "genotypes": 1
+ },
+ "verified": false
+}

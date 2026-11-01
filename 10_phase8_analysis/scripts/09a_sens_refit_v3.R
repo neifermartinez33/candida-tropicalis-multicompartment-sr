@@ -240,7 +240,9 @@ cat(sprintf("Input %s%s\nAnalyses: %s%s\n", basename(f_in), if (PROV) " [PROVISI
             paste(names(ANALYSES), collapse = ", "), if (CHECK) "   [--check]" else ""))
 for (nm in names(ANALYSES)) {
   a <- ANALYSES[[nm]]
-  f_out <- file.path(SENS, paste0("sens_", nm, "_v3_", md5_in, TAG, ".csv"))
+  # (2026-10-30) SA9 and SA2 also depend on the risk-of-bias file, so its MD5 goes in their name
+  key_nm <- if (nm %in% c("SA9", "SA2") && !is.na(f_rob)) paste0(md5_in, "_", substr(unname(tools::md5sum(f_rob)), 1, 8)) else md5_in
+  f_out <- file.path(SENS, paste0("sens_", nm, "_v3_", key_nm, TAG, ".csv"))
   if (!CHECK && file.exists(f_out)) {
     cat("  ", nm, "already computed on this same input, reused\n")
     done_list[[nm]] <- read.csv(f_out, stringsAsFactors = FALSE, na.strings = c("", "NA")); next

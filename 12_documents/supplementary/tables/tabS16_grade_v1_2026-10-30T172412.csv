@@ -1,0 +1,28 @@
+compartment,agent,outcome,regime,collections,research_groups,isolates,population_mean_pct_ci,prediction_interval_pct,isolates_from_high_rob_pct,pi_width_points,downgrade_risk_of_bias,downgrade_inconsistency,downgrade_imprecision,downgrade_indirectness,downgrade_publication_bias,certainty
+C1,amphotericin B,NWT,ECV_CLSI,96,95,10505,1.1 (0.3–2.3),0.0–13.7,9.1,13.7,0,0,1,0,0,Moderate
+C1,fluconazole,NWT,ECV_CLSI,11,11,3746,20.7 (7.1–36.9),0.1–94.1,31.2,94.0,0,2,1,0,0,Very low
+C1,fluconazole,NWT,ECV_EUCAST,5,5,281,14.9 (3.9–31.1),0.1–91.3,26.0,91.2,0,2,1,0,0,Very low
+C1,flucytosine,NWT,ECV_CLSI,22,22,2004,4.2 (1.5–8.3),0.1–31.9,2.6,31.8,0,0,1,0,0,Moderate
+C1,itraconazole,NWT,ECV_CLSI,65,65,9247,18.2 (13.1–23.5),0.6–73.1,20.1,72.6,0,1,0,0,0,Moderate
+C1,micafungin,NWT,ECV_CLSI,6,6,1395,0.9 (0.4–1.9),0.1–6.1,36.4,6.0,0,0,1,0,0,Moderate
+C1,micafungin,NWT,ECV_EUCAST,8,8,394,1.5 (0.5–2.9),0.6–4.1,69.8,3.5,1,0,1,0,0,Low
+C1,posaconazole,NWT,ECV_CLSI,44,44,5220,36.0 (26.6–45.8),0.4–97.2,9.6,96.8,0,2,0,0,0,Low
+C1,voriconazole,NWT,ECV_CLSI,13,13,3578,27.0 (13.3–42.9),0.3–94.2,28.0,93.9,0,2,1,0,0,Very low
+C1,amphotericin B,R,EUCAST,57,56,1412,2.7 (0.8–5.1),0.0–38.2,27.9,38.2,0,0,1,0,0,Moderate
+C1,anidulafungin,R,CLSI_SS,123,122,9241,2.4 (1.1–3.7),0.0–24.1,26.4,24.1,0,0,1,0,0,Moderate
+C1,anidulafungin,R,EUCAST,36,35,948,11.1 (5.4–17.7),0.1–67.0,13.9,66.9,0,1,1,0,0,Low
+C1,caspofungin,R,CLSI_SS,189,186,10171,2.2 (1.5–3.1),0.0–14.8,25.7,14.7,0,0,0,0,0,High
+C1,fluconazole,R,CLSI_SS+EUCAST,412,403,27195,17.4 (15.4–19.6),0.3–75.6,28.5,75.3,0,2,0,0,0,Low
+C1,fluconazole,R,CLSI_pre2012,408,398,11530,17.9 (15.2–20.5),0.1–87.8,57.8,87.7,1,2,0,0,0,Very low
+C1,flucytosine,R,CLSI_pre2012,93,93,2868,7.0 (4.4–9.8),0.0–54.6,52.1,54.6,1,1,0,0,0,Low
+C1,itraconazole,R,CLSI_pre2012,157,155,4363,18.6 (14.9–22.4),0.2–83.6,51.6,83.5,1,2,0,0,0,Very low
+C1,itraconazole,R,EUCAST,16,16,298,34.0 (21.1–48.1),1.5–91.2,59.1,89.7,1,2,1,0,0,Very low
+C1,micafungin,R,CLSI_SS,157,156,10362,1.9 (1.2–2.8),0.0–13.7,26.6,13.7,0,0,0,0,0,High
+C1,posaconazole,R,EUCAST,21,20,1053,39.7 (25.3–54.8),0.1–99.5,8.7,99.4,0,2,0,0,0,Low
+C1,voriconazole,R,CLSI_SS,275,270,21541,13.7 (11.2–16.1),0.1–74.0,26.2,73.9,0,1,0,0,0,Moderate
+C1,voriconazole,R,CLSI_pre2012,122,122,4014,17.6 (13.0–22.3),0.0–92.0,48.1,92.0,0,2,0,0,0,Low
+C1,voriconazole,R,EUCAST,39,38,1631,13.2 (8.0–19.8),0.3–64.5,13.5,64.1,0,1,0,0,0,Moderate
+C2,fluconazole,R,CLSI_SS+EUCAST,11,11,208,43.6 (24.8–64.1),0.6–98.6,98.6,98.0,1,2,1,1,0,Very low
+C2,itraconazole,R,CLSI_pre2012,16,14,220,45.9 (28.4–62.9),1.1–98.2,100.0,97.1,1,2,1,1,0,Very low
+C6,fluconazole,R,CLSI_SS+EUCAST,7,7,116,52.0 (26.3–76.5),0.5–99.6,94.0,99.0,1,2,1,1,0,Very low
+C6,itraconazole,R,CLSI_pre2012,5,4,76,55.3 (42.1–65.9),37.2–72.0,89.5,34.8,1,0,1,1,0,Very low

@@ -1,0 +1,50 @@
+{
+ "script": "13_tabS_lists_v1.py",
+ "mode": "FINAL",
+ "run_time": "2026-10-30T17:24:11-05:00",
+ "python": "3.12.15",
+ "inputs": {
+  "10_phase8_analysis/analysis_rules_v4_2026-10-24.md": "a2e7e7b72e3731c398e1cb0486626b9d",
+  "10_phase8_analysis/data/analysis_dataset_v3_2026-10-30T133231/studies.csv": "e9ab233f061db25cff8db5d3f12f2a08",
+  "10_phase8_analysis/results/ma_input_v2_2026-10-30T133242.csv": "5083a51cf209160dcaa03eb99a1e8695",
+  "10_phase8_analysis/results/ma_results_v3_2026-10-30T134047.csv": "80a0608a6c803bd04292dad4eaf6f200",
+  "10_phase8_analysis/results/ec12_collections_v2_2026-10-30T133242.csv": "40dfab6b6f5666deba49665df90aa5c6",
+  "09_phase7_risk_of_bias/results/rob_assessment_v2_2026-10-30T172326.csv": "0252b0f19cecce71772ae90295c59f79",
+  "10_phase8_analysis/results/prisma_excluded_reports_v3_2026-10-30T144848.csv": "0497533dd77c62b91616f9f6a1c980c6",
+  "10_phase8_analysis/results/prisma_not_retrieved_v3_2026-10-30T144848.csv": "3d9e993c262ed07ba08d2720c1c025b5",
+  "10_phase8_analysis/results/prisma_counts_v3_2026-10-30T144848.csv": "009926ee5c5833ec57f958f16982a8bc",
+  "07_phase5_full_text_screening/full_text_screening.xlsx": "0351630d39bb225038b0425b08aa1dc7",
+  "07_phase5_full_text_screening/r_stream_screen_id_map_2026-10-24.csv": "af9bb91c2245449f1b0cafeecba191f4",
+  "08_phase6_data_extraction/verification/round2_2026-10-24/r2_b06_r_stream_ambiguous.xlsx": "3f4c5280ebb732038cdf4ad13f0c7ac8",
+  "10_phase8_analysis/applicability/cbp_applicability_v1_2026-10-24.csv": "e27852232d0573c859d9c8c3af8610c7",
+  "06_phase4_title_abstract_screening/import/screening_reviewer_1_reviewer_2_n22203_seed1310202643.ris": "f9db00fa7c23bc61d6b7857d3cb521af",
+  "10_phase8_analysis/results/ma_metareg_v1_2026-10-30T172403.csv": "6999b217814a58ad8762add149653bca"
+ },
+ "outputs": {
+  "tabS06_included_reports_v1_2026-10-30T172410.xlsx": "dcd91ed9371aa0896d57245834183771",
+  "tabS06_included_reports_v1_2026-10-30T172410.csv": "d05673875c13ac5c8b7198185de4fe5d",
+  "tabS07_excluded_reports_v1_2026-10-30T172410.xlsx": "83a737d39329b3316f198769c36f48b7",
+  "tabS07_excluded_reports_v1_2026-10-30T172410.csv": "879d2c0a06b8a6014f39cf6676618977",
+  "tabS08_risk_of_bias_v1_2026-10-30T172410.xlsx": "b2d52d76bb56157ecf4ef6b21aa53af1",
+  "tabS08_risk_of_bias_v1_2026-10-30T172410.csv": "96eb9d095b0240770a75c40b59fc69ce",
+  "tabS09_cbp_applicability_v1_2026-10-30T172410.xlsx": "c6b06d9b362034a2f46b8008df6a9207",
+  "tabS09_cbp_applicability_v1_2026-10-30T172410.csv": "696f77ad91f7d5af648173c2d244b191",
+  "tabS10_metaregression_v1_2026-10-30T172410.xlsx": "904e85287c38457dc78ffae32f1fb95b",
+  "tabS10_metaregression_v1_2026-10-30T172410.csv": "ba3e7c958b970190183b590d506f8261",
+  "tabS11_not_retrieved_v1_2026-10-30T172410.xlsx": "508bb22fbc16bef7ba892b3ca8fa02d2",
+  "tabS11_not_retrieved_v1_2026-10-30T172410.csv": "874a9b58c8a95d7a4c18fed545e14f3c"
+ },
+ "rows": {
+  "tabS06_included_reports": 3292,
+  "tabS07_excluded_reports": 2488,
+  "tabS08_risk_of_bias": 1219,
+  "tabS09_cbp_applicability": 870,
+  "tabS10_metaregression": 135,
+  "tabS11_not_retrieved": 19
+ },
+ "s11": {
+  "assessed": 5757,
+  "not_retrieved": 4141,
+  "sought_prisma": 9898
+ }
+}

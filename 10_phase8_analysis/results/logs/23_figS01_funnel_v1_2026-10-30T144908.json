@@ -1,0 +1,27 @@
+{
+  "script": "23_figS01_funnel_v1.R",
+  "mode": "FINAL",
+  "run_time": "2026-10-30 14:49:14 -0500",
+  "r_version": "R version 4.5.3 (2026-03-11)",
+  "ggplot2": "4.0.3",
+  "inputs": {
+    "10_phase8_analysis/analysis_rules_v4_2026-10-24.md": "a2e7e7b72e3731c398e1cb0486626b9d",
+    "10_phase8_analysis/results/ma_results_v3_2026-10-30T134047.csv": "80a0608a6c803bd04292dad4eaf6f200",
+    "10_phase8_analysis/results/ma_input_v2_2026-10-30T133242.csv": "5083a51cf209160dcaa03eb99a1e8695",
+    "10_phase8_analysis/scripts/fig_helpers.R": "b124312a617a426e8b1c093c83959f6b"
+  },
+  "outputs": {
+    "fig_s01_funnel_v1_2026-10-30T144908.pdf": "ade5b917f200576046f4194126d8e11b",
+    "fig_s01_funnel_v1_2026-10-30T144908.svg": "2daf2c95c6bb8fbb1102c0a23066b5fd",
+    "fig_s01_funnel_v1_2026-10-30T144908.png": "a95e11c21f6e08c0dd7fac10a60f7668",
+    "fig_s01_funnel_v1_2026-10-30T144908.tif": "0b5ad28cdfa755c9b79bd075ab2ab105",
+    "fig_s01_funnel_v1_2026-10-30T144908.csv": "bf80f4ffe1e25e5d3a0f67c548dadd05"
+  },
+  "font": "TeX Gyre Pagella",
+  "width_in": 7.5,
+  "height_in": 11.1,
+  "dpi": 1200,
+  "k_min": 10,
+  "strata": 22,
+  "collections_drawn": 2383
+}

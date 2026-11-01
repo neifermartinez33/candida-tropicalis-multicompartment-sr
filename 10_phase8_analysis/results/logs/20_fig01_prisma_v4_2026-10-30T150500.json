@@ -1,0 +1,21 @@
+{
+  "script": "20_fig01_prisma_v4.R",
+  "mode": "FINAL",
+  "run_time": "2026-10-30 15:05:00 -0500",
+  "r_version": "R version 4.5.3 (2026-03-11)",
+  "input": {
+    "prisma_counts_v3_2026-10-30T144848.csv": "009926ee5c5833ec57f958f16982a8bc"
+  },
+  "outputs": {
+    "fig01_prisma_v4_2026-10-30T150456.pdf": "28623d133b11f274a4327c1a1783c840",
+    "fig01_prisma_v4_2026-10-30T150456.svg": "69dbe4275ef72e1fdb239c9079f3d108",
+    "fig01_prisma_v4_2026-10-30T150456.png": "c797cd23f1ee9ac82f3d0e3858f472af",
+    "fig01_prisma_v4_2026-10-30T150456.tif": "2f84aaffc2595c7682e4c2a4c6dec622"
+  },
+  "font": "TeX Gyre Pagella",
+  "fontsize": 8,
+  "width_in": 9.4,
+  "height_in": 9.63,
+  "dpi": 1200,
+  "pending": []
+}

@@ -1,0 +1,14 @@
+{
+  "script": "53_tabS17_qba_v1.py",
+  "mode": "FINAL",
+  "run_time": "2026-10-30T17:37:00-05:00",
+  "python": "3.12.15",
+  "inputs": {
+    "10_phase8_analysis/results/qba_missed_reports_v2_2026-10-30T145039.csv": "0790c91330b34b035c8a3d1a29fe8be5"
+  },
+  "outputs": {
+    "12_documents/supplementary/tables/tabS17_qba_v1_2026-10-30T173700.xlsx": "73ebccc9cb16d3dc09af72452d6e7eca",
+    "12_documents/supplementary/tables/tabS17_qba_v1_2026-10-30T173700.csv": "bd5117d0b682d5d2559ed579e2239d0a"
+  },
+  "rows": 54
+}

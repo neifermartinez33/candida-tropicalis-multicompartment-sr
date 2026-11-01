@@ -24,9 +24,14 @@ RES <- "10_phase8_analysis/results"
 RULES <- "10_phase8_analysis/analysis_rules_v4_2026-10-24.md"
 PROV <- "--provisional" %in% commandArgs(trailingOnly = TRUE)
 TAG <- if (PROV) "_PROVISIONAL" else ""
+# (2026-10-30) the column is called Pooled mean, as in Table 3. --es: labels in Spanish, decimal comma and non-breaking
+# space as thousands separator, for the Spanish manuscript
+ES <- "--es" %in% commandArgs(trailingOnly = TRUE)
+L <- function(en, es) if (ES) es else en
 SEED <- 20261021
 ORD <- c("ECV_CLSI", "ECV_EUCAST", "CLSI_SS", "CLSI_SS+EUCAST", "CLSI_pre2012", "EUCAST")
-LAB <- c("CLSI ECV", "EUCAST ECV", "CLSI SS", "CLSI SS or EUCAST", "CLSI pre-2012", "EUCAST")
+LAB <- L(c("CLSI ECV", "EUCAST ECV", "CLSI SS", "CLSI SS or EUCAST", "CLSI pre-2012", "EUCAST"),
+         c("ECV del CLSI", "ECV de EUCAST", "CLSI SS", "CLSI SS o EUCAST", "CLSI anterior a 2012", "EUCAST"))
 EN <- intToUtf8(8211)   # en dash of the interval; the source stays in ASCII
 EM <- intToUtf8(8212)   # em dash: stratum without estimate
 
@@ -37,6 +42,7 @@ newest <- function(pat) {
   f[length(f)]
 }
 f_res <- newest("ma_results_v3_*.csv")
+TAG <- paste0(TAG, if (ES) "_es" else "")
 lg <- file.path(RES, "logs", sub("^ma_results_v3_(.*)\\.csv$", "06_ma_marginal_v3_\\1.json", basename(f_res)))
 if (!file.exists(lg)) stop("The log is missing for ", f_res)
 f_in <- grep("ma_input_v2_", names(fromJSON(lg)$inputs), value = TRUE)
@@ -51,6 +57,10 @@ if (nrow(res) == 0) stop("There are no C1 strata in the results")
 res$rank <- match(res$regime_stratum, ORD)
 res$crit <- LAB[res$rank]
 res$agent_lab <- paste0(toupper(substring(res$agent, 1, 1)), substring(res$agent, 2))
+if (ES) res$agent_lab <- c("amphotericin B" = "Anfotericina B", anidulafungin = "Anidulafungina", caspofungin = "Caspofungina",
+                           fluconazole = "Fluconazol", flucytosine = "Flucitosina", itraconazole = "Itraconazol",
+                           micafungin = "Micafungina", posaconazole = "Posaconazol", voriconazole = "Voriconazol")[res$agent]
+if (anyNA(res$agent_lab)) stop("Agent without translation")
 res <- res[order(res$outcome != "NWT", res$agent, res$rank), ]
 res$key <- paste(res$agent, res$outcome, res$regime_stratum)
 inp$key <- paste(inp$agent, inp$outcome, inp$regime_stratum)
@@ -58,7 +68,7 @@ inp <- inp[inp$key %in% res$key, ]
 inp$p <- inp$events / inp$n_tested
 
 # drawing rows: header, group label and one row per stratum, from top to bottom
-blocks <- list(c("NWT", "Non-wild-type by ECV"), c("R", "Resistant by clinical breakpoint"))
+blocks <- list(c("NWT", L("Non-wild-type by ECV", "No silvestre por ECV")), c("R", L("Resistant by clinical breakpoint", "Resistente por punto de corte cl\u00ednico")))
 lines <- list(list(kind = "head"))
 for (b in blocks) {
   if (!any(res$outcome == b[1])) next
@@ -73,11 +83,12 @@ rows <- data.frame(y = y_of(which(kind == "row")),
                    i = vapply(lines[kind == "row"], function(l) as.numeric(l$i), numeric(1)))
 d <- cbind(rows, res[rows$i, ])
 d$label <- paste0(d$agent_lab, ", ", d$crit)
-big <- function(v) { x <- as.integer(v); ifelse(abs(x) >= 1e4, formatC(x, big.mark = ",", format = "d"), formatC(x, format = "d")) }  # MDPI: thousands separator only from five digits (2026-10-27)
+big <- function(v) { x <- as.integer(v); ifelse(abs(x) >= 1e4, formatC(x, big.mark = if (ES) intToUtf8(160) else ",", format = "d"), formatC(x, format = "d")) }  # MDPI: thousands separator only from five digits (2026-10-27)
 d$k_txt <- sprintf("%s (%s/%s)", big(d$k_collections), big(d$events), big(d$isolates))
 d$est_txt <- ifelse(d$status == "pooled",
                     sprintf("%.1f (%.1f%s%.1f)", 100 * d$p_marginal, 100 * d$marg_lower, EN,
                             100 * d$marg_upper), EM)
+if (ES) d$est_txt <- gsub(".", ",", d$est_txt, fixed = TRUE)
 pool <- d[d$status == "pooled", ]
 pts <- merge(inp, d[, c("key", "y")], by = "key")
 
@@ -88,11 +99,11 @@ y_head <- y_of(which(kind == "head"))
 X_LAB <- -0.75   # position of the text columns, in x-axis units
 X_K <- 1.05
 X_EST <- 1.52
-XLIM <- c(X_LAB, 1.97)
+XLIM <- c(X_LAB, 2.17)   # (2026-10-30) room for the Pooled mean header; W grows with it, so the scale stays
 head_df <- data.frame(x = c(X_LAB, X_EST), y = y_head,
-                      label = c("Agent and interpretive criterion", "Mean, % (95% CI)"))
+                      label = L(c("Agent and interpretive criterion", "Pooled mean, % (95% CI)"), c("Agente y criterio interpretativo", paste0("Media agrupada, %", intToUtf8(160), "(IC", intToUtf8(160), "95", intToUtf8(160), "%)"))))
 # the k of the header is a variable: in italics, composed with plotmath
-k_head <- data.frame(x = X_K, y = y_head, label = 'bolditalic(k)~bold("(events/isolates)")')
+k_head <- data.frame(x = X_K, y = y_head, label = L('bolditalic(k)~bold("(events/isolates)")', 'bolditalic(k)~bold("(eventos/aislados)")'))
 acl <- unique(inp[, c("agent", "agent_class")])
 d$agent_class <- acl$agent_class[match(d$agent, acl$agent)]
 cls <- sort(unique(d$agent_class))
@@ -121,14 +132,15 @@ p <- ggplot() +
             size.unit = "pt", family = font, fontface = "bold") +
   geom_text(data = k_head, aes(x = x, y = y, label = label), parse = TRUE, hjust = 0, size = 9,
             size.unit = "pt", family = font, fontface = "bold") +
-  scale_colour_manual(values = pal, name = "Antifungal class",
+  scale_colour_manual(values = pal, name = L("Antifungal class", "Clase de antif\u00fangico"),
+                      labels = if (ES) c(echinocandin = "equinocandina", polyene = "polieno", "pyrimidine analogue" = "an\u00e1logo de pirimidina", triazole = "triazol") else waiver(),
                       guide = guide_legend(override.aes = list(alpha = 0.8, size = 2.2))) +
-  scale_size_area(max_size = 3.1, name = "Isolates tested", breaks = c(10, 100, 1000)) +
+  scale_size_area(max_size = 3.1, name = L("Isolates tested", "Aislados probados"), breaks = c(10, 100, 1000)) +
   scale_x_continuous(breaks = seq(0, 1, 0.25), labels = function(v) sprintf("%.0f", 100 * v),
                      expand = c(0, 0)) +
   scale_y_continuous(expand = expansion(add = c(0.6, 0.9))) +
   coord_cartesian(xlim = XLIM, ylim = c(0.5, n_lines + 0.5), clip = "off") +
-  labs(x = "Proportion of isolates, %", y = NULL, title = if (PROV) "PROVISIONAL: not for the manuscript" else NULL) +
+  labs(x = L("Proportion of isolates, %", "Proporci\u00f3n de aislados, %"), y = NULL, title = if (PROV) "PROVISIONAL: not for the manuscript" else NULL) +
   theme_classic(base_size = 10, base_family = font) +
   theme(text = element_text(family = font, colour = "black"),
         axis.text.y = element_blank(), axis.ticks.y = element_blank(),
@@ -141,7 +153,7 @@ p <- ggplot() +
         legend.text = element_text(size = 9),
         plot.margin = margin(4, 4, 4, 4))
 
-W <- 7.5
+W <- 8.05
 H <- 0.21 * n_lines + 1.72   # +0.27 in: the legend goes from one row to two
 outs <- save_figure(function() print(p), paste0("fig03_forest_c1_v2", TAG), W, H, font)
 

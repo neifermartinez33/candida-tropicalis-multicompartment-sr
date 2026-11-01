@@ -1,0 +1,16 @@
+{
+  "script": "59_tabS12_deviation_log_v7.py",
+  "mode": "FINAL",
+  "run_time": "2026-10-30T17:58:23-05:00",
+  "python": "3.12.15",
+  "inputs": {
+    "12_documents/supplementary/tables/tabS12_deviation_log_v5_2026-10-30T145849.xlsx": "cc606dd78fb1f48efe7fed7faee8672a",
+    "12_documents/supplementary/tables/tabS12_deviation_log_v5_2026-10-30T145849.csv": "1c1bf2424b07d1be8ac9ca11976936e0"
+  },
+  "outputs": {
+    "12_documents/supplementary/tables/tabS12_deviation_log_v7_2026-10-30T175823.xlsx": "9d357bfed62a66aa695f55c5af7a52c4",
+    "12_documents/supplementary/tables/tabS12_deviation_log_v7_2026-10-30T175823.csv": "54ea5c5606334bd647e73a5139c564a4"
+  },
+  "entries": 28,
+  "tail_rows": 0
+}

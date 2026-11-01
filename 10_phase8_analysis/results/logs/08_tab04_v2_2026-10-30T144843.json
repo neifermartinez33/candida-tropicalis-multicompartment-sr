@@ -1,0 +1,20 @@
+{
+ "script": "08_tab04_v2.py",
+ "mode": "FINAL",
+ "run_time": "2026-10-30T14:48:43-05:00",
+ "python": "3.12.15",
+ "inputs": {
+  "10_phase8_analysis/analysis_rules_v4_2026-10-24.md": "a2e7e7b72e3731c398e1cb0486626b9d",
+  "10_phase8_analysis/results/ma_results_v3_2026-10-30T134047.csv": "80a0608a6c803bd04292dad4eaf6f200",
+  "10_phase8_analysis/results/ma_strata_v2_2026-10-30T133242.csv": "581c0ff8e12dce0b4da30467a79ab2f5",
+  "10_phase8_analysis/data/lookups/compartments_v1.csv": "acbd2e7549ac4c1ea175abe558f6effd"
+ },
+ "outputs": {
+  "tab04_nonhuman_v2_2026-10-30T144843.xlsx": "c0e184ee40318fe441df61370a989ce6",
+  "tab04_nonhuman_v2_2026-10-30T144843.csv": "3604052a666de3a36337b3e467f14a1c"
+ },
+ "strata_shown": 18,
+ "pooled": 4,
+ "nwt_shown": 0,
+ "single_collection": 15
+}

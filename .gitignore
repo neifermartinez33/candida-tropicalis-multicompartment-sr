@@ -44,6 +44,11 @@
 !/10_phase8_analysis/team_decisions_2026-10-*.md
 # third-party records and abstracts, and a working log not read by any script, stay out
 *.ris
+# copies of the full texts and their text conversions (copyrighted articles)
+/07_phase5_full_text_screening/*/pdfs/
+/05_phase3_model_validation/reproducibility_*/cribado/
+# Rayyan change log: reviewers' accounts, kept by the authors for the screening dates only
+/06_phase4_title_abstract_screening/rayyan_exports/customizations_log.csv
 /04_phase2_calibration/results/calibration_CAL1_discrepancies.csv
 /04_phase2_calibration/results/calibration_CAL1_consensus.xlsx
 /04_phase2_calibration/results/calibration_CAL1_consensus_adjusted.xlsx
@@ -52,3 +57,34 @@
 __pycache__/
 *.pyc
 .~lock.*#
+# (2026-10-30) working records of workbooks B12 and B15 stay out of the repository
+/09_phase7_risk_of_bias/round2_2026-10-24/backups/
+/07_phase5_full_text_screening/rescreen_ast_2026-10-29/r4_b15_ast_exclusions_rescreen.xlsx
+/07_phase5_full_text_screening/rescreen_ast_2026-10-29/r4_b15_comment_normalization.csv
+/10_phase8_analysis/results/*_PROVISIONAL*
+/10_phase8_analysis/results/logs/*_PROVISIONAL*
+/10_phase8_analysis/scripts/46_normalize_b15_comments_v1.py
+/10_phase8_analysis/results/logs/46_normalize_b15_*
+/07_phase5_full_text_screening/rescreen_ast_2026-10-29/46_normalize_b15_comments_v1_*
+
+/11_phase9_deposit/retired_records_2026-10-30/
+/11_phase9_deposit/originals_with_initials_2026-10-30/
+# (2026-10-31) scripts that edit manuscript drafts, which are not in the repository, and Spanish copies of the figures
+/10_phase8_analysis/scripts/50_make_manuscript_v3.py
+/10_phase8_analysis/scripts/51_make_manuscrito_es_v3.py
+/10_phase8_analysis/scripts/56_make_manuscripts_v4.py
+/10_phase8_analysis/scripts/57_validate_manuscripts_v4.py
+/10_phase8_analysis/scripts/60_move_to_template_v1.py
+/10_phase8_analysis/scripts/61_wording_language_model_v1.py
+/10_phase8_analysis/scripts/62_change_sheets_v1.py
+/10_phase8_analysis/scripts/63_fix_cited_tables_v1.py
+/10_phase8_analysis/scripts/64_fix_table2_species_v1.py
+/10_phase8_analysis/scripts/65_make_senior_package_v1.py
+/10_phase8_analysis/scripts/66_text_fixes_user_word_v1.py
+/10_phase8_analysis/scripts/67_english_package_v1.py
+/10_phase8_analysis/results/logs/5[67]_*
+/10_phase8_analysis/results/logs/6[0-7]_*
+/12_documents/figures/*_es_*
+/10_phase8_analysis/results/fig0[123]_*_es_*
+/10_phase8_analysis/results/logs/2[012]_fig0*_es_*
+/10_phase8_analysis/results/logs/5[012]_*

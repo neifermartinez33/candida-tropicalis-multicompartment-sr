@@ -89,13 +89,14 @@ def main():
     ec = pd.read_csv(f_ec12)
     col_of = dict(zip(ec.report_id, ec.collection_id))
     s["collection_id"] = s.study_id.map(col_of).fillna("COL_" + s.study_id)
+    # (2026-10-30) these three fields are set before the representative report is drawn, which is what the table reads
+    s["species_id"] = s.species_id_v3
+    s["azole_exposure_documented"] = s.azole_exposure_status.ne("not_documented").map({True: "YES", False: "NO"})
+    s["eligible_ma"] = s.eligible_ma_v3
     # representative report of each collection
     s["_n"] = pd.to_numeric(s.n_tropicalis, errors="coerce").fillna(-1)
     rep = (s.sort_values(["_n", "year", "study_id"], ascending=[False, False, True])
            .drop_duplicates("collection_id"))
-    s["species_id"] = s.species_id_v3
-    s["azole_exposure_documented"] = s.azole_exposure_status.ne("not_documented").map({True: "YES", False: "NO"})
-    s["eligible_ma"] = s.eligible_ma_v3
     al, books = load_allocation()
     r = rep.copy()
     zero = r[r.n_compartments.fillna(0) == 0]

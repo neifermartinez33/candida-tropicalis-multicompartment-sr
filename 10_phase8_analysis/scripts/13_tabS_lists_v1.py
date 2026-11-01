@@ -192,7 +192,7 @@ def s7(ex, info, prov, r3=None):
               "extraction and a blind sample of excluded reports (deviations declared in the Methods)."),
     ] + ([("3", "Reference-list check: reports cited by four previous reviews and not found by the search (other methods "
                  "column of Figure 1); they are not counted in the blocks above.")] if r3 is not None and len(r3) else []) + prov_note(prov)
-    caption = cap(prov, ["Reports of ", SP, " assessed in full text and excluded, by main reason."])
+    caption = cap(prov, ["Reports of ", SP, " assessed in full text and excluded, by main reason; the last blocks list the reports of the reference-list check, excluded or not retrieved."])
     return headers, widths, blocks, notes, caption
 
 
@@ -407,7 +407,7 @@ def main():
     check = "--check" in sys.argv[1:]
     if not os.path.isdir("10_phase8_analysis"):
         sys.exit("Run from the project root")
-    for p in (RULES, FT, RIS, R_MAP, B06, MATRIX):
+    for p in (RULES, FT, RIS if os.path.exists(RIS) else RIS_FIELDS, R_MAP, B06, MATRIX):
         if not os.path.exists(p):
             sys.exit(f"Missing {p}")
     D = newest("10_phase8_analysis/data/analysis_dataset_v3_*", prov)
@@ -501,7 +501,7 @@ def main():
     n_ass, n_nr = spec11[5], spec11[6]
     if n_ass + n_nr != sought_n and not prov:
         sys.exit(f"S11: assessed + not retrieved = {n_ass + n_nr}, PRISMA sought = {sought_n}")
-    ins = [RULES, f"{D}/studies.csv", f_in, f_res, f_ec12, f_rob, f_ex, f_nr, f_pc, FT, R_MAP, B06, MATRIX, RIS] + ([f_mr] if f_mr else [])
+    ins = [RULES, f"{D}/studies.csv", f_in, f_res, f_ec12, f_rob, f_ex, f_nr, f_pc, FT, R_MAP, B06, MATRIX, RIS if os.path.exists(RIS) else RIS_FIELDS] + ([f_mr] if f_mr else [])
     log = {"script": os.path.basename(__file__), "mode": "PROVISIONAL" if prov else "FINAL",
            "run_time": datetime.now().astimezone().isoformat(timespec="seconds"), "python": platform.python_version(),
            "inputs": {p: T.md5(p) for p in ins}, "outputs": {os.path.basename(k): v for k, v in outs.items()},

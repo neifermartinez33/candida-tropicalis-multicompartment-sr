@@ -1,0 +1,77 @@
+{
+ "script": "derive_rob_judgement_v2.py",
+ "mode": "FINAL",
+ "run_time": "2026-10-30T18:03:39-05:00",
+ "dataset": "10_phase8_analysis/data/analysis_dataset_v3_2026-10-30T133231",
+ "inputs": {
+  "09_phase7_risk_of_bias/rob_consensus_2026-10-22.xlsx": "4427837249be136e4ae7ce1570ed16b5",
+  "09_phase7_risk_of_bias/rob_rules_v3_2026-10-24.md": "e00042ac92cca6ae747f8a4a0fa46142",
+  "10_phase8_analysis/data/analysis_dataset_v3_2026-10-30T133231/studies.csv": "e9ab233f061db25cff8db5d3f12f2a08",
+  "10_phase8_analysis/data/analysis_dataset_v3_2026-10-30T133231/ast.csv": "0e8724458822496b255c8c1b776073a6",
+  "09_phase7_risk_of_bias/round2_2026-10-24/r2_b12_rob_new_reports_2026-10-24T180816.xlsx": "77c829cdcefa817fab2788f09b94c3ed",
+  "09_phase7_risk_of_bias/round2_2026-10-24/r2_b12_rob_new_reports_2026-10-26T114717.xlsx": "ec355cc8456aaa073b787b1c75e2faee",
+  "09_phase7_risk_of_bias/round2_2026-10-24/r2_b12_rob_new_reports_2026-10-30T121827.xlsx": "8872f989a663831e62760297738c8a64",
+  "09_phase7_risk_of_bias/round3_reference_check_2026-10-27/r3_b12_rob_reference_check_2026-10-27T193151.xlsx": "f543e2b10a1bf7a9b736cf503fd328a7"
+ },
+ "outputs": {
+  "rob_assessment_v2_2026-10-30T180339.csv": "0252b0f19cecce71772ae90295c59f79"
+ },
+ "reports": 1219,
+ "without_rb8": 0,
+ "judgement": {
+  "High": 732,
+  "Low": 297,
+  "Moderate": 190
+ },
+ "rb6_written_branch": {
+  "standard_or_document_absent_no_inference": 134
+ },
+ "by_criterion": {
+  "RB1": {
+   "Yes": 926,
+   "Unclear": 231,
+   "No": 62
+  },
+  "RB2": {
+   "Yes": 982,
+   "No": 236,
+   "Unclear": 1
+  },
+  "RB3": {
+   "Yes": 1049,
+   "Unclear": 123,
+   "No": 47
+  },
+  "RB4": {
+   "Unclear": 655,
+   "Yes": 553,
+   "No": 11
+  },
+  "RB5": {
+   "Yes": 1046,
+   "Unclear": 171,
+   "No": 2
+  },
+  "RB6": {
+   "Yes": 634,
+   "No": 308,
+   "Unclear": 277
+  },
+  "RB7": {
+   "Yes": 1208,
+   "No": 8,
+   "Unclear": 3
+  },
+  "RB8": {
+   "No": 696,
+   "Yes": 412,
+   "Not applicable": 74,
+   "Unclear": 37
+  },
+  "RB9": {
+   "Not applicable": 1156,
+   "Unclear": 58,
+   "Yes": 5
+  }
+ }
+}

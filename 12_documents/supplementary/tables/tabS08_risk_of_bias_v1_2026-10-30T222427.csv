@@ -1,0 +1,1220 @@
+block,Report ID,Report,Year,Compartments,"RB1, sampling frame and method","RB2, subjects and setting described","RB3, coverage of the identified sample","RB4, species identification","RB5, testing method with a standard","RB6, criterion with document and version","RB7, denominator per agent","RB8, declared deduplication","RB9, sampling-site documentation",Overall,Basis
+,O11176,Abad 2015,2015,C1,Yes,No,Yes,Unclear,Yes,No,Yes,Unclear,Not applicable,High,"Two or more No among the others: RB2,RB6"
+,R03942,Abdullah 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O01338,Aboagye 2025,2025,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O05072,Abou-Chakra 2025,2025,C1,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB3
+,O05357,Abruquah 2012,2012,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O15980,Abu-Elteen 2007,2007,C1,Yes,No,Yes,No,Yes,Yes,Yes,No,Not applicable,High,No in RB4/RB8
+,R00221,Adam 2021,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Not applicable,Moderate,One No: RB7
+,O16741,Adesiji 2011,2011,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O08004,Adewole 2025a,2025,C1,Unclear,Yes,Yes,Unclear,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,O10323,Adhikary 2021,2021,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O16162,Adogo 2020,2020,C1,Yes,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O08202,Adogo 2024,2024,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R09122,Afsarian 2023,2023,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R09453,Aggarwal 2017,2017,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O05471,Aghakouchakzadeh 2026,2026,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O14624,Agrawal 2014,2014,C1,Unclear,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O14261,Aguiar 2021,2021,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Unclear,Not applicable,Low,"No No; 2 Unclear: RB1,RB8"
+,O03666,Aguilar 2015,2015,C1,Unclear,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O21399,Aguilar 2020,2020,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O16966,Ahaik 2024,2024,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,R05241,Ahmadi 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R05847,Ahmadi 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R07259,Ahmed 2018,2018,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R04594,Ahmed 2024,2024,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,R03324,Aigner 2017,2017,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O17361,Akgün Karapınar 2023,2023,C1,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O12655,Akinjogunla 2020,2020,C1,Yes,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O05738,Akinjogunla 2025,2025,C1,Yes,Yes,No,Unclear,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,R03744,Al-Dahlaki 2022,2022,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,R04494,Al-Garawyi 2024,2024,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,O01284,Al-Musawi 2020,2020,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O16788,Al-Qaysi 2024,2024,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,R08533,Ala-Houhala 2020,2020,C1,Unclear,Yes,Yes,Yes,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O10480,Alagiri 2017,2017,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O12325,Alakeel 2013,2013,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,R09696,Albanell-Fernández 2026,2026,C1,Unclear,Yes,No,Yes,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB3
+,R06044,Albuquerque Menezes 2013,2013,C1,Yes,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O16373,Alburquerque 2009,2009,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O21821,Alby-Laurent 2026,2026,C1,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Not applicable,High,No in RB4
+,R08547,Aldejohann 2024,2024,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O16354,Alfaytouri 2023,2023,C1,Yes,Yes,Unclear,Unclear,Unclear,No,Unclear,No,Not applicable,High,No in RB8
+,O07679,Alfouzan 2017,2017,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O09985,Alhatmi 2022,2022,C1,Unclear,Yes,Yes,Unclear,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O14783,Alhussaini 2016a,2016,"C1, C4",Yes,Yes,Yes,Unclear,Unclear,No,Yes,No,Unclear,High,No in RB8
+,O10105,Ali 2024,2024,C1,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,R03098,Alimehr 2015,2015,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O02113,Alizadeh 2017a,2017,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O02874,Alobaid 2017,2017,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R06708,Alobaid 2019,2019,C1,Unclear,Yes,Unclear,Yes,Yes,Unclear,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB1,RB3,RB6"
+,O12857,Alobaid 2021,2021,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,R06677,Alsuhaibani 2020,2020,C1,No,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O12864,Altarawneh 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R08436,Altinbaş 2020,2020,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB2
+,O02141,Altınbaş 2025,2025,C1,Unclear,Yes,Yes,Unclear,Unclear,Unclear,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB1,RB4,RB5,RB6"
+,O14313,Altıntaş 2021,2021,C1,Yes,Unclear,Unclear,Yes,Yes,Yes,Yes,Unclear,Not applicable,Moderate,"Three or more Unclear: RB2,RB3,RB8"
+,O01956,Alves 2015,2015,C6,Unclear,Yes,Yes,Yes,Yes,Unclear,Yes,No,Unclear,High,No in RB8
+,O16154,Alıcı 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O11768,Ambe 2020,2020,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,O17960,Ambock 2025,2025,"C1, C4",Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Unclear,High,No in RB8
+,R02565,Amilcar  Caballero-Trejo 2014,2014,C1,Unclear,No,No,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O21447,Amorim 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O11438,Anaele 2025,2025,C1,Yes,No,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O05769,Angora 2025,2025,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,O12904,Anirima 2025,2025,C1,Yes,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O03294,Anita 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,O13897,Anozie 2024,2024,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O14678,Antunes 2004,2004,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O10882,Anukraha 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,R04867,Anwar 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O04633,Aparna 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O11722,Aquino 2005,2005,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O07616,Arabacı 2023,2023,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,R07778,Araiza 2023,2023,C1,Yes,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O14563,Araj 2015,2015,C1,Yes,Yes,No,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Moderate,One No: RB3
+,R03278,Arastehfar 2019,—,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O04992,Arastehfar 2019a,2019,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R09699,Arastehfar 2019b,2019,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O00631,Arastehfar 2020,2020,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O12947,Arastehfar 2021a,2021,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R04295,Arastehfar 2021b,2021,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R07756,Arastehfar 2021c,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O12573,Arendrup 2010,2010,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB3,RB4"
+,R00610,Arendrup 2023,2023,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O03361,Arikan 1998,1998,C1,Unclear,No,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB2
+,O11436,Arikan 2005,2005,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R00994,Arikan-Akdagli 2019,2019,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O06342,Arora 2021,2021,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O12413,Arthington-Skaggs 2002,2002,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O17331,Aruna 2025,2025,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O04455,Asad 2024,2024,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R06613,Asfour 2022,2022,C2,Yes,No,Unclear,Yes,Unclear,No,Yes,No,Unclear,High,No in RB8
+,O02423,Asina 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R06456,Aslan 2016,2016,C1,Yes,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R03273,Aslani 2019,2019,C1,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O08109,Astvad 2017,2017,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R05405,Astvad 2018,2018,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O07075,Auler 2024,2024,C1,No,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O04459,Awasthi 2011,2011,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O11775,Axner-Elings 2011,2011,C1,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB5
+,O11586,Aydin 2010,2010,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O14041,Aydoğan 2022,2022,C1,Yes,Yes,Unclear,Unclear,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O15057,Aykac 2025,2025,C1,Unclear,Yes,Unclear,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O12123,Azevedo 2010,2010,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R08337,Azevedo 2023,2023,C1,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O13696,Babu 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R00401,Baddley 2004,2004,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R07353,Badiee 2011a,2011,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O00679,Badiee 2017a,2017,C1,Yes,No,Unclear,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O09742,Badiee 2017b,2017,C1,Yes,Yes,Unclear,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O08920,Badiee 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R06772,Bagg 2003,2003,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,Not applicable,Not applicable,Moderate,One No: RB2
+,O13216,Baghdadi 2016,2016,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R05136,Bagirova 2022a,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O09203,Bagon 2026,2026,C1,Unclear,No,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O01450,Bailly 2015,2015,C1,Yes,Yes,No,Unclear,Unclear,No,Yes,Yes,Not applicable,High,"Two or more No among the others: RB3,RB6"
+,O06095,Balaraman 2020,2020,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R02170,Banawas 2025,2025,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O18290,Bansal 2025,2025,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O08723,Baraikio 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O04263,Baran 2000,2000,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O09497,Baran 2013,2013,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O03629,Bassetti 2013,2013,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O14247,Bassetti 2015,2015,C1,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB5"
+,O08552,Bastos 2023,2023,C1,Yes,No,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R00709,Basu 2012,2012,C1,Unclear,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O14579,Batista 2025,2025,C1,Unclear,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O03444,Bayraktar 2017,2017,C1,Yes,No,No,Yes,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O01574,Bedini 2006,2006,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O21776,Belanger 2022,2022,C1,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,B007,Ben-Ami 2012,2012,C1,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB5"
+,R08308,Ben-Rhouma 2021,2021,C1,Yes,No,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R07538,Benito-Cruz 2016,2016,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O11827,Benson 2024,2024,C1,Yes,Yes,Yes,Yes,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,O08960,Berlau 2024,2024,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O02920,Berrio 2017,2017,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O01327,Bhadade 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O14329,Bhadade 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O16466,Bhat 2018,2018,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O16643,Biernasiuk 2015,2015,C1,Unclear,No,Yes,Unclear,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,O12738,Bilal 2023,2023,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O11088,Bilal 2025b,2025,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O09641,Biswas 2023,2023,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O05059,Bizerra 2008,2008,C1,Unclear,No,Yes,Yes,Yes,Yes,Yes,Not applicable,Not applicable,Moderate,One No: RB2
+,R02520,Boan 2019,2019,C1,Unclear,Yes,Unclear,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB1,RB3"
+,O16224,Boattini 2023,2023,C1,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB3
+,O01692,Boatto 2016a,2016,C1,No,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Not applicable,Moderate,One No: RB1
+,O16161,Boatto 2016b,2016,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O21473,Bonfietti 2011,2011,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O16107,Bonfietti 2012,2012,C1,Unclear,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB1,RB4,RB6"
+,O01772,Boonsilp 2021,2021,C1,Yes,Yes,Unclear,Yes,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,O14430,Borase 2025,2025,C1,Yes,No,Unclear,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,R00353,Bordallo-Cardona 2018a,2018,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O13886,Bordallo-Cardona 2018b,2018,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB1
+,R04876,Borghi 2010,2010,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O16928,Bose 2018,2018,C1,Yes,No,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,High,"Two or more No among the others: RB2,RB6"
+,O21389,Botelho 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R07360,Bougnoux 2016,2016,C1,Yes,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,B015,Bourgeois 2010,2010,C1,Unclear,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R04538,Branda dos Reis 2024,2024,C3,Unclear,Yes,No,Unclear,Yes,Unclear,Yes,Unclear,Yes,Moderate,One No: RB3
+,R01011,Brandt 2024,2024,C1,Unclear,Yes,Yes,Unclear,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O13944,Brandão 2009,2009,"C5, C6",Yes,Yes,No,Yes,Yes,Yes,Yes,Unclear,Yes,Moderate,One No: RB3
+,O04926,Brathwaite 2025,2025,C2,Yes,No,Yes,Yes,Yes,No,Yes,No,Unclear,High,No in RB8
+,O14914,Breda 2017,2017,C1,Unclear,Yes,No,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O17680,Bremenkamp 2011,2011,C1,Unclear,No,Unclear,Unclear,Yes,No,Yes,Unclear,Not applicable,High,"Two or more No among the others: RB2,RB6"
+,O06281,Brescini 2020,2020,C1,Yes,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB5,RB6"
+,O09614,Brescini 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O00668,Brilhante 2015a,2015,C2,Yes,No,Yes,Unclear,Yes,Unclear,Yes,No,Unclear,High,No in RB8
+,O03750,Brilhante 2015b,2015,C2,Yes,No,Yes,Unclear,Yes,Unclear,Yes,No,Unclear,High,No in RB8
+,O16177,Brito 2006,2006,C2,Unclear,No,Yes,Unclear,Yes,Yes,Yes,No,Unclear,High,No in RB8
+,O05301,Brito 2008,2008,C2,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Unclear,High,No in RB8
+,O00794,Bruder-Nascimento 2010,2010,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,R03423,Butta 2018,2018,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB6
+,O05015,Butta 2019,2019,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,R02487,Caggiano 2015,2015,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O03702,Cai 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O21421,Caldas 2017,2017,C2,Yes,Yes,Unclear,Yes,Unclear,Unclear,Yes,No,Unclear,High,No in RB8
+,R02609,Calvo 2024,2024,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R00560,Camplesi Junior 2017,2017,C1,No,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O04288,Candido 1998,1998,C1,Yes,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R05549,Cannas 2013,2013,C1,Unclear,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O05622,Cantón 1999,1999,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O07145,Cantón 2002,2002,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O13773,Cantón 2012,2012,C1,Yes,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB5,RB6"
+,O12898,Capoor 2005,2005,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O07423,Carbia 2023,2023,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O10502,Castanheira 2020,2020,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB6
+,O16492,Castellanos-Arévalo 2015,2015,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,R08198,Castelló-Abietar 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O21397,Castelo-Branco 2021,2021,C2,Unclear,No,Yes,Yes,Yes,Unclear,Yes,No,Unclear,High,No in RB8
+,R03356,Cavalcante 2020,2020,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O12171,Ceballos-Garzon 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O11719,Ceballos-Garzon 2023,2023,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB1
+,O14745,Ceballos-Garzon 2026,2026,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB3,RB4"
+,O21433,Cermeño 2015,2015,C1,Yes,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O07202,Cermeño 2021a,2021,C2,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Unclear,High,No in RB8
+,O09157,Cermeño 2021b,2021,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,O18836,Chaari 2023,2023,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O00853,Chakrabarti 2009,2009,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O01623,Chakrabarti 2014,2014,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB1
+,O17403,Chakraborty 2017,2017,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O13037,Chander 2013,2013,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O02617,Chandra 2023,2023,C1,Yes,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O15783,Chang 2013,2013,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O10936,Chapman 2017,2017,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O10856,Charlène 2026,2026,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O16388,Chaudhury 2023,2023,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O04180,Chedraoui 2026,2026,C1,Unclear,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O01571,Chen 2009b,2009,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O07829,Chen 2019,2019,C1,Unclear,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB1,RB6"
+,O02180,Chen 2021a,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O01049,Chen 2021c,2021,C1,Yes,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB5,RB6"
+,O09606,Chen 2022,2022,C1,Unclear,Yes,Yes,Yes,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,O02489,Chen 2023b,2023,C3,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Unclear,Low,"No No; 2 Unclear: RB5,RB9"
+,O07803,Chen 2024b,2024,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O18601,Chen 2025a,2025,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB1,RB4"
+,O18295,Chen 2025b,2025,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,R05646,Chen 2025c,2025,C1,Yes,Yes,Yes,Yes,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O21660,Chen 2025d,2025,"C1, C3",Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Moderate,One No: RB3
+,O16231,Chen 2026b,2026,C1,Unclear,Yes,Unclear,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB1,RB3"
+,O12273,Cheng 2004,2004,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O07812,Chew 2017,2017,C1,Yes,Yes,No,Yes,Yes,Unclear,Yes,Unclear,Not applicable,Moderate,One No: RB3
+,O05183,Chew 2018,2018,C1,No,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,Not applicable,Moderate,One No: RB1
+,O09025,Chew 2023,2023,C1,Yes,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB5,RB6"
+,R09437,Chew 2026,—,C1,Unclear,No,Yes,Yes,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,R00854,Chi 2011,2011,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB1,RB4"
+,O08036,Chitharagi 2026,2026,C1,Yes,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O01668,Choi 2016,2016,C1,No,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Moderate,One No: RB1
+,O10477,Chong 2012,2012,C1,No,Yes,Unclear,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O06267,Chongtham 2022,2022,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O10603,Chou 2007,2007,C1,Yes,Yes,Yes,Unclear,Yes,Yes,No,Yes,Not applicable,Moderate,One No: RB7
+,R03631,Choudhury 2018,2018,C1,Unclear,No,Yes,No,Unclear,No,Yes,Unclear,Not applicable,High,No in RB4
+,O13682,Cisterna 2010,2010,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O04788,Clark-Ordóñez 2017,2017,C1,Yes,No,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O09091,Cleveland 2012,2012,C1,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Unclear,Not applicable,Low,"No No; 2 Unclear: RB3,RB8"
+,O01685,Colombo 2002,2002,C1,Yes,Yes,Yes,Unclear,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,O14784,Colombo 2003,2003,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O14410,Colombo 2006,2006,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,R08282,Colombo 2013,2013,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Unclear,Not applicable,Moderate,"Three or more Unclear: RB4,RB6,RB8"
+,O08522,Cong 2026,2026,C1,Yes,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB5,RB6"
+,O04962,Corzo-Leon 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O11919,Costa-de-Oliveira 2008,2008,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O12334,Cp 2005,2005,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O21371,Crisci 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O15214,Cruz 2011,2011,C1,No,Yes,Yes,No,Yes,Yes,Yes,No,Not applicable,High,No in RB4/RB8
+,O00961,Cuenca-Estrella 2002,2002,C1,Yes,Yes,Unclear,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB3,RB4,RB6"
+,O04046,Cuenca-Estrella 2004,2004,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O13924,Cuenca-Estrella 2011,2011,C1,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB3
+,O08716,Cugnata 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O14434,Cândido 2021,2021,C2,Yes,No,Yes,Yes,Yes,No,Yes,No,Unclear,High,No in RB8
+,O14874,Dabas 2021,2021,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R01716,Dagi 2016,2016,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O11879,Dahiya 2003,2003,C1,Unclear,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O14366,Dahmani 2018,2018,C6,Yes,No,Unclear,Yes,Unclear,Unclear,Yes,Unclear,Unclear,Moderate,One No: RB2
+,O05992,Dai 2025,2025,C1,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O09920,Dalyan Cilo 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O13124,Danis Vijay 2019,2019,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O02320,Dar 2015,2015,C1,Unclear,No,Unclear,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,R02177,Darabian 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R01191,Das 2019,2019,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O18921,Das 2025,2025,C1,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB5"
+,R02890,Davis 2002,2002,C1,Unclear,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R09011,Davoodi 2021,2021,C1,No,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Not applicable,Moderate,One No: RB1
+,O14464,Dawoud 2024,2024,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O04325,De Francesco 2017,2017,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB6
+,R02883,De Paiva Macedo 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,R03047,De Paula Menezes 2019,2019,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O05073,De-la-Torre 2017,2017,C1,Unclear,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O06756,Deepa 2016,2016,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O16697,Deepthi 2020,2020,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O07675,Deka 2017,2017,C1,Yes,No,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,R00663,Delma 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O13937,Deng 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,R02914,Deorukhkar 2014a,2014,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O01999,Deorukhkar 2014b,2014,C1,Yes,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O04781,Desnos-Ollivier 2008a,2008,C1,Yes,Yes,Yes,Unclear,Unclear,Unclear,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB4,RB5,RB6"
+,R07562,Desnos-Ollivier 2008b,2008,C1,Unclear,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O13130,Desnos-Ollivier 2019,2019,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O21775,Desnos-Ollivier 2021,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Unclear,Not applicable,Low,No No; 1 Unclear: RB8
+,O12740,Devi 2013,2013,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,O13064,Devi 2019,2019,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O12305,Dewan 2021,2021,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R00054,Di Carlo 2025,2025,C1,Unclear,Yes,Yes,Yes,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O13617,Dias 2011,2011,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R07575,Diba 2018,2018,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O17653,Diekema 2012,2012,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R05848,Dimopoulos 2009,2009,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,R04211,Ding 2024,2024,C1,No,No,Yes,Yes,Yes,Yes,Yes,Not applicable,Not applicable,High,"Two or more No among the others: RB1,RB2"
+,O10994,Diniz 2022,2022,C1,No,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O17966,Dior 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O16491,Dolgun 2025,2025,C2,Yes,No,Yes,Yes,Yes,No,Yes,Not applicable,Unclear,High,"Two or more No among the others: RB2,RB6"
+,O17423,Dong 2015,2015,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O09047,Dornelas-Ribeiro 2012,2012,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O10234,Dovo 2022,2022,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O11779,Doğan Ö 2020,2020,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O16561,Duarte 2010,2010,C1,Unclear,No,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB2
+,O17539,Duque 2009b,2009,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Not applicable,Not applicable,Low,No No; 1 Unclear: RB4
+,R04860,Duque 2020,2020,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O15809,Duran 2007,2007,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB2
+,O04200,Durga 2024,2024,C1,No,No,Yes,Unclear,Yes,Unclear,Yes,Not applicable,Not applicable,High,"Two or more No among the others: RB1,RB2"
+,O00821,Díaz-García 2021a,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,R01978,Díaz-García 2021b,2021,C1,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB3
+,O04836,Díaz-García 2022b,2022,C1,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB3
+,R00976,Díaz-García 2023a,2023,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R02458,Díaz-García 2023b,2023,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O14102,Eddouzi 2013a,2013,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R01543,Edward 2020,2020,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O17515,Ekpo 2017,2017,C1,Yes,No,No,Unclear,Yes,Yes,Yes,Not applicable,Not applicable,High,"Two or more No among the others: RB2,RB3"
+,B004,Eksi 2013,2013,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O09797,Ekwealor 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O21387,Ekşi 2022,2022,C1,Yes,No,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Moderate,One No: RB2
+,O08534,El Said 2022,2022,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O02871,El-Ganiny 2021,2021,C1,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Not applicable,High,"Two or more No among the others: RB2,RB6"
+,R09507,El-Ganiny 2022,2022,C1,Yes,No,Yes,Yes,Unclear,Yes,Yes,Yes,Not applicable,Moderate,One No: RB2
+,O08203,El-Kholy 2021,2021,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB2
+,O07320,El-Mahallawy 2023,2023,C1,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB2
+,O02943,El-Sherbiny 2020,2020,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O07186,ElFeky 2025,2025,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O12978,ElKenawy 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,O10348,Elmahjoub 2026,2026,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O15102,Enwuru 2008,2008,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O16937,Er 2021,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O12709,Erbaş 2017,2017,C2,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Unclear,High,No in RB8
+,O01697,Erdem 2025,2025,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O08222,Erfaninia 2023,2023,C1,Unclear,No,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R00967,Ergin 2002,2002,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O12793,Erum 2020,2020,C1,Yes,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O13081,Eschenauer 2014,2014,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB3,RB4"
+,O13934,Eshra 2017,2017,C1,Yes,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R02052,Esmaio 2026,2026,C1,Yes,No,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,R05834,Evci 2010,2010,C1,Yes,No,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Moderate,One No: RB2
+,O05635,Eze 2025,2025,C1,Yes,No,Yes,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,R07576,Eze 2026,2026,C1,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O03686,Falces-Romero 2019,2019,C1,No,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R01961,Falces-Romero 2021,2021,C1,Unclear,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB1,RB5,RB6"
+,O08933,Fan 2014,2014,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O02037,Fan 2017,2017,C1,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB5
+,O04210,Fan 2018a,2018,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O03071,Fan 2023a,2023,C1,Yes,Yes,No,Yes,Yes,Yes,Yes,Unclear,Not applicable,Moderate,One No: RB3
+,O01909,Fan 2023c,2023,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O10837,Fan 2026,2026,C1,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O10751,Fang 2024,2024,C2,Unclear,No,No,Yes,Yes,Yes,Yes,No,Unclear,High,No in RB8
+,O15396,Faria-Ramos 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O06262,Farooqi 2012b,2012,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O13084,Farrag 2015,2015,C1,Unclear,No,Yes,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O05051,Favalessa 2010,2010,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O00875,Favarello 2021,2021,C1,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O06361,Feglo 2012,2012,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O00893,Fernandes 2016,2016,C1,Unclear,No,No,Yes,Yes,Yes,Yes,Not applicable,Not applicable,High,"Two or more No among the others: RB2,RB3"
+,O02902,Fernández-Ruiz 2015,2015,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,R07010,Fernández-Ruiz 2017,2017,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB6
+,O21428,Ferreira 2016a,2016,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O18415,Ferreira 2025a,2025,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O18038,Ferreira 2026,2026,C1,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O08935,Fifolato 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,Unclear,Not applicable,Moderate,One No: RB6
+,O02219,Figueiredo 2007,2007,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O05745,Fleck 2007,2007,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O02340,França 2008,2008,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB3,RB4"
+,O21480,Freitas 2011,2011,C1,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O10661,Freitas 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Not applicable,Not applicable,Low,No No; 1 Unclear: RB6
+,O14417,Frej-Mądrzak 2021,2021,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R00684,Fu 2025,2025,C1,Unclear,Yes,Yes,Yes,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,R07262,Fuchs 2022,2022,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O02557,Fuller 2019,2019,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O06562,Furlaneto 2011,2011,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Unclear,Not applicable,Low,No No; 1 Unclear: RB8
+,O01850,Furlaneto-Maia 2008,2008,C1,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O14737,Gade 2019,2019,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O08785,Gandhi 2017,2017,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R05533,Ganeshkumar 2020,2020,C1,Yes,Yes,Yes,Unclear,Yes,Yes,No,No,Not applicable,High,No in RB8
+,R01032,Gangneux 2018,2018,C1,Unclear,No,Yes,Yes,Yes,Yes,Yes,Unclear,Not applicable,Moderate,One No: RB2
+,O10144,Gao 2024,2024,C1,Unclear,Yes,Yes,Yes,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,R01539,Gao 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O08930,Garbino 2003,2003,C1,No,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O21376,Garcia 2024,2024,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O07997,Garcia-Effron 2008,2008,C1,No,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O11363,Garczewska 2016,2016,C1,Unclear,Yes,No,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O00334,García 2013,2013,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O16947,García 2024,2024,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O00690,García-Agudo 2017,2017,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,B012,Garnacho-Montero 2010,2010,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB1,RB4"
+,O05987,Gautam 2023,2023,C1,Unclear,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O04383,Gayoso 2021,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O06097,Gebremicael 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O01073,Gedam 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O05408,Geeta 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O15390,Geremia 2025,2025,C1,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB5
+,O14712,Geusau 2014,2014,C1,Unclear,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R00417,Ghaith 2021,2021,C1,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Not applicable,High,"Two or more No among the others: RB3,RB6"
+,O02267,Giacobino 2016,2016,C1,No,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Moderate,One No: RB1
+,O17246,Gibert 2026,2026,C1,No,Yes,Unclear,Yes,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB1
+,O15831,Girah 2024,2024,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O00710,Giusiano 2005b,2005,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R02929,Glushakova 2024a,2024,C6,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Unclear,High,No in RB8
+,R07270,Glushakova 2024b,2024,C2,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,No,Unclear,High,No in RB8
+,R08646,Glushakova 2024c,2024,C2,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Unclear,High,No in RB8
+,O15028,Godoy 2003,2003,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O13439,Goel 2009,2009,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R05874,Goel 2016,2016,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R09115,Goenka 2025,2025,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O07013,Golestannejad 2022,2022,C1,Unclear,No,Unclear,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O05297,Golestannejad 2024a,2024,C1,Unclear,No,Unclear,Yes,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O14925,Gong 2021,2021,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB3,RB4"
+,O02572,González 2008,2008,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O04026,González 2013,2013,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O14965,González-Lara 2017,2017,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O12826,Gonçalves 2006,2006,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O18364,Gopinathan 2013,2013,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,O05661,Gottfredsson 2003,2003,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O14872,Goulart 2016,2016,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Not applicable,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O13672,Gourari-Bouzouina 2026,2026,C1,Unclear,No,Yes,No,Yes,Unclear,Yes,No,Not applicable,High,No in RB4/RB8
+,R01298,Govender 2016,2016,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O14240,Gołaś 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O06294,Grosset 2016,2016,C1,No,Yes,Yes,No,Unclear,No,Yes,No,Not applicable,High,No in RB4/RB8
+,O05731,Gu 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O14832,Gualco 2007,2007,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O03468,Gubran 2024,2024,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O01778,Guinea 2010,2010,C1,Unclear,Yes,Yes,Yes,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O02239,Guinea 2013,2013,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB6
+,O00985,Guo 2020,2020,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB6
+,O06999,Gupta 2021,2021,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O15347,Guragain 2021,2021,C1,Yes,No,Yes,Unclear,Yes,No,Yes,Not applicable,Not applicable,High,"Two or more No among the others: RB2,RB6"
+,O07418,Guru 2024,2024,C1,Yes,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R06064,Gómez Roldán 2014,2014,C1,No,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O13140,Gürcüoğlu 2010,2010,C1,Yes,Yes,No,Unclear,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB3
+,R00504,Gürcüoğlu 2026,2026,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O16700,Güven 2024,2024,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R07734,Güzel 2013,2013,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,R00134,Hacek 1995,1995,C1,Unclear,Yes,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O06585,Hadley 2002,2002,C1,No,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R01405,Haghighatfard 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O04776,Hajjeh 2004,2004,C1,Yes,Yes,Unclear,No,Yes,Unclear,Yes,Yes,Not applicable,High,No in RB4
+,R07561,Hamdi 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,R06013,Hamza 2008,2008,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O15083,Hasanvand 2017,2017,C1,Yes,No,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O17697,Hassan 2017,2017,C1,Yes,Yes,No,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R01511,Hassanpour 2024,2024,C1,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R01944,Hatami 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O00776,Hazarika 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R05056,Hazirolan 2015,2015,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O12887,Hazırolan 2018,2018,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R04367,He 2021,2021,C1,Unclear,Yes,Yes,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O14661,Helleberg 2020,2020,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O02984,Hermida Alava 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O17723,Hernandez-Reyes 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O09198,Hernández-Pabón 2024,2024,C1,Yes,Yes,Unclear,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R00779,Hesstvedt 2015,2015,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O03139,Hii 2013,2013,C1,Yes,Yes,Unclear,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R04881,Hino 2018,2018,C1,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O01536,Hirano 2015,2015,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O15218,Hirano 2018,2018,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB1,RB4"
+,O03107,Ho 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O05910,Hoban 1999,1999,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O06680,Hoh 2017,2017,C1,Unclear,Yes,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,R03872,Holzknecht 2011,2011,C1,Unclear,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O05205,Hosseini 2026,2026,C1,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O09904,Hou 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,R09075,Hou 2026,2026,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB1
+,O05258,Hsueh 2005,2005,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O10594,Hu 2023,2023,"C1, C5",Unclear,No,Unclear,Yes,Yes,Yes,Yes,Unclear,Unclear,Moderate,One No: RB2
+,O01322,Huang 2013,2013,C1,Unclear,Yes,Yes,Yes,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O03930,Huang 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O06564,Huang 2025,2025,C1,No,No,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O06053,Hunutlu 2025,2025,C1,Unclear,Yes,Unclear,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O04536,Husni 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O14625,Hussein 2014,2023,C2,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Not applicable,Unclear,Moderate,"Three or more Unclear: RB4,RB6,RB9"
+,O12169,Hwang 2022a,2022,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O13997,Iatta 2011,2011,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O01420,Ibrahim 2013,2013,C1,Unclear,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O21814,Ide 2021,2021,C1,No,No,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R06781,Idrissa 2026a,2026,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O00611,Ikeda 2008,2008,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,R00876,Intra 2022,2022,C1,Yes,Yes,Unclear,Yes,Yes,No,Yes,Unclear,Not applicable,Moderate,One No: RB6
+,O16445,Inácio 2021,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R05109,Ishida 2013,2013,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O05649,Ishigaki 2000,2000,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O04542,Israel 2019,2019,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O14049,Ito 2004,2004,C1,Yes,No,Unclear,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O15051,Jabeen 2015,2015,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O16908,Jafarian 2021,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Not applicable,Low,No No and no Unclear
+,O03250,Jahanshiri 2023,2023,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O12707,Jain 2007,2007,C1,Yes,Yes,No,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O05690,Jain 2015,2015,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R06144,Jain 2017,2017,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O18259,Jain 2024,2024,C1,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB5"
+,R08736,Jain 2026a,2026,"C1, C3, C4",Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Unclear,High,No in RB8
+,O14168,Jalil 2021,2021,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O08455,Jandourek 1999,1999,C1,No,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O17183,Jang 2013,2013,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Unclear,Not applicable,Low,"No No; 2 Unclear: RB4,RB8"
+,R02243,Jaruvongvanich 2016,2016,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,R04096,Jaworska-Zaremba 2013,2013,C1,Yes,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O00672,Jayachandran 2016,2016,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O03278,Jayachandran 2024,2024,C1,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O04548,Jeon 2021,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O09447,Jha 2021,2021,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O08046,Jha 2022,2022,C6,Yes,No,Yes,Yes,Yes,No,Yes,No,Unclear,High,No in RB8
+,O04614,Ji 2026,2026,C1,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB3
+,O02185,Jiang 2012,2012,C1,Unclear,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O04546,Jin 2018,2018,C1,Unclear,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB1,RB5,RB6"
+,R03851,Jung 2010,2010,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O00620,Junqueira 2011,2011,C1,Unclear,No,Unclear,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O10245,Kadel 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O13768,Kahl 2015,2015,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Unclear,Not applicable,Low,"No No; 2 Unclear: RB6,RB8"
+,O00590,Kakati 2015,2015,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,R06549,Kalaiarasan 2017,2017,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O01562,Kamini 2022,2022,C1,Yes,No,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O01152,Kanani 2015,2015,C1,Unclear,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O13451,Kantarcioglu 2019,2019,C1,Yes,Yes,Unclear,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O02092,Kao 1999,1999,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R09443,Karaaslan 2020,2020,C1,Yes,No,Yes,Unclear,Unclear,Unclear,Yes,Yes,Not applicable,Moderate,One No: RB2
+,O16614,Karabıçak 2016,2016,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R00382,Kardam 2023,2023,C1,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O02564,Karthika 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB6
+,O09432,Kashid 2012,2012,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R05015,Kaskatepe 2013,2013,C1,Yes,No,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,High,"Two or more No among the others: RB2,RB6"
+,O05538,Katsuragi 2014,2014,C1,Yes,Yes,No,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O13960,Kaur 2014a,2014,C1,Unclear,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O00858,Kaur 2016a,2016,C1,Yes,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O02394,Kaur 2016c,2016,C1,Yes,No,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O04417,Kaur 2019,2019,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O03620,Kaur 2023c,2023,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O07815,Khadka 2017,2017,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R04508,Khairat 2019,2019,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O02152,Khalil 2022,2022,C1,Unclear,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O04579,Khan 2018a,2018,C1,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O03717,Khan 2018b,2018,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O14493,Khan 2019,2019,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R08440,Khan 2026b,2026,C1,Yes,No,Unclear,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O17661,Khateb 2025,2025,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,R03431,Khatun 2026,2026,C1,Yes,Yes,Yes,Unclear,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,O00674,Khezri 2019,2019,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O01401,Khodavandi 2018,2018,C1,Unclear,No,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R04464,Khosravi 2008a,2008,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R07915,Khozeimeh 2023,2023,C1,Unclear,No,Unclear,Yes,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,O08300,Khumdee 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB6
+,R00971,Kilinçel 2019,2019,C1,Unclear,Yes,No,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R02796,Kim 2009,2009,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O21609,Kim 2010,2010,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB3,RB4"
+,O16419,Kline 2019,2019,C1,Unclear,Yes,Yes,Yes,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O14572,Koehling 2014,2014,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R08583,Kolak 2019,2019,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O13006,Kone 2022,2022,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O17787,Kord 2020a,2020,C1,Unclear,Yes,Yes,Yes,Yes,Yes,No,No,Not applicable,High,No in RB8
+,O06526,Kord 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,R02557,Kothalawala 2019,2019,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O03896,Kothavade 2010,2010,C1,No,No,Yes,Unclear,Yes,Yes,Yes,Not applicable,Not applicable,High,"Two or more No among the others: RB1,RB2"
+,O06134,Kotwal 2011,2011,C1,Unclear,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O09042,Kovács 2024,2024,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB1
+,O11086,Krivorutchenko 2021,2021,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O01902,Kronvall 2001,2001,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O13698,Kumar 2014a,2014,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O03872,Kumar 2015a,2015,C1,Unclear,No,Yes,Unclear,Yes,No,Yes,Not applicable,Not applicable,High,"Two or more No among the others: RB2,RB6"
+,R03655,Kumar 2015b,2015,C1,Yes,Yes,Yes,Yes,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,R04978,Kumar 2015c,2015,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O03366,Kumar 2016a,2016,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R02957,Kumar 2016b,2016,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,O07096,Kumar 2018,2018,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O02610,Kumar 2020,2020,C1,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O12278,Kumar 2025a,2025,C1,Yes,Yes,No,Yes,Unclear,Yes,Yes,Yes,Not applicable,Moderate,One No: RB3
+,O17240,Kumari 2025a,2025,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R08235,Kumari 2026b,2026,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O18496,Kunz 2012,2012,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O01760,Kwon 2021,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O02821,Küçükateş 2016,2016,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O07667,Lagrou 2007,2007,C1,Yes,Yes,No,Unclear,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB3
+,R01177,Lamba 2021,2021,C1,Unclear,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O11600,Lamichhane 2024,2024,C1,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O10041,Latifa 2013,2013,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,O16892,Laverdiere 2007,2007,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O15739,Lee 2002,2002,C1,No,Yes,Yes,Unclear,Yes,Yes,Yes,Not applicable,Not applicable,Moderate,One No: RB1
+,O15399,Lee 2007,2007,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O13039,Lee 2021,2021,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB1,RB4"
+,O07760,Leepattarakit 2022,2022,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB1
+,O21671,Legabão 2026,2026,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O06793,Lemus-Espinoza 2021,2021,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O00071,Lepesqueur 2019,2019,C1,Unclear,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O17672,Lepesqueur 2020,2020,C1,Unclear,No,Yes,Yes,Yes,Unclear,Yes,Not applicable,Not applicable,Moderate,One No: RB2
+,R06362,Levallois 2012,2012,C1,No,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O12298,Li 2012,2012,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB3,RB4"
+,O16420,Li 2013a,2013,C1,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O21637,Li 2013b,2013,C1,Yes,Yes,Unclear,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB3,RB4,RB6"
+,O11851,Li 2023a,2023,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,Unclear,Not applicable,Moderate,One No: RB6
+,R06519,Li 2024b,2024,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,R01276,Li 2026a,2026,C1,Unclear,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB1,RB6"
+,O11428,Lima 2017,2017,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O03854,Lin 2012,2012,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O03216,Lin 2025,2025,C1,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB1
+,O05859,Lin 2026,2026,C1,Unclear,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB1,RB6"
+,O00898,Liu 2013,2013,C1,Yes,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O10148,Liu 2019,2019,C1,Unclear,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB1,RB4,RB6"
+,O00808,Liu 2021,2021,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB1
+,R02526,Liu 2025a,2025,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O05043,Liu 2025b,2025,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB1
+,O18211,Liu 2026b,2026,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB6
+,R06784,Liuyong You 2025,2025,C1,Unclear,No,Yes,Yes,No,No,Yes,No,Not applicable,High,No in RB8
+,O02090,Lo 2017,2017,C3,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Unclear,Low,"No No; 2 Unclear: RB6,RB9"
+,O11272,Lockhart 2011,2011,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O04302,Lockhart 2012,2012,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O11636,Lomeli-Martinez 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O21356,Lordêlo 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,O14406,Loridant 2015,2015,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R00445,Lotfali 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O04727,Lovo 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O17106,Luo 2016,2016,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O13520,Luque 2008,2008,C1,Yes,Yes,No,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O13465,Luz 2024,2024,C1,Yes,Yes,Yes,Yes,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,R01872,Luzzati 2016,2016,C1,Unclear,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB1,RB4,RB5"
+,O17070,Lydia Rajakumari 2016,2016,C1,Yes,No,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O16399,Lyon 2010,2010,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,R03339,Lysková 2026,2026,C1,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R03555,Ma 2024,2024,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O13695,Machado 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O01841,Magaldi 2001,2001,C1,Yes,No,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O15312,Magaldi 2004,2004,C1,Unclear,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O00328,Magalhães 2015,2015,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,R09387,Magalhães Pinto 2019,2019,C2,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Unclear,High,No in RB8
+,O04568,Magill 2006,2006,C1,No,Yes,Unclear,Unclear,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB1
+,O21727,Magri 2012a,2012,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O08055,Magri 2012b,2012,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R05882,Mahadevaiah 2022,2022,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O03714,Maheshwari 2023,2023,C1,Yes,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O17358,Mahmoudabadi 2015,2015,C1,Yes,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R01356,Mahmoudi Rad 2010,2010,C1,Yes,Yes,Yes,Unclear,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,O12035,Majoros 2002,2002,C1,Yes,Yes,No,Unclear,Unclear,No,Yes,Unclear,Not applicable,High,"Two or more No among the others: RB3,RB6"
+,O16396,Makhado 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O06280,Malandkar 2026,2026,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O18131,Malchikova 2021,2021,C1,Unclear,Yes,Unclear,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O17264,Maldonado 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O13055,Malik 2020,2020,C1,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O17803,Mamali 2022,2022,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB3,RB4"
+,R06762,Mandras 2009,2009,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O13103,Marak 2018,2018,C1,Yes,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O15479,Marco 2003,2003,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O02121,Marcos-Arias 2011a,2011,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R08386,Marcos-Arias 2011b,2011,C1,Unclear,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O06370,Marcos-Zambrano 2014a,2014,C1,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB5
+,O14255,Marcos-Zambrano 2016c,2016,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O04138,Marcos-Zambrano 2016d,2016,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R08243,Marcos-Zambrano 2017,2017,C1,Unclear,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O15199,Marcos-Zambrano 2018,2018,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O05209,Marol 2007,2007,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R00651,Marriott 2009,2009,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R08497,Martins 2026,2026,C1,No,Yes,No,Yes,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,R09297,Martín-Gutiérrez 2020,2020,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O16118,Martínez 2016,2016,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O11062,Masfiyah 2025,2025,C1,Yes,No,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O04677,Mashaly 2017,2017,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Unclear,Not applicable,Moderate,One No: RB6
+,R04597,Mataraci-Kara 2020,2020,C6,Yes,No,Yes,Unclear,Yes,Unclear,Yes,Yes,Unclear,Moderate,One No: RB2
+,R06076,Mattos 2017,2017,C1,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB3
+,O15893,Mazzanti 2021,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O04096,Małek 2016,2016,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O08952,McTaggart 2020,2020,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O14603,Medeiros 2008,2008,"C5, C6",Yes,Yes,Unclear,Unclear,Yes,Unclear,Yes,Yes,Yes,Moderate,"Three or more Unclear: RB3,RB4,RB6"
+,O11509,Medina 2020,2020,C1,Yes,Yes,Yes,Yes,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,O07101,Megri 2020,2020,"C1, C4",Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Unclear,High,No in RB8
+,O12517,Mello 2020,2020,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O15020,Melo 2009,2009,C1,Unclear,Yes,Unclear,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O02169,Mendoza-Juache 2017,2017,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Not applicable,Not applicable,Low,No No; 1 Unclear: RB4
+,O10482,Meneghello 2024,2024,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O03668,Menezes 2009,2009,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O07672,Menezes 2013b,2013,C1,Yes,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R04330,Meng 2025a,2025,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O01303,Meng 2025b,2025,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB1
+,O09637,Menner 2026,2026,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O18341,Meradji 2023,2023,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O02775,Mesquida 2021,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O21695,Metcalf 2024,2024,C6,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Unclear,High,No in RB8
+,R03290,Metcalf 2025,2025,C6,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Unclear,High,No in RB8
+,R08078,Mete 2021,2021,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O12983,Metwally 2007,2007,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O01793,Mezri 2025,2025,C1,No,No,Yes,Yes,Unclear,No,Yes,Not applicable,Not applicable,High,"Two or more No among the others: RB1,RB2,RB6"
+,R05044,Milan 1998,1998,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O04435,Mimica 2009,2009,C1,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,R01204,Minea 2016,2016,C1,Yes,No,Unclear,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R07987,Miranda-Cadena 2021,2021,C1,Unclear,No,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O14117,Mirchevska 2016,2016,C1,Yes,Yes,No,Unclear,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,O14328,Mirhendi 2020,2020,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O04496,Mirhosseini 2026,2026,C2,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Unclear,High,No in RB8
+,O00754,Misawa 2025,2025,C1,Yes,Yes,Unclear,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB3,RB6"
+,R04563,Mnge 2017,2017,C1,Yes,No,No,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O11575,Mohamed 2013,2013,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O03145,Mohamed 2018,2018,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O16358,Mohammadi 2023,2023,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O01462,Mohan 2016,2016,C1,Yes,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O07802,Mohanraj 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O04975,Mohanraj 2024,2024,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O03229,Mohd Waseeque Khan 2021,2021,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O18134,Mohod 2025,2025,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,R08402,Moin 2021,2021,C1,Unclear,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB1,RB4,RB6"
+,O06895,Mondal 2013,2013,C1,Yes,Yes,Unclear,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R00432,Montagna 2013,2013,C1,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,R00741,Montagna 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O14043,Montagna 2015,2015,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O13156,Mora Lee 2023,2023,C1,Unclear,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R08331,Morace 2011,2011,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O10518,Moralez 2014,2014,C1,Unclear,No,Unclear,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O15970,Moreira 2014,2014,C1,Yes,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R04676,Moreno-García 2021,2021,C1,Unclear,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O07122,Morris 2018,2018,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O01137,Motoa 2016,2016,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O04405,Motta Ferreira 2025,2025,C1,No,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O11494,Mulu 2013,2013,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O00752,Murillo-Rojas 2026,2026,C1,Unclear,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB1,RB6"
+,O17367,Murugavel 2024,2024,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O03485,Mushi 2018,2018,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R05716,Mussarat 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R09659,Muthig 2010,2010,C1,Unclear,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O08588,Muñoz 2010,2010,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O09446,Muñoz-Lombo 2026,2026,C1,Unclear,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB1,RB4,RB5"
+,O12101,Márquez 2017,2017,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O14708,Nahuelcura 2025,2025,C1,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O00728,Naicker 2016,2016,C1,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB3
+,O04521,Nair 2025,2025,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,R05831,Najafzadeh 2024,2024,C1,Unclear,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O05476,Namvar 2020,2020,"C1, C2",Yes,No,Unclear,Yes,Yes,Unclear,Yes,No,Unclear,High,No in RB8
+,R00172,Namvar 2023,2023,"C1, C2",Yes,Yes,Yes,Yes,Yes,No,Yes,No,Unclear,High,No in RB8
+,R01549,Nandini 2021,2021,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O16524,Nascimento 2024b,2024,C1,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB3,RB5"
+,O05058,Navarathinam 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,R04443,Navarro 2020,2020,C2,Yes,No,Yes,Unclear,Yes,Yes,Yes,Not applicable,Unclear,Moderate,One No: RB2
+,O09714,Nazar Khalil 2025,2025,C1,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O04712,Nazir 2018,2018,C1,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O03818,Negri 2009,2009,C1,Unclear,No,Unclear,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O14887,Negri 2009a,2009,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O12786,Neufeld 2009,2009,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O15300,Neufeld 2015,2015,C1,Yes,Yes,Unclear,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O00325,Neves-Junior 2015,2015,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O12045,Ng 2001,2001,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O01224,Ngai 2025,2025,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O02036,Ngamchokwathana 2021,2021,C1,Unclear,Yes,Unclear,Unclear,Unclear,Unclear,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB1,RB3,RB4,RB5,RB6"
+,R08212,Ngando 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O05313,Ngo 2023,2023,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O11726,Ngouana 2019,2019,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O17969,Ngouana 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Not applicable,Low,No No and no Unclear
+,O14330,Nguyen 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O04866,Nguyen 2026a,2026,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O11090,Nguyễn 2026,2026,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O18103,Ngô 2020,2020,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O16361,Ngô 2025,2025,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O09888,Nimmala 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O04282,Nirmal 2022,2022,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R08609,Nishi 2009,2009,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O11784,Nodi 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R08141,Norris 2024,2024,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,R05149,Novo 2024,2024,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O10595,Nucci 2007,2007,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O14963,Nucci 2013,2013,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O15549,Nunes 2011,2011,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O11264,Nweze 2011,2011,C1,Unclear,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O00120,Ochiuzzi 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O12792,Ochoa V. 2013,2013,C1,Yes,No,Yes,Unclear,Yes,Unclear,Yes,Not applicable,Not applicable,Moderate,One No: RB2
+,O05176,Odiba 2022,2022,"C1, C2",Yes,No,Yes,Yes,Yes,Unclear,Yes,No,Unclear,High,No in RB8
+,O15736,Oguri 2006,2006,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O03510,Ohno 2019,2019,C2,No,Yes,Yes,Yes,Yes,Unclear,Yes,No,Unclear,High,No in RB8
+,O13090,Olabode 2016,2016,C2,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Unclear,High,No in RB8
+,O13322,Oladejo 2026,2026,C1,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O13784,Oladele 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R02492,Olender 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O21464,Oliveira 2012,2012,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O11940,Oliveira 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O10550,Oliveira Carvalho V 2013,2013,C1,Unclear,No,Yes,No,Unclear,No,Yes,No,Not applicable,High,No in RB4/RB8
+,O14245,Omran 2018,2018,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O16314,Omura 2002,2002,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O14918,Oon 2002,2002,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,R07948,Osman 2020,2020,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O00308,Oyom 2020,2020,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,R06799,Ozalp 2024,2024,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O05743,Ozawa 2005,2005,C2,No,No,Yes,Yes,Yes,Yes,Yes,Not applicable,Unclear,High,"Two or more No among the others: RB1,RB2"
+,O15488,Ozhak-Baysan 2011,2011,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O12473,Pakshir 2015,2015,C1,Yes,No,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O21378,Palomar 2023,2023,C1,Unclear,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O04903,Pandey 2020,2020,C1,Unclear,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB1,RB5,RB6"
+,O11142,Pandey 2020a,2020,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O13406,Panizo 2008,2008,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O21426,Paolinetti 2017,2017,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R02228,Papadimitriou-Olivgeris 2017,2017,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R08157,Papadimitriou-Olivgeris 2019,2019,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O07547,Paredes-Gago 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O04338,Paredes-Gago 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O14611,Park 2006,2006,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O17537,Parubak 2026,2026,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O12822,Patel 2017,2017,C1,Yes,No,Unclear,Unclear,Unclear,Yes,Yes,Yes,Not applicable,Moderate,One No: RB2
+,O15048,Patil 2024,2024,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R04395,Paul 2019a,2019,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O02924,Paul 2019b,2019,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O07629,Paul 2020a,2020,C1,Unclear,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O03019,Paul 2021,2021,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O01446,Paul 2022,2022,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R03212,Paul 2025a,2025,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O16329,Paul 2025b,2025,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB2
+,O15869,Pemán 2005,2005,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,R04480,Pentland 2020,2020,C1,Unclear,Yes,Unclear,Yes,Unclear,Yes,Unclear,No,Not applicable,High,No in RB8
+,O21507,Pereira 2009,2009,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O13218,Perozo 2011,2011,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O11553,Pesee 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Not applicable,Low,No No and no Unclear
+,O16119,Pesewu 2020,2020,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O13900,Petra 2024,2024,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O15817,Pfaller 1998,1998,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O02615,Pfaller 1998b,1998,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O13489,Pfaller 2000,2000,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB3,RB4"
+,O12680,Pfaller 2004,2004,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB3,RB4"
+,R04084,Pfaller 2009,2009,C1,Yes,Yes,Yes,Yes,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O13544,Pfaller 2013,2013,C1,Unclear,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O02333,Pfaller 2015,2015,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O17938,Pfaller MA 1999,1999,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O15465,Pfeiffer 2010,2010,C1,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O21459,Pimentel 2012,2012,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O05260,Pineda 2024,2024,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O12160,Pinto 2006,2006,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R05411,Piqueras 2020,2020,C1,Unclear,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O02886,Poddar 2025,2025,C1,Yes,Yes,Unclear,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O11266,Pongrácz 2015,2015,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O11602,Porte 2012,2012,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O15032,Posteraro 2000a,2000,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O06246,Posteraro 2015,2015,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB6
+,R07927,Prabhakaran 2016,2016,C1,Yes,No,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O12523,Prakash 2018,2018,C1,Yes,Yes,Yes,Unclear,Yes,No,No,No,Not applicable,High,No in RB8
+,O04366,Pramodhini 2021,2021,C1,Yes,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R09362,Praveetha 2026,2026,C1,Unclear,Yes,Unclear,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB1,RB3"
+,O02285,Prayag 2022,2022,C1,Unclear,Yes,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O18544,Preethaa Sri 2025,2025,C1,Unclear,Yes,Yes,Unclear,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,O12294,Premkumar 2014,2014,C1,Yes,No,Yes,Unclear,Unclear,Unclear,No,Not applicable,Not applicable,High,"Two or more No among the others: RB2,RB7"
+,R09440,Prigitano 2016,2016,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O17783,Prigitano 2026,2026,C1,Yes,Yes,No,Yes,Yes,Unclear,Yes,Yes,Not applicable,Moderate,One No: RB3
+,O18109,Priyadharshini 2026,2026,C1,No,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O06700,Puig-Asensio 2013,2013,C1,Yes,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB5,RB6"
+,O02029,Puig-Asensio 2015,2015,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,R02639,Pérez-Camacho 2025,2025,C1,Unclear,Yes,Unclear,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R06515,Qiao 2023,2023,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O09110,Qiu 2023,2023,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O10182,Quindós 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,R01484,Rafat 2024,2024,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Not applicable,Low,No No and no Unclear
+,O05676,Rafi 2021,2021,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,R00044,Raheel 2023,2023,C2,Unclear,Yes,Yes,Unclear,Unclear,Yes,Yes,No,Unclear,High,No in RB8
+,O17499,Rai 2021,2021,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Not applicable,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,R04767,Rai 2024,2024,C1,Unclear,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R04927,Rajendran 2016,2016,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Unclear,Not applicable,Low,"No No; 2 Unclear: RB6,RB8"
+,O11432,Rajgopal 2017,2017,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R05058,Rajmane 2015,2015,C1,Unclear,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O04686,Rajni 2021,2021,C1,Unclear,Yes,Unclear,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O03718,Ramos 2023,2023,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O18362,Ramos 2024,2024,C6,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Unclear,High,No in RB8
+,O21819,Ramos 2026,2026,C6,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Unclear,High,No in RB8
+,O12280,Ramírez-Trujillo 2026,2026,C1,Yes,Yes,Unclear,Unclear,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O15534,Ranjbar-Mobarake 2021,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R01591,Ranque 2012,2012,C1,Unclear,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O12397,Rati 2015,2015,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,R03563,Razaviyoun 2025,2025,C1,No,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O02061,Razaviyoun 2026,2026,C1,No,Yes,Yes,Yes,Unclear,Unclear,Yes,Not applicable,Not applicable,Moderate,One No: RB1
+,O18462,Razzaghi-Abyaneh 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O00068,Reis 2019,2019,C2,Yes,No,Yes,Unclear,Yes,No,Yes,No,Unclear,High,No in RB8
+,O09182,Ren 2025,2025,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R08880,Rezaei 2024,2024,C1,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O17658,Ribeiro 2025,2025,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O02195,Richter 2005,2005,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R05458,Riedel 2011,2011,C1,Unclear,No,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB2
+,O11134,Rigaud 2024,2024,C1,Unclear,No,Yes,Unclear,Unclear,Yes,Yes,Not applicable,Not applicable,Moderate,One No: RB2
+,O00291,Rios-Blanco 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O03857,Rizwan 2018a,2018,C1,Yes,Yes,Unclear,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R08397,Robillos 2025,2025,C1,Yes,Yes,Unclear,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O00343,Rodero 2005,2005,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O12713,Rodrigues 2021,2021,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O13996,Rodriguez 2017,2017,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O00738,Rodríguez 2010,2010,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O01712,Roilides 2003,2003,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O05162,Roilides 2004,2004,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O00297,Rojas 2023,2023,C1,Unclear,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O14502,Rojas-Fermín 2025,2025,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB1,RB4"
+,O05867,Rostami Yasuj 2021,2021,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O12065,Roudbary 2018,2018,C1,Yes,No,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R07929,Routsi 2022,2022,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O18339,Rudresh 2024,2024,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O02527,Ryu 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O00561,Sabadin 2024,2024,C1,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O12230,Sadeghi 2019,2019,C1,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O13770,Safdar 2001,2001,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O08649,Saha 2022,2022,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O14538,Sakagami 2018,2018,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,B006,Sakamoto 2021,2021,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,R04442,Sakita 2017,2017,"C1, C4",Yes,No,Yes,Yes,Yes,Yes,Yes,No,Unclear,High,No in RB8
+,O21668,Saleem 2026,2026,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O13049,Salehi 2020,2020,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R01349,Salehi 2021,2021,C1,Unclear,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O09921,Salem 2023,2023,C1,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,R05326,Salim 2013,2013,C1,Unclear,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R00378,Salimi 2025,2025,C1,Yes,Yes,Unclear,Yes,Yes,Yes,Unclear,No,Not applicable,High,No in RB8
+,O01376,Salsé 2019,2019,C1,Yes,Yes,Yes,Yes,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,O10691,Sambrani 2025,2025,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O14486,Samonis 2008,2008,C1,Unclear,Yes,Unclear,Unclear,Yes,Yes,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB1,RB3,RB4"
+,O04833,Samra 2005,2005,C1,Yes,No,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Moderate,One No: RB2
+,O14473,Samudio Domínguez 2024,2024,C1,Yes,Yes,Yes,Yes,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O04349,Sandhu 2019,2019,C1,No,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O04289,Sandven 1998,1998,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O17683,Sandven 2006,2006,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O21665,Sang 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O01713,Sanitá 2013,2013,C1,Yes,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R04111,Sano 2023,2023,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB1
+,R05572,Santolaya 2019,2019,C1,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Unclear,Not applicable,Low,"No No; 2 Unclear: RB3,RB8"
+,O02578,Santos 2010a,2010,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O04231,Santos 2017,2017,C1,No,No,Yes,Unclear,Unclear,Unclear,Yes,Not applicable,Not applicable,High,"Two or more No among the others: RB1,RB2"
+,R05461,Sapkota 2024,2024,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O12748,Saraçli 2009,2009,C1,Yes,Yes,No,Unclear,Yes,No,Yes,Yes,Not applicable,High,"Two or more No among the others: RB3,RB6"
+,R07604,Sarvestani 2021,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Not applicable,Low,No No and no Unclear
+,O02714,Sasani 2021,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O10216,Sasani 2021a,2021,C1,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O05615,Sastry 2012,2012,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O01785,Sathi 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R08244,Satyasai 2026,2026,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,R07207,Saud 2020,2020,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R05579,Sav 2018,2018,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O18493,Sav 2019,2019,C1,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O14074,Sayeed 2019,2019,C1,Unclear,Yes,Yes,Yes,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O03413,Scapaticci 2018,2018,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O13957,Schneider 2025,2025,C1,Yes,Yes,Yes,Yes,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,O00593,Scordino 2018a,2018,"C1, C4",Yes,Yes,Unclear,Yes,Yes,Yes,Yes,No,Unclear,High,No in RB8
+,O10496,Scott 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O06132,Sebastian 2017,2017,C1,No,No,Yes,Unclear,Yes,Yes,Yes,Not applicable,Not applicable,High,"Two or more No among the others: RB1,RB2"
+,R02758,Seifert 2007,2007,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O04270,Sellami 2010,2010,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O08731,Selvan 2022,2022,C1,Yes,No,Yes,Unclear,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,O14477,Seneviratne 2011,2011,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O06028,Seneviratne 2016,2016,C1,Yes,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R04264,Shah 2012,2012,C1,Unclear,Yes,Yes,Unclear,Unclear,Unclear,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB1,RB4,RB5,RB6"
+,O15334,Shamoushaki 2020,2020,C1,Yes,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R09303,Shamsizadeh 2018,2018,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O02577,Shanthi 2024,2024,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,R08878,Sharifi 2023,2023,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O13640,Sharma 2025,2025,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O12109,Shettigar 2018,2018,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R09176,Shi 2020,2020,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O13757,Shivaswamy 2020,2020,C1,Yes,No,Yes,No,Unclear,No,Yes,No,Not applicable,High,No in RB4/RB8
+,O11024,Shiyadeh 2024,2024,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O01722,Shokohi 2010a,2010,C1,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O09666,Shome 2023,2023,C1,Yes,No,Yes,Yes,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O16127,Shukur 2024,2024,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O16288,Sidrim 2010,2010,C2,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Unclear,High,No in RB8
+,R00169,Silva 2004a,2004,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O15862,Silva 2004b,2004,C1,Yes,Yes,Yes,Unclear,Yes,Yes,No,Unclear,Not applicable,Moderate,One No: RB7
+,O16063,Silva 2009,—,C1,Yes,No,Yes,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O12225,Silva 2015,2015,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O05723,Silva 2020a,2020,C1,Unclear,Yes,Unclear,Yes,Yes,Yes,Yes,Unclear,Not applicable,Moderate,"Three or more Unclear: RB1,RB3,RB8"
+,O21406,Silva 2020b,2020,C1,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O15989,Silva 2022,2022,C1,No,No,Yes,Yes,Yes,Unclear,Yes,Not applicable,Not applicable,High,"Two or more No among the others: RB1,RB2"
+,O04494,Silva-Dias 2015,2015,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R03183,Silvestri 2014,2014,C1,Unclear,Yes,Unclear,Unclear,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,R09498,Singh 2017b,2017,C1,Unclear,No,Unclear,Unclear,Unclear,Yes,Yes,Unclear,Not applicable,Moderate,One No: RB2
+,O12630,Singh 2025,2025,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O15416,Singla 2012,2012,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R06240,Singulani 2022,2022,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R06854,Singulani 2023,2023,C1,Unclear,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O04171,Sinh 2021,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O04380,Siopi 2020,2020,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB3,RB4"
+,R03788,Siqueira 2015,2015,C1,Unclear,No,Unclear,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O06881,Siqueira 2018,2018,C1,Unclear,No,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB2
+,O07394,Siqueira 2025,2025,C1,Yes,Yes,No,Yes,Unclear,Yes,Yes,Yes,Not applicable,Moderate,One No: RB3
+,R05185,Sivagamasundari 2024,2024,C1,Unclear,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O03706,Sokolonski 2021,2021,C1,Yes,No,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O03506,Soliman 2020,2020,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O02831,Soliman 2026,2026,C2,Yes,No,Yes,Unclear,Unclear,Yes,Yes,Not applicable,Unclear,Moderate,One No: RB2
+,O03360,Solomon 2021,2021,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O02522,Song 2020,2020,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,R00753,Song 2023,2023,C1,Unclear,Yes,Yes,Yes,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O16187,Soni 2020,2020,C1,Unclear,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O05360,Soni 2025,2025,C1,No,No,Yes,Unclear,Unclear,Unclear,Yes,Not applicable,Not applicable,High,"Two or more No among the others: RB1,RB2"
+,R01109,Spalanzani 2018,2018,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O21508,Spanamberg 2009,2009,C2,Yes,No,Yes,Yes,Yes,Unclear,Yes,No,Unclear,High,No in RB8
+,O17626,Specht 2026,2026,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,O07062,Spruijtenburg 2023b,2023,"C1, C6",Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Unclear,High,No in RB8
+,O02246,Spruijtenburg 2025a,2025,C1,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB3
+,O09969,Spruijtenburg 2025b,2025,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O21694,Sreelakshmi 2024,2024,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O01222,Sridharan 2021,2021,C1,Yes,Yes,Yes,Yes,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O03297,Srinivasnakshatri 2014,2014,C1,No,No,Yes,Unclear,Yes,No,Yes,Not applicable,Not applicable,High,"Two or more No among the others: RB1,RB2,RB6"
+,R00485,Sriphannam 2019,2019,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O03525,St-Germain 2001,2001,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O18797,St-Germain 2008,2008,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O11274,Suarez 2010,2010,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O01505,Subbiah 2025,2025,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,R04221,Subedi 2024,2024,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O04790,Subramanya 2017a,2017,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R00314,Sudhaharan 2026,2026,C1,No,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O08034,Sugandhi 2016,2016,C1,Yes,No,Yes,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O01126,Suganya 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O10851,Sui J 2026,2026,C1,Unclear,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R08701,Sun 2019,2019,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O10842,Sun 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O13457,Surana 2018,2018,C1,Yes,No,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O12258,Susever 2012,2012,C1,Yes,No,Yes,Yes,Yes,Yes,Yes,Not applicable,Not applicable,Moderate,One No: RB2
+,R04202,Swinne 2004,2004,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O12259,Swinne 2009,2009,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O02626,Szekely 2023,2023,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,R04619,Szymankiewicz 2020,2020,C1,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R06926,Sánchez-Molina 2023,2023,C1,Yes,No,Yes,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O13110,Sütçü 2017,2017,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O21634,Taj-Aldeen 2018,2018,C1,Yes,Yes,Yes,Yes,Unclear,Unclear,Yes,Unclear,Not applicable,Moderate,"Three or more Unclear: RB5,RB6,RB8"
+,O03337,Takahashi 2010,2010,"C1, C2, C6",Yes,Yes,No,Yes,Yes,Yes,Yes,No,Unclear,High,No in RB8
+,O06645,Takakura 2003,2003,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,R09081,Takakura 2004,2004,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O02721,Tan 2005,2005,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB2
+,O13929,Tan 2008,2008,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O02097,Tan 2014,2014,C1,No,Yes,Yes,Yes,Yes,Unclear,Yes,Not applicable,Not applicable,Moderate,One No: RB1
+,O08096,Tan 2016,2016,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Unclear,Not applicable,Low,No No; 1 Unclear: RB8
+,O05568,Tan 2025,2025,C1,No,No,Yes,Yes,No,Yes,Yes,Not applicable,Not applicable,High,"Two or more No among the others: RB1,RB2,RB5"
+,O21662,Tan 2026,2026,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Not applicable,Low,No No; 1 Unclear: RB1
+,O17259,Tanih 2024,2024,C1,Yes,No,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O06661,Tankhiwale 2012,2012,C1,Yes,Yes,Yes,Unclear,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,R08823,Tanriverdi 2025,2025,C1,Yes,Yes,No,Yes,Yes,Yes,Yes,Unclear,Not applicable,Moderate,One No: RB3
+,O01231,Tap 2018,2018,C1,No,No,Yes,Yes,Unclear,Yes,Yes,Not applicable,Not applicable,High,"Two or more No among the others: RB1,RB2"
+,O21639,Tarumoto 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O03582,Tashiro 2010,2010,C1,Yes,Yes,No,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R00619,Tasić-Otašević 2020,2020,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R02286,Tata 2019,2019,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O16520,Tatte 2018,2018,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O17029,Taverne-Ghadwal 2016,2016,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R08161,Tay 2011,2011,C1,Yes,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O13212,Tekintaş 2020,2020,C1,Unclear,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O21647,Tellapragada 2014,2014,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O00869,Teo 2017,2017,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O15030,Testore 2001,2001,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O14891,Testore 2004,2004,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O05095,Thunyaharn 2021,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O16554,Tiraboschi 2017,2017,C1,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB5"
+,R01463,Tiseo 2025,2025,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,B003,Toda 2019,2019,C1,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Not applicable,High,"Two or more No among the others: RB3,RB6"
+,O15941,Toka Özer 2016,2016,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O00650,Tortorano 2003,2003,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,R02687,Tortorano 2013,2013,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O17477,Toure 2021,2021,C1,Yes,Yes,No,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R01922,Tragiannidis 2012,2012,C1,Unclear,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O17657,Tripathi 2025,2025,C1,Yes,Yes,Yes,Yes,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,O11418,Trouvé 2016,2016,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O14571,Trương 2020,2020,C1,Yes,Yes,Unclear,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O18463,Trần 2025a,2025,C1,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O03754,Trần 2025b,2025,C1,Yes,Yes,Yes,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,R04628,Tsai 2024,2024,C4,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Unclear,High,No in RB8
+,O00911,Tsega 2019,2019,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,O03442,Tseng 2024b,2024,"C1, C3",Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Low,No No; 1 Unclear: RB3
+,O11830,Tsiakalos 2025,2025,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O08932,Tsiakalos 2026,2026,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,R04463,Tsukamoto 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O03742,Tulyaprawat 2020,2020,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O03461,Tumbarello 1999,1999,C1,Unclear,Yes,Yes,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O08790,Tumbarello 2007,2007,C1,Unclear,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R05057,Tumbarello 2012,2012,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB1,RB4"
+,R05487,Turan 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O00922,Tóth 2019,2019,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB1
+,O15818,Ugochukwu 2024,2024,C2,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Unclear,High,No in RB8
+,O05036,Umamaheshwari 2023,2023,C1,Yes,No,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O03267,Umamaheswari 2022,2022,C1,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB2
+,O17237,Unegbu 2022,2022,C1,Yes,Yes,Yes,Unclear,Unclear,Unclear,Yes,No,Not applicable,High,No in RB8
+,O17778,Uwingabiye 2016,2016,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O03053,Vandenbossche 2002,2002,C1,Unclear,No,Unclear,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O00670,Vandeputte 2005,2005,C1,No,Yes,Yes,Unclear,Yes,Unclear,Yes,Not applicable,Not applicable,Moderate,One No: RB1
+,O16696,Vani Dharya 2024,2024,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,R08318,Varma 2023,2023,C1,Yes,Yes,Yes,Yes,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,R02181,Vecchione 2018,2018,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB1
+,O17040,Venugopal 2021,2021,C1,Yes,No,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O02594,Vides-Peña 2015,2015,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O04510,Vijaya 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R06373,Vijayakumar 2023,2023,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O13027,Vijayalakshmi 2016,2016,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O21535,Villar Centeno 2004,2004,C1,Yes,Yes,Yes,No,Unclear,Yes,Yes,Yes,Not applicable,High,No in RB4
+,O01170,Vitális 2020,2020,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB1
+,O00762,Vásquez-Zamora 2020,2020,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O14685,Vázquez-Tsuji 2005,2005,C1,No,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O15752,Wang 2012,2012,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,R01554,Wang 2014,2014,C1,Unclear,Yes,Unclear,Unclear,Unclear,Yes,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB1,RB3,RB4,RB5"
+,O10194,Wang 2016,2016,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O06571,Wang 2020a,2020,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O04239,Wang 2020b,2020,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O03663,Wang 2021a,2021,C1,Yes,Yes,No,Unclear,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB3
+,O06290,Wang 2021b,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O02468,Wang 2021d,2021,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB6
+,O04133,Wang 2022a,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O09079,Wang 2022b,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O01687,Wang 2023c,2023,C1,Yes,Yes,Unclear,Yes,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O02444,Wang 2023d,2023,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O05165,Wang 2026b,2026,C1,Unclear,Yes,Yes,Unclear,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O17566,Wani 2019,2019,C1,Yes,No,Yes,Yes,Unclear,Unclear,Yes,Unclear,Not applicable,Moderate,One No: RB2
+,O02176,Wanigasekara 2025,2025,C1,Yes,Yes,Unclear,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O02064,Wanjare 2016,2016,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O12859,Wankap 2020,2020,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O01640,Watcharasuwanseree 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,R04204,Weeraphon 2023,2023,C1,Unclear,Yes,Unclear,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O03271,Weers-Pothoff 1997,1997,C1,No,No,Yes,Unclear,Yes,Yes,Yes,Not applicable,Not applicable,High,"Two or more No among the others: RB1,RB2"
+,O15972,Wei 2015,2015,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O18777,Wei 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,R06026,Wilot 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Unclear,Not applicable,Low,"No No; 2 Unclear: RB6,RB8"
+,O12986,Wisplinghoff 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,R02846,Won 2015,2015,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O09204,Won 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O05453,Won 2024,2024,C1,Yes,Yes,No,Yes,Yes,Yes,Yes,Unclear,Not applicable,Moderate,One No: RB3
+,O15031,Wong-Beringer 2001,2001,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O12984,Wu 2011,2011,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O08078,Wu 2017b,2017,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB3,RB4"
+,O01897,Wu 2021,2021,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,O03134,Wu 2025,2025,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB1
+,O09196,Wu 2026a,2026,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O10508,Xia 2022a,2022,C1,Unclear,Yes,Unclear,Yes,Yes,Unclear,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB1,RB3,RB6"
+,R06106,Xia 2022b,2022,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB6
+,O15328,Xiang 2018,2018,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB6
+,O09063,Xiao 2014,2014,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O00411,Xiao 2014a,2014,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O05289,Xiao 2018a,2018,C1,No,Yes,Yes,Yes,Yes,Unclear,Yes,Not applicable,Not applicable,Moderate,One No: RB1
+,O01734,Xiao 2018b,2018,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O03587,Xiao 2019,2019,C1,Unclear,Yes,Unclear,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R01754,Xiao 2020a,2020,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Not applicable,Not applicable,Low,"No No; 2 Unclear: RB3,RB4"
+,O09488,Xiao 2020b,2020,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,R00527,Xie 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O15713,Xu 2019,2019,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O13541,Xu 2025,2025,C1,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB3,RB5"
+,O09850,Xu 2026,2026,C1,Yes,Yes,Unclear,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB3,RB4,RB6"
+,O13199,Yadav 2022,2022,C1,Unclear,No,No,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R04239,Yadav 2023,2023,C1,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB3
+,O05893,Yadav 2025b,2025,C1,Yes,Yes,Yes,Yes,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O18363,Yakut 2021,2021,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB1
+,R05289,Yamagishi 2009,2009,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O16650,Yan 2011,2011,C1,Yes,No,Unclear,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R02212,Yang 2005,2005,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O11192,Yang 2005a,2005,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O14511,Yang 2005b,2005,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O05090,Yang 2006,2006,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O12418,Yang 2008a,2008,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O01824,Yang 2010a,2010,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R02980,Yang 2010b,2010,C1,Unclear,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O01750,Yang 2011,2011,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O14508,Yang 2013,2013,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O08569,Yang 2022a,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O11003,Yang 2023,2023,C1,Unclear,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O16718,Yang 2024a,2024,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R03376,Yao 2025,2025,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O09991,Yardimci 2022,2022,C1,Yes,Yes,Yes,Unclear,Unclear,Unclear,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB4,RB5,RB6"
+,O09490,Yazdanpanah 2023,2023,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O18129,Yazdanpanah 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O09044,Ye 2022,2022,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O05982,Yenişehirli 2018,2018,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O16344,Yenişehirli 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O08050,Yi 2026,2026,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O04993,Yigit 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,R03174,Yildirmak 2013,2013,C1,Unclear,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O04613,You 2017,2017,C1,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O02058,You 2020,2020,C1,Unclear,Yes,Yes,Unclear,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O18202,Younas 2024,2024,C1,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Not applicable,High,No in RB4
+,O12563,Yu 2019,2019,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB6
+,O00983,Yu 2024,2024,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB6
+,O03886,Yu 2025,2025,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB1
+,O11025,Yüksel Dolgun 2022,2022,C2,Yes,No,Yes,Yes,Yes,No,Yes,Not applicable,Unclear,High,"Two or more No among the others: RB2,RB6"
+,O06397,Yılmaz Yücel 2025,2025,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O11939,Zakhem 2021,2021,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB1,RB4"
+,O17651,Zarei Mahmoudabadi 2015,2015,C1,Yes,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O05109,Zarrinfar 2021,2021,C1,Yes,No,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O03753,Zeng 2019,2019,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB6
+,O04552,Zeng 2021,2021,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O03387,Zepelin 2007,2007,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O01809,Zhai 2018,2018,C1,Yes,Yes,Yes,Yes,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,R01959,Zhang 2015,2015,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O16197,Zhang 2019b,2019,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB1,RB4"
+,O02291,Zhang 2024a,2024,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O01171,Zhang 2025,2025,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB1
+,O06045,Zhang 2026a,2026,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O21682,Zhang 2026b,2026,"C1, C5, C6",Unclear,No,Unclear,Yes,Yes,Yes,Yes,Unclear,Unclear,Moderate,One No: RB2
+,R09755,Zhao 2025,2025,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O09805,Zhao 2026b,2026,C1,Yes,Yes,Yes,Yes,Unclear,Unclear,No,Unclear,Not applicable,Moderate,One No: RB7
+,R05980,Zheng 2021,2021,C1,Unclear,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB1,RB5"
+,R08832,Zhou 2016,2016,C1,Unclear,Yes,Yes,Unclear,Yes,No,Yes,Not applicable,Not applicable,Moderate,One No: RB6
+,O15295,Zhou 2016a,2016,C1,Yes,Yes,Unclear,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB3,RB4"
+,O11855,Zhou 2019,2019,C1,Unclear,Yes,No,Unclear,Yes,No,Yes,Yes,Not applicable,High,"Two or more No among the others: RB3,RB6"
+,O06710,Zhou 2026,2026,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB1
+,R00726,Zirkel 2012,2012,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB1,RB4"
+,R06581,Zomorodian 2011,2011,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,R06673,Zomorodian 2016b,2016,C1,Yes,No,Yes,Yes,Yes,No,Yes,No,Not applicable,High,No in RB8
+,O17039,Zuo 2021a,2021,C1,Unclear,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O10867,banerjee 2023,2023,C1,Unclear,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O16694,chavhan 2017,2017,C1,Unclear,Yes,Yes,Unclear,Unclear,Yes,Yes,No,Not applicable,High,No in RB8
+,O16781,da Conceição Alexandre Castro 2021,2021,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O06271,da Costa 2008a,2008,C1,Yes,No,Unclear,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O03494,da Costa 2014,2014,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,O18195,da Luz Becker 2016,2016,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O15217,da Matta 2007,2007,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O11646,da Silva 2013,2013,C1,Unclear,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O12891,da Silva 2018,2018,C1,Unclear,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,B010,da Silva 2023,2023,C1,No,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O02357,da Silva Xisto 2017,2017,C1,Yes,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O14533,de Aguiar Cordeiro 2013,2013,C2,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Unclear,High,No in RB8
+,O02465,de Aguiar Cordeiro 2014,2014,C2,Unclear,No,No,Unclear,Yes,Unclear,Yes,No,Unclear,High,No in RB8
+,O14499,de Alencar 2013,2013,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O14100,de Almeida 2013,2013,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O01721,de Almeida 2014,2014,C1,No,Yes,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O13200,de Azevedo Melo 2010,2010,C1,Unclear,No,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB2
+,O13692,de Bedout 2003,2003,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O10832,de Carvalho Parahym 2011,2011,C1,No,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O01549,de Freitas 2013,2013,C1,Yes,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O12935,de Freitas 2015,2015,C1,Yes,No,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O05665,de Medeiros 2019,2019,C1,Unclear,Yes,Unclear,Yes,Yes,Unclear,Yes,Yes,Not applicable,Moderate,"Three or more Unclear: RB1,RB3,RB6"
+,O15077,de Oliveira Demitto 2012,2012,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O15329,de Paula 2025,2025,C2,Yes,Yes,Yes,Yes,Unclear,Yes,Yes,Not applicable,Unclear,Low,"No No; 2 Unclear: RB5,RB9"
+,O13774,de Paula Menezes 2015,2015,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O11439,de Pádua 2003,2003,C1,Yes,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O14529,de Resende 2006,2006,C1,Yes,No,Yes,Unclear,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O11594,de Sousa 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,No,Not applicable,High,No in RB8
+,R09508,de Sousa 2016,2016,C1,Unclear,No,Yes,Yes,Yes,Unclear,Yes,No,Not applicable,High,No in RB8
+,O03248,de Treviño-Rangel 2026,2026,C1,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Not applicable,Moderate,One No: RB3
+,O00150,de Vasconcelos 2011,2011,C1,Unclear,No,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O14541,de Vasconcelos Júnior 2012,2012,C1,Unclear,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O17782,de la Rosa-García 2020,2020,C1,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O14946,dos Santos 2014,2014,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,O18123,dos Santos Abrantes 2014,2014,C1,Yes,No,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O04438,Álvarez 2018,2018,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Not applicable,Low,No No and no Unclear
+,R01141,Álvarez Duarte 2020,2020,C1,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O01176,Álvarez-Pérez 2016,2016,C2,No,Yes,Unclear,Yes,Yes,Unclear,Yes,No,Unclear,High,No in RB8
+,O14747,Ásmundsdóttir 2012,2012,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O18840,Éloy 2006,2006,C1,Yes,Yes,Yes,Unclear,Yes,Unclear,Yes,Yes,Not applicable,Low,"No No; 2 Unclear: RB4,RB6"
+,R05678,Öncü 2019,2019,C1,Unclear,Yes,Unclear,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O02338,Özbek 2023,2023,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,O01237,Özdemir 2025,2025,C1,Unclear,Yes,Unclear,Unclear,Yes,Yes,Yes,No,Not applicable,High,No in RB8
+,O18027,Öztürk 2013,2013,C1,Yes,Yes,Yes,Unclear,Yes,No,Yes,Yes,Not applicable,Moderate,One No: RB6
+,O01273,Đặng 2025,2025,C1,Yes,Yes,Yes,Unclear,Unclear,No,Yes,No,Not applicable,High,No in RB8
+,O05339,Şanlı 2021,2021,C1,Yes,Yes,Yes,Unclear,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB4
+,R08751,Şanlı 2024,2024,C1,Unclear,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No; 1 Unclear: RB1
+,O12319,Şular 2018,2018,C1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not applicable,Low,No No and no Unclear
+,R08604,Żyrek 2025,2025,C1,Yes,No,Yes,Yes,Yes,Yes,Yes,Unclear,Not applicable,Moderate,One No: RB2

@@ -1,0 +1,15 @@
+{
+  "script": "58_tabS15_human_model_agreement_v5.py",
+  "mode": "FINAL",
+  "run_time": "2026-10-30T21:35:50-05:00",
+  "python": "3.12.15",
+  "inputs": {
+    "12_documents/supplementary/tables/tabS15_human_model_agreement_v3_2026-10-30T145911.csv": "5a0be4b0825adea2ab865b88ab9eff45"
+  },
+  "outputs": {
+    "12_documents/supplementary/tables/tabS15_human_model_agreement_v5_2026-10-30T213550.csv": "f15f51b9e23b31b46843c0cb017f2663",
+    "12_documents/supplementary/tables/tabS15_human_model_agreement_v5_2026-10-30T213550.xlsx": "6cac40bbbef50bee2946ab3579c8aeff"
+  },
+  "human_decisions_total": 61758,
+  "rows": 13
+}

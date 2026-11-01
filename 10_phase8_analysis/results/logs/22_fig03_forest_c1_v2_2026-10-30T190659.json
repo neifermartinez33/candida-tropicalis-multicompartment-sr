@@ -1,0 +1,28 @@
+{
+  "script": "22_fig03_forest_c1_v2.R",
+  "mode": "FINAL",
+  "run_time": "2026-10-30 19:07:02 -0500",
+  "r_version": "R version 4.5.3 (2026-03-11)",
+  "ggplot2": "4.0.3",
+  "inputs": {
+    "10_phase8_analysis/analysis_rules_v4_2026-10-24.md": "a2e7e7b72e3731c398e1cb0486626b9d",
+    "10_phase8_analysis/results/ma_results_v3_2026-10-30T134047.csv": "80a0608a6c803bd04292dad4eaf6f200",
+    "10_phase8_analysis/results/ma_input_v2_2026-10-30T133242.csv": "5083a51cf209160dcaa03eb99a1e8695",
+    "10_phase8_analysis/scripts/fig_helpers.R": "b124312a617a426e8b1c093c83959f6b"
+  },
+  "outputs": {
+    "fig03_forest_c1_v2_2026-10-30T190659.pdf": "08ec64b750ec667d5ed761816db8bcbe",
+    "fig03_forest_c1_v2_2026-10-30T190659.svg": "e4bfcec933f91f4c18b0844bd917baab",
+    "fig03_forest_c1_v2_2026-10-30T190659.png": "f39bb5a869de955610ed34c3301e4198",
+    "fig03_forest_c1_v2_2026-10-30T190659.tif": "b722c505308255790cc87d37ca6a70bb",
+    "fig03_forest_c1_v2_2026-10-30T190659.csv": "23417682cb65ec97b983b19fb8f25395"
+  },
+  "font": "TeX Gyre Pagella",
+  "width_in": 8.05,
+  "height_in": 7.39,
+  "dpi": 1200,
+  "jitter_seed": 20261021,
+  "strata": 24,
+  "pooled": 23,
+  "collections_drawn": 2380
+}

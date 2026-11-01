@@ -160,6 +160,11 @@ def main():
         rb4 = SI if sp in RB4_SI else (DU if sp in RB4_DU else (NO if sp == "not_specified" else DU))
         # RB5
         met, standard = txt(s.get("ast_method")), txt(s.get("interp_standard"))
+        # (2026-10-30) reports that entered after the row verification have these two fields empty in studies.csv:
+        # they are read from the verified rows, otherwise the empty field counts as not declared (36 reports)
+        if len(g):
+            met = met or next(iter(sorted(set(g.method.dropna().astype(str)) - {"not_reported"})), "not_reported")
+            standard = standard or next(iter(sorted(set(g.interp_standard.dropna().astype(str)) - {"not_reported"})), "not_reported")
         # standard document: the one extracted or the one that the v3 parser identifies in the string
         doc = g.interp_documents.notna().any() or g.regime_basis.isin(["document", "eucast_document"]).any()
         if not met or met == "not_reported" or standard == "not_reported":
