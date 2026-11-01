@@ -1,0 +1,62 @@
+[
+ {
+  "idx": 0,
+  "id": "O05162",
+  "stem": "2246_O05162_Neonatal_candidiasis_analysis_of_epidemiology_drug_susceptib",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 1,
+  "id": "O01640",
+  "stem": "3793_O01640_Optimizing_Micafungin_Dosing_in_Patients_with_Critically_Ill",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 2,
+  "id": "R06456",
+  "stem": "6457_R06456_Investigation_of_the_correlation_between_biofilm_forming_abi",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 3,
+  "id": "O05109",
+  "stem": "0898_O05109_High_incidence_of_azole_resistance_among_Candida_albicans_an",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 4,
+  "id": "O01376",
+  "stem": "2238_O01376_Multicentre_study_to_determine_the_Etest_epidemiological_cut",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 5,
+  "id": "R06768",
+  "stem": "6769_R06768_Risk_factors_for_fluconazole_resistant_invasive_candidiasis",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 6,
+  "id": "O06661",
+  "stem": "0359_O06661_FLUCONAZOLE_SUSCEPTIBILITY_TESTING_OF_CANDIDA_SPECIES_BY_DIS",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 7,
+  "id": "O01273",
+  "stem": "6404_O01273_K_t_qu_nu_i_c_y_v_kh_ng_n_m_nh_ng_ph_n_vi_m_m_o_do_n_m_n_kh",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 8,
+  "id": "O08787",
+  "stem": "3468_O08787_Determination_of_Antifungal_Susceptibility_of_Candida_Specie",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 9,
+  "id": "O05859",
+  "stem": "7210_O05859_Impact_of_fluconazole_non_susceptibility_on_30_d_mortality_i",
+  "screening_decision": "INCLUDE"
+ }
+]

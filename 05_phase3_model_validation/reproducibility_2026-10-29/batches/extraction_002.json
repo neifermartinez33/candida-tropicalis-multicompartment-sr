@@ -1,0 +1,62 @@
+[
+ {
+  "idx": 0,
+  "id": "O13027",
+  "stem": "3388_O13027_The_Evaluation_of_the_virulence_factors_of_clinical_Candida",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 1,
+  "id": "O07802",
+  "stem": "7089_O07802_Mycological_Profile_of_Candida_tropicalis_and_its_Virulence",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 2,
+  "id": "O02480",
+  "stem": "5977_O02480_Sensitivity_Profile_of_Fungal_Pathogens_Responsible_for_Lowe",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 3,
+  "id": "O04536",
+  "stem": "8513_O04536_Characterization_and_susceptibility_of_non_albicans_Candida",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 4,
+  "id": "R09269",
+  "stem": "9270_R09269_Antifungal_susceptibility_of_Candida_species_using_the_clini",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 5,
+  "id": "R05925",
+  "stem": "5926_R05925_The_epidemiology_and_antifungal_susceptibility_of_Candida_sp",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 6,
+  "id": "O06246",
+  "stem": "6207_O06246_Antifungal_Susceptibility_Profiles_of_Bloodstream_Yeast_Isol",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 7,
+  "id": "O03742",
+  "stem": "6447_O03742_An_Association_of_an_eBURST_Group_With_Triazole_Resistance_o",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 8,
+  "id": "O04992",
+  "stem": "2480_O04992_Antifungal_susceptibility_genotyping_resistance_mechanism_an",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 9,
+  "id": "R02212",
+  "stem": "2213_R02212_The_trend_of_susceptibilities_to_amphotericin_B_and_fluconaz",
+  "screening_decision": "INCLUDE"
+ }
+]

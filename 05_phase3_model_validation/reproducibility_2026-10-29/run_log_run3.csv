@@ -1,0 +1,26 @@
+batch,task,start,end,returncode,output_written,models_used,cost_usd,claude_code,session_id
+extraction_001.json,extraction,2026-10-29T19:46:00-05:00,2026-10-29T19:50:29-05:00,0,True,claude-opus-5-5,2.7882586000000003,2.1.312 (Claude Code),1496044a-2ccb-483f-9d4b-9eb33ec70610
+extraction_002.json,extraction,2026-10-29T19:50:29-05:00,2026-10-29T19:56:07-05:00,0,True,claude-opus-5-5,3.2696518000000006,2.1.312 (Claude Code),9b4a9cd3-b404-4e86-b64e-404d15cbcce5
+extraction_003.json,extraction,2026-10-29T19:56:07-05:00,2026-10-29T20:00:44-05:00,0,True,claude-opus-5-5,2.5578863999999997,2.1.312 (Claude Code),515985f1-313e-4d99-bee2-d96e2f0cda3a
+extraction_004.json,extraction,2026-10-29T20:00:44-05:00,2026-10-29T20:04:49-05:00,0,True,claude-opus-5-5,2.2625675999999997,2.1.312 (Claude Code),5a5fe1dc-1469-4e4b-b31e-011138d9c01e
+extraction_005.json,extraction,2026-10-29T20:04:49-05:00,2026-10-29T20:09:45-05:00,0,True,claude-opus-5-5,2.6011535999999995,2.1.312 (Claude Code),b159dbc5-cad2-41de-af05-bcd5324d2e30
+screening_001.json,screening,2026-10-29T20:09:45-05:00,2026-10-29T20:11:53-05:00,0,True,claude-opus-5-5,1.2229088,2.1.312 (Claude Code),305f9cad-c49e-4f65-8ef6-1d8fe62c3946
+screening_002.json,screening,2026-10-29T20:11:53-05:00,2026-10-29T20:14:13-05:00,0,True,claude-opus-5-5,1.2213044,2.1.312 (Claude Code),22dd7ca4-b7b2-41ec-92b7-be6fe4de6b97
+screening_003.json,screening,2026-10-29T20:14:13-05:00,2026-10-29T20:16:37-05:00,0,True,claude-opus-5-5,1.2251823999999998,2.1.312 (Claude Code),8bba30a9-0b81-4a36-9195-a4e9e3d3f8e6
+screening_004.json,screening,2026-10-29T20:16:37-05:00,2026-10-29T20:18:35-05:00,0,True,claude-opus-5-5,1.1250566,2.1.312 (Claude Code),58f7a532-1b30-45ef-b78b-398d458d5060
+screening_005.json,screening,2026-10-29T20:18:35-05:00,2026-10-29T20:20:48-05:00,0,True,claude-opus-5-5,1.2164802,2.1.312 (Claude Code),9acb2bfd-3994-4292-bbd9-35f28b9219f9
+screening_006.json,screening,2026-10-29T20:20:48-05:00,2026-10-29T20:22:55-05:00,0,True,claude-opus-5-5,1.1691596,2.1.312 (Claude Code),d78cc49d-5565-4fba-8443-8f06769debff
+screening_007.json,screening,2026-10-29T20:22:55-05:00,2026-10-29T20:25:01-05:00,0,True,claude-opus-5-5,1.2484394,2.1.312 (Claude Code),16b643b0-81b2-478e-baf5-f196998767dc
+screening_008.json,screening,2026-10-29T20:25:01-05:00,2026-10-29T20:27:05-05:00,0,True,claude-opus-5-5,1.1107594,2.1.312 (Claude Code),c19b51d5-d89c-4f85-ba47-a083d135f711
+screening_009.json,screening,2026-10-29T20:27:05-05:00,2026-10-29T20:29:15-05:00,0,True,claude-opus-5-5,1.1082216,2.1.312 (Claude Code),6b948034-d019-4e53-a24d-2f5ff1f410bb
+screening_010.json,screening,2026-10-29T20:29:15-05:00,2026-10-29T20:31:35-05:00,0,True,claude-opus-5-5,1.137514,2.1.312 (Claude Code),d338b446-25c8-4a9f-8a59-415d20c9f7b9
+screening_011.json,screening,2026-10-29T20:31:35-05:00,2026-10-29T20:33:26-05:00,0,True,claude-opus-5-5,0.9741044,2.1.312 (Claude Code),352d9f2b-007c-4c1e-ba1d-253090299bd0
+screening_012.json,screening,2026-10-29T20:33:26-05:00,2026-10-29T20:35:48-05:00,0,True,claude-opus-5-5,1.2222609999999998,2.1.312 (Claude Code),2ee4edf4-167a-4aeb-8222-d18e3c035cd8
+screening_013.json,screening,2026-10-29T20:35:48-05:00,2026-10-29T20:38:09-05:00,0,True,claude-opus-5-5,1.1323028,2.1.312 (Claude Code),a2c5c302-5520-4e36-9ea0-2e0a3b208f27
+screening_014.json,screening,2026-10-29T20:38:09-05:00,2026-10-29T20:40:20-05:00,0,True,claude-opus-5-5,1.0767462,2.1.312 (Claude Code),44b67981-c477-4d08-80e8-d0a47c6f28ee
+screening_015.json,screening,2026-10-29T20:40:20-05:00,2026-10-29T20:42:58-05:00,0,True,claude-opus-5-5,1.142965,2.1.312 (Claude Code),7fd96b92-092b-4b1c-a07d-54b78cb9ea79
+screening_016.json,screening,2026-10-29T20:42:58-05:00,2026-10-29T20:45:16-05:00,0,True,claude-opus-5-5,1.2394608000000003,2.1.312 (Claude Code),cbec03a8-7142-45d4-a3dc-8b34fbc83125
+screening_017.json,screening,2026-10-29T20:45:16-05:00,2026-10-29T20:47:10-05:00,0,True,claude-opus-5-5,1.0053368,2.1.312 (Claude Code),6c9f4e6f-6670-44c6-b609-7e71f3a9cff3
+screening_018.json,screening,2026-10-29T20:47:10-05:00,2026-10-29T20:49:41-05:00,0,True,claude-opus-5-5,1.0764824,2.1.312 (Claude Code),81d51f9f-ddcb-4479-9bba-0b03433e7c97
+screening_019.json,screening,2026-10-29T20:49:41-05:00,2026-10-29T20:51:41-05:00,0,True,claude-opus-5-5,1.0804674,2.1.312 (Claude Code),3a16e24e-f21e-4f69-9e5c-fa09baa596df
+screening_020.json,screening,2026-10-29T20:51:41-05:00,2026-10-29T20:53:39-05:00,0,True,claude-opus-5-5,1.0331016,2.1.312 (Claude Code),2c13c301-cb47-4efd-a368-fccc8b0bef7b

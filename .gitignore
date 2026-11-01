@@ -34,6 +34,7 @@
 !/03_phase1_deduplication/adjudication/**
 !/03_phase1_deduplication/results/**
 !/04_phase2_calibration/**
+!/05_phase3_model_validation/**
 !/06_phase4_title_abstract_screening/**
 !/07_phase5_full_text_screening/**
 !/08_phase6_data_extraction/**

@@ -198,7 +198,7 @@ is audited rather than reproduced.
 | `02_phase0_raw_corpus` | Rayyan exports, reconstructed raw corpus, checksums |
 | `03_phase1_deduplication` | `algorithm/`, `model/`, `pairs/`, `adjudication/`, `results/` |
 | `04_phase2_calibration` | Calibration sample, blind decisions, kappa, frozen screening manual |
-| `05_phase3_model_validation` | Validation sample, human consensus, model sensitivity and its exact CI |
+| `05_phase3_model_validation` | Run-to-run reproducibility of the language model: samples, instructions sent, outputs and agreement |
 | `06_phase4_title_abstract_screening` | Human and model decisions, overlap sample, recovery layer |
 | `07_phase5_full_text_screening` | Full texts, dual decisions, exclusion codes |
 | `08_phase6_data_extraction` | Extraction form, double extraction, resolved dataset |

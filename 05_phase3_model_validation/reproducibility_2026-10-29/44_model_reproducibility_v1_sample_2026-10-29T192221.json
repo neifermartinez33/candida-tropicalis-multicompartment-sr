@@ -1,0 +1,22 @@
+{
+ "script": "44_model_reproducibility_v1.py",
+ "step": "sample",
+ "run_time": "2026-10-29T192221",
+ "seed": 20261029,
+ "screening": 200,
+ "screening_by_first_decision": {
+  "INCLUDE": 102,
+  "EXCLUDE": 78,
+  "DOUBTFUL": 20
+ },
+ "extraction": 50,
+ "batch_size": 10,
+ "inputs": {
+  "07_phase5_full_text_screening/full_text_screening.xlsx": "0351630d39bb225038b0425b08aa1dc7",
+  "08_phase6_data_extraction/data_extraction_tropicalis.xlsx": "17b44b430e9b7f1193a321fb2c3a5460"
+ },
+ "outputs": {
+  "sample_screening.csv": "2089756febc6ffa5a7603013b62053f6",
+  "sample_extraction.csv": "33bdfd45bd314def4378898612885929"
+ }
+}

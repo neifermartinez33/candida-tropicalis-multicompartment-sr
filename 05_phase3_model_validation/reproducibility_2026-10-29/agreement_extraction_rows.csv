@@ -1,0 +1,453 @@
+rerun,id,compartment,antifungal,in_first,in_second,same_n_tested,same_n_S,same_n_SDD_I,same_n_R,same_n_NWT,same_all_counts
+2,O14366,C6,amphotericin b,True,True,True,True,True,True,True,True
+2,O14063,C1,posaconazole,True,True,True,True,True,True,True,True
+2,O03750,C2,amphotericin b,True,True,True,True,False,True,True,False
+2,O03750,C2,caspofungin,True,True,True,True,True,True,True,True
+2,O03750,C2,fluconazole,True,True,True,True,True,True,True,True
+2,O03750,C2,itraconazole,True,True,True,False,False,True,True,False
+2,O16700,C1,amphotericin b,True,True,True,False,True,True,True,False
+2,O16700,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O16700,C1,itraconazole,True,True,True,True,True,True,True,True
+2,O16700,C1,voriconazole,True,True,True,True,True,True,True,True
+2,O03896,C1,amphotericin b,True,False,,,,,,
+2,O03896,C1,clotrimazole,True,False,,,,,,
+2,O03896,C1,fluconazole,True,True,True,True,False,True,True,False
+2,O03896,C1,ketoconazole,True,False,,,,,,
+2,O03896,C1,posaconazole,True,False,,,,,,
+2,O18109,C1,5-flucytosine,True,True,True,True,True,True,True,True
+2,O18109,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,O18109,C1,caspofungin,True,True,True,True,True,True,True,True
+2,O18109,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O18109,C1,micafungin,True,True,True,True,True,True,True,True
+2,O18109,C1,voriconazole,True,True,True,True,True,True,True,True
+2,O10105,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,O10105,C1,clotrimazole,True,True,True,True,True,True,True,True
+2,O10105,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O10105,C1,itraconazole,True,True,True,True,True,True,True,True
+2,O10105,C1,ketoconazole,True,True,True,True,True,True,True,True
+2,O10105,C1,miconazole,True,True,True,True,True,True,True,True
+2,O10105,C1,nystatin,True,True,True,True,True,True,True,True
+2,O10105,C1,voriconazole,True,True,True,True,True,True,True,True
+2,O12101,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,O12101,C1,caspofungin,True,True,True,True,True,True,True,True
+2,O12101,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O12101,C1,itraconazole,True,True,True,True,True,True,True,True
+2,O12101,C1,voriconazole,True,True,True,True,True,True,True,True
+2,O17183,C1,fluconazole,True,True,True,True,False,False,True,False
+2,O17183,C1,voriconazole,True,True,True,True,True,True,True,True
+2,O05209,C1,amphotericin b,True,True,False,False,True,True,True,False
+2,O05209,C1,fluconazole,True,True,False,False,False,True,True,False
+2,O13027,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,O13027,C1,clotrimazole,True,True,True,True,True,True,True,True
+2,O13027,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O13027,C1,itraconazole,True,True,True,True,True,True,True,True
+2,O13027,C1,ketoconazole,True,True,True,True,True,True,True,True
+2,O13027,C1,nystatin,True,True,True,True,True,True,True,True
+2,O07802,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,O07802,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O07802,C1,itraconazole,True,True,True,True,True,True,True,True
+2,O07802,C1,voriconazole,True,True,True,True,True,True,True,True
+2,O02480,C1,nystatin,True,True,True,True,False,True,True,False
+2,O04536,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,O04536,C1,anidulafungin,True,True,True,True,False,True,True,False
+2,O04536,C1,caspofungin,True,True,True,True,True,True,True,True
+2,O04536,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O04536,C1,micafungin,True,True,True,True,True,True,True,True
+2,O04536,C1,posaconazole,True,True,True,True,True,True,True,True
+2,O04536,C1,voriconazole,True,True,True,True,False,True,True,False
+2,R09269,C1,fluconazole,False,True,,,,,,
+2,R09269,C1,voriconazole,False,True,,,,,,
+2,R09269,MIXED,fluconazole,True,False,,,,,,
+2,R09269,MIXED,voriconazole,True,False,,,,,,
+2,R05925,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,R05925,C1,caspofungin,True,True,True,True,True,False,True,False
+2,R05925,C1,fluconazole,True,True,True,True,True,False,True,False
+2,R05925,C1,voriconazole,True,True,True,True,True,True,True,True
+2,O06246,C1,5-flucytosine,True,True,True,True,True,True,True,True
+2,O06246,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,O06246,C1,anidulafungin,True,True,True,True,True,True,True,True
+2,O06246,C1,caspofungin,True,True,True,True,True,True,True,True
+2,O06246,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O06246,C1,itraconazole,True,True,True,True,True,True,True,True
+2,O06246,C1,micafungin,True,True,True,True,True,True,True,True
+2,O06246,C1,posaconazole,True,True,True,True,True,True,True,True
+2,O06246,C1,voriconazole,True,True,True,True,True,True,True,True
+2,O03742,C1,5-flucytosine,True,True,True,True,True,True,True,True
+2,O03742,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,O03742,C1,anidulafungin,True,True,True,True,True,True,True,True
+2,O03742,C1,caspofungin,True,True,True,True,True,True,True,True
+2,O03742,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O03742,C1,itraconazole,True,True,True,True,True,True,True,True
+2,O03742,C1,micafungin,True,True,True,True,True,True,True,True
+2,O03742,C1,posaconazole,True,True,True,True,True,True,True,True
+2,O03742,C1,voriconazole,True,True,True,True,True,True,True,True
+2,O04992,C1,amphotericin b,True,True,True,False,True,False,True,False
+2,O04992,C1,anidulafungin,True,True,True,True,True,True,True,True
+2,O04992,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O04992,C1,itraconazole,True,True,True,True,True,True,True,True
+2,O04992,C1,micafungin,True,True,True,True,True,True,True,True
+2,O04992,C1,voriconazole,True,True,True,False,False,True,True,False
+2,R02212,C1,amphotericin b,True,True,True,True,False,True,True,False
+2,R02212,C1,fluconazole,True,True,True,True,True,True,True,True
+2,R04881,C1,5-flucytosine,True,True,True,True,True,True,True,True
+2,R04881,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,R04881,C1,fluconazole,True,True,True,True,True,True,True,True
+2,R04881,C1,itraconazole,True,True,True,True,True,True,True,True
+2,R04881,C1,micafungin,True,True,True,True,True,True,True,True
+2,R04881,C1,voriconazole,True,True,True,True,True,True,True,True
+2,R01484,C1,5-flucytosine,True,True,True,True,True,True,True,True
+2,R01484,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,R01484,C1,caspofungin,True,True,True,True,True,True,True,True
+2,R01484,C1,fluconazole,True,True,True,True,True,True,True,True
+2,R01484,C1,itraconazole,True,True,True,True,True,True,True,True
+2,R01484,C1,voriconazole,True,True,True,True,True,True,True,True
+2,O12497,C1,voriconazole,True,True,True,True,True,True,True,True
+2,R02228,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,R02228,C1,anidulafungin,True,True,True,True,True,True,True,True
+2,R02228,C1,caspofungin,True,True,True,True,True,True,True,True
+2,R02228,C1,fluconazole,True,True,True,True,True,True,True,True
+2,R02228,C1,micafungin,True,True,True,False,False,True,True,False
+2,R02228,C1,voriconazole,True,True,True,True,True,True,True,True
+2,O15218,C1,amphotericin b,True,True,True,False,True,True,True,False
+2,O15218,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O15218,C1,micafungin,True,True,True,True,True,True,True,True
+2,O15218,C1,voriconazole,True,True,True,True,True,True,True,True
+2,O18339,C1,amphotericin b,False,True,,,,,,
+2,O18339,C1,anidulafungin,False,True,,,,,,
+2,O18339,C1,caspofungin,False,True,,,,,,
+2,O18339,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O18339,C1,itraconazole,False,True,,,,,,
+2,O18339,C1,micafungin,False,True,,,,,,
+2,O18339,C1,posaconazole,False,True,,,,,,
+2,O18339,C1,voriconazole,False,True,,,,,,
+2,O01616,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,O01616,C1,anidulafungin,True,True,True,True,True,True,True,True
+2,O01616,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O13937,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,O13937,C1,anidulafungin,True,True,True,True,True,True,True,True
+2,O13937,C1,caspofungin,True,True,True,True,True,True,True,True
+2,O13937,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O13937,C1,itraconazole,True,True,True,True,True,True,True,True
+2,O13937,C1,micafungin,True,True,True,True,True,True,True,True
+2,O13937,C1,posaconazole,True,True,True,True,True,True,True,True
+2,O13937,C1,voriconazole,True,True,True,True,True,True,True,True
+2,O00343,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,O00343,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O00343,C1,itraconazole,True,True,True,True,True,True,True,True
+2,O05635,C1,clotrimazole,True,True,True,True,True,True,True,True
+2,O05635,C1,fluconazole,True,True,True,True,False,True,True,False
+2,O05635,C1,itraconazole,True,True,True,True,False,True,True,False
+2,O05635,C1,ketoconazole,True,True,True,True,False,True,True,False
+2,O05635,C1,voriconazole,True,True,True,True,False,True,True,False
+2,O07581,C1,bifonazole,True,True,True,True,True,True,True,True
+2,O07581,C1,econazole,True,True,True,True,True,True,True,True
+2,O07581,C1,oxiconazole,True,True,True,True,True,True,True,True
+2,R05135,C1,5-flucytosine,True,True,True,True,True,True,True,True
+2,R05135,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,R05135,C1,fluconazole,True,True,True,True,True,True,True,True
+2,R05135,C1,itraconazole,True,True,True,True,True,True,True,True
+2,R05135,C1,voriconazole,True,True,True,True,True,True,True,True
+2,O14049,C1,5-flucytosine,True,True,True,False,False,True,True,False
+2,O14049,C1,amphotericin b,True,True,True,False,False,True,True,False
+2,O14049,C1,fluconazole,True,True,True,False,False,True,True,False
+2,O14049,C1,ketoconazole,True,True,True,True,True,True,True,True
+2,O14049,C1,miconazole,True,True,True,False,False,True,True,False
+2,O15217,C1,5-flucytosine,True,True,False,False,False,False,True,False
+2,O15217,C1,amphotericin b,True,True,True,True,False,True,True,False
+2,O15217,C1,fluconazole,True,True,False,False,True,True,True,False
+2,O15217,C1,itraconazole,True,True,False,False,False,True,True,False
+2,O15217,C1,voriconazole,True,True,True,True,True,True,True,True
+2,O02366,C1,anidulafungin,True,False,,,,,,
+2,O02366,C1,caspofungin,True,False,,,,,,
+2,O02366,MIXED,anidulafungin,False,True,,,,,,
+2,O02366,MIXED,caspofungin,False,True,,,,,,
+2,O14685,C1,fluconazole,True,True,True,True,True,True,True,True
+2,R08609,C1,5-flucytosine,True,True,True,True,True,True,True,True
+2,R08609,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,R08609,C1,fluconazole,True,True,True,False,False,False,True,False
+2,R08609,C1,micafungin,True,True,True,True,True,True,True,True
+2,R08609,C1,voriconazole,True,True,True,True,True,True,True,True
+2,O02846,C1,fluconazole,True,False,,,,,,
+2,O02846,C1,manogepix,True,False,,,,,,
+2,O02846,MIXED,amphotericin b,False,True,,,,,,
+2,O02846,MIXED,anidulafungin,False,True,,,,,,
+2,O02846,MIXED,fluconazole,False,True,,,,,,
+2,O02846,MIXED,manogepix (investigational),False,True,,,,,,
+2,O02846,MIXED,micafungin,False,True,,,,,,
+2,O02846,MIXED,voriconazole,False,True,,,,,,
+2,O01692,C1,fluconazole,True,True,True,True,True,True,True,True
+2,R08751,C1,5-flucytosine,True,True,True,True,True,True,True,True
+2,R08751,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,R08751,C1,anidulafungin,True,True,True,True,True,True,True,True
+2,R08751,C1,caspofungin,True,True,True,True,True,True,True,True
+2,R08751,C1,fluconazole,True,True,True,True,True,True,True,True
+2,R08751,C1,itraconazole,True,True,True,True,True,True,True,True
+2,R08751,C1,micafungin,True,True,True,True,True,True,True,True
+2,R08751,C1,posaconazole,True,True,True,True,True,True,True,True
+2,R08751,C1,voriconazole,True,True,True,True,True,True,True,True
+2,O05162,C1,5-flucytosine,True,True,True,True,True,True,True,True
+2,O05162,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,O05162,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O05162,C1,itraconazole,True,True,True,True,True,True,True,True
+2,O01640,C1,micafungin,True,True,True,True,True,True,True,True
+2,R06456,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,R06456,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O05109,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O05109,C1,itraconazole,True,True,True,True,True,True,True,True
+2,O05109,C1,ketoconazole,True,True,True,True,True,True,True,True
+2,O05109,C1,voriconazole,True,True,True,True,True,True,True,True
+2,O01376,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,O01376,C1,anidulafungin,True,True,True,True,True,True,True,True
+2,O01376,C1,caspofungin,True,True,True,True,True,True,True,True
+2,O01376,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O01376,C1,micafungin,True,True,True,True,True,True,True,True
+2,O01376,C1,posaconazole,True,True,True,True,True,True,True,True
+2,O01376,C1,voriconazole,True,True,True,True,True,True,True,True
+2,R06768,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O06661,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O01273,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,O01273,C1,caspofungin,True,True,True,True,True,True,True,True
+2,O01273,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O01273,C1,micafungin,True,True,True,True,True,True,True,True
+2,O01273,C1,voriconazole,True,True,True,True,True,True,True,True
+2,O08787,C1,5-flucytosine,True,True,True,True,True,True,True,True
+2,O08787,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,O08787,C1,caspofungin,True,True,True,True,False,True,True,False
+2,O08787,C1,fluconazole,True,True,True,True,False,True,True,False
+2,O08787,C1,itraconazole,True,True,True,False,False,True,True,False
+2,O08787,C1,posaconazole,True,True,True,True,True,True,True,True
+2,O08787,C1,voriconazole,True,True,True,False,False,True,True,False
+2,O05859,C1,5-flucytosine,True,True,True,True,True,True,True,True
+2,O05859,C1,amphotericin b,True,True,True,True,True,True,True,True
+2,O05859,C1,anidulafungin,True,True,True,True,True,True,True,True
+2,O05859,C1,caspofungin,True,True,True,True,True,True,True,True
+2,O05859,C1,fluconazole,True,True,True,True,True,True,True,True
+2,O05859,C1,isavuconazole,True,True,True,True,True,True,True,True
+2,O05859,C1,itraconazole,True,True,True,True,True,True,True,True
+2,O05859,C1,micafungin,True,True,True,True,True,True,True,True
+2,O05859,C1,posaconazole,True,True,True,True,True,True,True,True
+2,O05859,C1,voriconazole,True,True,True,True,True,True,True,True
+3,O14366,C6,amphotericin b,True,True,True,False,False,False,True,False
+3,O14063,C1,posaconazole,True,True,True,True,True,True,True,True
+3,O03750,C2,amphotericin b,True,True,True,True,True,True,True,True
+3,O03750,C2,caspofungin,True,True,True,True,True,True,True,True
+3,O03750,C2,fluconazole,True,True,True,True,True,True,True,True
+3,O03750,C2,itraconazole,True,True,True,True,True,True,True,True
+3,O16700,C1,amphotericin b,True,True,True,False,True,True,True,False
+3,O16700,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O16700,C1,itraconazole,True,True,True,True,True,True,True,True
+3,O16700,C1,voriconazole,True,True,True,True,True,True,True,True
+3,O03896,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,O03896,C1,clotrimazole,True,True,True,True,True,True,True,True
+3,O03896,C1,fluconazole,True,True,True,True,False,True,True,False
+3,O03896,C1,ketoconazole,True,True,True,True,True,True,True,True
+3,O03896,C1,posaconazole,True,True,True,True,True,True,True,True
+3,O18109,C1,5-flucytosine,True,True,True,True,False,True,True,False
+3,O18109,C1,amphotericin b,True,True,True,True,False,True,True,False
+3,O18109,C1,caspofungin,True,True,True,True,True,True,True,True
+3,O18109,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O18109,C1,micafungin,True,True,True,True,True,True,True,True
+3,O18109,C1,voriconazole,True,True,True,True,True,True,True,True
+3,O10105,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,O10105,C1,clotrimazole,True,True,True,True,True,True,True,True
+3,O10105,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O10105,C1,itraconazole,True,True,True,True,True,True,True,True
+3,O10105,C1,ketoconazole,True,True,True,True,True,True,True,True
+3,O10105,C1,miconazole,True,True,True,True,True,True,True,True
+3,O10105,C1,nystatin,True,True,True,True,True,True,True,True
+3,O10105,C1,voriconazole,True,True,True,True,True,True,True,True
+3,O12101,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,O12101,C1,caspofungin,True,True,True,True,True,True,True,True
+3,O12101,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O12101,C1,itraconazole,True,True,True,True,True,True,True,True
+3,O12101,C1,voriconazole,True,True,True,True,True,True,True,True
+3,O17183,C1,fluconazole,True,True,True,True,False,False,True,False
+3,O17183,C1,voriconazole,True,True,True,True,False,True,True,False
+3,O05209,C1,amphotericin b,True,True,True,True,False,True,True,False
+3,O05209,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O13027,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,O13027,C1,clotrimazole,True,True,True,True,True,True,True,True
+3,O13027,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O13027,C1,itraconazole,True,True,True,True,True,True,True,True
+3,O13027,C1,ketoconazole,True,True,True,True,True,True,True,True
+3,O13027,C1,nystatin,True,True,True,True,True,True,True,True
+3,O07802,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,O07802,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O07802,C1,itraconazole,True,True,True,True,True,True,True,True
+3,O07802,C1,voriconazole,True,True,True,True,True,True,True,True
+3,O02480,C1,nystatin,True,True,True,True,False,True,True,False
+3,O04536,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,O04536,C1,anidulafungin,True,True,True,True,False,True,True,False
+3,O04536,C1,caspofungin,True,True,True,True,True,True,True,True
+3,O04536,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O04536,C1,micafungin,True,True,True,True,True,True,True,True
+3,O04536,C1,posaconazole,True,True,True,True,True,True,True,True
+3,O04536,C1,voriconazole,True,True,True,True,False,True,True,False
+3,R09269,C1,fluconazole,False,True,,,,,,
+3,R09269,C1,voriconazole,False,True,,,,,,
+3,R09269,MIXED,fluconazole,True,False,,,,,,
+3,R09269,MIXED,voriconazole,True,False,,,,,,
+3,R05925,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,R05925,C1,caspofungin,True,True,True,True,True,False,True,False
+3,R05925,C1,fluconazole,True,True,True,True,True,True,True,True
+3,R05925,C1,voriconazole,True,True,True,True,False,True,True,False
+3,O06246,C1,5-flucytosine,True,True,True,True,True,True,True,True
+3,O06246,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,O06246,C1,anidulafungin,True,True,True,True,True,True,True,True
+3,O06246,C1,caspofungin,True,True,True,True,True,True,True,True
+3,O06246,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O06246,C1,itraconazole,True,True,True,True,True,True,True,True
+3,O06246,C1,micafungin,True,True,True,True,True,True,True,True
+3,O06246,C1,posaconazole,True,True,True,True,True,True,True,True
+3,O06246,C1,voriconazole,True,True,True,True,True,True,True,True
+3,O03742,C1,5-flucytosine,True,True,True,True,True,True,True,True
+3,O03742,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,O03742,C1,anidulafungin,True,True,True,True,True,True,True,True
+3,O03742,C1,caspofungin,True,True,True,True,True,True,True,True
+3,O03742,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O03742,C1,itraconazole,True,True,True,True,True,True,True,True
+3,O03742,C1,micafungin,True,True,True,True,True,True,True,True
+3,O03742,C1,posaconazole,True,True,True,True,True,True,True,True
+3,O03742,C1,voriconazole,True,True,True,True,True,True,True,True
+3,O04992,C1,amphotericin b,True,True,True,False,True,False,True,False
+3,O04992,C1,anidulafungin,True,True,True,True,True,True,True,True
+3,O04992,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O04992,C1,itraconazole,True,True,True,True,True,True,True,True
+3,O04992,C1,micafungin,True,True,True,True,True,True,True,True
+3,O04992,C1,voriconazole,True,True,True,True,True,True,True,True
+3,R02212,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,R02212,C1,fluconazole,True,True,True,True,True,True,True,True
+3,R04881,C1,5-flucytosine,True,True,True,True,True,True,True,True
+3,R04881,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,R04881,C1,fluconazole,True,True,True,True,True,True,True,True
+3,R04881,C1,itraconazole,True,True,True,True,True,True,True,True
+3,R04881,C1,micafungin,True,True,True,True,True,True,True,True
+3,R04881,C1,voriconazole,True,True,True,True,True,True,True,True
+3,R01484,C1,5-flucytosine,True,True,True,True,True,True,True,True
+3,R01484,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,R01484,C1,caspofungin,True,True,True,True,True,True,True,True
+3,R01484,C1,fluconazole,True,True,True,True,True,True,True,True
+3,R01484,C1,itraconazole,True,True,True,True,True,True,True,True
+3,R01484,C1,voriconazole,True,True,True,True,True,True,True,True
+3,O12497,C1,voriconazole,True,True,True,True,True,True,True,True
+3,R02228,C1,amphotericin b,True,True,True,True,False,True,True,False
+3,R02228,C1,anidulafungin,True,True,True,False,False,True,True,False
+3,R02228,C1,caspofungin,True,True,True,True,True,True,True,True
+3,R02228,C1,fluconazole,True,True,True,True,False,True,True,False
+3,R02228,C1,micafungin,True,True,True,False,False,True,True,False
+3,R02228,C1,voriconazole,True,True,True,False,False,True,True,False
+3,O15218,C1,amphotericin b,True,True,True,False,True,True,True,False
+3,O15218,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O15218,C1,micafungin,True,True,True,True,True,True,True,True
+3,O15218,C1,voriconazole,True,True,True,True,True,True,True,True
+3,O18339,C1,amphotericin b,False,True,,,,,,
+3,O18339,C1,anidulafungin,False,True,,,,,,
+3,O18339,C1,caspofungin,False,True,,,,,,
+3,O18339,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O18339,C1,itraconazole,False,True,,,,,,
+3,O18339,C1,micafungin,False,True,,,,,,
+3,O18339,C1,posaconazole,False,True,,,,,,
+3,O18339,C1,voriconazole,False,True,,,,,,
+3,O01616,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,O01616,C1,anidulafungin,True,True,True,True,True,True,True,True
+3,O01616,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O13937,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,O13937,C1,anidulafungin,True,True,True,True,True,True,True,True
+3,O13937,C1,caspofungin,True,True,True,True,True,True,True,True
+3,O13937,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O13937,C1,itraconazole,True,True,True,True,True,True,True,True
+3,O13937,C1,micafungin,True,True,True,True,True,True,True,True
+3,O13937,C1,posaconazole,True,True,True,True,True,True,True,True
+3,O13937,C1,voriconazole,True,True,True,True,True,True,True,True
+3,O00343,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,O00343,C1,fluconazole,True,True,True,True,True,False,True,False
+3,O00343,C1,itraconazole,True,True,True,True,True,True,True,True
+3,O05635,C1,clotrimazole,True,True,True,True,True,True,True,True
+3,O05635,C1,fluconazole,True,True,True,True,False,True,True,False
+3,O05635,C1,itraconazole,True,True,True,True,False,True,True,False
+3,O05635,C1,ketoconazole,True,True,True,True,False,True,True,False
+3,O05635,C1,voriconazole,True,True,True,True,False,True,True,False
+3,O07581,C1,bifonazole,True,True,True,True,True,True,True,True
+3,O07581,C1,econazole,True,True,True,True,True,True,True,True
+3,O07581,C1,oxiconazole,True,True,True,True,True,True,True,True
+3,R05135,C1,5-flucytosine,True,True,True,True,True,True,True,True
+3,R05135,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,R05135,C1,fluconazole,True,True,True,True,True,True,True,True
+3,R05135,C1,itraconazole,True,True,True,True,True,True,True,True
+3,R05135,C1,voriconazole,True,True,True,True,True,True,True,True
+3,O14049,C1,5-flucytosine,True,True,True,False,False,True,True,False
+3,O14049,C1,amphotericin b,True,True,True,False,False,True,True,False
+3,O14049,C1,fluconazole,True,True,True,False,False,True,True,False
+3,O14049,C1,ketoconazole,True,True,True,True,True,True,True,True
+3,O14049,C1,miconazole,True,True,True,False,False,True,True,False
+3,O15217,C1,5-flucytosine,True,True,False,False,False,False,True,False
+3,O15217,C1,amphotericin b,True,True,True,True,False,True,True,False
+3,O15217,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O15217,C1,itraconazole,True,True,False,False,False,True,True,False
+3,O15217,C1,voriconazole,True,True,True,True,True,True,True,True
+3,O02366,C1,anidulafungin,True,True,True,True,True,True,True,True
+3,O02366,C1,caspofungin,True,True,True,True,True,True,True,True
+3,O14685,C1,fluconazole,True,True,True,True,True,True,True,True
+3,R08609,C1,5-flucytosine,True,True,True,True,True,True,True,True
+3,R08609,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,R08609,C1,fluconazole,True,True,True,False,False,False,True,False
+3,R08609,C1,micafungin,True,True,True,True,True,True,True,True
+3,R08609,C1,voriconazole,True,True,True,True,True,True,True,True
+3,O02846,C1,amphotericin b,False,True,,,,,,
+3,O02846,C1,anidulafungin,False,True,,,,,,
+3,O02846,C1,fluconazole,True,True,True,True,True,True,False,False
+3,O02846,C1,manogepix,True,True,True,True,True,True,True,True
+3,O02846,C1,micafungin,False,True,,,,,,
+3,O02846,C1,voriconazole,False,True,,,,,,
+3,O01692,C1,fluconazole,True,True,True,True,True,True,True,True
+3,R08751,C1,5-flucytosine,True,True,True,True,True,True,True,True
+3,R08751,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,R08751,C1,anidulafungin,True,True,True,True,True,True,True,True
+3,R08751,C1,caspofungin,True,True,True,True,True,True,True,True
+3,R08751,C1,fluconazole,True,True,True,True,True,True,True,True
+3,R08751,C1,itraconazole,True,True,True,True,True,True,True,True
+3,R08751,C1,micafungin,True,True,True,True,True,True,True,True
+3,R08751,C1,posaconazole,True,True,True,True,True,True,True,True
+3,R08751,C1,voriconazole,True,True,True,True,True,True,True,True
+3,O05162,C1,5-flucytosine,True,True,True,True,True,True,True,True
+3,O05162,C1,amphotericin b,True,True,True,True,False,True,True,False
+3,O05162,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O05162,C1,itraconazole,True,True,True,True,True,True,True,True
+3,O01640,C1,micafungin,True,True,True,True,True,True,True,True
+3,R06456,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,R06456,C1,fluconazole,True,True,True,False,True,False,True,False
+3,O05109,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O05109,C1,itraconazole,True,True,True,True,True,True,True,True
+3,O05109,C1,ketoconazole,True,True,True,True,True,True,True,True
+3,O05109,C1,voriconazole,True,True,True,True,True,True,True,True
+3,O01376,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,O01376,C1,anidulafungin,True,True,True,True,True,True,True,True
+3,O01376,C1,caspofungin,True,True,True,True,True,True,True,True
+3,O01376,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O01376,C1,micafungin,True,True,True,True,True,True,True,True
+3,O01376,C1,posaconazole,True,True,True,True,True,True,True,True
+3,O01376,C1,voriconazole,True,True,True,True,True,True,True,True
+3,R06768,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O06661,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O01273,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,O01273,C1,caspofungin,True,True,True,True,True,True,True,True
+3,O01273,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O01273,C1,micafungin,True,True,True,True,True,True,True,True
+3,O01273,C1,voriconazole,True,True,True,True,True,True,True,True
+3,O08787,C1,5-flucytosine,True,True,True,True,True,True,True,True
+3,O08787,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,O08787,C1,caspofungin,True,True,True,True,True,True,True,True
+3,O08787,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O08787,C1,itraconazole,True,True,True,False,True,True,True,False
+3,O08787,C1,posaconazole,True,True,True,True,True,True,True,True
+3,O08787,C1,voriconazole,True,True,True,False,True,True,True,False
+3,O05859,C1,5-flucytosine,True,True,True,True,True,True,True,True
+3,O05859,C1,amphotericin b,True,True,True,True,True,True,True,True
+3,O05859,C1,anidulafungin,True,True,True,True,True,True,True,True
+3,O05859,C1,caspofungin,True,True,True,True,True,True,True,True
+3,O05859,C1,fluconazole,True,True,True,True,True,True,True,True
+3,O05859,C1,isavuconazole,True,True,True,True,True,True,True,True
+3,O05859,C1,itraconazole,True,True,True,True,True,True,True,True
+3,O05859,C1,micafungin,True,True,True,True,True,True,True,True
+3,O05859,C1,posaconazole,True,True,True,True,True,True,True,True
+3,O05859,C1,voriconazole,True,True,True,True,True,True,True,True

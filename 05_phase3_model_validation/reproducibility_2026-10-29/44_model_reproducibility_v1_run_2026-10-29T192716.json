@@ -1,0 +1,19 @@
+{
+ "script": "44_model_reproducibility_v1.py",
+ "step": "run",
+ "run_time": "2026-10-29T192716",
+ "batches_run": 1,
+ "model_requested": "claude-opus-5-5",
+ "claude_code": "2.1.312 (Claude Code)",
+ "instruction_sha256": {
+  "screening": "5e317e974d8623a312832be93a9535f7c27faa7fe3b56b335bdfe03ae6894677",
+  "extraction": "b44fe42843f6f0ac713f4a4b7fbf957bf64162a9e2cb2a9ae3e6b843f0256268"
+ },
+ "inputs": {
+  "12_documents/supplementary/file_s1_language_model_v1/full_text/full_text_screening_instruction_EN.md": "7e31460d83570e91a7e8c719f68b9db6",
+  "12_documents/supplementary/file_s1_language_model_v1/full_text/data_extraction_instruction_EN.md": "8b70263f58d044632202aec22251b2e6"
+ },
+ "outputs": {
+  "run_log.csv": "40050c7f8ce6ef59a782ebb5222890f9"
+ }
+}

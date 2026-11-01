@@ -1,0 +1,62 @@
+[
+ {
+  "idx": 0,
+  "id": "R04881",
+  "stem": "4882_R04881_Identification_of_pathogenic_fungi_in_pediatric_oncology_pat",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 1,
+  "id": "R01484",
+  "stem": "1485_R01484_The_microbiology_epidemiology_risk_factors_and_clinical_ther",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 2,
+  "id": "O12497",
+  "stem": "1243_O12497_Activity_of_voriconazole_against_yeasts_isolated_from_blood",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 3,
+  "id": "R02228",
+  "stem": "2229_R02228_Risk_factors_and_predictors_of_mortality_of_candidaemia_amon",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 4,
+  "id": "O15218",
+  "stem": "2559_O15218_Epidemiology_practice_patterns_and_prognostic_factors_for_ca",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 5,
+  "id": "O18339",
+  "stem": "0892_O18339_Antifungal_susceptibility_profile_of_i_Candida_i_species_iso",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 6,
+  "id": "O01616",
+  "stem": "4851_O01616_In_vitro_activity_of_a_new_echinocandin_LY303366_compared_wi",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 7,
+  "id": "O13937",
+  "stem": "5637_O13937_The_prevalence_patterns_and_antifungal_drug_resistance_of_bl",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 8,
+  "id": "O00343",
+  "stem": "8753_O00343_Estudio_multic_ntrico_de_fungemias_por_levaduras_en_la_Rep_b",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 9,
+  "id": "O05635",
+  "stem": "2324_O05635_Genomic_Characterisation_of_Virulence_and_In_Vivo_Pathogenic",
+  "screening_decision": "INCLUDE"
+ }
+]

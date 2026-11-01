@@ -1,0 +1,62 @@
+[
+ {
+  "idx": 0,
+  "id": "O07581",
+  "stem": "4748_O07581_Sensitivity_of_Candida_Species_Isolated_from_Tinea_Pedis_of",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 1,
+  "id": "R05135",
+  "stem": "5136_R05135_Clinical_characteristics_and_predictors_of_mortality_in_pati",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 2,
+  "id": "O14049",
+  "stem": "4004_O14049_Suscetibilidade_in_vitro_aos_antif_ngicos_em_cepas_de_Candid",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 3,
+  "id": "O15217",
+  "stem": "7447_O15217_Antifungal_susceptibility_of_1000_Candida_bloodstream_isolat",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 4,
+  "id": "O02366",
+  "stem": "5695_O02366_Comparative_In_Vitro_Susceptibility_of_Clinical_Isolates_of",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 5,
+  "id": "O14685",
+  "stem": "2201_O14685_Renal_ultrasonography_and_detection_of_pseudomycelium_in_uri",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 6,
+  "id": "R08609",
+  "stem": "8610_R08609_In_vitro_antifungal_combination_effects_of_micafungin_with_f",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 7,
+  "id": "O02846",
+  "stem": "4757_O02846_Manogepix_APX001A_Displays_Potent_In_Vitro_Activity_against",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 8,
+  "id": "O01692",
+  "stem": "5232_O01692_Candida_duobushaemulonii_an_emerging_rare_pathogenic_yeast_i",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 9,
+  "id": "R08751",
+  "stem": "8752_R08751_Candidemia_in_Pediatric_Clinic_Frequency_of_Occurrence_Candi",
+  "screening_decision": "INCLUDE"
+ }
+]

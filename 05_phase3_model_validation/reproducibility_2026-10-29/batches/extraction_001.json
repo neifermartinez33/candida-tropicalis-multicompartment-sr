@@ -1,0 +1,62 @@
+[
+ {
+  "idx": 0,
+  "id": "O14366",
+  "stem": "1648_O14366_Extracellular_enzymes_and_adhesive_properties_of_medically_i",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 1,
+  "id": "O14063",
+  "stem": "3004_O14063_Correlation_between_Microdilution_E_test_and_Disk_Diffusion",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 2,
+  "id": "O03750",
+  "stem": "5355_O03750_Trends_in_antifungal_susceptibility_and_virulence_of_Candida",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 3,
+  "id": "O16700",
+  "stem": "5133_O16700_Non_albicans_Candida_T_rlerinin_Molek_ler_Tiplendirilmesi_ve",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 4,
+  "id": "O03896",
+  "stem": "2349_O03896_Disseminated_cryptococcosis_and_fluconazole_resistant_oral_c",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 5,
+  "id": "O18109",
+  "stem": "7285_O18109_Clinical_and_microbiological_profile_of_Candida_keratitis_A",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 6,
+  "id": "O10105",
+  "stem": "9619_O10105_Antifungal_susceptibility_pattern_of_Candida_species_isolate",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 7,
+  "id": "O12101",
+  "stem": "8949_O12101_Epidemiolog_a_y_susceptibilidad_antif_ngica_de_especies_caus",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 8,
+  "id": "O17183",
+  "stem": "2181_O17183_In_vitro_fluconazole_and_voriconazole_susceptibilities_of_Ca",
+  "screening_decision": "INCLUDE"
+ },
+ {
+  "idx": 9,
+  "id": "O05209",
+  "stem": "1075_O05209_Molecular_epidemiology_of_Candida_species_isolated_from_clin",
+  "screening_decision": "INCLUDE"
+ }
+]
