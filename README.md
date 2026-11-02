@@ -1,7 +1,7 @@
 # Candida tropicalis — multicompartment distribution and antifungal resistome
 
 Systematic review and meta-analysis of proportions.
-PROSPERO **CRD420261486387**, registered 2026-09-13. Data and code deposit: https://doi.org/10.5281/zenodo.23748223. Searches executed 2026-09-07 to 2026-09-12.
+PROSPERO **CRD420261486387**, registered 2026-09-13. Data and code deposit: https://doi.org/10.5281/zenodo.23748222. Searches executed 2026-09-07 to 2026-09-12.
 GIIM, Universidad de Córdoba (Montería, Colombia). First review of the series;
 *Acinetobacter baumannii* follows with the same skeleton as a sibling folder.
 
@@ -28,6 +28,7 @@ meta-analysis input `10_phase8_analysis/results/ma_input_v2_2026-10-30T133242.cs
 - Manuscripts: `12_documents/manuscript/v4_2026-10-30/plantilla/`, on the journal template.
 - Corrections after the FINAL run: RB5 and RB6 read from the verified rows for 36 reports, Table 2 with the corrected species
   identification, Table S13 with a Summary sheet, Table S14 without the Wanfang_Data row, and Table S17 added. This is release 1.1.0.
+  Release 1.1.1 adds changes_log.csv, clade4.csv and pending.csv of the final dataset, which were missing from 1.1.0, and removes a phase 1 decision record.
 - Manuscript drafts and the scripts that edit them are not in the repository; the scripts of the analysis chain, tables and
   figures are.
 - Superseded outputs, provisional runs, record exports and copies of full texts (1,660 files) moved out of the project to the
