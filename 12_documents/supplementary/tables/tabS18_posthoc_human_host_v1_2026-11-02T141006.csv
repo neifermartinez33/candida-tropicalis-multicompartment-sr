@@ -1,0 +1,50 @@
+compartment,agent,outcome,criterion,method,main_mean_pct,k,events_isolates,status,population_mean_pct,ci95,median_pct,tau2_upper_limit
+C1,amphotericin B,R,EUCAST,Reference broth microdilution,2.7,20,4/598,Not pooled: upper limit of τ² above 25,1.0,,0.4,27.7
+C1,anidulafungin,R,CLSI_SS,Reference broth microdilution,2.4,56,"36/3,962",Pooled,3.6,1.0–6.6,0.1,24.9
+C1,anidulafungin,R,EUCAST,Reference broth microdilution,11.1,18,31/647,Pooled,14.2,4.6–25.9,3.1,23.0
+C1,caspofungin,R,CLSI_SS,Reference broth microdilution,2.2,82,"54/2,566",Pooled,3.2,1.6–5.3,0.8,8.0
+C1,fluconazole,R,CLSI_SS+EUCAST,Reference broth microdilution,17.4,203,"926/9,342",Pooled,17.3,13.9–20.6,7.8,5.5
+C1,fluconazole,R,CLSI_pre2012,Reference broth microdilution,17.9,181,"554/5,532",Pooled,15.0,11.6–18.5,4.1,8.9
+C1,flucytosine,R,CLSI_pre2012,Reference broth microdilution,7.0,51,"158/1,614",Pooled,8.2,4.1–12.9,2.2,8.9
+C1,itraconazole,R,CLSI_pre2012,Reference broth microdilution,18.6,108,"319/3,150",Pooled,15.5,11.1–19.7,6.1,6.8
+C1,itraconazole,R,EUCAST,Reference broth microdilution,34.0,2,15/40,Not pooled: below the minimum condition,,,,
+C1,micafungin,R,CLSI_SS,Reference broth microdilution,1.9,59,"42/3,571",Pooled,3.2,1.4–5.8,0.6,10.1
+C1,posaconazole,R,EUCAST,Reference broth microdilution,39.7,8,210/872,Pooled,24.3,12.3–39.2,19.9,5.0
+C1,voriconazole,R,CLSI_SS,Reference broth microdilution,13.7,123,"486/6,570",Pooled,13.4,9.2–17.6,3.4,9.5
+C1,voriconazole,R,CLSI_pre2012,Reference broth microdilution,17.6,43,"111/2,026",Pooled,13.8,6.6–20.8,2.4,18.4
+C1,voriconazole,R,EUCAST,Reference broth microdilution,13.2,19,"139/1,292",Pooled,16.1,8.8–24.4,11.1,5.7
+C1,amphotericin B,NWT,ECV_CLSI,Method of the ECV,1.1,50,"13/2,665",Not pooled: upper limit of τ² above 25,1.7,,0.0,820.2
+C1,amphotericin B,NWT,ECV_CLSI,Sensititre YeastOne,1.1,30,"9/4,174",Not pooled: upper limit of τ² above 25,0.2,,0.2,inf
+C1,amphotericin B,NWT,ECV_CLSI,ATB FUNGUS,1.1,7,"8/3,201",Pooled,0.2,0.1–0.5,0.2,4.3
+C1,amphotericin B,NWT,ECV_CLSI,Gradient diffusion,1.1,4,2/202,Not pooled: below the minimum condition,,,,
+C1,amphotericin B,NWT,ECV_CLSI,VITEK 2,1.1,5,2/263,Not pooled: upper limit of τ² above 25,2.9,,0.5,134.4
+C1,amphotericin B,NWT,ECV_EUCAST,Method of the ECV,,1,0/73,Not pooled: below the minimum condition,,,,
+C1,amphotericin B,NWT,ECV_EUCAST,Sensititre YeastOne,,1,0/48,Not pooled: below the minimum condition,,,,
+C1,amphotericin B,NWT,ECV_EUCAST,ATB FUNGUS,,1,0/19,Not pooled: below the minimum condition,,,,
+C1,amphotericin B,NWT,ECV_EUCAST,Gradient diffusion,,1,0/11,Not pooled: below the minimum condition,,,,
+C1,fluconazole,NWT,ECV_CLSI,Method of the ECV,20.7,4,1/110,Not pooled: below the minimum condition,,,,
+C1,fluconazole,NWT,ECV_CLSI,Sensititre YeastOne,20.7,3,40/328,Not pooled: below the minimum condition,,,,
+C1,fluconazole,NWT,ECV_CLSI,ATB FUNGUS,20.7,2,"984/2,149",Not pooled: below the minimum condition,,,,
+C1,fluconazole,NWT,ECV_CLSI,Gradient diffusion,20.7,2,"65/1,159",Not pooled: below the minimum condition,,,,
+C1,fluconazole,NWT,ECV_EUCAST,Method of the ECV,14.9,4,38/270,Not pooled: below the minimum condition,,,,
+C1,fluconazole,NWT,ECV_EUCAST,Gradient diffusion,14.9,1,0/11,Not pooled: below the minimum condition,,,,
+C1,flucytosine,NWT,ECV_CLSI,Method of the ECV,4.2,4,3/138,Not pooled: below the minimum condition,,,,
+C1,flucytosine,NWT,ECV_CLSI,Sensititre YeastOne,4.2,16,"39/1,537",Pooled,5.3,1.9–11.3,2.4,7.4
+C1,flucytosine,NWT,ECV_CLSI,ATB FUNGUS,4.2,1,0/258,Not pooled: below the minimum condition,,,,
+C1,flucytosine,NWT,ECV_CLSI,VITEK 2,4.2,1,0/71,Not pooled: below the minimum condition,,,,
+C1,itraconazole,NWT,ECV_CLSI,Method of the ECV,18.2,37,"286/2,601",Pooled,16.5,9.3–24.0,6.4,10.2
+C1,itraconazole,NWT,ECV_CLSI,Sensititre YeastOne,18.2,20,"487/3,637",Pooled,14.1,8.9–20.4,11.3,2.3
+C1,itraconazole,NWT,ECV_CLSI,ATB FUNGUS,18.2,7,"629/2,988",Pooled,24.6,17.3–32.0,23.7,1.2
+C1,itraconazole,NWT,ECV_CLSI,Gradient diffusion,18.2,1,10/21,Not pooled: below the minimum condition,,,,
+C1,micafungin,NWT,ECV_CLSI,Method of the ECV,0.9,1,6/523,Not pooled: below the minimum condition,,,,
+C1,micafungin,NWT,ECV_CLSI,Sensititre YeastOne,0.9,4,0/368,Not pooled: below the minimum condition,,,,
+C1,micafungin,NWT,ECV_CLSI,Gradient diffusion,0.9,1,8/504,Not pooled: below the minimum condition,,,,
+C1,micafungin,NWT,ECV_EUCAST,Method of the ECV,1.5,6,6/375,Pooled,1.6,0.5–3.1,1.6,1.9
+C1,micafungin,NWT,ECV_EUCAST,Gradient diffusion,1.5,1,0/11,Not pooled: below the minimum condition,,,,
+C1,posaconazole,NWT,ECV_CLSI,Method of the ECV,36.0,19,"250/1,320",Pooled,25.4,11.7–39.4,9.9,21.8
+C1,posaconazole,NWT,ECV_CLSI,Sensititre YeastOne,36.0,24,"2,365/3,880",Pooled,48.3,37.3–59.5,47.6,4.4
+C1,posaconazole,NWT,ECV_CLSI,Gradient diffusion,36.0,1,1/20,Not pooled: below the minimum condition,,,,
+C1,voriconazole,NWT,ECV_CLSI,Method of the ECV,27.0,6,41/205,Not pooled: upper limit of τ² above 25,25.7,,7.3,178.4
+C1,voriconazole,NWT,ECV_CLSI,Sensititre YeastOne,27.0,3,36/328,Not pooled: below the minimum condition,,,,
+C1,voriconazole,NWT,ECV_CLSI,ATB FUNGUS,27.0,2,"1,045/2,148",Not pooled: below the minimum condition,,,,
+C1,voriconazole,NWT,ECV_CLSI,Gradient diffusion,27.0,2,48/897,Not pooled: below the minimum condition,,,,

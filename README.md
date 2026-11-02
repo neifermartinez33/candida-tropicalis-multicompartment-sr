@@ -29,6 +29,7 @@ meta-analysis input `10_phase8_analysis/results/ma_input_v2_2026-10-30T133242.cs
 - Corrections after the FINAL run: RB5 and RB6 read from the verified rows for 36 reports, Table 2 with the corrected species
   identification, Table S13 with a Summary sheet, Table S14 without the Wanfang_Data row, and Table S17 added. This is release 1.1.0.
   Release 1.1.1 adds changes_log.csv, clade4.csv and pending.csv of the final dataset, which were missing from 1.1.0, and removes a phase 1 decision record.
+  Release 1.2.0 adds the analyses that were not prespecified (SX4 to SX11 and estimates by WHO region; scripts 70 to 73, Tables S18 to S20 and version 8 of Table S12).
 - Manuscript drafts and the scripts that edit them are not in the repository; the scripts of the analysis chain, tables and
   figures are.
 - Superseded outputs, provisional runs, record exports and copies of full texts (1,660 files) moved out of the project to the

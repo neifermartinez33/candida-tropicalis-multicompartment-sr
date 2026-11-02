@@ -1,0 +1,8 @@
+compartment,agent,outcome,criterion,main_status,main_mean_pct,k,events_isolates,status,population_mean_pct,ci95,median_pct,tau2_upper_limit
+C2,fluconazole,R,CLSI_SS+EUCAST,Pooled,43.6,8,75/148,Not pooled: upper limit of τ² above 25,42.7,,34.8,61.6
+C2,fluconazole,R,CLSI_pre2012,Not pooled: upper limit of τ² above 25,29.0,13,54/107,Not pooled: upper limit of τ² above 25,31.6,,12.7,84.6
+C2,itraconazole,R,CLSI_pre2012,Pooled,45.9,10,77/138,Not pooled: upper limit of τ² above 25,48.5,,47.1,39.9
+C2,voriconazole,R,CLSI_pre2012,Not pooled: upper limit of τ² above 25,9.4,5,2/37,Not pooled: upper limit of τ² above 25,9.4,,0.4,5400.1
+C6,fluconazole,R,CLSI_SS+EUCAST,Pooled,52.0,5,47/105,Not pooled: upper limit of τ² above 25,45.6,,42.9,31.9
+C6,fluconazole,R,CLSI_pre2012,Not pooled: upper limit of τ² above 25,39.2,4,6/15,Not pooled: below the minimum condition,,,,
+C6,itraconazole,R,CLSI_pre2012,Pooled,55.3,4,42/74,Not pooled: below the minimum condition,,,,
